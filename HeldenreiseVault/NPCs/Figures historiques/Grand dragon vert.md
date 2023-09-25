@@ -7,7 +7,7 @@ tags:
   - divin-vert
 ---
 
-![[shenron.webp]]
+![[dragon-vert.webp]]
 
 
 Grand dragon de la terre. 

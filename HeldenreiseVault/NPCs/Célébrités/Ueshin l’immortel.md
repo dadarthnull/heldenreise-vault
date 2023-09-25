@@ -1,7 +1,14 @@
-# Ueshin l’immortel
+---
+tags:
+  - celebrite
+  - NPC
+  - quetes
+  - ueshin
+name: ueshin immortel
+type: npc
+npc-type: donneur-quete
+---
 
-Tags: Caractère historique
-Last Edited: March 22, 2023 12:54 PM
 
 Ueshin est un personnage de légendes. Les détails de son histoire varient selon les régions mais les grandes lignes restent constantes.
 

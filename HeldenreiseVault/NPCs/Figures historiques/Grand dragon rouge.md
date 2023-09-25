@@ -9,7 +9,7 @@ tags:
 
 
 
-![[dcmtszo-e88b7938-effb-4478-b20f-b98dc2533d1b.jpeg]]
+![[dragon-rouge.jpeg]]
 
 Grand dragon du feu et de la guerre.
 

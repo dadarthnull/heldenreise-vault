@@ -6,7 +6,7 @@ tags:
   - dragon-blanc
   - divin-blanc
 ---
-![[studio-ghibli-spirited-away-anime-white-wallpaper-preview.jpeg]]
+![[dragon-blanc.jpeg]]
 
 
 ## Dragon de la vie.

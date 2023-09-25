@@ -7,7 +7,7 @@ tags:
   - NPC
 ---
 
-![[catie-hulett-silver-tragon-wind-spiral-wm.jpeg]]
+![[dragon-argent.jpeg]]
 
 Grand dragon du vent et de la magie.
 

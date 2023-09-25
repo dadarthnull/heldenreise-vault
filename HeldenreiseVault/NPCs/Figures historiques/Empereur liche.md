@@ -7,7 +7,7 @@ tags:
   - opposition
 ---
 
-![[vecna_by_maradraws_dcj5utv-fullview.webp]]
+![[empereur-liche.webp]]
 ## Empereur Liche
 
 Dernier haut empereur de l’empire elfe, devenu une liche. Son nom est perdu.

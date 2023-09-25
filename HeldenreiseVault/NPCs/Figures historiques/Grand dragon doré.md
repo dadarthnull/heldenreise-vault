@@ -9,7 +9,7 @@ tags:
 
 
 
-![[tumblr_p0kirh16Ta1rp379uo1_1280.png]]
+![[dragon-or.png]]
 
 Grand dragon du soleil.
 

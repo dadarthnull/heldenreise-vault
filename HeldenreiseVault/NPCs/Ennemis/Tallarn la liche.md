@@ -9,7 +9,7 @@ tags:
   - opposition
 ---
 
-![[Lich_King.webp]]
+![[tallarn-liche.webp]]
 
 De son vrai nom Maximilien Tallarn IV. Dernier empereur Tallarn, demi elfe devenu une liche.
 

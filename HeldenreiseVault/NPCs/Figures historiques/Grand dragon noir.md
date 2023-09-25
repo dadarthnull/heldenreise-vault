@@ -7,7 +7,7 @@ tags:
   - divin-noir
 ---
 
-![[kuro__isekai_shokudou__1_by_nomad1533_dd28fnu-pre.jpeg]]
+![[dragon-noir.jpeg]]
 
 
 Grand dragon de la mort et de la nuit.

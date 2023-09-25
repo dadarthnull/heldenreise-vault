@@ -6,7 +6,7 @@ tags:
   - dragon-bleu
   - NPC
 ---
-![[490187_43f48.png]]
+![[dragon-bleu.png]]
 
 Grand dragon de l’eau et du savoir.
 
