@@ -6,6 +6,7 @@ era: grande-guerre
 Ref: "1.9"
 date: ???
 ---
+![[victoire-dragons.webp]]
 
 Après des millénaires de luttes à travers le multivers. Après la mort de nombre d’entre eux, les 7 derniers dragons ancestraux finissent par unir leurs essences et détruire le grand ennemi. Le grand dévoreur, l’ennemi aux mille formes et mille couleurs.
 

@@ -10,6 +10,7 @@ Niveau: "17"
 Classes: Sorcerer
 ---
 
+![[mira-miralin.webp]]
 
 Mira Miralin est une héroïne haut elfe célèbre. Surnommée la sorcière aux anneaux d’argent ou le 3e maître du savoir, elle est adorée de ses alliés et crainte par ses ennemis.
 

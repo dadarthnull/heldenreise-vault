@@ -10,7 +10,7 @@ Classes: Invoker
 Niveau: "20"
 era: âge des héros
 ---
-
+![[opus-kettelheimer.webp]]
 
 Opus Kettelheimer est un aventurier tiefelin très célèbre. Il a gagné les surnoms d’Hannibal Barca d’Eisendom, seigneur du meurtre et de la malice, l’invocateur fou, et 12e maître du savoir.
 

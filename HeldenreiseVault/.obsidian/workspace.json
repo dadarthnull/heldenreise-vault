@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c28909d8a5cb31",
+        "id": "55b1dd5c9ec83919",
         "type": "tabs",
         "children": [
           {
-            "id": "cbefdc07797f5c63",
+            "id": "f359ca541e29866f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/aquilonia.jpeg"
-              }
-            }
-          },
-          {
-            "id": "569bf324445a05ee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/2536368.webp"
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/2536368.webp",
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/2536368.webp",
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/2536368.webp"
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md"
               }
             }
           },
@@ -174,12 +165,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "f359ca541e29866f",
   "lastOpenFiles": [
-    "Assets/falkenstadt.jpeg",
-    "Assets/966564-fantasy-architecture-fantasy-art-fantasy-city-concept-art.jpeg",
-    "NPCs/Patrons/Opus Kettelheimer.md",
+    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
+    "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "NPCs/Patrons/Mira Miralin.md",
+    "Assets/mira-miralin.webp",
+    "NPCs/Patrons/Opus Kettelheimer.md",
+    "Assets/creation-personnages-page-3.png",
+    "Assets/Untitled-2.png",
+    "Assets/Untitled.png",
+    "Assets/creation-personnages-page-2.png",
+    "Assets/creation-personnage-page-1.png",
+    "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Victoire contre le grand ennemi.md",
+    "Assets/victoire-dragons.webp",
+    "Assets/opus-kettelheimer.webp",
+    "Assets/Heldenreise_-_economie_dactions_(2).pdf",
+    "Assets/IMG_0243.jpg",
+    "Assets/falkenstadt.jpeg",
     "NPCs/Figures historiques/Trazayuya le Sage.md",
     "NPCs/Figures historiques/Grand dragon vert.md",
     "NPCs/Figures historiques/Grand dragon rouge.md",
@@ -200,20 +204,7 @@
     "Histoire d'Heldenreise/3. L'empire elfe/L’empire elfe se prépare en envahir les autres continents.md",
     "Histoire d'Heldenreise/3. L'empire elfe/Construction des tours arcaniques.md",
     "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Arrivée des humanoïdes.md",
-    "Histoire d'Heldenreise/2. La colonisation des trois continents/Supremacie humaine à l’ouest.md",
-    "Histoire d'Heldenreise/2. La colonisation des trois continents/Naissance des races monstrueuses.md",
-    "Histoire d'Heldenreise/2. La colonisation des trois continents/Exil du dragon noir.md",
-    "Assets/dragon-rouge.jpeg",
-    "Assets/dragons-grand-ennemi.jpeg",
-    "Assets/aquilonia.jpeg",
-    "Assets/b3db5298fba777e3372de40c061b6dbc 1.jpeg",
-    "Assets/flammendrache.webp",
-    "Assets/karskin.webp",
-    "Assets/eisenzitadelle.webp",
-    "Assets/dragon-argent.jpeg",
-    "Assets/helsp.jpeg",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
-    "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
     "Géographie d'Heldenreise/Inconnu",
