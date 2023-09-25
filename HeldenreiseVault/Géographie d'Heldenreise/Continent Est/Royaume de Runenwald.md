@@ -11,7 +11,7 @@ name: runenwald
 
 Les druides de ce royaume sont célèbres pour leur maîtrise des sorts de guérison, et leurs potions et onguents sont recherchés dans tout le monde magique. Plusieurs forêts du royaume abritent des colonies d’elfes sauvages.
 
-Capitale : 
+Capitale : [[Wurzelhain]]
 
 Couleur associée : Vert émeraude, la couleur de la forêt magique qui couvre une grande partie de ce royaume, ainsi que de la magie de la nature pratiquée par les druides.
 

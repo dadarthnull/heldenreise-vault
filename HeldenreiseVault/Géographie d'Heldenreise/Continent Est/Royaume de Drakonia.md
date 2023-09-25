@@ -13,6 +13,6 @@ Drakonia - Les habitants de ce royaume sont connus pour leur capacité à domest
 
 Le royaume est situé à l’Est et es très montagneux.
 
-Capitale : 
+Capitale :  [[Flammendrache]]
 
 Couleur associée : Rouge écarlate, la couleur des écailles des drakes de feu qui sont vénérés dans ce royaume.

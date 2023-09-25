@@ -10,4 +10,6 @@ type: city
 name: flammendrache
 ---
 
+![[Lindblum.webp]]
+
 Capitale du royaume de Drakonia
