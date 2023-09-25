@@ -1,4 +1,16 @@
+---
+tags:
+  - lieux
+  - continent-est
+  - royaume:cadia
+  - terres-desolees
+continent: est
+royaume: Cadia
+type: region
+---
 
+
+![[41229.webp]]
 
 Le culte des anciens dieux s'était propagé sur tout le continent Est mais son berceau, la région Nord Ouest de l'empire de Cadia devint occupé presque exclusivement par ses fidèles transformés en démons.
 
