@@ -5,6 +5,7 @@ tags:
   - royaume:cadia
   - karskin
   - terres-desolees
+  - city
 continent: est
 royaume: Cadia
 type: city

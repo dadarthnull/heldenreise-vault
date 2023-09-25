@@ -4,6 +4,7 @@ tags:
   - continent-est
   - royaume:falkenreich
   - krakenholdt
+  - city
 continent: est
 royaume: falkenreich
 type: city

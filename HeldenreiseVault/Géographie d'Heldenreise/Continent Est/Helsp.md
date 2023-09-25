@@ -5,6 +5,7 @@ tags:
   - royaume:cadia
   - helsp
   - terres-desolees
+  - city
 continent: est
 royaume: Cadia
 type: city

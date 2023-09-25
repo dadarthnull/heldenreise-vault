@@ -4,6 +4,8 @@ tags:
   - continent-est
   - royaume:eisendom
   - eisenzitadelle
+  - city
+  - capitale
 continent: est
 royaume: Eisendom
 type: city

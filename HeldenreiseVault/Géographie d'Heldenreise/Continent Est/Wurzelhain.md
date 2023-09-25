@@ -4,6 +4,8 @@ tags:
   - continent-est
   - royaume:eisendom
   - runenwald
+  - city
+  - capitale
 continent: est
 royaume: Runenwald
 type: city

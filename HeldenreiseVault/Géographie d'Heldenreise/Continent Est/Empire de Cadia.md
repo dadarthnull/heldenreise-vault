@@ -8,4 +8,4 @@ royaume: cadia
 type: royaume
 name: cadia
 ---
-
+Capitale: 

@@ -4,6 +4,8 @@ tags:
   - continent-est
   - royaume:falkenreich
   - falkenstadt
+  - city
+  - capitale
 continent: est
 royaume: falkenreich
 type: city

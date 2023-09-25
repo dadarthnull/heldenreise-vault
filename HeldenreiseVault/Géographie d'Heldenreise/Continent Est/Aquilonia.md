@@ -4,6 +4,8 @@ tags:
   - continent-est
   - royaume:norhaven
   - aquilonia
+  - city
+  - capitale
 continent: est
 royaume: norhaven
 type: city
