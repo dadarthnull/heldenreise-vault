@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Gazette.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "569bf324445a05ee",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/dcmtvbg-c35a4343-4107-42b2-83a0-a00c8ac54a61.jpeg"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Gazette.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Gazette.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Gazette.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md"
               }
             }
           },
@@ -167,20 +177,30 @@
   },
   "active": "cbefdc07797f5c63",
   "lastOpenFiles": [
-    "heldenreise-continent-est.jpg",
-    "Géographie d'Heldenreise/Continent Est/Tanith.md",
-    "9a785e3872fa193143e10f962b4f5164.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Helsp.md",
-    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
-    "Géographie d'Heldenreise/Continent Est/Karskin.md",
     "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
+    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+    "falkenstadt.jpeg",
+    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
+    "Assets/dcmtvbg-c35a4343-4107-42b2-83a0-a00c8ac54a61.jpeg",
+    "Assets/Demon%27s_Realm.webp",
+    "Assets/eisenzitadelle.webp",
+    "Assets/aquilonia.jpeg",
+    "Assets/dcmtszo-e88b7938-effb-4478-b20f-b98dc2533d1b.jpeg",
+    "Assets/catie-hulett-silver-tragon-wind-spiral-wm.jpeg",
+    "Assets/c9acd570a289defbe16d4d9b443a1d44.jpeg",
+    "Assets/b3db5298fba777e3372de40c061b6dbc 1.jpeg",
+    "Assets/2536368.webp",
+    "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
+    "Géographie d'Heldenreise/Continent Est/Pyra.md",
+    "Géographie d'Heldenreise/Continent Est/Gazette.md",
+    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+    "Géographie d'Heldenreise/Continent Est/Tanith.md",
+    "Géographie d'Heldenreise/Continent Est/Helsp.md",
+    "Géographie d'Heldenreise/Continent Est/Karskin.md",
     "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
     "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
-    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
-    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
-    "Géographie d'Heldenreise/Continent Est/Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
-    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
     "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Norhaven.md",
@@ -188,21 +208,10 @@
     "Géographie d'Heldenreise/Continent Est/Royaume de Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Drakonia.md",
     "Géographie d'Heldenreise/Continent Est/Royaume d’Helvengard.md",
-    "Assets/1-1658436585765.jpeg",
-    "Assets/1-castle-never-1674180751082.jpeg",
-    "Assets/b3db5298fba777e3372de40c061b6dbc 1.jpeg",
-    "Assets/b3db5298fba777e3372de40c061b6dbc.jpeg",
-    "Assets/966564-fantasy-architecture-fantasy-art-fantasy-city-concept-art.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Gazette.md",
-    "Assets/3e128b6aa72a0a8fe09d11ed834b52bb.jpeg",
     "NPCs/Ennemis/Tallarn la liche.md",
     "NPCs/Figures historiques/Empereur liche.md",
-    "Assets/Lich_King.webp",
     "NPCs/Figures historiques/Grand dragon bleu.md",
     "NPCs/Figures historiques/Tallarn la liche.md",
-    "NPCs/Figures historiques/Grand dragon noir.md",
-    "Assets/21648c023d4fbda7999dcbfcb09920f5.jpeg",
-    "Assets/Demon%27s_Realm.webp",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Le jugement de la lumière",

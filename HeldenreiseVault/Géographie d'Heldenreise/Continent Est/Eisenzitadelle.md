@@ -10,7 +10,7 @@ type: city
 name: eisenzitadelle
 ---
 
-![[fantasy-castle-2-1024x576.webp]]
+![[eisenzitadelle.webp]]
 
 Eisenzitadelle est la forteresse principale d'Helvengard. Taillée dans la montagne elle-même, cette citadelle est considérée comme l'une des constructions les plus impressionnantes et les plus imprenables du continent.
 

@@ -11,5 +11,6 @@ royaume: falkenreich
 type: city
 name: falkenstadt
 ---
+![[falkenstadt.jpeg]]
 
 Capitale du [[Royaume de Drakonia]].
