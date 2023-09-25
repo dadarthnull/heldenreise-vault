@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md"
               }
             }
           },
@@ -167,9 +167,12 @@
   },
   "active": "f359ca541e29866f",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
+    "Géographie d'Heldenreise/Continent Est/Umdt.md",
+    "mordinburg.jpeg",
+    "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
     "luggnumstadt.jpeg",
     "Assets/cadia.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
     "Géographie d'Heldenreise/Continent Est/Krieg.md",
     "Assets/forteresse-krieg.jpeg",
     "Géographie d'Heldenreise/Continent Est/Katashan.md",
@@ -198,12 +201,9 @@
     "Assets/Untitled-2.png",
     "Assets/Untitled.png",
     "Assets/creation-personnages-page-2.png",
-    "Assets/creation-personnage-page-1.png",
     "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Victoire contre le grand ennemi.md",
-    "Assets/victoire-dragons.webp",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "NPCs/Figures historiques/Trazayuya le Sage.md",
-    "NPCs/Figures historiques/Grand dragon vert.md",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
