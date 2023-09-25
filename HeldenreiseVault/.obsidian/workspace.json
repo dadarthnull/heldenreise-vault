@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Umdt.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md"
               }
             }
           },
@@ -167,8 +167,12 @@
   },
   "active": "f359ca541e29866f",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
+    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
+    "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
+    "bar-al-khazad.jpeg",
     "Géographie d'Heldenreise/Continent Est/Umdt.md",
+    "umdt.jpeg",
+    "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
     "mordinburg.jpeg",
     "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
     "luggnumstadt.jpeg",
@@ -199,11 +203,7 @@
     "NPCs/Patrons/Opus Kettelheimer.md",
     "Assets/creation-personnages-page-3.png",
     "Assets/Untitled-2.png",
-    "Assets/Untitled.png",
-    "Assets/creation-personnages-page-2.png",
-    "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Victoire contre le grand ennemi.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
-    "NPCs/Figures historiques/Trazayuya le Sage.md",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",

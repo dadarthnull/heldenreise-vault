@@ -3,15 +3,14 @@ tags:
   - lieux
   - continent-est
   - royaume:nains
-  - tanith
-  - terres-desolees
+  - umd
   - city
 continent: est
-royaume: Cadia
+royaume: nains
 type: city
-name: tanith
+name: umdt
 ---
 
-![[tanith.jpeg]]
+![[umdt.jpeg]]
 
-Ville militaire fortifiée, ville sous contrôle imperial la plus proche des terres désolée, dernier rempart contre les armées du roi démon.
+Cette cité naine du nord-est du haut désert est réputée pour ses féroces combattants et sa guerre interminable contre des démons vivants sous les montagnes.
