@@ -15,9 +15,9 @@ Les dragons ancestraux décident de faire de ce monde leur domaine, en souvenir 
 
 Les 7 grands dragons ancestraux sont:
 - [[Le grand dragon blanc]]
-- [[Le grand dragon noir]]
+- [[Grand dragon noir]]
 - [[Le grand dragon bleu]]
-- [[Le grand dragon vert]]
-- [[Le grand dragon rouge]]
-- [[Le grand dragon d’argent]]
-- [[Le grand dragon doré]]
+- [[Grand dragon vert]]
+- [[Grand dragon rouge]]
+- [[Grand dragon d’argent]]
+- [[Grand dragon doré]]

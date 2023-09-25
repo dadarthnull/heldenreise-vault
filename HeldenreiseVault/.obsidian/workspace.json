@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md"
+                "file": "NPCs/Figures historiques/Le grand dragon bleu.md"
               }
             }
           },
@@ -167,20 +167,26 @@
   },
   "active": "cbefdc07797f5c63",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Le royaume d’Helvengard.md",
-    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+    "NPCs/Figures historiques/Grand dragon d’argent.md",
+    "NPCs/Figures historiques/Le grand dragon blanc.md",
+    "NPCs/Figures historiques/Grand dragon doré.md",
+    "NPCs/Figures historiques/Grand dragon rouge.md",
+    "NPCs/Figures historiques/Grand dragon noir.md",
+    "NPCs/Figures historiques/Grand dragon vert.md",
     "Géographie d'Heldenreise/Continent Est/Gazette.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
+    "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume d’Helvengard.md",
+    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Falkenreich.md",
     "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Assets/21648c023d4fbda7999dcbfcb09920f5.jpeg",
     "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
     "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
-    "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Norhaven.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Drakonia.md",
-    "Géographie d'Heldenreise/Continent Est/Les terres désolées.md",
     "Géographie d'Heldenreise/Continent Est/Karskin.md",
     "Assets/Demon%27s_Realm.webp",
     "Géographie d'Heldenreise/Continent Est/Helsp.md",
@@ -198,12 +204,6 @@
     "Histoire d'Heldenreise/6. L' âge des héros/L’arrivée des héros.md",
     "Histoire d'Heldenreise/6. L' âge des héros/La première grande guerre.md",
     "Histoire d'Heldenreise/6. L' âge des héros/Ouverture de la route vers l’ouest.md",
-    "Histoire d'Heldenreise/6. L' âge des héros/Découverte de la 13e tour arcanique 4488d537f30c453e81c602f227de8c60.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/Le jugement de la lumière.md",
-    "Histoire d'Heldenreise/5. Les sept royaumes/Les vents magiques.md",
-    "Histoire d'Heldenreise/5. Les sept royaumes/Les 7 royaumes.md",
-    "Histoire d'Heldenreise/5. Les sept royaumes/L’empire Cadien.md",
-    "Histoire d'Heldenreise/5. Les sept royaumes/Chute de l’empire cadien.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
