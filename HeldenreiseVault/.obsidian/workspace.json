@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Schwarnende.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md"
               }
             }
           },
@@ -167,8 +167,12 @@
   },
   "active": "f359ca541e29866f",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
+    "Géographie d'Heldenreise/Continent Est/Glassensee.md",
+    "Géographie d'Heldenreise/Continent Est/Armelia.md",
+    "glassensee.jpeg",
     "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
+    "schwarnende.jpeg",
+    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
     "bar-al-khazad.jpeg",
     "Géographie d'Heldenreise/Continent Est/Umdt.md",
     "umdt.jpeg",
@@ -198,11 +202,7 @@
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
     "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
-    "NPCs/Patrons/Mira Miralin.md",
     "Assets/mira-miralin.webp",
-    "NPCs/Patrons/Opus Kettelheimer.md",
-    "Assets/creation-personnages-page-3.png",
-    "Assets/Untitled-2.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
