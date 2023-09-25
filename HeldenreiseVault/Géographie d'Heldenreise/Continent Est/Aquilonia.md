@@ -12,7 +12,7 @@ type: city
 name: aquiloniq
 ---
 
-![[b3db5298fba777e3372de40c061b6dbc 1.jpeg]]
+![[aquilonia.jpeg]]
 
 
 Capitale du [[Royaume de Norhaven]]

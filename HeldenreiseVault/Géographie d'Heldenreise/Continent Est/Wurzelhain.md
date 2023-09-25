@@ -11,7 +11,7 @@ royaume: Runenwald
 type: city
 name: wurzenhain
 ---
-![[21648c023d4fbda7999dcbfcb09920f5.jpeg]]
+![[wurzelhain.jpeg]]
 La capitale de Runenwald est Wurzelhain, une ville magique nichée dans une vaste forêt de chênes centenaires. La ville est principalement construite en bois, avec des bâtiments élancés et élégants qui se fondent harmonieusement dans le paysage naturel de la forêt. Les rues sont pavées de pierres d'un gris doux, et les lumières qui éclairent la ville la nuit sont des lanternes magiques qui illuminent doucement les bâtiments et les rues.
 
 Wurzelhain est principalement habitée par des druides et des mages, qui utilisent leur maîtrise de la nature pour faire prospérer la ville et ses environs. Les rivières qui traversent la ville sont cristallines, et les jardins sont luxuriants et regorgent de plantes médicinales et de fleurs exotiques. Les habitants de Wurzelhain sont également connus pour leur artisanat, en particulier leurs potions et leurs onguents, qui sont recherchés dans tout le monde fantastique pour leur pouvoir de guérison.

@@ -11,7 +11,7 @@ royaume: Cadia
 type: city
 name: karskin
 ---
-![[Demon%27s_Realm.webp]]
+![[karskin.webp]]
 Ancienne cité commerciale de l'empire de Cadia, connue pour son grand port sur le lac Silberhagen.
 Après l'avênement du roi démon, presque toute la population fut transformée en homme bêtes, avec de nombreux amphibiens.
 

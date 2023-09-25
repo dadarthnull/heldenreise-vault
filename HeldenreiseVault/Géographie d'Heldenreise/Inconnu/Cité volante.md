@@ -1,7 +1,15 @@
-# La cité volante
-
-Tags: Location
-Last Edited: April 8, 2023 12:48 PM
+---
+tags:
+  - lieux
+  - legende
+  - empire-elfe
+  - haut-elfe
+  - inconnu
+continent: est
+royaume: haut-elfe
+type: city
+name: cite volante
+---
 
 Une rumeur persiste depuis la chute de l’empire elfe. Il existerait une cité volante, cachée par une puissante magie, abritant les derniers haut elfes. 
 

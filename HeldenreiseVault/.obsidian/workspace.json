@@ -11,11 +11,9 @@
             "id": "cbefdc07797f5c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
-                "mode": "source",
-                "source": true
+                "file": "Assets/aquilonia.jpeg"
               }
             }
           },
@@ -23,13 +21,16 @@
             "id": "569bf324445a05ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/dcmtvbg-c35a4343-4107-42b2-83a0-a00c8ac54a61.jpeg"
+                "file": "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Les dragons ancestraux combattent le grand ennemi.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+                "file": "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Les dragons ancestraux combattent le grand ennemi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+                "file": "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Les dragons ancestraux combattent le grand ennemi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Falkenstadt.md"
+                "file": "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Les dragons ancestraux combattent le grand ennemi.md"
               }
             }
           },
@@ -175,31 +176,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cbefdc07797f5c63",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
-    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
-    "falkenstadt.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
-    "Assets/dcmtvbg-c35a4343-4107-42b2-83a0-a00c8ac54a61.jpeg",
-    "Assets/Demon%27s_Realm.webp",
-    "Assets/eisenzitadelle.webp",
-    "Assets/aquilonia.jpeg",
-    "Assets/dcmtszo-e88b7938-effb-4478-b20f-b98dc2533d1b.jpeg",
-    "Assets/catie-hulett-silver-tragon-wind-spiral-wm.jpeg",
-    "Assets/c9acd570a289defbe16d4d9b443a1d44.jpeg",
-    "Assets/b3db5298fba777e3372de40c061b6dbc 1.jpeg",
-    "Assets/2536368.webp",
-    "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Arrivée des humanoïdes.md",
+    "Factions/Les maîtres du savoir.md",
+    "Géographie d'Heldenreise/Inconnu/Cité volante.md",
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
-    "Géographie d'Heldenreise/Continent Est/Pyra.md",
-    "Géographie d'Heldenreise/Continent Est/Gazette.md",
-    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
-    "Géographie d'Heldenreise/Continent Est/Tanith.md",
-    "Géographie d'Heldenreise/Continent Est/Helsp.md",
-    "Géographie d'Heldenreise/Continent Est/Karskin.md",
     "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
+    "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
+    "Géographie d'Heldenreise/Continent Est/Tanith.md",
     "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
     "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
@@ -208,10 +193,27 @@
     "Géographie d'Heldenreise/Continent Est/Royaume de Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Drakonia.md",
     "Géographie d'Heldenreise/Continent Est/Royaume d’Helvengard.md",
+    "Géographie d'Heldenreise/Continent Est/Pyra.md",
+    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+    "Géographie d'Heldenreise/Continent Est/Karskin.md",
+    "Géographie d'Heldenreise/Continent Est/Helsp.md",
+    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
+    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
+    "Géographie d'Heldenreise/Continent Est/Gazette.md",
+    "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Assets/aquilonia.jpeg",
+    "Assets/dragons-grand-ennemi.jpeg",
+    "Assets/b3db5298fba777e3372de40c061b6dbc 1.jpeg",
+    "Assets/flammendrache.webp",
+    "falkenstadt.jpeg",
+    "Assets/karskin.webp",
+    "Assets/eisenzitadelle.webp",
+    "Assets/dcmtszo-e88b7938-effb-4478-b20f-b98dc2533d1b.jpeg",
+    "Assets/catie-hulett-silver-tragon-wind-spiral-wm.jpeg",
+    "Assets/helsp.jpeg",
     "NPCs/Ennemis/Tallarn la liche.md",
-    "NPCs/Figures historiques/Empereur liche.md",
-    "NPCs/Figures historiques/Grand dragon bleu.md",
-    "NPCs/Figures historiques/Tallarn la liche.md",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Le jugement de la lumière",
