@@ -6,6 +6,7 @@ tags:
 continent: est
 royaume: Drakonia
 type: royaume
+name: drakonia
 ---
 
 Drakonia - Les habitants de ce royaume sont connus pour leur capacité à domestiquer et à monter des drakes de feu, qui sont considérés comme des animaux de compagnie et des montures de prestige. 

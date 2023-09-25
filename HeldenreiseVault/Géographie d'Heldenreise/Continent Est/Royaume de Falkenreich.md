@@ -6,6 +6,7 @@ tags:
 continent: est
 royaume: Falkenreich
 type: royaume
+name: falkenreich
 ---
 
 Ce royaume est gouverné par une caste de nobles guerriers connus sous le nom de "faucons", qui se spécialisent dans le combat à cheval.

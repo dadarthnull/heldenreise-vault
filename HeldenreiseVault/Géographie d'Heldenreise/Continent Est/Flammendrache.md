@@ -7,6 +7,7 @@ tags:
 continent: est
 royaume: Drakonia
 type: city
+name: flammendrache
 ---
 
 Capitale du royaume de Drakonia

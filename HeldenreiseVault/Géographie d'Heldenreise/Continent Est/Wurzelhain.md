@@ -7,6 +7,7 @@ tags:
 continent: est
 royaume: Runenwald
 type: city
+name: wurzenhain
 ---
 
 La capitale de Runenwald est Wurzelhain, une ville magique nichée dans une vaste forêt de chênes centenaires. La ville est principalement construite en bois, avec des bâtiments élancés et élégants qui se fondent harmonieusement dans le paysage naturel de la forêt. Les rues sont pavées de pierres d'un gris doux, et les lumières qui éclairent la ville la nuit sont des lanternes magiques qui illuminent doucement les bâtiments et les rues.

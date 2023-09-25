@@ -6,6 +6,7 @@ tags:
 continent: est
 royaume: Eisendom
 type: royaume
+name: eisendom
 ---
 
 Les forgerons de ce royaume sont réputés pour leur art, et leurs armes et armures sont considérées comme les meilleures du monde. Situé au Sud Est, les artisans du royaumes ont de bonnes relations avec les artisans nains et connaissent certains de leurs secrets.

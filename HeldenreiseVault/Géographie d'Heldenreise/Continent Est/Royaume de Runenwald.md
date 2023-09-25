@@ -6,6 +6,7 @@ tags:
 continent: est
 royaume: Runenwald
 type: royaume
+name: runenwald
 ---
 
 Les druides de ce royaume sont célèbres pour leur maîtrise des sorts de guérison, et leurs potions et onguents sont recherchés dans tout le monde magique. Plusieurs forêts du royaume abritent des colonies d’elfes sauvages.

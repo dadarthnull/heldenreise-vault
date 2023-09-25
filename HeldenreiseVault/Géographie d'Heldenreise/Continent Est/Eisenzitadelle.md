@@ -7,6 +7,7 @@ tags:
 continent: est
 royaume: Helvengard
 type: city
+name: eisenzitadelle
 ---
 
 ![[fantasy-castle-2-1024x576.webp]]
