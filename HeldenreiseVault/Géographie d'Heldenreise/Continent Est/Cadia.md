@@ -7,7 +7,10 @@ tags:
   - city
   - capitale
 continent: est
-royaume: Helvengard
+royaume: cadia
 type: city
 name: cadia-city
 ---
+![[cadia.jpeg]]
+
+
