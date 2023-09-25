@@ -11,15 +11,26 @@
             "id": "f359ca541e29866f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/armelia.jpeg"
+              }
+            }
+          },
+          {
+            "id": "5fdd31f8e23cb0bc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
+                "file": "templates.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
+                "file": "templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md",
+                "file": "templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Armelia.md"
+                "file": "templates.md"
               }
             }
           },
@@ -165,21 +176,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f359ca541e29866f",
+  "active": "5fdd31f8e23cb0bc",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Glassensee.md",
+    "Assets/armelia.jpeg",
+    "templates.md",
+    "Secrets et indices/Secrets de campagne.md",
     "Géographie d'Heldenreise/Continent Est/Armelia.md",
-    "glassensee.jpeg",
+    "Géographie d'Heldenreise/Continent Est/Glassensee.md",
+    "Assets/glassensee.jpeg",
     "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
-    "schwarnende.jpeg",
+    "Assets/schwarnende.jpeg",
     "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
-    "bar-al-khazad.jpeg",
+    "Assets/bar-al-khazad.jpeg",
     "Géographie d'Heldenreise/Continent Est/Umdt.md",
-    "umdt.jpeg",
+    "Assets/umdt.jpeg",
     "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
-    "mordinburg.jpeg",
+    "Assets/mordinburg.jpeg",
     "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
-    "luggnumstadt.jpeg",
+    "Assets/luggnumstadt.jpeg",
     "Assets/cadia.jpeg",
     "Géographie d'Heldenreise/Continent Est/Krieg.md",
     "Assets/forteresse-krieg.jpeg",
@@ -199,10 +213,6 @@
     "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
     "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
-    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
-    "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
-    "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
-    "Assets/mira-miralin.webp",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",

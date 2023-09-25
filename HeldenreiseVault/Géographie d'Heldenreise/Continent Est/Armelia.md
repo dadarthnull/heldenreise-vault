@@ -11,5 +11,7 @@ type: city
 name: armelia
 ---
 
-Cette ville est a connu un accroissement de son activité très récemment. Située sur la route entre le [[Royaume d’Helvengard]] et le [[Royaume de Eisendom]] qui est très utilisée depuis l'âge des héros. Elle a du être agrandi
+![[armelia.jpeg]]
+
+Cette ville est a connu un accroissement de son activité très récemment. Située sur la route entre le [[Royaume d’Helvengard]] et le [[Royaume de Eisendom]] qui est très utilisée depuis l'âge des héros. Elle a du être agrandie rapidement et son duc a lancé de grands travaux publiques.
 
