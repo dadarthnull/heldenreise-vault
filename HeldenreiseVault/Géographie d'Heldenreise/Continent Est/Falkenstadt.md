@@ -10,3 +10,4 @@ type: city
 name: falkenstadt
 ---
 
+Capitale du [[Royaume de Drakonia]].
