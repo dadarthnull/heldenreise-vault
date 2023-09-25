@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Aquilonia.md"
               }
             }
           },
@@ -165,10 +165,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f359ca541e29866f",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
+    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
+    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+    "Géographie d'Heldenreise/Continent Est/Helsp.md",
+    "Géographie d'Heldenreise/Continent Est/Karskin.md",
+    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+    "Géographie d'Heldenreise/Continent Est/Pyra.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
+    "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
+    "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
+    "Géographie d'Heldenreise/Continent Est/Tanith.md",
+    "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
+    "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "NPCs/Patrons/Mira Miralin.md",
     "Assets/mira-miralin.webp",
@@ -192,18 +204,6 @@
     "NPCs/Figures historiques/Grand dragon d’argent.md",
     "NPCs/Figures historiques/Grand dragon bleu.md",
     "NPCs/Figures historiques/Grand dragon blanc.md",
-    "NPCs/Figures historiques/Empereur liche.md",
-    "NPCs/Ennemis/Tallarn la liche.md",
-    "NPCs/Ennemis/Ludmilla la générale démon.md",
-    "NPCs/Célébrités/Ueshin l’immortel.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/Le dragon noir maudit les vivants.md",
-    "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f/studio-ghibli-spirited-away-anime-white-wallpaper-preview.jpeg.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/Le dragon bleu crée les monstres marins.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/La chute de l’empire elfe.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/L’empire elfique emprisonne le dragon blanc.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/L’empire elfe se prépare en envahir les autres continents.md",
-    "Histoire d'Heldenreise/3. L'empire elfe/Construction des tours arcaniques.md",
-    "Histoire d'Heldenreise/1. La guerre contre le grand ennemi/Arrivée des humanoïdes.md",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
