@@ -54,9 +54,8 @@ tags:
 
 # NPCs
 
-- [ ]  Review [NPCs](NPCs%20b0ce924b56f44889ab4272a14ab39f0e.md)
-- NPC link. *Use the @ symbol to internally link to an NPC page.*
-- [Lhaak](https://www.notion.so/Lhaak-471bf85ebd2a451593c17264fd871903?pvs=21)
+- [ ]  Review
+- [ ] 
 
 # Monstres
 
@@ -67,13 +66,13 @@ tags:
 - 
 - 
 
-# Treasure
+# Trésors
 
-- [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - 
 - 
+- 
 
-## Scratchpad
+## Pad
 
 *Jot down notes during your game. Use it for a text-based combat tracker or anything else. Copy and paste from here into Discord for example. Here's more on [playing D&D and Discord](https://slyflourish.com/playing_dnd_over_discord.html) and a [Markdown-based battle map](https://slyflourish.com/text-based_battle_maps.html).*
 
@@ -92,3 +91,4 @@ Monster
 ### Session Notes
 
 - Write down notes as things progress during the game.
+- 
