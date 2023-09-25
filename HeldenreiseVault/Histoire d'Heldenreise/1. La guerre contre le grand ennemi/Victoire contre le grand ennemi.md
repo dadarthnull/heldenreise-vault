@@ -14,9 +14,9 @@ La victoire finale se déroule sur un monde nommé Heldenreise, peuplé par de n
 Les dragons ancestraux décident de faire de ce monde leur domaine, en souvenir de la bataille finale et à la mémoire de leurs frères et soeurs tombés.
 
 Les 7 grands dragons ancestraux sont:
-- [[Le grand dragon blanc]]
+- [[Grand dragon blanc]]
 - [[Grand dragon noir]]
-- [[Le grand dragon bleu]]
+- [[Grand dragon bleu]]
 - [[Grand dragon vert]]
 - [[Grand dragon rouge]]
 - [[Grand dragon d’argent]]

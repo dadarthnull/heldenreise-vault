@@ -4,6 +4,7 @@ tags:
   - empire-elfe
   - empereur-liche
   - NPC
+  - opposition
 ---
 
 ![[vecna_by_maradraws_dcj5utv-fullview.webp]]

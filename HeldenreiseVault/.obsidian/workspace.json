@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Figures historiques/Le grand dragon bleu.md",
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Figures historiques/Le grand dragon bleu.md"
+                "file": "Géographie d'Heldenreise/Continent Est/Krakenholdt.md"
               }
             }
           },
@@ -167,29 +167,35 @@
   },
   "active": "cbefdc07797f5c63",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
+    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume de Falkenreich.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume de Norhaven.md",
+    "Géographie d'Heldenreise/Continent Est/Royaume de Eisendom.md",
+    "Géographie d'Heldenreise/Continent Est/Ruines de Tallarn.md",
+    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
+    "NPCs/Ennemis/Tallarn la liche.md",
+    "NPCs/Figures historiques/Empereur liche.md",
+    "Lich_King.webp",
+    "NPCs/Figures historiques/Grand dragon bleu.md",
+    "NPCs/Figures historiques/Tallarn la liche.md",
+    "NPCs/Figures historiques/Grand dragon noir.md",
+    "NPCs/Figures historiques/Grand dragon blanc.md",
     "NPCs/Figures historiques/Grand dragon d’argent.md",
-    "NPCs/Figures historiques/Le grand dragon blanc.md",
     "NPCs/Figures historiques/Grand dragon doré.md",
     "NPCs/Figures historiques/Grand dragon rouge.md",
-    "NPCs/Figures historiques/Grand dragon noir.md",
     "NPCs/Figures historiques/Grand dragon vert.md",
     "Géographie d'Heldenreise/Continent Est/Gazette.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Runenwald.md",
     "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
     "Géographie d'Heldenreise/Continent Est/Royaume d’Helvengard.md",
     "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Royaume de Falkenreich.md",
-    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Assets/21648c023d4fbda7999dcbfcb09920f5.jpeg",
     "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
     "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
-    "Géographie d'Heldenreise/Continent Est/Royaume de Norhaven.md",
-    "Géographie d'Heldenreise/Continent Est/Royaume de Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Royaume de Drakonia.md",
-    "Géographie d'Heldenreise/Continent Est/Karskin.md",
     "Assets/Demon%27s_Realm.webp",
-    "Géographie d'Heldenreise/Continent Est/Helsp.md",
     "Assets/c9acd570a289defbe16d4d9b443a1d44.jpeg",
     "Assets/Lindblum.webp",
     "Assets/41229.webp",
@@ -197,13 +203,7 @@
     "Assets/images.jpeg",
     "Assets/fantasy-castle-2-1024x576.webp",
     "Assets/dcmtvbg-c35a4343-4107-42b2-83a0-a00c8ac54a61.jpeg",
-    "Assets/dcmtszo-e88b7938-effb-4478-b20f-b98dc2533d1b.jpeg",
-    "Histoire d'Heldenreise/7. Les nouveaux royaumes/Le rétablissement des royaumes.md",
-    "Histoire d'Heldenreise/6. L' âge des héros/Disparition des héros.md",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
-    "Histoire d'Heldenreise/6. L' âge des héros/L’arrivée des héros.md",
-    "Histoire d'Heldenreise/6. L' âge des héros/La première grande guerre.md",
-    "Histoire d'Heldenreise/6. L' âge des héros/Ouverture de la route vers l’ouest.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
