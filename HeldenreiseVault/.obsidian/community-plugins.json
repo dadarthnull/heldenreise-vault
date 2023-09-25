@@ -2,5 +2,6 @@
   "obsidian-importer",
   "dataview",
   "obsidian-dictionary-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]

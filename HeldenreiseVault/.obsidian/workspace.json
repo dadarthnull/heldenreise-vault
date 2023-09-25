@@ -8,29 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f359ca541e29866f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/armelia.jpeg"
-              }
-            }
-          },
-          {
-            "id": "5fdd31f8e23cb0bc",
+            "id": "f97d1c59312064c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates.md",
+                "file": "templates/session-template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0220c71f2d18d59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates.md",
+                "file": "templates/session-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates.md",
+                "file": "templates/session-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates.md"
+                "file": "templates/session-template.md"
               }
             }
           },
@@ -173,13 +174,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5fdd31f8e23cb0bc",
+  "active": "f97d1c59312064c5",
   "lastOpenFiles": [
-    "Assets/armelia.jpeg",
+    "Session Notes Template.md",
+    "templates/session-template.md",
+    "templates",
     "templates.md",
+    "Assets/armelia.jpeg",
     "Secrets et indices/Secrets de campagne.md",
     "Géographie d'Heldenreise/Continent Est/Armelia.md",
     "Géographie d'Heldenreise/Continent Est/Glassensee.md",
@@ -212,7 +217,6 @@
     "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
     "Géographie d'Heldenreise/Continent Est/Falkenstadt.md",
     "Géographie d'Heldenreise/Continent Est/Empire de Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
@@ -221,7 +225,6 @@
     "Objets",
     "Sessions",
     "Secrets et indices",
-    "Factions",
-    "NPCs/Célébrités"
+    "Factions"
   ]
 }
