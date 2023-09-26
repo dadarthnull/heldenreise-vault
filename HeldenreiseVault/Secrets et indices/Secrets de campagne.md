@@ -20,22 +20,35 @@
 # L'empereur liche
 - [ ] TBD
 
+# Le roi démon
+- [ ] il est de retour
+- [ ] TBD
+
 # village de départ (AAA)
+## Quêtes villageois
 - [ ] Khalum le chasseur est un agent de la couronne. Il surveille le vilage au cas ou des aventuriers apparaitraient. Il ne sait pas quoi penser de l'arrivée des PJs (faire un rapport ou pas ? si oui, les peindre sous un jour positif ou négatif ?)
 - [ ] Khalum le chasseur est inquiet de l'arrivé d'une meute d'hibloups dans la forét
 - [ ] L'aubergiste a un courrier d'Opus pour les joueurs
+## Les brigands
+- [ ] VVV est une noble déchue qui vit dans les grottes de CCC près du village de AAA, elle dirige un petit groupe de brigands
+- [ ] VVV a passé un accord avec XXX, mias est prête à le trahir
+## Le nécromancien
 - [ ] XXX est un jeune nécromancien au service de l'empereur liche
 - [ ] XXX crée des morts vivants dans les ruines de BBB près du village de AAA
+## La tribu de kobolds
 - [ ] les ruines de BBB sont occupées par des kobolds, en guerre contre les morts vivants de XXX
 - [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devnir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti
 - [ ] ZZZ le chef de guerre veut just vivre en paix et protéger sa tribu, il veut se débarasser mais n'ose pas se dresser contre YYY
-- [ ] VVV est une noble déchue qui vit dans les grottes de CCC près du village de AAA, elle dirige un petit groupe de brigands
-- [ ] VVV a passé un accord avec XXX, mias est prête à le trahir
+## Monstres de la forêt
 - [ ] Camilla l'heroriste est très malade, sa fille, Ludivine veut aller en forêt pour cueillr des plantes médicinales, mais depuis quelques temps, des monstres rödent dans la forêt.
+- [ ] UUU, le chef du village et maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écrlate qui sont récemment apparus dans la forét
+- [ ] Les villageois ne sont pas au courant, mais les animaux féroces qui sont apparus dans la forét ont en fait été chassés de leur tanierre par un drake qui s'est installé dans une ruine au coeur de la forét.
+- [ ] Le drake est la monture d'un chevalier démon, TTT, qui recueille des informations sur l'étqt des royaumes d'Helvengard et Eisendom pour le compte du roi-démon
 
 # tour d'argent
 - [ ] DDD (ex PJ), devenue vieux/vieille est à la tour pour entretnir le jardin de fleurs et le mausolé de Mira avec ses petits enfants
-- [ ] DDD annonce que
+- [ ] DDD annonce qu'Opus est réaparu il y a environ 10 ans et a annoncé que des aventuriers et héros allaient probablement ré-apparaitre
+- [ ] Il/elle a vu Opus transporter le corps de Mira, préservé dans un champ de stase. Opus cherche probablement à la faire revenir à la vie.
 
 # Armelia
 
