@@ -1,6 +1,6 @@
 ---
 player: Yves
-Race: Dracoïde doré
+Race: Nqin
 Classes: Rogue
 Patron: Opus Kettelheimer
 Niveau: "5"

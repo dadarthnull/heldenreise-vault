@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Session Template.md",
+                "file": "Personnages/Lilre Nyelmida.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "0220c71f2d18d59a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes Template.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Session Template.md",
+                "file": "Personnages/Lilre Nyelmida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Session Template.md",
+                "file": "Personnages/Lilre Nyelmida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Session Template.md"
+                "file": "Personnages/Lilre Nyelmida.md"
               }
             }
           },
@@ -180,14 +168,15 @@
   },
   "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "templates/session-template.md",
+    "Personnages/Wintrana.md",
+    "Personnages/Thelkyl.md",
     "templates/Session Template.md",
+    "templates/session-template.md",
     "Session Notes/Session Zero cf45e0524f874c5282153061973315a9.md",
     "Secrets et indices/Secrets de campagne.md",
     "Secrets et indices/Enigmes - archive interdit.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
-    "Personnages/??? bis.md",
     "Session Notes Template.md",
     "templates",
     "templates.md",
@@ -216,7 +205,6 @@
     "Géographie d'Heldenreise/Continent Est/Tanith.md",
     "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
     "Géographie d'Heldenreise/Continent Est/Pyra.md",
-    "Géographie d'Heldenreise/Continent Est/Krakenholdt.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",

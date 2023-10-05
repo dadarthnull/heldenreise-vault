@@ -1,7 +1,7 @@
 ---
 player: Yves
-Race: Dracoïde doré
-Classes: Rogue
+Race: Haut elfe
+Classes: Wizard
 Patron: Mira Miralin
 Niveau: "5"
 Passive Perception: "12"
