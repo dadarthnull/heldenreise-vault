@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Sessions/Session 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Sessions/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Sessions/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session Zero.md"
+                "file": "Sessions/Session 3.md"
               }
             }
           },
@@ -169,16 +169,25 @@
   },
   "active": "f97d1c59312064c5",
   "lastOpenFiles": [
+    "Session Notes/Session Zero.md",
+    "Personnages/Esker.md",
     "Personnages/Lilre Nyelmida.md",
-    "Personnages/Wintrana.md",
+    "Personnages/Myrlou.md",
+    "Personnages/Narllak.md",
+    "Personnages/Nirel Twister.md",
+    "Personnages/Nogard.md",
     "Personnages/Thelkyl.md",
+    "Personnages/Wintrana.md",
+    "Personnages/Bhardar Steelbreath.md",
+    "Personnages/Akaryu.md",
+    "Personnages/Adelaïde.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 2.md",
     "templates/Session Template.md",
     "templates/session-template.md",
-    "Session Notes/Session Zero.md",
     "Secrets et indices/Secrets de campagne.md",
     "Secrets et indices/Enigmes - archive interdit.md",
-    "Sessions/Session 2.md",
-    "Sessions/Session 1.md",
     "Session Notes Template.md",
     "templates",
     "templates.md",
@@ -192,20 +201,11 @@
     "Assets/bar-al-khazad.jpeg",
     "Géographie d'Heldenreise/Continent Est/Umdt.md",
     "Assets/umdt.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
     "Assets/mordinburg.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Luggnumstadt.md",
     "Assets/luggnumstadt.jpeg",
     "Assets/cadia.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Krieg.md",
     "Assets/forteresse-krieg.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Katashan.md",
     "Assets/katashan.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
-    "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
-    "Géographie d'Heldenreise/Continent Est/Tanith.md",
-    "Géographie d'Heldenreise/Continent Est/Schmiedehafen.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
