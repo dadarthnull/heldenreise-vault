@@ -1,0 +1,83 @@
+Date: 2023-09-16
+Présents: Jean Fabrice, Grégoire, Clément, Cécile, Yves, Franck
+
+
+# Personnages
+- [ ] valider la liste des personnages présents
+- Narllak / Akaryu
+- Myrlou / Nogard
+- Lirelle Nyelmida / Nirel Twister
+- Wintrana / Thelkyl
+- Esker / Adelaïde
+- Dorver / Bhardar Steelbreath
+- 
+
+# Départ puissant
+- continuation de la session précédente
+	- Après avoir vaincu le gardien, vous prenez un court repos avant de continuer et de vous enfoncer dans les profondeurs du repaire.
+	- Vous ne rencontrez pas beaucoup de résistance et les prêtres du dragon bleu qui s'occupent de soigner le kraken meurent rapidement sous vos coups.
+	- Vous êtes maintenant au coeur du repaire, un bassin magique
+
+# Scènes
+- Combat contre la kraken
+	- Skill challenge:
+		- empêcher le kraken de s'enfuir
+			- il faut placer des runes autour du bassin et les alimenter 
+		- aider le rituel d'Opus
+			- aider à incanter ou aider à tracer les symboles magiques ou a placer/lancer les objets au bon moment
+		- protéger Opus des tentacules
+			- combattre les tentacules (FOR, Athlétisme, ...)
+		- protéger Opus des prêtres
+			- surveiller que les prêtres ne se téléportent pas et les combattre si ils arrivent
+		- Prep
+			- 
+		- round 1
+			- tentacules
+		- round 2
+			- tentacules x2 + pretre
+		- round 3
+			- 
+		- round 4
+			- 
+- L'archive interdit
+	- Cette ancienne bibliothèque de l'empire elfe renferme de nombreux savoirs interdits. Elle a maintes fois été pillée mais n'a pas encore livrée tous ses secrets
+		- un enchantement empêche de sortir les livres
+		- des morts vivants  hantent les lieux
+		- un archive secret serait caché quelque part
+
+# Secrets et indices
+Check quand un secret a été révélé
+- [ ] Opus a déjà visité l'archive interdit et a déjà atteint son Sanctum
+- [ ] 
+
+# Lieux Fantastiques
+- L'archive interdit
+	- Cette ancienne bibliothèque de l'empire elfe renferme de nombreux savoirs interdits. Elle a maintes fois été pillée mais n'a pas encore livrée tous ses secrets
+		- un enchantement empêche de sortir les livres
+		- des morts vivants  hantent les lieux
+		- un archive secret serait caché quelque part
+
+# PNJs
+- Opus
+- Mira
+- 
+
+# Monstres
+- elfes des mers
+- fantôme
+- liche
+
+# Trésors
+- [ ] Parchemin de croissance d'épines
+- [ ] Statuette de dragon blanc en marbre
+- [ ] Statuette de dragon doré en marbre
+- [ ] 3 po ancien empire, 3pp ancien empire
+- [ ] fragment de croc de dragon blanc
+
+
+# Pild'idées
+> 
+
+# Notes de la session
+- 
+
