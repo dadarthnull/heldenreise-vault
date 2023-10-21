@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 2.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "acb5ec755d9bf27c",
   "lastOpenFiles": [
     "Secrets et indices/Enigmes - archive interdit.md",
+    "Session Notes/Session 2.md",
     "Secrets et indices/Secrets de campagne.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 0.md",
@@ -180,7 +181,6 @@
     "templates/session-template.md",
     "templates/Session Template.md",
     "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
     "Personnages/Lilre Nyelmida.md",
     "Personnages/Wintrana.md",
     "Personnages/Thelkyl.md",
