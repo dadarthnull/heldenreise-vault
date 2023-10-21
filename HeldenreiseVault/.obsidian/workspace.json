@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55b1dd5c9ec83919",
+        "id": "a0c0a16ad415da7f",
         "type": "tabs",
         "children": [
           {
-            "id": "f97d1c59312064c5",
+            "id": "43c3e6e970fbe5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/session-template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "59e992493cce8c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Session Notes Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Session Notes Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Session Notes Template.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Session Notes Template.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,13 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "43c3e6e970fbe5f4",
   "lastOpenFiles": [
+    "Session Notes/Session 0.md",
+    "Session Notes/Session 3.md",
+    "conflict-files-obsidian-git.md",
+    "templates/Session Notes Template.md",
+    "Sessions/Session 3.md",
+    "Sessions",
+    "Session Notes/Session Zero.md",
     "templates/session-template.md",
     "templates/Session Template.md",
-    "templates/Session Notes Template.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 0.md",
     "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
     "Secrets et indices/Secrets de campagne.md",
@@ -215,16 +206,12 @@
     "Géographie d'Heldenreise/Continent Est/Katashan.md",
     "Assets/katashan.jpeg",
     "Géographie d'Heldenreise/Continent Est/Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Wurzelhain.md",
-    "Géographie d'Heldenreise/Continent Est/Terres désolées.md",
-    "Géographie d'Heldenreise/Continent Est/Tanith.md",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
     "Géographie d'Heldenreise/Inconnu",
     "Objets",
-    "Sessions",
     "Secrets et indices",
     "Factions"
   ]
