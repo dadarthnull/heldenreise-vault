@@ -11,27 +11,15 @@
             "id": "acb5ec755d9bf27c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "HeldenreiseVault/.obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "68ab9f44a8e90c6b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Session Notes/Session 2.md"
               }
             }
           },
@@ -178,21 +166,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68ab9f44a8e90c6b",
+  "active": "acb5ec755d9bf27c",
   "lastOpenFiles": [
+    "Secrets et indices/Enigmes - archive interdit.md",
+    "Secrets et indices/Secrets de campagne.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 0.md",
     "conflict-files-obsidian-git.md",
     "Sessions/Session 3.md",
     "Sessions",
-    "Session Notes/Session 0.md",
-    "Session Notes/Session 3.md",
     "templates/Session Notes Template.md",
     "Session Notes/Session Zero.md",
     "templates/session-template.md",
     "templates/Session Template.md",
     "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
-    "Secrets et indices/Secrets de campagne.md",
-    "Secrets et indices/Enigmes - archive interdit.md",
     "Personnages/Lilre Nyelmida.md",
     "Personnages/Wintrana.md",
     "Personnages/Thelkyl.md",
