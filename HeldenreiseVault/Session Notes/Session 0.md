@@ -37,11 +37,9 @@ Quelles sont les six choses les plus importantes que vous voulez faire découvri
 [](https://www.dndbeyond.com/campaigns/join/4004365138562600)
 
 - Options de personnages:
-    
-    ![Screenshot 2023-08-29 at 21.09.06.png](Session%20Zero%20cf45e0524f874c5282153061973315a9/Screenshot_2023-08-29_at_21.09.06.png)
-    
-    ![Screenshot 2023-08-29 at 21.09.25.png](Session%20Zero%20cf45e0524f874c5282153061973315a9/Screenshot_2023-08-29_at_21.09.25.png)
-    
+![[creation-personnage-page-1.png]]
+![[creation-personnages-page-2.png]]
+
 - Jets de caractéristiques:
     - lancer de dés
     - 2 séries de 6 fois: jeter 4 d6 et garder les 3 meilleurs.
@@ -54,7 +52,7 @@ Quelles sont les six choses les plus importantes que vous voulez faire découvri
 - Races
     - Pour accéder aux races spécifiques de la campagne, lors de la création de personnage sélectionner la source “Homebrew” et choisir une des races dont le nom se termine par “(Heldenreise)”
         
-        ![Screenshot 2023-09-02 at 20.24.22.png](Session%20Zero%20cf45e0524f874c5282153061973315a9/Screenshot_2023-09-02_at_20.24.22.png)
+![[creation-personnages-page-3.png]]
         
 - Sort
     - rituels
