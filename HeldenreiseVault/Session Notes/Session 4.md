@@ -74,7 +74,8 @@ tags:
 
 # Trésors
 
-- notes sur la lune et son effet sur les champs magiques ()
+- notes sur la lune et son effet sur les champs magiques (Nirel a reconnu l'ecriture d'un maître du savoir - Opus)
+- 
 - 
 - 
 
