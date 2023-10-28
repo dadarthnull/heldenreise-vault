@@ -15,19 +15,25 @@ tags:
 
 # Joueurs présents
 
-- [ ]  Review the characters
+- [ ]  Jean-Fabrice (Akaryu)
+- [ ] Yves (Thelkyl)
+- [ ] Franck (Acibia)
+- [ ] Grégoire (Nirel)
+- [ ] Clément (Bhardar)
+- [ ] Cécile (Adélaïde)
 
 
 
 # Départ 
-
+- Archive caché, salle 2
+- 
 
 
 # Scènes
 
-- 
-- 
-- 
+- Finir l'archive caché
+- Passage niveau 8 et choix des personnages définitifs
+- Début de la 13e tour arcanique
 - 
 - 
 
