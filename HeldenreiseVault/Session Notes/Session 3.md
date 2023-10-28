@@ -68,7 +68,8 @@ tags:
 
 # NPCs
 
-- [ ]  Review
+- [ ]  Yuaratoya - figure historique, 1er ministre de l'empire elfe, principal auteur du code des lois de l'empire
+- [ ] Zenayoloya - figure historique, garde personnel de l'empereur elfe, 1er paladin de l'empire
 - [ ] 
 
 # Monstres
