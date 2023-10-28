@@ -1,7 +1,7 @@
 
 ---
-creation date: 2023-10-05 19:55
-modification date: Thursday 5th October 2023 19:55:57
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 tags: 
 - session-notes
 - tp.file.creation_date("dddd-Do-MMMM-YYYY")
@@ -9,27 +9,13 @@ tags:
 
 
 
-# Session 3 
+# <% tp.file.title %> 
 
+<% tp.web.daily_quote() %>
 
 # Joueurs présents
 
-## 1ere section
-- [ ]  Yves - Wintrana
-- [ ]  Grégoire - Nirel
-- [ ]  Jean-Fabrice - Akaryu
-- [ ]  Cécile - Adelaïde
-- [ ]  Clément - Bhardar
-- [ ]  Franck - Myrlou
-
-
-## 2nde section
-- [ ]  Yves - ???
-- [ ]  Grégoire - ???
-- [ ]  Jean-Fabrice - ???
-- [ ]  Cécile - ???
-- [ ]  Clément - ???
-- [ ]  Franck - ???
+- [ ]  Review the characters
 
 
 
@@ -68,8 +54,7 @@ tags:
 
 # NPCs
 
-- [ ]  Yuaratoya - figure historique, 1er ministre de l'empire elfe, principal auteur du code des lois de l'empire
-- [ ] Zenayoloya - figure historique, garde personnel de l'empereur elfe, 1er paladin de l'empire
+- [ ]  Review
 - [ ] 
 
 # Monstres
@@ -83,9 +68,7 @@ tags:
 
 # Trésors
 
-- Orbe du mage combattant (wand of the warmage+1)
-- rapière +1
-- 350po maudits
+- 
 - 
 - 
 

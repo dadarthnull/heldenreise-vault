@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           },
@@ -168,10 +168,11 @@
   },
   "active": "acb5ec755d9bf27c",
   "lastOpenFiles": [
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 4.md",
     "Secrets et indices/Enigmes - archive interdit.md",
     "Session Notes/Session 2.md",
     "Secrets et indices/Secrets de campagne.md",
-    "Session Notes/Session 3.md",
     "Session Notes/Session 0.md",
     "conflict-files-obsidian-git.md",
     "Sessions/Session 3.md",
