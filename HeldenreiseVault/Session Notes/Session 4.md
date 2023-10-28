@@ -22,6 +22,13 @@ tags:
 - [ ] Clément (Bhardar)
 - [ ] Cécile (Adélaïde)
 
+Choix de personnage:
+- Cécilé: Adélaïde (Sorcerer)
+- Yves: Thelkil (Rogue)
+- Jean-Fabrice: Narllak (barbare, paladin)
+- Grégoire: Nirel (wizard)
+- Franck: Myrlou (moine)
+- Clément: Bhardar (Bloodhunter)
 
 
 # Départ 
