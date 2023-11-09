@@ -44,12 +44,13 @@ Check quand un secret a été révélé
 - [[Opus Kettelheimer]]
 - [[Mira Miralin]]
 - [[Ludmilla la générale démon]]
+- [[Grand dragon d’argent]]
 
 # Monstres
-- Destruceur démon
-- Exlaireur démon
+- Brute démon
+- Eclaireur démon
 - Armure démon
-- 
+- Ronin démon
 
 # Trésors
 - [ ]
