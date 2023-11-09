@@ -23,7 +23,7 @@ Présents:
 	- Mira s'effondre en proie à des convulsions, Opus perd tous ses moyens, les PJs sont tués par le dragon
 	- avant de mourir les joueurs voient:
 		- Mira "bug", son corps apparait et disparait, et parfois ses contours sont cubiques
-		- ils flottent dans le néant, voient l'image du grand dragon d'argent et l'entendent dire: "pauvres âmes perdues, arrachée au grand cycle par l'ambition d"
+		- ils flottent dans le néant, voient l'image du grand dragon d'argent et l'entendent dire: "pauvres âmes perdues, arrachée au grand cycle par l'ambition de ce fou, une vie volé, une vie rendue, les fils de votre destins me seront bien utiles"
 - Reveil à l'auberge du départ
 
 # Secrets et indices
@@ -36,12 +36,19 @@ Check quand un secret a été révélé
 
 
 # Lieux Fantastiques
-- 
+- L'entrée de la 13e tour arcanique
+- La 13e tour arcanique
+- L'auberge du départ
 
 # PNJs
-- 
+- [[Opus Kettelheimer]]
+- [[Mira Miralin]]
+- [[Ludmilla la générale démon]]
 
 # Monstres
+- Destruceur démon
+- Exlaireur démon
+- Armure démon
 - 
 
 # Trésors
