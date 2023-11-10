@@ -23,15 +23,13 @@ Présents:
 	- Mira s'effondre en proie à des convulsions, Opus perd tous ses moyens, les PJs sont tués par le dragon
 	- avant de mourir les joueurs voient:
 		- Mira "bug", son corps apparait et disparait, et parfois ses contours sont cubiques
-		- ils flottent dans le néant, voient l'image du grand dragon d'argent et l'entendent dire: "pauvres âmes perdues, arrachée au grand cycle par l'ambition de ce fou, une vie volé, une vie rendue, les fils de votre destins me seront bien utiles"
-- Reveil à l'auberge du départ
+- Réveil à l'auberge du départ
 
 # Secrets et indices
 Check quand un secret a été révélé
 - [ ] Opus est stressé, il veut conquérir la tour arcanique au plus vite, quelque chose le préoccupe et ça a un rapport avec Mira
 - [ ] Le grand dragon qualifie Mira et Opus d'intrus
 - [ ] Le grand dragon a laissé Opus faire ce qu'il veut parce que cela servait ses interêts
-- [ ] Le grand dragon qualifie les joueurs de 
 
 
 
@@ -49,7 +47,7 @@ Check quand un secret a été révélé
 - [[Grand dragon d’argent]]
 
 # Monstres
-- Brute démon
+- [[Démon - Brute]]
 - Eclaireur démon
 - Armure démon
 - Ronin démon

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Monsters/Démon - Mage assistant.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Monsters/Démon - Mage assistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Monsters/Démon - Mage assistant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md"
+                "file": "NPCs/Monsters/Démon - Mage assistant.md"
               }
             }
           },
@@ -168,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,16 +184,22 @@
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false
     }
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "templates/npc-with-attributes.md",
-    "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Monsters",
-    "NPCs/Ennemis/Kongh Minn.md",
+    "NPCs/Monsters/Démon - Ronin.md",
+    "NPCs/Monsters/Démon - Mage assistant.md",
+    "NPCs/Monsters/Démon - Armure.md",
+    "NPCs/Monsters/Démon - Eclaireur.md",
     "Session Notes/Session 5.md",
+    "NPCs/Monsters/Démon - Brute.md",
+    "NPCs/Ennemis/Kongh Minn.md",
+    "templates/npc-with-attributes.md",
+    "NPCs/Monsters",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Ludmilla la générale démon.md",
     "Session Notes/Session 4.md",
@@ -215,12 +220,8 @@
     "Session Notes/Session 1.md",
     "Personnages/Lilre Nyelmida.md",
     "Personnages/Wintrana.md",
-    "Personnages/Thelkyl.md",
     "templates",
-    "templates.md",
     "Assets/armelia.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Armelia.md",
-    "Géographie d'Heldenreise/Continent Est/Glassensee.md",
     "Assets/glassensee.jpeg",
     "Assets/schwarnende.jpeg",
     "Assets/bar-al-khazad.jpeg",
