@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Démon - Mage assistant.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Démon - Mage assistant.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Démon - Mage assistant.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Démon - Mage assistant.md"
+                "file": "NPCs/Habitants/Adeline.md"
               }
             }
           },
@@ -189,10 +189,27 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "26b7e09e562a95a1",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "NPCs/Monsters/Démon - Ronin.md",
+    "Géographie d'Heldenreise/Scénarios/AbreisDorf.md",
+    "NPCs/Habitants/Adeline.md",
+    "Géographie d'Heldenreise/Scénarios",
+    "templates/NPC simple.md",
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "NPCs/Monsters/Goblin - Chevalier.md",
+    "NPCs/Monsters/Goblin - Guerrier.md",
+    "NPCs/Monsters/Goblin - Eclaireur.md",
+    "NPCs/Monsters/Goblin - Goblin.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "NPCs/Monsters/Hiblou - Alpha.md",
+    "NPCs/Monsters/Hiblou - Adulte.md",
+    "NPCs/Monsters/Dragon - Dragon d'argent.md",
+    "NPCs/Monsters/Dragon - Dragonet d'argent.md",
+    "NPCs/Monsters/Démon - Sorcière.md",
     "NPCs/Monsters/Démon - Mage assistant.md",
+    "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Eclaireur.md",
     "Session Notes/Session 5.md",
@@ -201,25 +218,8 @@
     "templates/npc-with-attributes.md",
     "NPCs/Monsters",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
-    "NPCs/Ennemis/Ludmilla la générale démon.md",
-    "Session Notes/Session 4.md",
-    "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
     "Heldenreise-zoom-sud-original.jpg",
-    "Session Notes/Session 0.md",
-    "templates/Session Notes Template.md",
-    "templates/Session Template.md",
-    "templates/session-template.md",
-    "Session Notes/Session 3.md",
-    "Secrets et indices/Enigmes - archive interdit.md",
-    "Session Notes/Session 2.md",
-    "Secrets et indices/Secrets de campagne.md",
-    "conflict-files-obsidian-git.md",
-    "Sessions/Session 3.md",
     "Sessions",
-    "Session Notes/Session Zero.md",
-    "Session Notes/Session 1.md",
-    "Personnages/Lilre Nyelmida.md",
-    "Personnages/Wintrana.md",
     "templates",
     "Assets/armelia.jpeg",
     "Assets/glassensee.jpeg",
@@ -235,7 +235,6 @@
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
     "Géographie d'Heldenreise/Inconnu",
-    "Objets",
-    "Secrets et indices"
+    "Objets"
   ]
 }
