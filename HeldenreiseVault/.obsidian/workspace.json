@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "NPCs/Habitants/Lambert.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "NPCs/Habitants/Lambert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "NPCs/Habitants/Lambert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md"
+                "file": "NPCs/Habitants/Lambert.md"
               }
             }
           },
@@ -178,8 +178,13 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "NPCs/Habitants/Adeline.md",
+    "NPCs/Habitants/Marcus.md",
+    "NPCs/Habitants/Lambert.md",
+    "Assets/NPC-Lambert.png",
+    "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Nanette.md",
+    "Assets/NPC-Mariette.png",
+    "NPCs/Habitants/Adeline.md",
     "Assets/NPC-Nanette-1.png",
     "Assets/NPC-Adeline.png",
     "Assets/NPC-Nanette-2.png",
@@ -206,18 +211,13 @@
     "NPCs/Monsters/Démon - Eclaireur.md",
     "Session Notes/Session 5.md",
     "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Ennemis/Kongh Minn.md",
-    "templates/npc-with-attributes.md",
     "NPCs/Monsters",
-    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
     "templates",
     "Assets/armelia.jpeg",
     "Assets/glassensee.jpeg",
     "Assets/schwarnende.jpeg",
-    "Assets/bar-al-khazad.jpeg",
-    "Assets/umdt.jpeg",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
