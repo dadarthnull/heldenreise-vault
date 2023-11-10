@@ -9,8 +9,8 @@ type: démon
 subtype: brute
 alignment: -
 ac: 13
-hp: 135
-hit_dice: d12
+hp: 105
+hit_dice: 10d12 + 35
 speed: 40
 stats: [19, 18, 20, 08, 10, 08]
 saves:
@@ -46,6 +46,6 @@ reactions:
   - name: Même pas mal
     desc: divise les dégâts reçus par 2
   - name: Tu tapes fort ... Je tape plus fort
-  - desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
+    desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
 ```
 

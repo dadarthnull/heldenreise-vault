@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md"
+                "file": "NPCs/Monsters/Démon - Brute.md"
               }
             }
           },
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +179,10 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "NPCs/Habitants/Marcus.md",
+    "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Habitants/Lambert.md",
+    "Assets/Abreissdorf-auberge-clients.png",
+    "NPCs/Habitants/Marcus.md",
     "Assets/NPC-Lambert.png",
     "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Nanette.md",
@@ -207,17 +210,14 @@
     "NPCs/Monsters/Démon - Sorcière.md",
     "NPCs/Monsters/Démon - Mage assistant.md",
     "NPCs/Monsters/Démon - Ronin.md",
-    "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Eclaireur.md",
     "Session Notes/Session 5.md",
-    "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters",
     "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
     "templates",
     "Assets/armelia.jpeg",
     "Assets/glassensee.jpeg",
-    "Assets/schwarnende.jpeg",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
