@@ -13,9 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "templates/npc-with-attributes.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "556e5882f1170dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "templates/npc-with-attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "templates/npc-with-attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md"
+                "file": "templates/npc-with-attributes.md"
               }
             }
           },
@@ -168,8 +181,9 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "Session Notes/Session 5.md",
     "NPCs/Ennemis/Kongh Minn.md",
+    "templates/npc-with-attributes.md",
+    "Session Notes/Session 5.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Ludmilla la générale démon.md",
     "Session Notes/Session 4.md",
@@ -199,7 +213,6 @@
     "Assets/glassensee.jpeg",
     "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
     "Assets/schwarnende.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
     "Assets/bar-al-khazad.jpeg",
     "Assets/umdt.jpeg",
     "Assets/mordinburg.jpeg",
