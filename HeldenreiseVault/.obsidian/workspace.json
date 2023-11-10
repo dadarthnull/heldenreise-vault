@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/npc-with-attributes.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/npc-with-attributes.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/npc-with-attributes.md",
+                "file": "NPCs/Monsters/Démon - Brute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/npc-with-attributes.md"
+                "file": "NPCs/Monsters/Démon - Brute.md"
               }
             }
           },
@@ -159,6 +159,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c12918ecb4523748",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -176,13 +184,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Kongh Minn.md",
     "templates/npc-with-attributes.md",
+    "NPCs/Monsters/Démon - Brute.md",
+    "NPCs/Monsters",
+    "NPCs/Ennemis/Kongh Minn.md",
     "Session Notes/Session 5.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Ludmilla la générale démon.md",
@@ -211,7 +222,6 @@
     "Géographie d'Heldenreise/Continent Est/Armelia.md",
     "Géographie d'Heldenreise/Continent Est/Glassensee.md",
     "Assets/glassensee.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Schwarnende.md",
     "Assets/schwarnende.jpeg",
     "Assets/bar-al-khazad.jpeg",
     "Assets/umdt.jpeg",
@@ -225,7 +235,6 @@
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
     "Géographie d'Heldenreise/Inconnu",
     "Objets",
-    "Secrets et indices",
-    "Factions"
+    "Secrets et indices"
   ]
 }

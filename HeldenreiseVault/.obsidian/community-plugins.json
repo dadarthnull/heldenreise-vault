@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-dictionary-plugin",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-5e-statblocks",
+  "obsidian-dice-roller"
 ]
