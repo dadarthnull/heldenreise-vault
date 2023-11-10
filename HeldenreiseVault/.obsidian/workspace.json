@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "Session Notes/Session 4.md",
+    "NPCs/Ennemis/Ludmilla la générale démon.md",
+    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "Session Notes/Session 5.md",
+    "Session Notes/Session 4.md",
     "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
     "Heldenreise-zoom-sud-original.jpg",
     "Session Notes/Session 0.md",
@@ -225,7 +227,6 @@
     "Assets/bar-al-khazad.jpeg",
     "Géographie d'Heldenreise/Continent Est/Umdt.md",
     "Assets/umdt.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Mordinburg.md",
     "Assets/mordinburg.jpeg",
     "Assets/luggnumstadt.jpeg",
     "Assets/cadia.jpeg",
