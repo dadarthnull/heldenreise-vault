@@ -1,3 +1,6 @@
+
+
+
 ```statblock
 image: [[Wikilink To Image]]
 name: Brute démon
@@ -27,19 +30,18 @@ traits:
     desc: <trait-description>
   - ...
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
+  - name: Multi-attaque
+    desc: Effecture 2 attaques de griffes et une attaque de poings
+  - name: Attaque (poings)
+    desc: "Melee Weapon Attack: +10"
+  - 
 bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
   - ...
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: Même pas mal
+    desc: divise les dégâts reçus par 2
+  - name: Tu tapes fort ... Je tape plus fort
+  - desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
 ```
