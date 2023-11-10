@@ -13,22 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "556e5882f1170dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md"
+                "file": "NPCs/Habitants/Nanette.md"
               }
             }
           },
@@ -191,8 +178,13 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Adeline.md",
+    "NPCs/Habitants/Nanette.md",
+    "Assets/NPC-Nanette-1.png",
+    "Assets/NPC-Adeline.png",
+    "Assets/NPC-Nanette-2.png",
+    "Screenshot 2023-11-10 at 21.04.25.png",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Géographie d'Heldenreise/Scénarios",
     "templates/NPC simple.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
@@ -226,10 +218,6 @@
     "Assets/schwarnende.jpeg",
     "Assets/bar-al-khazad.jpeg",
     "Assets/umdt.jpeg",
-    "Assets/mordinburg.jpeg",
-    "Assets/luggnumstadt.jpeg",
-    "Assets/cadia.jpeg",
-    "Assets/forteresse-krieg.jpeg",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",

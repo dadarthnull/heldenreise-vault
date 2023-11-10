@@ -13,6 +13,11 @@ class: [Aubergiste]
 tags: NPC, 
 ---
 
-Patronne de l'auberge
+[[NPC-Adeline.png]]
+
+Patronne de l'auberge d'AbreissDorf. 
+Femme forte, toujours souriante, le rire facile.
+Sa réponse à toute situation: mangez donc un morceau pour vous retaper!
+
 
 
