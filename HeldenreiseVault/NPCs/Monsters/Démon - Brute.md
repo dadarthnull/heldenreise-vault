@@ -33,7 +33,7 @@ actions:
   - name: Multi-attaque
     desc: Effecture 2 attaques de griffes et une attaque de poings
   - name: Attaque (poings)
-    desc: "Melee Weapon Attack: +10"
+    desc: "Melee Weapon Attack: +10 to Hit, "
   - 
 bonus_actions:
   - name: <trait-name>
@@ -45,3 +45,4 @@ reactions:
   - name: Tu tapes fort ... Je tape plus fort
   - desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
 ```
+
