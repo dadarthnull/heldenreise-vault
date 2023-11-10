@@ -44,6 +44,8 @@ Check quand un secret a été révélé
 - [[Opus Kettelheimer]]
 - [[Mira Miralin]]
 - [[Ludmilla la générale démon]]
+- [[Kongh Minn]]
+- [[Telkhall l'oblitérateur]]
 - [[Grand dragon d’argent]]
 
 # Monstres

@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acb5ec755d9bf27c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Session Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1eb2ac1ff7f268df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26b7e09e562a95a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -193,8 +168,9 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Ludmilla la générale démon.md",
+    "NPCs/Ennemis/Kongh Minn.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+    "NPCs/Ennemis/Ludmilla la générale démon.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 4.md",
     "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
@@ -225,7 +201,6 @@
     "Assets/schwarnende.jpeg",
     "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
     "Assets/bar-al-khazad.jpeg",
-    "Géographie d'Heldenreise/Continent Est/Umdt.md",
     "Assets/umdt.jpeg",
     "Assets/mordinburg.jpeg",
     "Assets/luggnumstadt.jpeg",
