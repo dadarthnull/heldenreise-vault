@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Narllak.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Narllak.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Narllak.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Narllak.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "Personnages/Narllak.md",
     "Session Notes/Session 5.md",
     "NPCs/Habitants/Nanette.md",
     "NPCs/Habitants/Mariette.md",
@@ -213,7 +214,6 @@
     "NPCs/Monsters/Dragon - Dragonet d'argent.md",
     "NPCs/Monsters/Démon - Sorcière.md",
     "NPCs/Monsters/Démon - Mage assistant.md",
-    "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters",
     "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
