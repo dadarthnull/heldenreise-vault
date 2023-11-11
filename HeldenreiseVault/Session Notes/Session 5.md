@@ -3,12 +3,12 @@ Présents:
 
 
 # Personnages
-- [ ]  Jean-Fabrice -  Narllak (barbare, paladin)
-- [ ] Yves - Thelkil (Rogue)
-- [ ] Franck - Myrlou (moine)
-- [ ] Grégoire - Nirel (wizard)
-- [ ] Clément - Bhardar (Bloodhunter)
-- [ ] Cécile - Adélaïde (Sorcerer)
+- [ ]  Jean-Fabrice -  [[Narllak]] (barbare, paladin)
+- [ ] Yves - [[Thelkyl]] (Rogue)
+- [ ] Franck - [[Myrlou]] (moine)
+- [ ] Grégoire - [[Nirel Twister]] (wizard)
+- [ ] Clément - [[Bhardar Steelbreath]] (Bloodhunter)
+- [ ] Cécile - [[Adeline]] (Sorcerer)
 
 
 # Départ puissant
@@ -39,6 +39,7 @@ Check quand un secret a été révélé
 - L'auberge du départ
 
 # PNJs
+Combat 13e tour arcanique
 - [[Opus Kettelheimer]]
 - [[Mira Miralin]]
 - [[Ludmilla la générale démon]]
@@ -46,11 +47,14 @@ Check quand un secret a été révélé
 - [[Telkhall l'oblitérateur]]
 - [[Grand dragon d’argent]]
 
+Auberge de [[AbreissDorf]]
+* [[Nanette]]
+
 # Monstres
-- [[Démon - Brute]]
-- Eclaireur démon
-- Armure démon
-- Ronin démon
+- ![[Démon - Brute]]
+- [[Démon - Eclaireur]]
+- [[Démon - Armure]]
+- [[Démon - Ronin]]
 
 # Trésors
 - [ ]
