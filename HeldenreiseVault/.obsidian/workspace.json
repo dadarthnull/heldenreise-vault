@@ -11,12 +11,9 @@
             "id": "9c490dd9f353754b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Assets/Abreissdorf-auberge-clients.png"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Assets/Abreissdorf-auberge-clients.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Assets/Abreissdorf-auberge-clients.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Assets/Abreissdorf-auberge-clients.png"
               }
             }
           },
@@ -180,8 +177,13 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
-    "Personnages/Narllak.md",
+    "Assets/Heldenreise_-_economie_dactions_(2).pdf",
+    "Assets/dragon-blanc.jpeg",
+    "Assets/bar-al-khazad.jpeg",
+    "Assets/aquilonia.jpeg",
     "Session Notes/Session 5.md",
+    "Assets/Pasted image 20231111194442.png",
+    "Personnages/Narllak.md",
     "NPCs/Habitants/Nanette.md",
     "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Marcus.md",
@@ -196,7 +198,6 @@
     "Assets/NPC-Nanette-1.png",
     "Assets/NPC-Adeline.png",
     "Assets/NPC-Nanette-2.png",
-    "Screenshot 2023-11-10 at 21.04.25.png",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Géographie d'Heldenreise/Scénarios",
     "templates/NPC simple.md",
@@ -213,14 +214,9 @@
     "NPCs/Monsters/Dragon - Dragon d'argent.md",
     "NPCs/Monsters/Dragon - Dragonet d'argent.md",
     "NPCs/Monsters/Démon - Sorcière.md",
-    "NPCs/Monsters/Démon - Mage assistant.md",
     "NPCs/Monsters",
-    "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
     "templates",
-    "Assets/armelia.jpeg",
-    "Assets/glassensee.jpeg",
-    "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
