@@ -19,9 +19,9 @@ saves:
 skillsaves:
   - Athlétisme: 19
 damage_vulnerabilities: -
-damage_resistances: tranchant, contondant, perçant
+damage_resistances: -
 damage_immunities: -
-condition_immunities: charmé, agrippé
+condition_immunities: charmé, agrippé, effrayé
 senses: perception passive 12
 languages: commun, démon
 cr: -
@@ -40,12 +40,8 @@ actions:
 bonus_actions:
   - name: Charge
     desc: "effecture un déplacement de la moitié de son mouvement, puis une unique attaque avec avantage"
-  - name: Le pouvoir de la rage
-    desc: "Regagne 2d10 points de vie"
 reactions:
-  - name: Même pas mal
-    desc: divise les dégâts reçus par 2
-  - name: Tu tapes fort ... Je tape plus fort
+  - name: Tu tapes fort ... Moi aussi
     desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
 ```
 

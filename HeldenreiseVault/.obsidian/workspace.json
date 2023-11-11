@@ -11,9 +11,12 @@
             "id": "9c490dd9f353754b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Abreissdorf-auberge-clients.png"
+                "file": "NPCs/Monsters/Démon - Eclaireur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Abreissdorf-auberge-clients.png",
+                "file": "NPCs/Monsters/Démon - Eclaireur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Abreissdorf-auberge-clients.png",
+                "file": "NPCs/Monsters/Démon - Eclaireur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Abreissdorf-auberge-clients.png"
+                "file": "NPCs/Monsters/Démon - Eclaireur.md"
               }
             }
           },
@@ -177,6 +180,13 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Monsters/Démon - Brute.md",
+    "NPCs/Monsters/Démon - Eclaireur.md",
+    "NPCs/Monsters/Démon - Armure.md",
+    "NPCs/Monsters/Démon - Ronin.md",
+    "NPCs/Monsters/Démon - Arcaniste.md",
+    "NPCs/Monsters/Démon - Mage.md",
+    "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Assets/dragon-blanc.jpeg",
     "Assets/bar-al-khazad.jpeg",
@@ -190,9 +200,6 @@
     "NPCs/Habitants/Lambert.md",
     "NPCs/Habitants/Adeline.md",
     "Personnages/Adelaïde.md",
-    "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Monsters/Démon - Armure.md",
-    "Assets/Abreissdorf-auberge-clients.png",
     "Assets/NPC-Lambert.png",
     "Assets/NPC-Mariette.png",
     "Assets/NPC-Nanette-1.png",
@@ -211,9 +218,6 @@
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Hiblou - Alpha.md",
     "NPCs/Monsters/Hiblou - Adulte.md",
-    "NPCs/Monsters/Dragon - Dragon d'argent.md",
-    "NPCs/Monsters/Dragon - Dragonet d'argent.md",
-    "NPCs/Monsters/Démon - Sorcière.md",
     "NPCs/Monsters",
     "Sessions",
     "templates",
