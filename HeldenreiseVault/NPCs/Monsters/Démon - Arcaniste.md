@@ -1,25 +1,24 @@
 
 ```statblock
 image: [[wurzelhain.jpeg]]
-name: Brute démon
+name: arcaniste démon
 size: M
 type: démon
-subtype: brute
+subtype: arcaniste
 alignment: -
 ac: 13
 hp: 105
 hit_dice: 10d12 + 35
 speed: 40
-stats: [19, 18, 20, 08, 10, 08]
+stats: [08, 10, 10, 18, 13, 15]
 saves:
-  - strength: +8
-  - constitution: +9
+  - intelligence: +8
+  - wisdom: +6
 skillsaves:
-  - Athlétisme: 19
 damage_vulnerabilities: -
-damage_resistances: tranchant, contondant, perçant
+damage_resistances: -
 damage_immunities: -
-condition_immunities: charmé, agrippé
+condition_immunities: charmé, effrayé
 senses: perception passive 12
 languages: commun, démon
 cr: -
