@@ -14,6 +14,6 @@ tags: NPC,
 ---
 
 
-[[NPC-Lambert.png]]
+![[NPC-Lambert.png]]
 
 Chasseur du village de [[AbreissDorf]]

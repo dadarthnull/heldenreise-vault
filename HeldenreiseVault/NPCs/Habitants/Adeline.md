@@ -12,8 +12,7 @@ gender: [Femme]
 class: [Aubergiste] 
 tags: NPC, 
 ---
-
-[[NPC-Adeline.png]]
+![[NPC-Adeline.png]]
 
 Patronne de l'auberge d'AbreissDorf. 
 Femme forte, toujours souriante, le rire facile.

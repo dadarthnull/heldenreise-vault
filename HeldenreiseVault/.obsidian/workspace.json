@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26b7e09e562a95a1",
+            "id": "9c490dd9f353754b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md",
+                "file": "NPCs/Habitants/Nanette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Adeline.md"
+                "file": "NPCs/Habitants/Nanette.md"
               }
             }
           },
@@ -156,12 +156,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,19 +178,19 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "26b7e09e562a95a1",
+  "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Habitants/Mariette.md",
+    "NPCs/Habitants/Marcus.md",
+    "NPCs/Habitants/Lambert.md",
+    "NPCs/Habitants/Adeline.md",
     "Personnages/Adelaïde.md",
     "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Démon - Armure.md",
-    "NPCs/Habitants/Lambert.md",
     "Assets/Abreissdorf-auberge-clients.png",
-    "NPCs/Habitants/Marcus.md",
     "Assets/NPC-Lambert.png",
-    "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Nanette.md",
     "Assets/NPC-Mariette.png",
-    "NPCs/Habitants/Adeline.md",
     "Assets/NPC-Nanette-1.png",
     "Assets/NPC-Adeline.png",
     "Assets/NPC-Nanette-2.png",

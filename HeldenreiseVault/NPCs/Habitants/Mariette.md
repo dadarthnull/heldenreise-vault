@@ -14,7 +14,7 @@ tags: NPC,
 ---
 
 
-[[NPC-Mariette.png]]
+![[NPC-Mariette.png]]
 
 Fille ainée de [[Adeline]], soeur de [[Nanette]].
 Epouse de [[Marcus]] le forgeron, aide à l'auberge le soir.
