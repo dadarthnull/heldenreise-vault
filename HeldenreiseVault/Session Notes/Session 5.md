@@ -52,9 +52,11 @@ Auberge de [[AbreissDorf]]
 
 # Monstres
 - ![[Démon - Brute]]
-- [[Démon - Eclaireur]]
-- [[Démon - Armure]]
-- [[Démon - Ronin]]
+- ![[Démon - Eclaireur]]
+- ![[Démon - Armure]]
+- ![[Démon - Ronin]]
+- ![[Démon - Arcaniste]]
+- ![[Démon - Mage]]
 
 # Trésors
 - [ ]

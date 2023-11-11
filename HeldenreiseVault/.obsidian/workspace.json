@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Démon - Ronin.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Démon - Ronin.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Démon - Ronin.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Démon - Ronin.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -180,12 +180,13 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Monsters/Démon - Ronin.md",
+    "NPCs/Monsters/Dragon - Dragon d'argent.md",
     "NPCs/Monsters/Démon - Mage.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Démon - Eclaireur.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Monsters/Démon - Ronin.md",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Assets/dragon-blanc.jpeg",
@@ -217,7 +218,6 @@
     "NPCs/Monsters/Goblin - Goblin.md",
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Hiblou - Alpha.md",
-    "NPCs/Monsters/Hiblou - Adulte.md",
     "NPCs/Monsters",
     "Sessions",
     "templates",
