@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "Personnages/Narllak.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "Personnages/Narllak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md",
+                "file": "Personnages/Narllak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Nanette.md"
+                "file": "Personnages/Narllak.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "Session Notes/Session 5.md",
+    "NPCs/Habitants/Nanette.md",
     "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Marcus.md",
     "NPCs/Habitants/Lambert.md",
@@ -189,7 +191,6 @@
     "NPCs/Monsters/Démon - Armure.md",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/NPC-Lambert.png",
-    "NPCs/Habitants/Nanette.md",
     "Assets/NPC-Mariette.png",
     "Assets/NPC-Nanette-1.png",
     "Assets/NPC-Adeline.png",
@@ -213,7 +214,6 @@
     "NPCs/Monsters/Démon - Sorcière.md",
     "NPCs/Monsters/Démon - Mage assistant.md",
     "NPCs/Monsters/Démon - Ronin.md",
-    "NPCs/Monsters/Démon - Eclaireur.md",
     "NPCs/Monsters",
     "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
