@@ -23,10 +23,6 @@ senses: perception passive 12
 languages: commun, démon
 cr: -
 traits:
-  - name: Enragé
-    desc: Effectue toutes ses attaques de mêlée avec un avantage. toute attaque le ciblant à un avantage
-  - name: Dur à cuir
-    desc: Ignore 5 (1d8) de tout dégâts reçus (après avoir pris en compte les résistances)
 spells:
   - Spellcasting ability is Intelligence (Spell save DC 16, +8 to hit with spell attacks)
   - Cantrips: 

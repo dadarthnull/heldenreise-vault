@@ -24,8 +24,8 @@ senses: perception passive 12
 languages: commun, démon
 cr: -
 traits:
-  - name: Enragé
-    desc: Effectue toutes ses attaques de mêlée avec un avantage. toute attaque le ciblant à un avantage
+  - name: Maître de l'évasion
+    desc: toute attaque ciblant le ronin reçooit un désavantagetant que le ronin a plus de la moitié de ses points de vie
   - name: Dur à cuir
     desc: Ignore 5 (1d8) de tout dégâts reçus (après avoir pris en compte les résistances)
 actions:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Démon - Arcaniste.md",
+                "file": "NPCs/Monsters/Démon - Ronin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Démon - Arcaniste.md",
+                "file": "NPCs/Monsters/Démon - Ronin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Démon - Arcaniste.md",
+                "file": "NPCs/Monsters/Démon - Ronin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Démon - Arcaniste.md"
+                "file": "NPCs/Monsters/Démon - Ronin.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
     "NPCs/Monsters/Démon - Mage.md",
-    "NPCs/Monsters/Démon - Eclaireur.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
+    "NPCs/Monsters/Démon - Eclaireur.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Démon - Ronin.md",
