@@ -1,7 +1,6 @@
 
 
-````
 ```statblock
-name: Paarthurnax
-extends: Ancient Black Dragon
+name: Ours Cornu
+extends: Owlbear
 ```

@@ -59,6 +59,9 @@ Auberge de [[AbreissDorf]]
 - ![[Démon - Arcaniste]]
 - ![[Démon - Mage]]
 
+- ![[Ours cornu]]
+
+
 # Trésors
 - [ ]
 

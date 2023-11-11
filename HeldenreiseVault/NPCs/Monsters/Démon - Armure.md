@@ -4,7 +4,7 @@ image: [[wurzelhain.jpeg]]
 name: Armure démon
 size: M
 type: démon
-subtype: armure
+subtype: ar
 alignment: -
 ac: 18
 hp: 120
