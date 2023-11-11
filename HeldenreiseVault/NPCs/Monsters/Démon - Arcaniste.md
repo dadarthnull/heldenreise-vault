@@ -7,8 +7,8 @@ type: démon
 subtype: arcaniste
 alignment: -
 ac: 13
-hp: 105
-hit_dice: 10d12 + 35
+hp: 55
+hit_dice: 10d6 + 15
 speed: 40
 stats: [08, 10, 10, 18, 13, 15]
 saves:
@@ -30,22 +30,16 @@ traits:
 spells:
   - Spellcasting ability is Intelligence (Spell save DC 16, +8 to hit with spell attacks)
   - Cantrips: 
-  - 1st level (4 slots): mage armor*, magic missile, Silvery barb
+  - 1st level (4 slots): mage armor*, hideous laughter, Silvery barb, Silent image
+  - 2nd level (3 slots): invisibility, misty step, phantasmal force, nathair's mischief
+  - 3rd level (3 slots): fear, haste, slow
+  - 4th level (3 slots): delayed counterspell, resilient sphere, dimension door
+  - 5th level (2 slots): shut up!, wall of force
 actions:
-  - name: Multi-attaque
-    desc: Effecture 2 attaques de griffes et une attaque de poings
-  - name: Attaque (poings)
-    desc: "Melee Weapon Attack: +10 to Hit, reach 5ft, one target. Hit: 19 (2d8 + 8) contondant"
-  - name: Attaque (griffes)
-    desc: "Melee Weapon Attack: +10 to Hit, reach 5ft, one target. Hit: 19 (2d8 + 8) tranchant"
+  - name: Attaque (dague)
+    desc: "Melee Weapon Attack: +5 to Hit, reach 5ft, one target. Hit: 3 (1d4) perçant"
 bonus_actions:
-  - name: Charge
-    desc: "effecture un déplacement de la moitié de son mouvement, puis une unique attaque avec avantage"
-  - name: Le pouvoir de la rage
-    desc: "Regagne 2d10 points de vie"
 reactions:
-  - name: Même pas mal
-    desc: divise les dégâts reçus par 2
-  - name: Tu tapes fort ... Je tape plus fort
-    desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
+  - name: Je maîtrise la magie, pas toi
+    desc: si un adversaire lance un sort à moins de 30 pieds, peut utilier la réaction pour déplacer la cible du sort sur une autre cible ou zone éloigné d'un maximum de 10 pieds de la destination originale
 ```
