@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "NPCs/Monsters/Démon - Arcaniste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "NPCs/Monsters/Démon - Arcaniste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+                "file": "NPCs/Monsters/Démon - Arcaniste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Telkhall l'oblitérateur.md"
+                "file": "NPCs/Monsters/Démon - Arcaniste.md"
               }
             }
           },
@@ -180,13 +180,14 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Monsters/Démon - Mage.md",
+    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "Session Notes/Session 5.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Dragon - Dragon d'argent.md",
-    "NPCs/Monsters/Démon - Mage.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Démon - Eclaireur.md",
     "Assets/Abreissdorf-auberge-clients.png",
@@ -217,7 +218,6 @@
     "NPCs/Monsters/Goblin - Guerrier.md",
     "NPCs/Monsters/Goblin - Eclaireur.md",
     "NPCs/Monsters/Goblin - Goblin.md",
-    "NPCs/Monsters/Hiblou - Alpha.md",
     "NPCs/Monsters",
     "Sessions",
     "templates",
