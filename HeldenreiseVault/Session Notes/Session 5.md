@@ -17,9 +17,10 @@ Présents:
 
 # Scènes
 - Se débarrasser des agents du roi-démon
-- Pénétrer dans la tour pour relever son défi
-	- interpreter des indices pour lancer le rituel d'entrée
-	- le rituel invoque le grand dragon d'argent, un combat commence
+	- le dragon d'argent arrive
+		- il se moque des démons, les traites de marionnettes et les libère, ils s'effondrent, en larme ou hystériques,
+		- il traite Opus de Mire d'intrus et menace de les renvoyer
+		- il dit aux PJs qu'ils sont des victimes au destin volé.
 	- Mira s'effondre en proie à des convulsions, Opus perd tous ses moyens, les PJs sont tués par le dragon
 	- avant de mourir les joueurs voient:
 		- Mira "bug", son corps apparait et disparait, et parfois ses contours sont cubiques
