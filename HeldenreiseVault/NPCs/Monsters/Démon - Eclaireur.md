@@ -1,14 +1,14 @@
 
 ```statblock
 image: [[wurzelhain.jpeg]]
-name: Brute démon
+name: Eclaireur démon
 size: M
 type: démon
-subtype: brute
+subtype: éclaireur
 alignment: -
 ac: 13
-hp: 105
-hit_dice: 10d12 + 35
+hp: 65
+hit_dice: 5d8 + 35
 speed: 40
 stats: [14, 20, 16, 12, 16, 14]
 saves:
@@ -25,6 +25,8 @@ senses: perception passive 12
 languages: commun, démon
 cr: -
 traits:
+  - name: attaque sournoise
+    desc: Pendant son tour, la première attaque qui effectue des dégâts voit ses dégâts augmentés de 20(5d6)
 actions:
   - name: Multi-attaque
     desc: Effecture 2 attaques à la hache ou 2 tirs à l'arc
@@ -35,11 +37,7 @@ actions:
 bonus_actions:
   - name: On m'vois, on m'vois plus
     desc: "devient invisible jusqu'au début de son prochain tour"
-  - name: Le pouvoir de la rage
-    desc: "Regagne 2d10 points de vie"
 reactions:
-  - name: Même pas mal
-    desc: divise les dégâts reçus par 2
-  - name: Tu tapes fort ... Je tape plus fort
-    desc: après avoir été la cible d'une attaque réussie, peut effecture une unique attaque avec ses poings
+  - name: Oulah ça chauffe
+    desc: Si il n'est pas invisible, peut effectuer un mouvement de 10 pieds qui ne déclenche pas d'attaque d'opportunité quand un adversaire arrive au corps à corps
 ```
