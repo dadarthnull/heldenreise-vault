@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md",
+                "file": "NPCs/Habitants/Adeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Démon - Brute.md"
+                "file": "NPCs/Habitants/Adeline.md"
               }
             }
           },
@@ -179,6 +180,8 @@
   },
   "active": "26b7e09e562a95a1",
   "lastOpenFiles": [
+    "Personnages/Adelaïde.md",
+    "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Habitants/Lambert.md",
     "Assets/Abreissdorf-auberge-clients.png",
@@ -211,7 +214,6 @@
     "NPCs/Monsters/Démon - Mage assistant.md",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Démon - Eclaireur.md",
-    "Session Notes/Session 5.md",
     "NPCs/Monsters",
     "Heldenreise-zoom-sud-original.jpg",
     "Sessions",
