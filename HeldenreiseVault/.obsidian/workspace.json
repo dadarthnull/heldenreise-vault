@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md"
               }
             }
           },
@@ -180,10 +180,19 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Habitants/Dernier aventurier du village (retraité).md",
+    "NPCs/Habitants/Représentant de la guilde commerciale.md",
+    "NPCs/Habitants/Maître de la guilde des aventuriers.md",
+    "NPCs/Habitants/Prêtre.md",
+    "NPCs/Habitants/Forgeron perfectionniste.md",
+    "NPCs/Habitants/Bûcheron déplaisant.md",
+    "NPCs/Habitants/Herboriste du village.md",
+    "NPCs/Habitants/Alchimiste du village.md",
+    "NPCs/Habitants/Chef du village.md",
+    "Session Notes/Session 5.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Démon - Mage.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
-    "Session Notes/Session 5.md",
     "NPCs/Monsters/Démon - Armure.md",
     "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Ours cornu.md",
@@ -208,16 +217,7 @@
     "Assets/NPC-Nanette-1.png",
     "Assets/NPC-Adeline.png",
     "Assets/NPC-Nanette-2.png",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Géographie d'Heldenreise/Scénarios",
-    "templates/NPC simple.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
-    "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
-    "NPCs/Monsters/Goblin - Chevalier.md",
-    "NPCs/Monsters/Goblin - Guerrier.md",
-    "NPCs/Monsters/Goblin - Eclaireur.md",
-    "NPCs/Monsters/Goblin - Goblin.md",
     "NPCs/Monsters",
     "Sessions",
     "templates",
