@@ -14,4 +14,4 @@ tags: NPC,
 ---
 
 
-Forgeron du village de [[AbreissDorf]], époux de [[Mariette]]
+Forgeron du village de [[Géographie d'Heldenreise/Scénarios/AbreissDorf]], époux de [[Mariette]]

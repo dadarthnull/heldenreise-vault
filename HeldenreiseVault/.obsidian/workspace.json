@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Untitled.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Untitled.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Untitled.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Untitled.md"
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
               }
             }
           },
@@ -180,8 +180,20 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
-    "NPCs/Habitants/Propriétaire du magasin général.md",
+    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
+    "Géographie d'Heldenreise/Continent Est/Cadia.md",
+    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
+    "Géographie d'Heldenreise/Continent Est/Armelia.md",
+    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
+    "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Secrets et indices/AbreissDorf.md",
+    "Secrets et indices/Enigmes - archive interdit.md",
+    "Secrets et indices/Untitled/Untitled.md",
+    "Session Notes/Session 5.md",
     "NPCs/Habitants/Untitled.md",
+    "Secrets et indices/Untitled",
+    "NPCs/Habitants/Propriétaire du magasin général.md",
     "NPCs/Habitants/Représentant de l'authorité commerciale.md",
     "NPCs/Habitants/Dernier aventurier du village (retraité).md",
     "NPCs/Habitants/Maître de la guilde des aventuriers.md",
@@ -191,27 +203,16 @@
     "NPCs/Habitants/Herboriste du village.md",
     "NPCs/Habitants/Alchimiste du village.md",
     "NPCs/Habitants/Chef du village.md",
-    "Session Notes/Session 5.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Démon - Mage.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Monsters/Démon - Armure.md",
-    "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Monsters/Ours cornu.md",
-    "NPCs/Monsters/Démon - Ronin.md",
-    "NPCs/Monsters/Dragon - Dragon d'argent.md",
-    "NPCs/Monsters/Démon - Eclaireur.md",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Assets/dragon-blanc.jpeg",
     "Assets/bar-al-khazad.jpeg",
     "Assets/aquilonia.jpeg",
     "Assets/Pasted image 20231111194442.png",
-    "Personnages/Narllak.md",
-    "NPCs/Habitants/Nanette.md",
-    "NPCs/Habitants/Mariette.md",
-    "NPCs/Habitants/Marcus.md",
-    "NPCs/Habitants/Lambert.md",
     "Assets/NPC-Lambert.png",
     "Assets/NPC-Mariette.png",
     "Assets/NPC-Nanette-1.png",
@@ -224,7 +225,6 @@
     "Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Le jugement de la lumière",
     "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
-    "Géographie d'Heldenreise/Inconnu",
-    "Objets"
+    "Géographie d'Heldenreise/Inconnu"
   ]
 }

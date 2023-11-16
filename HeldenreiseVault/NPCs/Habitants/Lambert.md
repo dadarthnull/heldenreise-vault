@@ -16,4 +16,4 @@ tags: NPC,
 
 ![[NPC-Lambert.png]]
 
-Chasseur du village de [[AbreissDorf]]
+Chasseur du village de [[Géographie d'Heldenreise/Scénarios/AbreissDorf]]

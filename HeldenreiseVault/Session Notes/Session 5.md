@@ -48,7 +48,7 @@ Combat 13e tour arcanique
 - [[Telkhall l'oblitérateur]]
 - [[Grand dragon d’argent]]
 
-Auberge de [[AbreissDorf]]
+Auberge de [[Géographie d'Heldenreise/Scénarios/AbreissDorf]]
 * [[Nanette]]
 
 # Monstres
