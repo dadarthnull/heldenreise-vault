@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
+                "file": "NPCs/Habitants/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
+                "file": "NPCs/Habitants/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md",
+                "file": "NPCs/Habitants/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Représentant de la guilde commerciale.md"
+                "file": "NPCs/Habitants/Untitled.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "NPCs/Habitants/Propriétaire du magasin général.md",
+    "NPCs/Habitants/Untitled.md",
+    "NPCs/Habitants/Représentant de l'authorité commerciale.md",
     "NPCs/Habitants/Dernier aventurier du village (retraité).md",
-    "NPCs/Habitants/Représentant de la guilde commerciale.md",
     "NPCs/Habitants/Maître de la guilde des aventuriers.md",
     "NPCs/Habitants/Prêtre.md",
     "NPCs/Habitants/Forgeron perfectionniste.md",
@@ -210,8 +212,6 @@
     "NPCs/Habitants/Mariette.md",
     "NPCs/Habitants/Marcus.md",
     "NPCs/Habitants/Lambert.md",
-    "NPCs/Habitants/Adeline.md",
-    "Personnages/Adelaïde.md",
     "Assets/NPC-Lambert.png",
     "Assets/NPC-Mariette.png",
     "Assets/NPC-Nanette-1.png",
