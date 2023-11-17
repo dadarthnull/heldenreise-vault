@@ -14,7 +14,7 @@ Histoire
 Géographie
 - Région
 	- aux abords de la forêt d'argent
-	- proche de la route commerciale en les villes d'Armelia (Eisendom) et Arfilo (Helvengard)
+	- proche de la route commerciale en les villes d'[[Armelia]] ([[Royaume de Eisendom]]) et [[Arfilo]] ([[Royaume d’Helvengard]])
 - Voisinage
 	- forêt d'argent
 		- tour d'argent
@@ -38,7 +38,9 @@ Géographie
 			- Rumeurs
 	- forge
 		- armes de mauvaises qualités, bons équipements
-		- habitants: Mariette et Mar
+		- habitants: Mariette et Marcus
+		- Indices:
+			- 
 	- puit
 	- scierie
 	- chapelle
@@ -50,6 +52,7 @@ Géographie
 	- habitations
 	- champ des simples et remèdes
 	- verger
+	- cimetière
 
 
 Quêtes

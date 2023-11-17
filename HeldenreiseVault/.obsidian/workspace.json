@@ -16,6 +16,19 @@
                 "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "mode": "source",
                 "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d55cd65c3f8701c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Habitants/Marcus.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -168,13 +181,15 @@
   },
   "active": "9c490dd9f353754b",
   "lastOpenFiles": [
+    "Eisendom.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Habitants/Marcus.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Géographie d'Heldenreise/Continent Est/Cadia.md",
     "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
     "Géographie d'Heldenreise/Continent Est/Armelia.md",
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Secrets et indices/AbreissDorf.md",
     "Secrets et indices/Enigmes - archive interdit.md",
     "Secrets et indices/Untitled/Untitled.md",
@@ -193,8 +208,6 @@
     "NPCs/Habitants/Chef du village.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Démon - Mage.md",
-    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
-    "NPCs/Monsters/Démon - Armure.md",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Assets/dragon-blanc.jpeg",
