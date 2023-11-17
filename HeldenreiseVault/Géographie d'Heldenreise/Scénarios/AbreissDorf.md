@@ -18,7 +18,10 @@ Géographie
 		- tour d'argent
 		- mausolée de Mira
 		- pierre de rencontre
-		- clairière des 
+		- clairière des herbes médicinales
+	- pierre de rencontre et tour en ruine
+	- hameau des villageois fénéants
+	- hameau des villageois aux herbes
 - Village
 
 
