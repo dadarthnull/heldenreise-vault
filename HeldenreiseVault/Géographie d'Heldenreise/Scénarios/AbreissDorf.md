@@ -13,6 +13,8 @@ Histoire
 
 Géographie
 - Région
+	- aux abords de la forêt d'argent
+	- proche de la route commerciale en les villes d'Armelia (Eisendom) et Arfilo (Helvengard)
 - Voisinage
 	- forêt d'argent
 		- tour d'argent
@@ -20,11 +22,34 @@ Géographie
 		- pierre de rencontre
 		- clairière des herbes médicinales
 	- pierre de rencontre et tour en ruine
-	- hameau des villageois fénéants
+	- hameau des villageois fainéants
 	- hameau des villageois aux herbes
 	- temple enterré
 	- grotte des ours cornus
+	- champs
+	- vergers
+	- pâtures
 - Village
+	- auberge
+		- logement
+		- habitants: Nanette, Adeline, le cuisinier
+		- Indices
+			- lettre d'Opus
+			- Rumeurs
+	- forge
+		- armes de mauvaises qualités, bons équipements
+		- habitants: Mariette et Mar
+	- puit
+	- scierie
+	- chapelle
+	- hall des aventuriers
+	- magasin général
+	- entrepôt général
+	- cabane de l'herboriste
+	- maison du chef
+	- habitations
+	- champ des simples et remèdes
+	- verger
 
 
 Quêtes
