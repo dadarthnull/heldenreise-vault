@@ -12,7 +12,14 @@ Histoire
 
 
 Géographie
-- 
+- Région
+- Voisinage
+	- forêt d'argent
+		- tour d'argent
+		- mausolée de Mira
+		- pierre de rencontre
+		- clairière des 
+- Village
 
 
 Quêtes
