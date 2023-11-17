@@ -22,6 +22,8 @@ Géographie
 	- pierre de rencontre et tour en ruine
 	- hameau des villageois fénéants
 	- hameau des villageois aux herbes
+	- temple enterré
+	- grotte des ours cornus
 - Village
 
 
