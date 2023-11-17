@@ -98,18 +98,6 @@
             }
           },
           {
-            "id": "4f17634c1132dd8e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ec2c0bb416cc2aa1",
             "type": "leaf",
             "state": {
@@ -157,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
