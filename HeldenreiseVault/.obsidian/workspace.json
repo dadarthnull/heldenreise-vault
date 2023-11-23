@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Raimund.md",
+                "file": "NPCs/Habitants/Wielfried.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "43aeb264afaa648f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,8 +183,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,11 +204,16 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "43aeb264afaa648f",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Habitants/Wielfried.md",
+    "NPCs/Habitants/Otto.md",
+    "NPCs/Habitants/Solange.md",
+    "NPCs/Habitants/Prêtre.md",
+    "NPCs/Habitants/Sylvester.md",
     "NPCs/Habitants/Raimund.md",
     "NPCs/Habitants/Oswald.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Gerda.md",
     "NPCs/Habitants/Eckhart.md",
     "NPCs/Habitants/Gustav.md",
@@ -204,8 +221,6 @@
     "NPCs/Habitants/Marcus.md",
     "NPCs/Habitants/Gretia.md",
     "NPCs/Habitants/Grausam.md",
-    "NPCs/Habitants/Sylvester.md",
-    "NPCs/Habitants/Otto.md",
     "NPCs/Habitants/Lutz.md",
     "Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
@@ -217,10 +232,7 @@
     "Secrets et indices/AbreissDorf.md",
     "Secrets et indices/Enigmes - archive interdit.md",
     "Secrets et indices/Untitled/Untitled.md",
-    "Session Notes/Session 5.md",
     "Secrets et indices/Untitled",
-    "NPCs/Habitants/Propriétaire du magasin général.md",
-    "NPCs/Habitants/Représentant de l'authorité commerciale.md",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Assets/dragon-blanc.jpeg",

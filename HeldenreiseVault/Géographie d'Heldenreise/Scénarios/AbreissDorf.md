@@ -34,6 +34,7 @@ Géographie
 	2. Chapelle et nouveau cimetière
 	3. fermier
 	4. Magasin général
+		- tenu par un jeune homme, [[Wielfried]] et sa mère [[Solange]]
 	5. Guilde des bûcherons
 		- [[Gustav]]
 	6. fermier (verger)
@@ -69,17 +70,21 @@ Géographie
 	24. notable
 	25. guilde des aventuriers
 		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
-		- 
+		- [[Otto]], maître de la guilde, essaie de maintenir le batiment en vie
+		- l'étage a été transformé en garderie et salle de classe pour les enfants du village
+		- un petit guichet et une table dans un coin servent toujours pour les affaires de la guilde, avec un tableau d'affichage, le reste de la salle commune a été transformé en atelier communal
 	26. scierie
 	27. maison des gardes
 		- Capitaine de la garde: [[Shikza]]
-		- Gardes à plein temps: 
-	1. fournitures de l'aventurier
-	2. pont de bois, route vers Armelia
-	3. route vers la forêt d'argent et Arfilo
-	4. chemin vers la forêt d'argent et les montagnes
-	5. chemin du bois
-	6. verger
+		- Gardes à plein temps: [[Moritz]], [[Heisshitze]], [[Geduldh]]
+	28. fournitures de l'aventurier
+		- ancien magasin, a connu des jours meilleurs, le toit fuit
+		- tenu par une ado et son petit frère qui 
+	1. pont de bois, route vers Armelia
+	2. route vers la forêt d'argent et Arfilo
+	3. chemin vers la forêt d'argent et les montagnes
+	4. chemin du bois
+	5. verger
 
 
 
