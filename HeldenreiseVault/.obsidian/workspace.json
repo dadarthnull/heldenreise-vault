@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Benno.md",
+                "file": "NPCs/Habitants/Rihiarda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+              }
             }
           },
           {
@@ -169,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,10 +199,14 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "c94a58068d1121e2",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "NPCs/Habitants/Rihiarda.md",
+    "NPCs/Habitants/Hassel.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Benno.md",
+    "NPCs/Habitants/Rosina.md",
+    "NPCs/Habitants/Dirke.md",
     "NPCs/Habitants/Lasfam.md",
     "NPCs/Habitants/Wielfried.md",
     "NPCs/Habitants/Otto.md",
@@ -219,10 +227,6 @@
     "Géographie d'Heldenreise/Continent Est/Cadia.md",
     "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
     "Géographie d'Heldenreise/Continent Est/Armelia.md",
-    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
-    "Géographie d'Heldenreise/Continent Est/Section Sud du continent.md",
-    "Secrets et indices/AbreissDorf.md",
-    "Secrets et indices/Enigmes - archive interdit.md",
     "Secrets et indices/Untitled",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",

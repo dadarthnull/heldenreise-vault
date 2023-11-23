@@ -42,62 +42,70 @@ Géographie
 	3. Guilde des bûcherons
 		- [[Gustav]]
 	4. fermier (verger)
+		- [[Hassel]] s'occupe du verger pour toute le village, les habitants participent tous aux récoltes
 	5. maison des voyageurs
-	6. entrepôt communal
+		- cette maison a quelques chambres pour héberger les voyageurs qui n'ont pas les moyeuns d'une chambre à l'auberge et ne veulent pas camper.
+		- 
+	1. entrepôt communal
 		- un grand entrepôt géré conjointement par le chef du village [[Gustav]], le chef de la guilde des aventuriers [[Otto]] et [[Adeline]]
 		- sert pour stocker les biens communs au village et parfois peut aussi stocker des biens personnels, contre droit de stockage ou corvée supplémentaire
-	7. salle des fêtes
+	2. salle des fêtes
 		- grande salle ou le village organise les évènements officiels et les fêtes, son entretient est une corvée attribuée aux habitants à tour de rôle
-	8. plazza
-	9. moulin
-	10. tour de garde
+	3. plazza
+	4. moulin
+	5. tour de garde
 		- une simple tour en bois, toujours occupée par un garde
 		- sert plus à avertir de l'arrivée de caravanes pour que le village puisse se préparer à les accueillir qu'à prévenir une arrivée de monstres ou brigands
-	1. fermier
-	2. alchimiste
+	6. fermier
+	7. alchimiste
 		- [[Raimund]]
-	3. herboriste
+	8. herboriste
 		- [[Oswald]]
-	4. auberge
+	9. auberge
 		- logement
 		- habitants: [[Nanette]], [[Adeline]], [[Eckhart]]
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
-	5. ancien cimetière
+	10. ancien cimetière
 		- petit cimetière datant de l'âge des héros, il n'est plus utilisé et les pierres tombales sont maintenant toutes illisibles
-	6. forgeron
+	11. forgeron
 		- armes de mauvaises qualités, bons équipements
 		- habitants: [[Mariette]] et [[Marcus]]
 		- Indices:
 			- 
-	7. propriétaire terrien
-	8. fermier
-	9. autorité commerciale
+	12. propriétaire terrien
+	13. fermier
+	14. autorité commerciale
 		- [[Benno]]
-	10. fermier
-	11. chef du village
+	15. fermier
+	16. chef du village
 		- [[Sylvester]] le chef, [[Gerda]] sa femme, [[Grausam]] son fils et [[Gretia]] sa fille
-	12. notable
-	13. guilde des aventuriers
+	17. notable
+	18. guilde des aventuriers
 		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
 		- [[Otto]], maître de la guilde, essaie de maintenir le batiment en vie
 		- l'étage a été transformé en garderie et salle de classe pour les enfants du village
 		- un petit guichet et une table dans un coin servent toujours pour les affaires de la guilde, avec un tableau d'affichage, le reste de la salle commune a été transformé en atelier communal
-	14. scierie
-	15. maison des gardes
+	19. scierie
+	20. maison des gardes
 		- Capitaine de la garde: [[Shikza]]
 		- Gardes à plein temps: [[Moritz]], [[Heisshitze]], [[Geduldh]]
-	16. fournitures de l'aventurier
+	21. fournitures de l'aventurier
 		- habitants: [[Rosina]], [[Dirke]]
 		- ancien magasin, a connu des jours meilleurs, le toit fuit
 		- tenu par une ado et son petit frère qui ont hérité du bâtiment à la mort de leurs parents. Le village essaie de les aider mais la vie n'est pas rose
 		- 
-	17. pont de bois, route vers Armelia
-	18. route vers la forêt d'argent et Arfilo
-	19. chemin vers la forêt d'argent et les montagnes
-	20. chemin du bois
-	21. verger
+	22. pont de bois, route vers Armelia
+		- pont en bon état, refait récemment
+	23. route vers la forêt d'argent et Arfilo
+		- la route, au moins sur les premiers kilomètres est bien entretenue
+	24. chemin vers la forêt d'argent et les montagnes
+		- petit chemin, utilisé par les bûcherons et le chasseur
+	25. chemin du bois
+		- le bois est un petit bois, avec beaucoup d'arbres à graines comestibles (noix, noisettes) et un peu de gibier. Il est utilisé fréquemment par les villageois et plutôt sûr, les enfants peuvent y aller jouer s'ils sont accompagnés d'un adulte
+	26. verger
+		- verger de pommes, poires et abricots
 
 
 
