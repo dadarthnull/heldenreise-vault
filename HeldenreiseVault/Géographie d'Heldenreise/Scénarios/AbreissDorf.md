@@ -32,59 +32,68 @@ Géographie
 - Village
 	1. Maison du chasseur
 	2. Chapelle et nouveau cimetière
-	3. fermier
-	4. Magasin général
+		- la chapelle est entretenue par [[Lasfam]] le prêtre
+		- petit autel des grands dragon (un autel pour tous les dragons) dans une aile
+		- vitraux et série d'autels pour les dieux originels, les dieux vénérés par les humains avant l'exode dans cette region:
+			- le père des dieux majeurs, Jupiter et son épouse Xena ont eu 3 fils, Hercule, Thor et Odin (jumaux) et 3 filles, Isis, Athéna et Morrigane
+	1. fermier
+	2. Magasin général
 		- tenu par un jeune homme, [[Wielfried]] et sa mère [[Solange]]
-	5. Guilde des bûcherons
+	3. Guilde des bûcherons
 		- [[Gustav]]
-	6. fermier (verger)
-	7. maison des voyageurs
-	8. entrepôt communal
-	9. salle des fêtes
-	10. plazza
-	11. moulin
-	12. tour de garde
-	13. fermier
-	14. alchimiste
+	4. fermier (verger)
+	5. maison des voyageurs
+	6. entrepôt communal
+		- un grand entrepôt géré conjointement par le chef du village [[Gustav]], le chef de la guilde des aventuriers [[Otto]] et [[Adeline]]
+		- sert pour stocker les biens communs au village et parfois peut aussi stocker des biens personnels, contre droit de stockage ou corvée supplémentaire
+	7. salle des fêtes
+		- grande salle ou le village organise les évènements officiels et les fêtes, son entretient est une corvée attribuée aux habitants à tour de rôle
+	8. plazza
+	9. moulin
+	10. tour de garde
+	11. fermier
+	12. alchimiste
 		- [[Raimund]]
-	15. herboriste
+	13. herboriste
 		- [[Oswald]]
-	16. auberge
+	14. auberge
 		- logement
 		- habitants: [[Nanette]], [[Adeline]], [[Eckhart]]
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
-	17. ancien cimetière
-	18. forgeron
+	15. ancien cimetière
+	16. forgeron
 		- armes de mauvaises qualités, bons équipements
 		- habitants: [[Mariette]] et [[Marcus]]
 		- Indices:
 			- 
-	19. propriétaire terrien
+	17. propriétaire terrien
+	18. fermier
+	19. autorité commerciale
 	20. fermier
-	21. autorité commerciale
-	22. fermier
-	23. chef du village
+	21. chef du village
 		- [[Sylvester]] le chef, [[Gerda]] sa femme, [[Grausam]] son fils et [[Gretia]] sa fille
-	24. notable
-	25. guilde des aventuriers
+	22. notable
+	23. guilde des aventuriers
 		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
 		- [[Otto]], maître de la guilde, essaie de maintenir le batiment en vie
 		- l'étage a été transformé en garderie et salle de classe pour les enfants du village
 		- un petit guichet et une table dans un coin servent toujours pour les affaires de la guilde, avec un tableau d'affichage, le reste de la salle commune a été transformé en atelier communal
-	26. scierie
-	27. maison des gardes
+	24. scierie
+	25. maison des gardes
 		- Capitaine de la garde: [[Shikza]]
 		- Gardes à plein temps: [[Moritz]], [[Heisshitze]], [[Geduldh]]
-	28. fournitures de l'aventurier
+	26. fournitures de l'aventurier
+		- habitants: [[Rosina]], [[Dirke]]
 		- ancien magasin, a connu des jours meilleurs, le toit fuit
-		- tenu par une ado et son petit frère qui 
-	1. pont de bois, route vers Armelia
-	2. route vers la forêt d'argent et Arfilo
-	3. chemin vers la forêt d'argent et les montagnes
-	4. chemin du bois
-	5. verger
+		- tenu par une ado et son petit frère qui ont hérité du bâtiment à la mort de leurs parents. Le village essaie de les aider mais la vie n'est pas rose
+		- 
+	27. pont de bois, route vers Armelia
+	28. route vers la forêt d'argent et Arfilo
+	29. chemin vers la forêt d'argent et les montagnes
+	30. chemin du bois
+	31. verger
 
 
 

@@ -1,0 +1,1 @@
+Prêtre du village, pratique le culte des dieux originels, officie quelques cérémonie aux grands dragon et donne des cours aux enfants du village
