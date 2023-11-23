@@ -46,39 +46,33 @@ Géographie
 	14. alchimiste
 	15. herboriste
 	16. auberge
-	17. ancien cimetière
-	18. forgeron
-	19. proprietaire terrien
-	20. fermier
-	21. authorité commerciale
-	22. fermier
-	23. chef du village
-	24. notable
-	25. guilde des aventuriers
-	26. 
-	- auberge
 		- logement
 		- habitants: Nanette, Adeline, le cuisinier
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
-	- forge
+	17. ancien cimetière
+	18. forgeron
 		- armes de mauvaises qualités, bons équipements
 		- habitants: Mariette et Marcus
 		- Indices:
 			- 
-	- puit
-	- scierie
-	- chapelle
-	- hall des aventuriers
-	- magasin général
-	- entrepôt général
-	- cabane de l'herboriste
-	- maison du chef
-	- habitations
-	- champ des simples et remèdes
-	- verger
-	- cimetière
+	19. propriétaire terrien
+	20. fermier
+	21. autorité commerciale
+	22. fermier
+	23. chef du village
+	24. notable
+	25. guilde des aventuriers
+	26. scierie
+	27. maison des gardes
+	28. fournitures de l'aventurier
+	29. pont de bois, route vers Armelia
+	30. route vers la forêt d'argent et Arfilo
+	31. chemin vers la forêt d'argent et les montagnes
+	32. chemin du bois
+	33. verger
+
 
 
 Quêtes
