@@ -35,6 +35,7 @@ Géographie
 	3. fermier
 	4. Magasin général
 	5. Guilde des bûcherons
+		- [[Gustav]]
 	6. fermier (verger)
 	7. maison des voyageurs
 	8. entrepôt communal
@@ -44,17 +45,19 @@ Géographie
 	12. tour de garde
 	13. fermier
 	14. alchimiste
+		- [[Raimund]]
 	15. herboriste
+		- [[Oswald]]
 	16. auberge
 		- logement
-		- habitants: [[Narllak]], [[Adeline]], le cuisinier
+		- habitants: [[Nanette]], [[Adeline]], [[Eckhart]]
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
 	17. ancien cimetière
 	18. forgeron
 		- armes de mauvaises qualités, bons équipements
-		- habitants: Mariette et Marcus
+		- habitants: [[Mariette]] et [[Marcus]]
 		- Indices:
 			- 
 	19. propriétaire terrien
@@ -62,16 +65,21 @@ Géographie
 	21. autorité commerciale
 	22. fermier
 	23. chef du village
+		- [[Sylvester]] le chef, [[Gerda]] sa femme, [[Grausam]] son fils et [[Gretia]] sa fille
 	24. notable
 	25. guilde des aventuriers
+		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
+		- 
 	26. scierie
 	27. maison des gardes
-	28. fournitures de l'aventurier
-	29. pont de bois, route vers Armelia
-	30. route vers la forêt d'argent et Arfilo
-	31. chemin vers la forêt d'argent et les montagnes
-	32. chemin du bois
-	33. verger
+		- Capitaine de la garde: [[Shikza]]
+		- Gardes à plein temps: 
+	1. fournitures de l'aventurier
+	2. pont de bois, route vers Armelia
+	3. route vers la forêt d'argent et Arfilo
+	4. chemin vers la forêt d'argent et les montagnes
+	5. chemin du bois
+	6. verger
 
 
 
