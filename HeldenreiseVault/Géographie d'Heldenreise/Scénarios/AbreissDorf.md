@@ -44,8 +44,9 @@ Géographie
 	4. fermier (verger)
 		- [[Hassel]] s'occupe du verger pour toute le village, les habitants participent tous aux récoltes
 	5. maison des voyageurs
-		- cette maison a quelques chambres pour héberger les voyageurs qui n'ont pas les moyeuns d'une chambre à l'auberge et ne veulent pas camper.
-		- 
+		- cette maison a quelques chambres pour héberger les voyageurs qui n'ont pas les moyens d'une chambre à l'auberge et ne veulent pas camper.
+		- tenu par [[Rihiarda]]
+		- était une auberge concurrente de la grande auberge il y a longtemps, mais est devenu un refuge communal il y a 20 ans
 	1. entrepôt communal
 		- un grand entrepôt géré conjointement par le chef du village [[Gustav]], le chef de la guilde des aventuriers [[Otto]] et [[Adeline]]
 		- sert pour stocker les biens communs au village et parfois peut aussi stocker des biens personnels, contre droit de stockage ou corvée supplémentaire
@@ -84,7 +85,7 @@ Géographie
 	17. notable
 	18. guilde des aventuriers
 		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
-		- [[Otto]], maître de la guilde, essaie de maintenir le batiment en vie
+		- [[Otto]], maître de la guilde, essaie de maintenir le bâtiment en état
 		- l'étage a été transformé en garderie et salle de classe pour les enfants du village
 		- un petit guichet et une table dans un coin servent toujours pour les affaires de la guilde, avec un tableau d'affichage, le reste de la salle commune a été transformé en atelier communal
 	19. scierie

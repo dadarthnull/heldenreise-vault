@@ -131,16 +131,6 @@
             }
           },
           {
-            "id": "4173ad6213b1f7d6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
-              }
-            }
-          },
-          {
             "id": "3dd5431e44461af8",
             "type": "leaf",
             "state": {
@@ -156,6 +146,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "4173ad6213b1f7d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+              }
             }
           },
           {
@@ -178,7 +178,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "c12918ecb4523748",
   "lastOpenFiles": [
     "NPCs/Habitants/Rihiarda.md",
     "NPCs/Habitants/Hassel.md",
