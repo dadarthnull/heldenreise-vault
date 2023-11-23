@@ -47,7 +47,7 @@ Géographie
 	15. herboriste
 	16. auberge
 		- logement
-		- habitants: Nanette, Adeline, le cuisinier
+		- habitants: [[Narllak]], [[Adeline]], le cuisinier
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
