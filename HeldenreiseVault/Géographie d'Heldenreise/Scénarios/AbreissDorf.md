@@ -30,6 +30,32 @@ Géographie
 	- vergers
 	- pâtures
 - Village
+	1. Maison du chasseur
+	2. Chapelle et nouveau cimetière
+	3. fermier
+	4. Magasin général
+	5. Guilde des bûcherons
+	6. fermier (verger)
+	7. maison des voyageurs
+	8. entrepôt communal
+	9. salle des fêtes
+	10. plazza
+	11. moulin
+	12. tour de garde
+	13. fermier
+	14. alchimiste
+	15. herboriste
+	16. auberge
+	17. ancien cimetière
+	18. forgeron
+	19. proprietaire terrien
+	20. fermier
+	21. authorité commerciale
+	22. fermier
+	23. chef du village
+	24. notable
+	25. guilde des aventuriers
+	26. 
 	- auberge
 		- logement
 		- habitants: Nanette, Adeline, le cuisinier
