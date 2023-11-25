@@ -54,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,10 +213,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "422322d7302b2770",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 6 - 2023-11-25.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Bierce.md",
     "NPCs/Habitants/Otto.md",
     "Session Notes/Session 0.md",
