@@ -38,7 +38,7 @@ tags: heldenreise session-notes
 - [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
 - [ ]  Aller voire l'obélisque magique dans la forêt - [[Otto]] à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon (s'inspierer de sunken citadelle)
 - [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern
-- [ ]  
+- [ ]  (evenement) Une fillette cherche des aventureirs pour chercher son papa dans la montagne - [[Marthe]]
 - [ ]  
 - [ ]  
 - [ ]  

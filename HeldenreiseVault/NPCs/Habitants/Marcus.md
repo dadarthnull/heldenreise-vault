@@ -13,5 +13,6 @@ class: []
 tags: NPC, 
 ---
 
+![[Johann-portrait.webp]]
 
 Forgeron du village de [[Géographie d'Heldenreise/Scénarios/AbreissDorf]], époux de [[Mariette]]

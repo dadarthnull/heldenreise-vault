@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+                "file": "Leise.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Solange.md",
+                "file": "Session Notes/Session 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Solange.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Solange.md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Solange.md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,41 +220,41 @@
   },
   "active": "7f351fd4ac8c27b3",
   "lastOpenFiles": [
+    "Leise.md",
+    "Leise-portrait.webp",
+    "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+    "Marthe.md",
+    "Marthe-portrait.webp",
+    "Session Notes/Session 6.md",
     "NPCs/Habitants/Lasfam.md",
-    "NPCs/Habitants/Lambert.md",
+    "Ferdinand-portrait.webp",
+    "NPCs/Habitants/Mariette.md",
+    "NPCs/Habitants/Lutz.md",
+    "NPCs/Habitants/Marcus.md",
     "NPCs/Habitants/Hassel.md",
+    "NPCs/Habitants/Lambert.md",
+    "Ingo-portrait-2.webp",
+    "Johann-portrait.webp",
+    "NPCs/Habitants/Nanette.md",
+    "NPCs/Habitants/Oswald.md",
+    "Fran--portrait.webp",
+    "NPCs/Habitants/Otto.md",
+    "Gieselfried-portrait.webp",
+    "NPCs/Habitants/Raimund.md",
+    "Zack-portrait.webp",
+    "NPCs/Habitants/Rihiarda.md",
+    "NPCs/Habitants/Rosina.md",
+    "Liz-portrait.webp",
+    "NPCs/Habitants/Solange.md",
+    "NPCs/Habitants/Sylvester.md",
+    "Gustav-portrait 1.webp",
+    "NPCs/Habitants/Wielfried.md",
     "NPCs/Habitants/Gustav.md",
     "NPCs/Habitants/Gretia.md",
     "NPCs/Habitants/Grausam.md",
     "NPCs/Habitants/Gerda.md",
     "NPCs/Habitants/Eckhart.md",
     "NPCs/Habitants/Dirke.md",
-    "NPCs/Habitants/Bierce.md",
-    "Belgrieve.webp",
-    "Angeline.webp",
-    "NPCs/Habitants/Benno.md",
-    "NPCs/Habitants/Adeline.md",
-    "NPCs/Habitants/Lutz.md",
-    "Hugo-portrait.webp",
-    "Deid-portrait.webp",
-    "angelica-portrait 1.webp",
-    "angelica-portrait.webp",
-    "Sylvester-portrait.webp",
-    "Hirschur-portrait.webp",
-    "Ingo-portrait.webp",
-    "Frey-portrait.webp",
-    "Session Notes/Session 6.md",
-    "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 5.md",
-    "Géographie d'Heldenreise/Continent Est/Flammendrache.md",
-    "Gustavo Haggard.md",
-    "NPCs/Ennemis/Titia Andromico.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
-    "NPCs/Habitants/Rihiarda.md",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
