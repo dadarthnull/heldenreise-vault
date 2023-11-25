@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Gustavo Haggard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Gustavo Haggard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "Gustavo Haggard.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Gustavo Haggard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,11 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Ennemis/Titia Andromico.md",
+    "Gustavo Haggard.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "Session Notes/Session 6.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Rihiarda.md",
     "Session Notes/Session 5.md",
     "NPCs/Habitants/Hassel.md",
@@ -225,9 +228,6 @@
     "NPCs/Habitants/Gretia.md",
     "NPCs/Habitants/Grausam.md",
     "NPCs/Habitants/Lutz.md",
-    "Eisendom.md",
-    "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
-    "Géographie d'Heldenreise/Continent Est/Cadia.md",
     "Secrets et indices/Untitled",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",

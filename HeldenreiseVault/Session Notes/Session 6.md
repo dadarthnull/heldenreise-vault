@@ -31,7 +31,7 @@
 - [ ]  Récolter des fleurs de baies d'hiver - répétable, plante très rare trouvable dans des creux pierreux, génère du froid
 - [ ]  Visiter la tour d'argent - parchemin d'Opus
 - [ ] Accompagner [[Dirke]] en forêt pour trouver des branches de noisetier doré pour aider sa soeur
-- [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de )
+- [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
 - [ ]  
 - [ ]  
 - [ ]  
