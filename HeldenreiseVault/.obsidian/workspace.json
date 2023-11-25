@@ -47,14 +47,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 0.md",
+                "file": "NPCs/Habitants/Bierce.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+                "file": "Session Notes/Session 6 - 2023-11-25.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,12 +214,13 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "422322d7302b2770",
   "lastOpenFiles": [
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "Session Notes/Session 0.md",
     "NPCs/Habitants/Bierce.md",
+    "NPCs/Habitants/Otto.md",
+    "Session Notes/Session 0.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Habitants/Dirke.md",
     "NPCs/Habitants/Eckhart.md",
     "Session Notes/Session 5 - 2023-11-11.md",
@@ -245,7 +247,6 @@
     "Ingo-portrait-2.webp",
     "Johann-portrait.webp",
     "NPCs/Habitants/Nanette.md",
-    "NPCs/Habitants/Oswald.md",
     "Fran--portrait.webp",
     "Gieselfried-portrait.webp",
     "Zack-portrait.webp",
