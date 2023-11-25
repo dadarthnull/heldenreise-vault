@@ -21,7 +21,12 @@ tags: heldenreise session-notes
 
 # Scenes
 
-- 
+- Petit déjeuner et la lettre
+	- lettre d'Opus
+	- les enfants sont excités de rencontrer un Harangon et demandent si il est "détéctive de la carotte" comme Liren Semloh, ils peuvent montrer les 2 livres qu'ils ont
+		- 
+- Voyage à la guilde des aventuriers:
+	- les PJs n'ont pas de papiers d'identification (c'est une invention récente de la duchesse), si ils s'enregistrent et 
 - 
 - 
 - 
@@ -35,11 +40,11 @@ tags: heldenreise session-notes
 - [ ]  Récolter des fleurs de baies d'hiver - répétable, plante très rare trouvable dans des creux pierreux, génère du froid
 - [ ]  Visiter la tour d'argent - parchemin d'Opus
 - [ ] Accompagner [[Dirke]] en forêt pour trouver des branches de noisetier doré pour aider sa soeur
-- [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
-- [ ]  Aller voire l'obélisque magique dans la forêt - [[Otto]] à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon (s'inspierer de sunken citadelle)
-- [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern
-- [ ]  (evenement) Une fillette cherche des aventureirs pour chercher son papa dans la montagne - [[Marthe]]
-- [ ]  
+- [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'autorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
+- [ ]  Aller voire l'obélisque magique dans la forêt - [[Otto]] à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon (s'inspirer de sunken citadelle)
+- [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern, il squette une ancienne tour de guet abandonnée
+- [ ]  (évènement) Une fillette cherche des aventuriers pour chercher son papa dans la montagne - [[Marthe]] n'a pas d'argent mais elle connait des plantes médicinales qu'elle est prête à donner à qui part à la recherche de son papa
+- [ ]  (évènement) [[Zakhan le noir]] fait sa visite hebdomadaire le jour de marché, il est extrêmement désagréable, il vit dans une cave au Nord-Est
 - [ ]  
 - [ ]  
 
