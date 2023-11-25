@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "NPCs/Habitants/Dirke.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "NPCs/Habitants/Dirke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "NPCs/Habitants/Dirke.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "NPCs/Habitants/Dirke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +220,14 @@
   },
   "active": "7f351fd4ac8c27b3",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Habitants/Bierce.md",
+    "NPCs/Habitants/Benno.md",
+    "benno-portrait 1.webp",
+    "benno-portrait.webp",
+    "NPCs/Habitants/Adeline.md",
     "Session Notes/Session 6.md",
+    "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
@@ -232,7 +238,6 @@
     "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Habitants/Rihiarda.md",
     "NPCs/Habitants/Hassel.md",
-    "NPCs/Habitants/Benno.md",
     "NPCs/Habitants/Rosina.md",
     "NPCs/Habitants/Dirke.md",
     "NPCs/Habitants/Lasfam.md",
@@ -243,9 +248,6 @@
     "NPCs/Habitants/Raimund.md",
     "NPCs/Habitants/Oswald.md",
     "NPCs/Habitants/Gerda.md",
-    "NPCs/Habitants/Eckhart.md",
-    "NPCs/Habitants/Gustav.md",
-    "NPCs/Habitants/Bierce.md",
     "Secrets et indices/Untitled",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
@@ -256,8 +258,6 @@
     "Assets/NPC-Lambert.png",
     "Assets/NPC-Mariette.png",
     "Assets/NPC-Nanette-1.png",
-    "Assets/NPC-Adeline.png",
-    "Assets/NPC-Nanette-2.png",
     "Géographie d'Heldenreise/Scénarios",
     "NPCs/Monsters",
     "Sessions",

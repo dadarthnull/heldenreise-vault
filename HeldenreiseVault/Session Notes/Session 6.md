@@ -36,8 +36,8 @@ tags: heldenreise session-notes
 - [ ]  Visiter la tour d'argent - parchemin d'Opus
 - [ ] Accompagner [[Dirke]] en forêt pour trouver des branches de noisetier doré pour aider sa soeur
 - [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
-- [ ]  Aller voire l'obelisque magique dans la forêt - [[Ott]]
-- [ ]  
+- [ ]  Aller voire l'obélisque magique dans la forêt - [[Otto]] à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon (s'inspierer de sunken citadelle)
+- [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern
 - [ ]  
 - [ ]  
 - [ ]  
