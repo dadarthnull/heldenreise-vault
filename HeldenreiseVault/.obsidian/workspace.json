@@ -34,14 +34,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 0.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Eckhart.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Eckhart.md"
+                "file": "Session Notes/Session 6 - 2023-11-25.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Eckhart.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +201,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "422322d7302b2770",
   "lastOpenFiles": [
+    "Session Notes/Session 0.md",
+    "NPCs/Habitants/Eckhart.md",
     "NPCs/Habitants/Dirke.md",
     "NPCs/Habitants/Bierce.md",
-    "NPCs/Habitants/Eckhart.md",
     "NPCs/Habitants/Benno.md",
     "NPCs/Habitants/Adeline.md",
     "Session Notes/Session 6 - 2023-11-25.md",
@@ -213,7 +215,6 @@
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
-    "Session Notes/Session 0.md",
     "NPCs/Célébrités/Liren Selmoh.md",
     "NPCs/Célébrités/Marie Ortie.md",
     "Leise.md",
