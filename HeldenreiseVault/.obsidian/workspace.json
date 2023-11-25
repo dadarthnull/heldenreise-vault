@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "NPCs/Habitants/Rihiarda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+                "file": "NPCs/Habitants/Rihiarda.md"
               }
             }
           },
@@ -172,14 +172,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "NPCs/Habitants/Rihiarda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
