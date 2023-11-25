@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Eckhart.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03ee7fbf88260007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 0.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,16 +213,17 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "422322d7302b2770",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 0.md",
-    "NPCs/Habitants/Eckhart.md",
-    "NPCs/Habitants/Dirke.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Bierce.md",
+    "NPCs/Habitants/Dirke.md",
+    "NPCs/Habitants/Eckhart.md",
+    "Session Notes/Session 5 - 2023-11-11.md",
     "NPCs/Habitants/Benno.md",
     "NPCs/Habitants/Adeline.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 4 - 2023-XX-XX.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
@@ -234,7 +247,6 @@
     "NPCs/Habitants/Nanette.md",
     "NPCs/Habitants/Oswald.md",
     "Fran--portrait.webp",
-    "NPCs/Habitants/Otto.md",
     "Gieselfried-portrait.webp",
     "Zack-portrait.webp",
     "Liz-portrait.webp",
