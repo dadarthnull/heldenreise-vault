@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Session Notes/Session 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Rihiarda.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Rihiarda.md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Rihiarda.md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "c12918ecb4523748",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 6.md",
     "NPCs/Habitants/Rihiarda.md",
     "NPCs/Habitants/Hassel.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
@@ -226,8 +228,6 @@
     "Eisendom.md",
     "Géographie d'Heldenreise/Continent Est/Eisenzitadelle.md",
     "Géographie d'Heldenreise/Continent Est/Cadia.md",
-    "Géographie d'Heldenreise/Continent Est/Bar Al Khazad.md",
-    "Géographie d'Heldenreise/Continent Est/Armelia.md",
     "Secrets et indices/Untitled",
     "Assets/Abreissdorf-auberge-clients.png",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
