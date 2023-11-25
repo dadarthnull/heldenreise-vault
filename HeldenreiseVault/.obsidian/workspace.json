@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
-                "mode": "source",
+                "file": "NPCs/Habitants/Eckhart.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "NPCs/Habitants/Eckhart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "NPCs/Habitants/Eckhart.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "NPCs/Habitants/Eckhart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +202,17 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "NPCs/Habitants/Dirke.md",
+    "NPCs/Habitants/Bierce.md",
+    "NPCs/Habitants/Benno.md",
+    "NPCs/Habitants/Adeline.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 4 - 2023-XX-XX.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 0.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Célébrités/Liren Selmoh.md",
     "NPCs/Célébrités/Marie Ortie.md",
     "Leise.md",
@@ -232,11 +236,7 @@
     "Gieselfried-portrait.webp",
     "NPCs/Habitants/Raimund.md",
     "Zack-portrait.webp",
-    "NPCs/Habitants/Rihiarda.md",
-    "NPCs/Habitants/Rosina.md",
     "Liz-portrait.webp",
-    "NPCs/Habitants/Solange.md",
-    "NPCs/Habitants/Sylvester.md",
     "Gustav-portrait 1.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
