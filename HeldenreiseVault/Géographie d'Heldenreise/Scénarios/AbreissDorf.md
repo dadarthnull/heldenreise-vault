@@ -62,7 +62,7 @@ Géographie
 		- [[Raimund]]
 	8. herboriste
 		- [[Oswald]]
-	9. auberge
+	9. auberge du bon départ
 		- logement
 		- habitants: [[Nanette]], [[Adeline]], [[Eckhart]]
 		- Indices
