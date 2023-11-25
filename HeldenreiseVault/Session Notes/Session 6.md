@@ -24,7 +24,9 @@ tags: heldenreise session-notes
 - Petit déjeuner et la lettre
 	- lettre d'Opus
 	- les enfants sont excités de rencontrer un Harangon et demandent si il est "détéctive de la carotte" comme Liren Semloh, ils peuvent montrer les 2 livres qu'ils ont
-		- 
+		- le parfum de la dame en rouge
+		- le trésor du fantôme du théatre
+	- les enfants connaissent aussi "le crime de la calèche expresse" et "les vacances de Nirel Semloh"
 - Voyage à la guilde des aventuriers:
 	- les PJs n'ont pas de papiers d'identification (c'est une invention récente de la duchesse), si ils s'enregistrent et 
 - 
