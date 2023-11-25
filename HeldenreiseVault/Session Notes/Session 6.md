@@ -1,3 +1,7 @@
+---
+Date: 2023-11-25
+tags: heldenreise session-notes
+---
 
 
 *Here's a blank D&D session note page ready for you to use outlined according to [Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/index.html). Duplicate, date, and title the copy page for your new session.* 
@@ -32,7 +36,7 @@
 - [ ]  Visiter la tour d'argent - parchemin d'Opus
 - [ ] Accompagner [[Dirke]] en forêt pour trouver des branches de noisetier doré pour aider sa soeur
 - [ ]  Patrouiller la route vers Arfilo - [[Benno]] à l'authorité commerciale pense que des brigands attaquent les quelques caravanes (il s'agit en fait de [[Zakhan le noir]])
-- [ ]  
+- [ ]  Aller voire l'obelisque magique dans la forêt - [[Ott]]
 - [ ]  
 - [ ]  
 - [ ]  
