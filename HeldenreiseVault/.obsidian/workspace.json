@@ -29,19 +29,6 @@
             }
           },
           {
-            "id": "422322d7302b2770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03ee7fbf88260007",
             "type": "leaf",
             "state": {
@@ -55,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,10 +197,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "422322d7302b2770",
+  "active": "c94a58068d1121e2",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Monsters/Rose Vampire.md",
+    "NPCs/Monsters/Démon - Arcaniste.md",
     "Session Notes/Session 6 - 2023-11-25.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Bierce.md",
     "NPCs/Habitants/Otto.md",
     "Session Notes/Session 0.md",
@@ -243,10 +228,8 @@
     "NPCs/Habitants/Lutz.md",
     "NPCs/Habitants/Marcus.md",
     "NPCs/Habitants/Hassel.md",
-    "NPCs/Habitants/Lambert.md",
     "Ingo-portrait-2.webp",
     "Johann-portrait.webp",
-    "NPCs/Habitants/Nanette.md",
     "Fran--portrait.webp",
     "Gieselfried-portrait.webp",
     "Zack-portrait.webp",
