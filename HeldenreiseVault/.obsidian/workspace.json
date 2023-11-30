@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md"
+                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +207,23 @@
   },
   "active": "c94a58068d1121e2",
   "lastOpenFiles": [
-    "Homebrew/Rituels/rituel mineur - séchoir.md",
+    "Homebrew/Arcanums/arcanum de voyage - transport.md",
+    "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
+    "Homebrew/Arcanums/arcanum de voyage - cartographe.md",
+    "Homebrew/Arcanums/arcanum tactique - ennemis.md",
+    "Homebrew/Arcanums/arcanum tactique - champ de bataille.md",
+    "Homebrew/Arcanums/arcanum tactique - groupe.md",
+    "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
+    "Homebrew/Arcanums/arcanum d'alchimie - elixirs.md",
+    "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
+    "Homebrew/Arcanums/arcanum de minage - raffinage.md",
+    "Homebrew/Arcanums/arcanum de minage - récolte.md",
+    "Homebrew/Arcanums/arcanum de minage - recherche.md",
+    "Homebrew/Arcanums/arcanum herboriste - préservation.md",
+    "Homebrew/Arcanums/arcanum herboriste - recherche.md",
+    "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+    "Homebrew/Rituels/rituel mineur - séchoir.md",
     "Homebrew/Rituels/rituel mineur - pomme verdis.md",
     "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "Session Notes/Session 6 - 2023-11-25.md",
@@ -226,21 +241,6 @@
     "Assets/angelica-portrait.webp",
     "NPCs/Monsters/Rose Vampire.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "NPCs/Habitants/Bierce.md",
-    "NPCs/Habitants/Otto.md",
-    "Session Notes/Session 0.md",
-    "NPCs/Habitants/Dirke.md",
-    "NPCs/Habitants/Eckhart.md",
-    "Session Notes/Session 5 - 2023-11-11.md",
-    "NPCs/Habitants/Benno.md",
-    "NPCs/Habitants/Adeline.md",
-    "Session Notes/Session 4 - 2023-XX-XX.md",
-    "Session Notes/Session 3 - 2023-10-05.md",
-    "Session Notes/Session 2 - 2023-09-16.md",
-    "Session Notes/Session 1 - 2023-09-09.md",
-    "NPCs/Célébrités/Liren Selmoh.md",
-    "NPCs/Célébrités/Marie Ortie.md",
     "Assets/Ingo-portrait-2.webp",
     "Assets/Johann-portrait.webp",
     "Assets/Fran--portrait.webp",
