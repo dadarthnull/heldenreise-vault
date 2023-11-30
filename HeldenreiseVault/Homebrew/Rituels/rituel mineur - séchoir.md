@@ -1,0 +1,1 @@
+evocation, incantation 1 minute, un courant d'air chaud et sec part de la main droite du lanceur, avec une portée de 20 centimètres. Très pratique pour sécher des cheveux.

@@ -1,0 +1,1 @@
+transmutation, se lance sur un petit sac ou une bourse en cuir d'herbivore, permet de garder le contenu froid pendant 1h, 2 minutes de casting

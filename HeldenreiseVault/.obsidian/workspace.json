@@ -24,17 +24,22 @@
             "id": "c94a58068d1121e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "03ee7fbf88260007",
+            "id": "12341c0308cabbad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Bierce.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md"
               }
             }
           },
@@ -172,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +207,25 @@
   },
   "active": "c94a58068d1121e2",
   "lastOpenFiles": [
+    "Homebrew/Rituels/rituel mineur - séchoir.md",
+    "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+    "Homebrew/Rituels/rituel mineur - pomme verdis.md",
+    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Homebrew/Rituels/rituel mineur - sacafroid.md",
+    "Homebrew/Summary.md",
+    "Homebrew/Rituels",
+    "Homebrew/Arcanums",
+    "Homebrew.md",
+    "Homebrew",
+    "NPCs/Habitants/Gustavo Haggard.md",
+    "Assets/Marthe-portrait.webp",
+    "Assets/Leise-portrait.webp",
+    "Assets/Heldenreise-zoom-sud-original.jpg",
+    "Assets/Ferdinand-portrait.webp",
+    "Assets/angelica-portrait.webp",
     "NPCs/Monsters/Rose Vampire.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Bierce.md",
     "NPCs/Habitants/Otto.md",
@@ -220,33 +241,17 @@
     "Session Notes/Session 1 - 2023-09-09.md",
     "NPCs/Célébrités/Liren Selmoh.md",
     "NPCs/Célébrités/Marie Ortie.md",
-    "Leise.md",
-    "Leise-portrait.webp",
-    "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
-    "Marthe.md",
-    "Marthe-portrait.webp",
-    "NPCs/Habitants/Lasfam.md",
-    "Ferdinand-portrait.webp",
-    "NPCs/Habitants/Mariette.md",
-    "NPCs/Habitants/Lutz.md",
-    "NPCs/Habitants/Marcus.md",
-    "NPCs/Habitants/Hassel.md",
-    "Ingo-portrait-2.webp",
-    "Johann-portrait.webp",
-    "Fran--portrait.webp",
-    "Gieselfried-portrait.webp",
-    "Zack-portrait.webp",
-    "Liz-portrait.webp",
-    "Gustav-portrait 1.webp",
+    "Assets/Ingo-portrait-2.webp",
+    "Assets/Johann-portrait.webp",
+    "Assets/Fran--portrait.webp",
+    "Assets/Gieselfried-portrait.webp",
+    "Assets/Zack-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
     "NPCs/Monsters",
     "Sessions",
     "templates",
-    "Histoire d'Heldenreise/7. Les nouveaux royaumes",
-    "Le jugement de la lumière",
-    "Le grand dragon blanc 0be38598295e41bd8ee6f0409518040f",
-    "Géographie d'Heldenreise/Inconnu"
+    "Histoire d'Heldenreise/7. Les nouveaux royaumes"
   ]
 }

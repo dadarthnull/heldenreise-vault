@@ -1,0 +1,1 @@
+transmutation - 10 minutes incantation, transforme bonus de maîtrise pomme rouges en autant de pomme vertes 
