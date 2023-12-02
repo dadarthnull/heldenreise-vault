@@ -5,10 +5,10 @@ size: M
 type: Mort-vivant
 subtype: Zombi
 alignment: -
-ac: 15
-hp: 85
-hit_dice: 10d10 + 35
-speed: 40
+ac: 8
+hp: 22
+hit_dice: 3d8 + 9
+speed: 20
 stats: [13, 6, 16, 3, 6, 5]
 saves:
   - wisom: +0
