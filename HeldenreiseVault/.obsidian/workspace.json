@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +201,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "c94a58068d1121e2",
   "lastOpenFiles": [
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 7 - 2023-12-02.md",
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Personnages/Résumé.md",
     "Personnages/Thelkyl.md",
     "Personnages/Bhardar Steelbreath.md",
@@ -212,7 +215,6 @@
     "Personnages/Narllak.md",
     "Personnages/Untitled",
     "Session Notes/Session 5 - 2023-11-11.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
     "Homebrew/Arcanums/arcanum de voyage - transport.md",
     "Homebrew/Arcanums/arcanum de voyage - cartographe.md",
@@ -228,7 +230,6 @@
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
-    "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",
