@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md"
+                "file": "Session Notes/Session 6 - 2023-11-25.md"
               }
             }
           },
@@ -189,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,18 +226,18 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "c94a58068d1121e2",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Personnages/Résumé.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Monsters/Cultiste.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Hiblou - Adulte.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
