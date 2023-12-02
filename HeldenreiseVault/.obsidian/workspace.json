@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -26,28 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "850f32b91f9f09cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Thelkyl.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Résumé.md"
+                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Kleiweiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +200,16 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "c94a58068d1121e2",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Personnages/Résumé.md",
     "Personnages/Thelkyl.md",
     "Personnages/Bhardar Steelbreath.md",
     "Personnages/Adelaïde.md",
-    "Personnages/Résumé.md",
     "Personnages/Myrlou.md",
     "Personnages/Narllak.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Personnages/Untitled",
     "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 6 - 2023-11-25.md",
@@ -242,7 +229,6 @@
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
-    "Homebrew/Rituels/rituel mineur - séchoir.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",
