@@ -3,27 +3,30 @@
 image: [[wurzelhain.jpeg]]
 name: Cultiste
 size: M
-type: Mort-Vivant
-subtype: Squelette
+type: Larbin
+subtype: Cultiste
 alignment: -
-ac: 13
+ac: 12
 hp: 9
-hit_dice: 1d8 + 4
+hit_dice: 2d8
 speed: 30
-stats: [10, 14, 15, 06, 08, 05]
+stats: [11, 12, 10, 10, 11, 10]
 saves:
+skills: deception +2, religion +2
 skillsaves:
 damage_vulnerabilities: -
 damage_resistances: contondant
 damage_immunities: poison
 condition_immunities: empoisonné, fatigué
-senses: darkvision 60ft (12 cases), perception passive 9
+senses: perception passive 10
 languages: commun, démon
 cr: -
 traits:
+  - name: Dark devotion
+    desc: advantage on saving throws against charmed or frightened
 actions:
   - name: Attaque (épée)
-    desc: "Melee Weapon Attack: +4 to Hit, reach 5ft, one target. Hit: 5 (1d6 + 2) tranchants"
+    desc: "Melee Weapon Attack: +3 to Hit, reach 5ft, one target. Hit: 4 (1d6 + 1) tranchants"
 bonus_actions:
 reactions:
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Cultiste.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Cultiste.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Cultiste.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Cultiste.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,8 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Cultiste.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
