@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
+                "file": "NPCs/Monsters/Cultiste.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
+                "file": "NPCs/Monsters/Cultiste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md"
+                "file": "NPCs/Monsters/Cultiste.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
+                "file": "NPCs/Monsters/Cultiste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +190,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,11 +215,12 @@
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
-    "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
+    "NPCs/Monsters/Cultiste.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Hiblou - Adulte.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
@@ -241,7 +241,6 @@
     "Homebrew/Arcanums/arcanum de voyage - transport.md",
     "Homebrew/Arcanums/arcanum de voyage - cartographe.md",
     "Homebrew/Arcanums/arcanum tactique - ennemis.md",
-    "Homebrew/Arcanums/arcanum tactique - champ de bataille.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",

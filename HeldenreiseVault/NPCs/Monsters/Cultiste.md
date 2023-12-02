@@ -1,13 +1,14 @@
+
 ```statblock
 image: [[wurzelhain.jpeg]]
-name: Squelette fragile
+name: Cultiste
 size: M
 type: Mort-Vivant
 subtype: Squelette
 alignment: -
 ac: 13
-hp: 14
-hit_dice: 2d8 + 4
+hp: 9
+hit_dice: 1d8 + 4
 speed: 30
 stats: [10, 14, 15, 06, 08, 05]
 saves:
@@ -21,8 +22,8 @@ languages: commun, démon
 cr: -
 traits:
 actions:
-  - name: attaque (arc court)
-    desc: "Melee Weapon Attack: +4 to Hit, reach 80/320ft, one target. Hit: 5 (1d6 + 2) perçants"
+  - name: Attaque (épée)
+    desc: "Melee Weapon Attack: +4 to Hit, reach 5ft, one target. Hit: 5 (1d6 + 2) tranchants"
 bonus_actions:
 reactions:
 ```
