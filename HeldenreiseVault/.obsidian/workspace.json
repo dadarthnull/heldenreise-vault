@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "adbd415cd77bad52",
+            "id": "850f32b91f9f09cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Adelaïde.md",
+                "file": "Personnages/Thelkyl.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +216,12 @@
   },
   "active": "c94a58068d1121e2",
   "lastOpenFiles": [
+    "Personnages/Thelkyl.md",
+    "Personnages/Bhardar Steelbreath.md",
     "Personnages/Adelaïde.md",
     "Personnages/Résumé.md",
+    "Personnages/Myrlou.md",
+    "Personnages/Narllak.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Personnages/Untitled",
     "Session Notes/Session 5 - 2023-11-11.md",
@@ -238,10 +243,6 @@
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Homebrew/Rituels/rituel mineur - séchoir.md",
-    "Homebrew/Rituels/rituel mineur - pomme verdis.md",
-    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
-    "Homebrew/Rituels/rituel mineur - sacafroid.md",
-    "Homebrew/Summary.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",
