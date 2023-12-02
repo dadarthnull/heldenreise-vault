@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,71 +34,20 @@
             }
           },
           {
-            "id": "834e1709243879b0",
+            "id": "8a52be2a4925271d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c3c7201ea467ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Arcanums/arcanum herboriste - recherche.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b0e746dad593492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Arcanums/arcanum herboriste - préservation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c49c0ccb3c3e7325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Arcanums/arcanum herboriste - récolte.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8222e8da23138cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md"
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
               }
             }
           },
@@ -228,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,15 +214,15 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "8a52be2a4925271d",
   "lastOpenFiles": [
     "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
     "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Personnages/Résumé.md",
