@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md"
+                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +215,13 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/Démon - Ronin.md",
+    "NPCs/Monsters/Hiblou - Adulte.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
@@ -238,10 +242,6 @@
     "Homebrew/Arcanums/arcanum tactique - ennemis.md",
     "Homebrew/Arcanums/arcanum tactique - champ de bataille.md",
     "Homebrew/Arcanums/arcanum tactique - groupe.md",
-    "Homebrew/Arcanums/arcanum d'alchimie - elixirs.md",
-    "Homebrew/Arcanums/arcanum de minage - raffinage.md",
-    "Homebrew/Arcanums/arcanum de minage - récolte.md",
-    "Homebrew/Arcanums/arcanum de minage - recherche.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",
