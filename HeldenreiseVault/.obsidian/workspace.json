@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +207,11 @@
   },
   "active": "c94a58068d1121e2",
   "lastOpenFiles": [
-    "Homebrew/Arcanums/arcanum de voyage - transport.md",
+    "Session Notes/Session 5 - 2023-11-11.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
+    "Homebrew/Arcanums/arcanum de voyage - transport.md",
     "Homebrew/Arcanums/arcanum de voyage - cartographe.md",
     "Homebrew/Arcanums/arcanum tactique - ennemis.md",
     "Homebrew/Arcanums/arcanum tactique - champ de bataille.md",
@@ -226,7 +229,6 @@
     "Homebrew/Rituels/rituel mineur - séchoir.md",
     "Homebrew/Rituels/rituel mineur - pomme verdis.md",
     "Homebrew/Rituels/rituel mineur - bain de pieds.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Homebrew/Rituels/rituel mineur - sacafroid.md",
     "Homebrew/Summary.md",
     "Homebrew/Rituels",
@@ -239,8 +241,6 @@
     "Assets/Heldenreise-zoom-sud-original.jpg",
     "Assets/Ferdinand-portrait.webp",
     "Assets/angelica-portrait.webp",
-    "NPCs/Monsters/Rose Vampire.md",
-    "NPCs/Monsters/Démon - Arcaniste.md",
     "Assets/Ingo-portrait-2.webp",
     "Assets/Johann-portrait.webp",
     "Assets/Fran--portrait.webp",
