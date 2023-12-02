@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,12 +226,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "c94a58068d1121e2",
+  "active": "8a52be2a4925271d",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Personnages/Résumé.md",
     "Session Notes/Session 7 - 2023-12-02.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Personnages/Résumé.md",
     "NPCs/Monsters/Cultiste.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
