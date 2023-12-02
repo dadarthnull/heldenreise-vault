@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,13 +267,13 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
     "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Personnages/Résumé.md",
