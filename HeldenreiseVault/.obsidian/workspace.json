@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Résumé.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +225,9 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "1b8ceae3290f12c5",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Personnages/Résumé.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Monsters/Cultiste.md",
@@ -243,7 +243,6 @@
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
     "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-    "Personnages/Résumé.md",
     "Personnages/Thelkyl.md",
     "Personnages/Bhardar Steelbreath.md",
     "Personnages/Adelaïde.md",
