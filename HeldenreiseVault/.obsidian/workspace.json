@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md"
+                "file": "Session Notes/Session 7 - 2023-12-02.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +225,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "8a52be2a4925271d",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Personnages/Résumé.md",
     "NPCs/Monsters/Cultiste.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
