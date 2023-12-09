@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
+                "file": "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
+                "file": "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Untitled.md"
+                "file": "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
+                "file": "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,9 @@
   },
   "active": "1b8ceae3290f12c5",
   "lastOpenFiles": [
+    "0cd1tgrlx4e71.jpg",
     "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
-    "Géographie d'Heldenreise/Donjons/Untitled.md",
+    "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
     "wNYvVPq.jpeg",
     "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
@@ -245,7 +246,6 @@
     "NPCs/Monsters/Cultiste.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
-    "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
