@@ -76,7 +76,7 @@ Donjon - niveau 2-5
 	3. liche affaiblie, attque les joueurs
 	4. trésors: dague de cérémonie (250po), 2 anneaux d'argent (15po pièce), 50gp et 123 SP, 4 scrolls: command, cure wounds, inflict wound, guiding bolt (tous niveau 2)
 	5. armure draconique +1 (breastplate +1), avantage social avec adorateurs de dragons, désavantages avec les adorateurs des dieux originels
-	6. masse de condamnation (sacrifie un emplacmeent de sort pour ajouter 1d4 dégats radiants par niveau de sort sacrifié)
+	6. masse de condamnation +0 (sacrifie un emplacmeent de sort pour ajouter 1d4 dégats radiants par niveau de sort sacrifié)
 14. Campement des kobolds
 	1. des paillasse, quelques sacs troués, une famille de kobolds habite ici
 15. Salle cachée de l'eau enchantée
