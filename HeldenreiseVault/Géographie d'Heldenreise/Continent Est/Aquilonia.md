@@ -9,7 +9,7 @@ tags:
 continent: est
 royaume: norhaven
 type: city
-name: aquiloniq
+name: aquilonia
 ---
 
 ![[aquilonia.jpeg]]
