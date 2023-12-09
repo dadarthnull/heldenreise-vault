@@ -21,15 +21,15 @@
             }
           },
           {
-            "id": "c94a58068d1121e2",
+            "id": "29eeb625d7ac0eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
+                "file": "temple englouti.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -45,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecd463abd03fdaf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Adelaïde.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "temple englouti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md"
+                "file": "temple englouti.md"
               }
             }
           },
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "temple englouti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +226,13 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "1b8ceae3290f12c5",
+  "active": "29eeb625d7ac0eba",
   "lastOpenFiles": [
-    "templates/Session Template.md",
     "Session Notes/Session 8 - 2023-12-09.md",
+    "temple englouti.md",
+    "Personnages/Adelaïde.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "templates/Session Template.md",
     "Session Notes Template 66c7dbec081047e88d528dc70bb369da/Untitled Database 15279a164c984f219133a6cd88d0a3e3.csv.md",
     "templates/Session Notes Template.md",
     "Personnages/Résumé.md",
@@ -225,7 +242,6 @@
     "templates/NPC simple.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "NPCs/Monsters/Ours cornu.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Monsters/Cultiste.md",
@@ -239,8 +255,6 @@
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
     "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
-    "Personnages/Thelkyl.md",
-    "Personnages/Bhardar Steelbreath.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
