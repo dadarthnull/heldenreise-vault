@@ -48,6 +48,8 @@ Donjon - niveau 2-5
 		1. écriture d'Opus
 		2. principalement des calculs matématiques, des schémas de trigo et géométire et un plan de l'entrée du donjon: pièces : 3, 4, 5, 6, 7 (moitié), 13-1 et 20
 6. Ancienne approche
+	1. le mur sud est en très mauvais état, certaines pierres sont tombées,. Il semble qu'il va bientôt s'effondrer
+	2. le mur Ouest est en très bon état et au milieu se trouve une 
 7. Galerie des notes solitaires
 8. Couloir de la plaque de pression
 9. Chapelle de l'énigme du dragon
