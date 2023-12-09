@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "0356ece6be84c5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e4a3c3afdc42ef7c",
             "type": "leaf",
             "state": {
@@ -68,7 +55,7 @@
             }
           },
           {
-            "id": "e102e375ee0a0f2d",
+            "id": "e7f39af2bd99aa83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md"
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md"
               }
             }
           },
@@ -211,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,21 +249,34 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e102e375ee0a0f2d",
+  "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
+    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+    "NPCs/Monsters/Kobold - Chasseur.md",
+    "NPCs/Monsters/Elémentaire - Feu mineur.md",
+    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
+    "NPCs/Monsters/Kobold - Chef.md",
+    "NPCs/Monsters/Kobold - Shaman.md",
+    "NPCs/Monsters/Kobold - Villageois.md",
+    "NPCs/Monsters/Kobold - Guerrier.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
+    "NPCs/Ennemis/Lhaak le chevalier noir.md",
     "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
+    "DcjFsRZW0AAet8Q.jpg",
+    "NPCs/Ennemis/Tallarn la liche.md",
+    "NPCs/Ennemis/Ludmilla la générale démon.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
     "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
     "0cd1tgrlx4e71.jpg",
     "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
     "wNYvVPq.jpeg",
     "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "NPCs/Ennemis/Zakhan le noir.md",
-    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
@@ -284,19 +284,7 @@
     "ETC0089_Sunless_Citadel.webp",
     "Géographie d'Heldenreise/Continent Est/Eisendom.md",
     "Géographie d'Heldenreise/Donjons",
-    "Personnages/Adelaïde.md",
-    "NPCs/Monsters/Ours cornu.md",
-    "templates/Session Template.md",
-    "Session Notes Template 66c7dbec081047e88d528dc70bb369da/Untitled Database 15279a164c984f219133a6cd88d0a3e3.csv.md",
-    "templates/Session Notes Template.md",
-    "Personnages/Résumé.md",
     "Session Notes Template 66c7dbec081047e88d528dc70bb369da",
-    "templates/session-template.md",
-    "templates/npc-with-attributes.md",
-    "templates/NPC simple.md",
-    "NPCs/Monsters/Cultiste.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
@@ -305,7 +293,6 @@
     "Assets/Leise-portrait.webp",
     "Assets/Heldenreise-zoom-sud-original.jpg",
     "Assets/Ferdinand-portrait.webp",
-    "Assets/angelica-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
