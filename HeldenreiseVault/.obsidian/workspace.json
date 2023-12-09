@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29eeb625d7ac0eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temple englouti.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a52be2a4925271d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd463abd03fdaf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Adelaïde.md",
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temple englouti.md",
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temple englouti.md"
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md"
               }
             }
           },
@@ -190,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temple englouti.md",
+                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +186,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "29eeb625d7ac0eba",
+  "active": "1b8ceae3290f12c5",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Continent Est/Eisendom.md",
+    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+    "Géographie d'Heldenreise/Donjons",
     "Session Notes/Session 8 - 2023-12-09.md",
-    "temple englouti.md",
     "Personnages/Adelaïde.md",
     "NPCs/Monsters/Ours cornu.md",
     "templates/Session Template.md",
@@ -254,7 +216,6 @@
     "Homebrew/Arcanums/arcanum herboriste - préservation.md",
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
-    "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
@@ -272,7 +233,6 @@
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
-    "NPCs/Monsters",
-    "Sessions"
+    "NPCs/Monsters"
   ]
 }

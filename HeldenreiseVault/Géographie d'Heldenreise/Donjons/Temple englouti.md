@@ -26,6 +26,7 @@ Donjon - niveau 2-5
 	1. piège
 	2. [[Mort-Vivant - Squelette fragile]] x 3
 4. Tour coquillage
+	1. 
 5. Pièces secrète
 6. Ancienne approche
 7. Galerie des notes solitaires
@@ -38,6 +39,11 @@ Donjon - niveau 2-5
 14. Salle cachée de l'eau enchantée
 15. Anciennes cellules
 16. Salle du chef kobold
+17. Cellier
+18. Nurserie
+19. Ancien Hall
+20. Salle de combat
+21. Salle écrouler
 
 ## Secrets et indices
 
