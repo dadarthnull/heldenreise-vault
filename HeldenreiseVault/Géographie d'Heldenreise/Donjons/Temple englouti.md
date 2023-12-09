@@ -39,7 +39,8 @@ Donjon - niveau 2-5
 	1. piège
 	2. [[Mort-Vivant - Squelette fragile]] x 3
 4. Tour coquillage
-	1. 
+	1. levier sur le mur nord - déclenche des volées de flechettes dans la moitié nord de la salle (mais pas juste à coté du levier)
+	2. Porte secrète au sud ()
 5. Pièces secrète
 6. Ancienne approche
 7. Galerie des notes solitaires
