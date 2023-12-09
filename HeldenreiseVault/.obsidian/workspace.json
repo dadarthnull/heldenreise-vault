@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5efd0df8fad3e4ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b8ceae3290f12c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md"
+                "file": "Session Notes/Session 8 - 2023-12-09.md"
               }
             }
           },
@@ -189,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +212,19 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "1b8ceae3290f12c5",
   "lastOpenFiles": [
-    "Session Notes/Session 7 - 2023-12-02.md",
+    "templates/Session Template.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Session Notes Template 66c7dbec081047e88d528dc70bb369da/Untitled Database 15279a164c984f219133a6cd88d0a3e3.csv.md",
+    "templates/Session Notes Template.md",
     "Personnages/Résumé.md",
+    "Session Notes Template 66c7dbec081047e88d528dc70bb369da",
+    "templates/session-template.md",
+    "templates/npc-with-attributes.md",
+    "templates/NPC simple.md",
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "NPCs/Monsters/Ours cornu.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
@@ -243,17 +239,9 @@
     "Homebrew/Arcanums/arcanum herboriste - recherche.md",
     "Homebrew/Arcanums/arcanum d'alchimie - potions.md",
     "Homebrew/Arcanums/arcanum d'alchimie - onguents.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Personnages/Thelkyl.md",
     "Personnages/Bhardar Steelbreath.md",
-    "Personnages/Adelaïde.md",
-    "Personnages/Myrlou.md",
-    "Personnages/Narllak.md",
     "Personnages/Untitled",
-    "Session Notes/Session 5 - 2023-11-11.md",
-    "Homebrew/Arcanums/arcanum de voyage - inventaire.md",
-    "Homebrew/Arcanums/arcanum de voyage - transport.md",
-    "Homebrew/Arcanums/arcanum de voyage - cartographe.md",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
     "Homebrew",
@@ -271,7 +259,6 @@
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
     "NPCs/Monsters",
-    "Sessions",
-    "templates"
+    "Sessions"
   ]
 }
