@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md"
+                "file": "NPCs/Ennemis/Zakhan le noir.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,10 +188,10 @@
   },
   "active": "1b8ceae3290f12c5",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
     "cragmore-hidef.jpg",
     "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "ETC0089_Sunless_Citadel.webp",
-    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
     "Géographie d'Heldenreise/Continent Est/Eisendom.md",
     "Géographie d'Heldenreise/Donjons",
     "Session Notes/Session 8 - 2023-12-09.md",
@@ -229,7 +229,6 @@
     "Assets/Ingo-portrait-2.webp",
     "Assets/Johann-portrait.webp",
     "Assets/Fran--portrait.webp",
-    "Assets/Gieselfried-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
