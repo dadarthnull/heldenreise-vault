@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md"
+                "file": "Géographie d'Heldenreise/Donjons/Untitled.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "Géographie d'Heldenreise/Donjons/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,13 @@
   },
   "active": "1b8ceae3290f12c5",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Zakhan le noir.md",
+    "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
+    "Géographie d'Heldenreise/Donjons/Untitled.md",
+    "wNYvVPq.jpeg",
+    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
+    "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
@@ -241,9 +246,6 @@
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
-    "NPCs/Monsters/Démon - Ronin.md",
-    "NPCs/Monsters/Hiblou - Adulte.md",
-    "Homebrew/Arcanums/arcanum herboriste - récolte.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
@@ -254,8 +256,6 @@
     "Assets/Ferdinand-portrait.webp",
     "Assets/angelica-portrait.webp",
     "Assets/Ingo-portrait-2.webp",
-    "Assets/Johann-portrait.webp",
-    "Assets/Fran--portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios",
