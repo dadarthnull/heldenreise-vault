@@ -60,7 +60,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a48f2105c391625d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +262,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "53eb0cd7f9e928b3",
+  "active": "a48f2105c391625d",
   "lastOpenFiles": [
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "Personnages/Résumé.md",
@@ -264,13 +279,11 @@
     "NPCs/Monsters/Kobold - Villageois.md",
     "NPCs/Monsters/Kobold - Guerrier.md",
     "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Ennemis/Lhaak le chevalier noir.md",
     "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
     "DcjFsRZW0AAet8Q.jpg",
     "NPCs/Ennemis/Tallarn la liche.md",
     "NPCs/Ennemis/Ludmilla la générale démon.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
     "0cd1tgrlx4e71.jpg",
