@@ -68,10 +68,15 @@ Donjon - niveau 2-5
 	3. slime bleue, plutôt amical
 	4. passage secret au sud (DC 20 WIS)
 	5. statues de guerrier elfes, statues d'un dracoïde au nord
-12. Salle secrète
+11. Salle secrète
 	1. piège (fosse avec pieux, DEX/INT DC 10 - 11 / 2d10 dégâts)
 13. Tombe du prêtre des dragons
-	1. 
+	1. flammes continues au mur
+	2. sarcophage au milieu, 6 x STR DC 14 pour ouvrir
+	3. liche affaiblie, attque les joueurs
+	4. trésors: dague de cérémonie (250po), 2 anneaux d'argent (15po pièce), 50gp et 123 SP, 4 scrolls: command, cure wounds, inflict wound, guiding bolt (tous niveau 2)
+	5. armure draconique +1 (breastplate +1), avantage social avec adorateurs de dragons, désavantages avec les adorateurs des dieux originels
+	6. masse de condamnation (sacrifie un emplacmeent de sort pour ajouter 1d4 dégats radiants par niveau de sort sacrifié)
 14. Campement des kobolds
 15. Salle cachée de l'eau enchantée
 16. Anciennes cellules
