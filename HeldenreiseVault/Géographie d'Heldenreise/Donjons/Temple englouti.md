@@ -78,6 +78,7 @@ Donjon - niveau 2-5
 	5. armure draconique +1 (breastplate +1), avantage social avec adorateurs de dragons, désavantages avec les adorateurs des dieux originels
 	6. masse de condamnation (sacrifie un emplacmeent de sort pour ajouter 1d4 dégats radiants par niveau de sort sacrifié)
 14. Campement des kobolds
+	1. des paillasse, quelques sacs troués, une famille de kobolds habite ici
 15. Salle cachée de l'eau enchantée
 16. Anciennes cellules
 17. Salle du chef kobold
