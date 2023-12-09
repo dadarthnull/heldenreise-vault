@@ -1,0 +1,1 @@
+![[cragmore-hidef.jpg]]
