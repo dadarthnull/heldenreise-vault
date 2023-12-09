@@ -39,20 +39,27 @@ Donjon - niveau 2-5
 	1. piège
 	2. [[Mort-Vivant - Squelette fragile]] x 3
 4. Tour coquillage
-	1. levier en  position haute sur le mur nord - baisser déclenche des volées de flechettes dans la moitié nord de la salle (mais pas juste à coté du levier)
+	1. levier en  position haute sur le mur nord - baisser déclenche des volées de fléchettes dans la moitié nord de la salle (mais pas juste à coté du levier)
 	2. Porte secrète au sud (pousser une pierre, ne marche que si le levier est baissé) - DC 12
 5. Pièces secrète
 	1. [[Elémentaire - Pierre mineur]]
 	2. bureau en bois (aura conjuration)
 	3. notes
 		1. écriture d'Opus
-		2. principalement des calculs matématiques, des schémas de trigo et géométire et un plan de l'entrée du donjon: pièces : 3, 4, 5, 6, 7 (moitié), 13-1 et 20
+		2. principalement des calculs mathématiques, des schémas de trigo et géométrie et un plan de l'entrée du donjon: pièces : 3, 4, 5, 6, 7 (moitié), 13-1 et 20
 6. Ancienne approche
-	1. le mur sud est en très mauvais état, certaines pierres sont tombées,. Il semble qu'il va bientôt s'effondrer
-	2. le mur Ouest est en très bon état et au milieu se trouve une 
+	1. [[Mort-vivant - Zombie pourri]] x 2
+	2. le mur sud est en très mauvais état, certaines pierres sont tombées,. Il semble qu'il va bientôt s'effondrer
+	3. le mur Ouest est en très bon état et au milieu se trouve une porte encastrée dans une statue de dragon
+	4. Serrure très difficile, magique et physique
 7. Galerie des notes solitaires
+	1. air vicié, son d'air entrant quand porte s'ouvre, indiquant pas de ventilation pendant longtemps
+	2. gaz nocif, toute action à désavantage dans la salle
+	3. musique magique (DC 15 WIS ou charmé forçant un dash vers 8 et 9)
 8. Couloir de la plaque de pression
+	1. DC 15 piège (plaque de pression, fléchettes tout du long pour 1d4 dmg/round)
 9. Chapelle de l'énigme du dragon
+	1. 
 10. Garde d'honneur
 11. Salle secrète
 12. Tombe du prêtre des dragons
