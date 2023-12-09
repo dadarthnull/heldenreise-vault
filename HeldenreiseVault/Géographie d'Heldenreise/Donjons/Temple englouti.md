@@ -48,7 +48,7 @@ Donjon - niveau 2-5
 		1. écriture d'Opus
 		2. principalement des calculs mathématiques, des schémas de trigo et géométrie et un plan de l'entrée du donjon: pièces : 3, 4, 5, 6, 7 (moitié), 13-1 et 20
 6. Ancienne approche
-	1. [[Mort-vivant - Zombie pourri]] x 2
+	1. ![[Mort-vivant - Zombie pourri]] x 2
 	2. le mur sud est en très mauvais état, certaines pierres sont tombées,. Il semble qu'il va bientôt s'effondrer
 	3. le mur Ouest est en très bon état et au milieu se trouve une porte encastrée dans une statue de dragon
 	4. Serrure très difficile, magique et physique
