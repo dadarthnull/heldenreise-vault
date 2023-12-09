@@ -91,8 +91,8 @@ Donjon - niveau 2-5
 24. Ancienne salle au trésor
 
 ## Secrets et indices
-- [ ] Opus est venu il y a 20 ans régulièrement pour mesurer la progression du donjon et des vents magiques
-- [ ] Opus a laissé quelques élémentaires pour garder le donjon
+- [x] Opus est venu il y a 20 ans régulièrement pour mesurer la progression du donjon et des vents magiques
+- [x] Opus a laissé quelques élémentaires pour garder le donjon
 - [ ] le donjon progresse et crée régulièrement des monstres
 - [ ] le donjon grandi peu à peu
 - [ ] le donjon est sensé être un ancien temple construit par des haut elfes hérétiques qui vénéraient les grand dragons
