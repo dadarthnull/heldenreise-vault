@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md"
+                "file": "Session Notes/Session 8 - 2023-12-09.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +249,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e4a3c3afdc42ef7c",
+  "active": "e7f39af2bd99aa83",
   "lastOpenFiles": [
-    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
     "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
     "NPCs/Monsters/Kobold - Chasseur.md",
     "NPCs/Monsters/Elémentaire - Feu mineur.md",
     "NPCs/Monsters/Elémentaire - Pierre mineur.md",
