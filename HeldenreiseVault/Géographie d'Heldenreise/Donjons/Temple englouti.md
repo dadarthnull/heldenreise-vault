@@ -39,9 +39,14 @@ Donjon - niveau 2-5
 	1. piège
 	2. [[Mort-Vivant - Squelette fragile]] x 3
 4. Tour coquillage
-	1. levier sur le mur nord - déclenche des volées de flechettes dans la moitié nord de la salle (mais pas juste à coté du levier)
-	2. Porte secrète au sud ()
+	1. levier en  position haute sur le mur nord - baisser déclenche des volées de flechettes dans la moitié nord de la salle (mais pas juste à coté du levier)
+	2. Porte secrète au sud (pousser une pierre, ne marche que si le levier est baissé) - DC 12
 5. Pièces secrète
+	1. [[Elémentaire - Pierre mineur]]
+	2. bureau en bois (aura conjuration)
+	3. notes
+		1. écriture d'Opus
+		2. principalement des calculs matématiques, des schémas de trigo et géométire et un plan de l'entrée du donjon: pièces : 3, 4, 5, 6, 7 (moitié), 13-1 et 20
 6. Ancienne approche
 7. Galerie des notes solitaires
 8. Couloir de la plaque de pression
@@ -62,4 +67,10 @@ Donjon - niveau 2-5
 23. Ancienne salle au trésor
 
 ## Secrets et indices
-
+- [ ] Opus est venu il y a 20 ans régulièrement pour mesurer la progression du donjon et des vents magiques
+- [ ] Opus a laissé quelques élémentaires pour garder le donjon
+- [ ] le donjon progresse et crée régulièrement des monstres
+- [ ] le donjon grandi peu à peu
+- [ ] le donjon est sensé être un ancien temple construit par des haut elfes hérétiques qui vénéraient les grand dragons
+- [ ] la tribu de kobolds hexécailles noires a trouvé refuge dans le donjon
+- [ ] la tribu de kobolds hexécailles a du fuire ses grottes à l'ouest à cause de grandes créatures à la peau rouge (les lances du néant, au service de [[Telkhall l'oblitérateur]])
