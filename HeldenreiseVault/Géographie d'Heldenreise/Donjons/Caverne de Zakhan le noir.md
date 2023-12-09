@@ -16,11 +16,11 @@ Donjon - niveau 2-5
 
 ## Monstres:
 - Mort vivants
-	- [[Mort-Vivant - Archer squelette]]
-	- [[Mort-Vivant - Squelette fragile]]
-	- [[Mort-vivant - Zombie pourri]]
-- [[Zakhan le noir]]
-- Wolf Stark, Elsa Fuchs, Jutta Messer, Wilbert Vieth, Lorre Beckett: [[Cultiste]]
+	- ![[Mort-Vivant - Archer squelette]]
+	- ![[Mort-Vivant - Squelette fragile]]
+	- ![[Mort-vivant - Zombie pourri]]
+- ![[Zakhan le noir]]
+- Wolf Stark, Elsa Fuchs, Jutte Messer, Wilbert Vieth, Lorre Beckett: ![[Cultiste]]
 
 ## Ambiance:
 
