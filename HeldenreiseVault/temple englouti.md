@@ -1,6 +1,6 @@
 Donjon - niveau 2-5
 
-Monstres:
+## Monstres:
 - Mort vivants
 	- [[Mort-Vivant - Archer squelette]]
 	- [[Mort-Vivant - Squelette fragile]]
@@ -11,7 +11,33 @@ Monstres:
 	- [[Kobold - Chasseur]]
 	- [[Kobold - Villageois]]
 	- [[Kobold - Shaman]]
-	- 
+	- [[Kobold - Chef]]
 -  élémentaires
-	- [[Elémentaire - Pierre]]
-	- [[Elémentaire - ]]
+	- [[Elémentaire - Pierre mineur]]
+	- [[Elémentaire - Feu mineur]]
+
+## Ambiance:
+
+
+## Salles
+1. escalier - 
+2. plate-forme
+3. Court d'entrée 
+	1. piège
+	2. [[Mort-Vivant - Squelette fragile]] x 3
+4. Tour coquillage
+5. Pièces secrète
+6. Ancienne approche
+7. Galerie des notes solitaires
+8. Couloir de la plaque de pression
+9. Chapelle de l'énigme du dragon
+10. Garde d'honneur
+11. Salle secrète
+12. Tombe du prêtre des dragons
+13. Campement des kobolds
+14. Salle cachée de l'eau enchantée
+15. Anciennes cellules
+16. Salle du chef kobold
+
+## Secrets et indices
+
