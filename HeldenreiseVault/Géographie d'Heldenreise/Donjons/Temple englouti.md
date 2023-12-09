@@ -44,6 +44,8 @@ Donjon - niveau 2-5
 19. Ancien Hall
 20. Salle de combat
 21. Salle écrouler
+22. Anciens appartement du grand prêtre
+23. Ancienne salle au trésor
 
 ## Secrets et indices
 
