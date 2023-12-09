@@ -59,21 +59,30 @@ Donjon - niveau 2-5
 8. Couloir de la plaque de pression
 	1. DC 15 piège (plaque de pression, fléchettes tout du long pour 1d4 dmg/round)
 9. Chapelle de l'énigme du dragon
-	1. 
+	1. statue de dragon
+	2. énigme:  "Je vient la nuit sans qu'on vienne me chercher. Je disparaît le jour sans être volé. Qui suis-je ?" -- étoiles
+	3. donner la réponse ouvre la porte au fond
 10. Garde d'honneur
-11. Salle secrète
-12. Tombe du prêtre des dragons
-13. Campement des kobolds
-14. Salle cachée de l'eau enchantée
-15. Anciennes cellules
-16. Salle du chef kobold
-17. Cellier
-18. Nurserie
-19. Ancien Hall
-20. Salle de combat
-21. Salle écrouler
-22. Anciens appartement du grand prêtre
-23. Ancienne salle au trésor
+	1. murs en mauvais état avec de nombreuses crevasses
+	2. piège (fosse avec pieux) DC 10 INT/DEX (11 - 2d10 dégâts)
+	3. slime bleue, plutôt amical
+	4. passage secret au sud (DC 20 WIS)
+	5. statues de guerrier elfes, statues d'un dracoïde au nord
+12. Salle secrète
+	1. piège (fosse avec pieux, DEX/INT DC 10 - 11 / 2d10 dégâts)
+13. Tombe du prêtre des dragons
+	1. 
+14. Campement des kobolds
+15. Salle cachée de l'eau enchantée
+16. Anciennes cellules
+17. Salle du chef kobold
+18. Cellier
+19. Nurserie
+20. Ancien Hall
+21. Salle de combat
+22. Salle écrouler
+23. Anciens appartement du grand prêtre
+24. Ancienne salle au trésor
 
 ## Secrets et indices
 - [ ] Opus est venu il y a 20 ans régulièrement pour mesurer la progression du donjon et des vents magiques
