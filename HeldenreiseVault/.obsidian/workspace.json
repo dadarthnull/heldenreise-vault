@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4a3c3afdc42ef7c",
+            "id": "5efd0df8fad3e4ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
-                "mode": "preview",
+                "file": "Genesys/Resources.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "2401490335a2dece",
+            "id": "1b8ceae3290f12c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,54 +34,32 @@
             }
           },
           {
-            "id": "e3a6a156c99be2e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7f39af2bd99aa83",
+            "id": "c94a58068d1121e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "NPCs/Monsters/Ours cornu.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53eb0cd7f9e928b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48f2105c391625d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "8a52be2a4925271d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "Genesys/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md"
+                "file": "Genesys/Resources.md"
               }
             }
           },
@@ -211,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+                "file": "Genesys/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,21 +200,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "692163436c173ed1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d4b5a46322628b6",
-            "type": "leaf",
-            "state": {
-              "type": "combatant-view",
               "state": {}
             }
           }
@@ -262,42 +225,42 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "a48f2105c391625d",
+  "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
-    "Personnages/Résumé.md",
-    "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
-    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
-    "NPCs/Monsters/Kobold - Chasseur.md",
-    "NPCs/Monsters/Elémentaire - Feu mineur.md",
-    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
-    "NPCs/Monsters/Kobold - Chef.md",
-    "NPCs/Monsters/Kobold - Shaman.md",
-    "NPCs/Monsters/Kobold - Villageois.md",
-    "NPCs/Monsters/Kobold - Guerrier.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "NPCs/Ennemis/Lhaak le chevalier noir.md",
-    "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
-    "DcjFsRZW0AAet8Q.jpg",
-    "NPCs/Ennemis/Tallarn la liche.md",
-    "NPCs/Ennemis/Ludmilla la générale démon.md",
-    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
-    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-    "0cd1tgrlx4e71.jpg",
-    "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
+    "Genesys/Resources.md",
+    "Genesys",
     "wNYvVPq.jpeg",
     "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "NPCs/Ennemis/Zakhan le noir.md",
-    "Géographie d'Heldenreise/Continent Est/Aquilonia.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "cragmore-hidef.jpg",
-    "ETC0089_Sunless_Citadel.webp",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
+    "NPCs/Monsters/Kobold - Villageois.md",
+    "NPCs/Monsters/Kobold - Shaman.md",
+    "NPCs/Monsters/Kobold - Guerrier.md",
+    "NPCs/Monsters/Kobold - Chef.md",
+    "NPCs/Monsters/Kobold - Chasseur.md",
+    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
+    "NPCs/Monsters/Elémentaire - Feu mineur.md",
+    "NPCs/Ennemis/Lhaak le chevalier noir.md",
+    "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
+    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
+    "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
+    "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
+    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "Géographie d'Heldenreise/Donjons",
-    "Session Notes Template 66c7dbec081047e88d528dc70bb369da",
+    "Géographie d'Heldenreise/Continent Est/Eisendom.md",
+    "ETC0089_Sunless_Citadel.webp",
+    "DcjFsRZW0AAet8Q.jpg",
+    "0cd1tgrlx4e71.jpg",
+    "Personnages/Résumé.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "NPCs/Monsters/Cultiste.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
