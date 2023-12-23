@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Session Notes/Session 9 - 2024-01-XX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Session Notes/Session 9 - 2024-01-XX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genesys/Resources.md"
+                "file": "Session Notes/Session 9 - 2024-01-XX.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Session Notes/Session 9 - 2024-01-XX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,13 +227,14 @@
   },
   "active": "5efd0df8fad3e4ba",
   "lastOpenFiles": [
-    "Session Notes/Session 7 - 2023-12-02.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Session Notes/Session 9 - 2024-01-XX.md",
     "Genesys/Resources.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Genesys",
     "wNYvVPq.jpeg",
     "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "cragmore-hidef.jpg",
-    "Session Notes/Session 8 - 2023-12-09.md",
     "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
     "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
     "NPCs/Monsters/Kobold - Villageois.md",
@@ -260,7 +261,6 @@
     "Session Notes/Session 6 - 2023-11-25.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Monsters/Cultiste.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
