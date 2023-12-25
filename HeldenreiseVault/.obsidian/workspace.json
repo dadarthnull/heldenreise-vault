@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md"
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
+                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +228,11 @@
   },
   "active": "068af4f1ed9ba806",
   "lastOpenFiles": [
+    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+    "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
     "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
     "NPCs/Ennemis/Zakhan le noir.md",
-    "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
     "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 8 - 2023-12-09.md",
@@ -258,7 +259,6 @@
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
     "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "Géographie d'Heldenreise/Donjons",
-    "Géographie d'Heldenreise/Continent Est/Eisendom.md",
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",
     "0cd1tgrlx4e71.jpg",
