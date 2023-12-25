@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
+                "file": "NPCs/Ennemis/Kongh Minn.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
+                "file": "NPCs/Ennemis/Kongh Minn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md"
+                "file": "NPCs/Ennemis/Kongh Minn.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
+                "file": "NPCs/Ennemis/Kongh Minn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,17 +228,22 @@
   },
   "active": "068af4f1ed9ba806",
   "lastOpenFiles": [
+    "NPCs/Ennemis/Jutta Messer.md",
+    "NPCs/Ennemis/Elsa Fuchs.md",
+    "NPCs/Ennemis/Absalom.md",
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+    "NPCs/Ennemis/Wolf Stark.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
+    "Session Notes/Session 9 - 2024-01-XX.md",
+    "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
     "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
     "Homebrew/Rituels/rituel mineur - séchoir.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
     "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Homebrew/Rituels/rituel mineur - sacafroid.md",
     "Homebrew/Rituels/rituel mineur - pomme verdis.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Homebrew/Rituels/rituel mineur - bain de pieds.md",
-    "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
-    "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Genesys/Resources.md",
     "Session Notes/Session 7 - 2023-12-02.md",
@@ -253,11 +258,6 @@
     "NPCs/Monsters/Kobold - Guerrier.md",
     "NPCs/Monsters/Kobold - Chef.md",
     "NPCs/Monsters/Kobold - Chasseur.md",
-    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
-    "NPCs/Monsters/Elémentaire - Feu mineur.md",
-    "NPCs/Ennemis/Lhaak le chevalier noir.md",
-    "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
-    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "Géographie d'Heldenreise/Donjons",
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",

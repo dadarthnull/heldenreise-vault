@@ -3,6 +3,7 @@ tags:
   - roi-demon
   - NPC
   - opposition
+type: ennemi
 attributes:
   for: 17
   dex: 19
