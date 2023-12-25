@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "e97ab295507e2b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "008f545677b7546d",
             "type": "leaf",
             "state": {
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md"
+                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md"
               }
             }
           },
@@ -203,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,13 +226,13 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e97ab295507e2b6e",
+  "active": "068af4f1ed9ba806",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Zakhan le noir.md",
+    "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
     "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
-    "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Genesys/Resources.md",
