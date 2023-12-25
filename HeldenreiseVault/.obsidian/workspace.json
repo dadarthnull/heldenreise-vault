@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md"
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +226,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "068af4f1ed9ba806",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Homebrew/Rituels/rituel mineur - sacafroid.md",
+    "Homebrew/Rituels/rituel mineur - pomme verdis.md",
+    "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
     "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
@@ -255,9 +258,6 @@
     "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
     "Géographie d'Heldenreise/Donjons/Temple englouti.md",
     "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
-    "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
-    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "Géographie d'Heldenreise/Donjons",
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",
