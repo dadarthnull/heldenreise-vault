@@ -1,3 +1,12 @@
+---
+tags:
+  - empereur-liche
+  - NPC
+  - opposition
+type: ennemi
+nom: Titia Andromico
+
+---
 Nécromancienne, membre de la [[cabale de la lune noire]]
 
 - supérieure de [[Zakhan le noir]] et [[Gustavo Haggard]]

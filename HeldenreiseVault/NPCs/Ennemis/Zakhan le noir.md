@@ -1,4 +1,13 @@
 
+---
+tags:
+  - empereur-liche
+  - NPC
+  - opposition
+type: ennemi
+nom: Zakhan le noir
+
+---
 Nécromancien de pacotille, membre de la [[cabale de la lune noire]]
 
 - pas doué

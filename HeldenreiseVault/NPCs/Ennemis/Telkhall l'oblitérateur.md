@@ -3,6 +3,8 @@ tags:
   - roi-demon
   - NPC
   - opposition
+nom: Telkhall
+type: ennemi
 ---
 
 

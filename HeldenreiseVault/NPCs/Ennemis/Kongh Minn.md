@@ -4,6 +4,7 @@ tags:
   - NPC
   - opposition
 type: ennemi
+nom: Kongh Minn
 attributes:
   for: 17
   dex: 19

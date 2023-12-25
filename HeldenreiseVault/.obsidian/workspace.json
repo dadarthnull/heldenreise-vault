@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "NPCs/Ennemis/Absalom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "NPCs/Ennemis/Absalom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md"
+                "file": "NPCs/Ennemis/Absalom.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Kongh Minn.md",
+                "file": "NPCs/Ennemis/Absalom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,14 +226,19 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "068af4f1ed9ba806",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+    "NPCs/Ennemis/Titia Andromico.md",
+    "NPCs/Ennemis/Tallarn la liche.md",
+    "NPCs/Ennemis/Ludmilla la générale démon.md",
+    "NPCs/Ennemis/Kongh Minn.md",
     "NPCs/Ennemis/Jutta Messer.md",
     "NPCs/Ennemis/Elsa Fuchs.md",
     "NPCs/Ennemis/Absalom.md",
-    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
-    "NPCs/Ennemis/Wolf Stark.md",
     "NPCs/Ennemis/Zakhan le noir.md",
+    "NPCs/Ennemis/Wolf Stark.md",
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
@@ -253,11 +258,6 @@
     "cragmore-hidef.jpg",
     "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
     "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "NPCs/Monsters/Kobold - Villageois.md",
-    "NPCs/Monsters/Kobold - Shaman.md",
-    "NPCs/Monsters/Kobold - Guerrier.md",
-    "NPCs/Monsters/Kobold - Chef.md",
-    "NPCs/Monsters/Kobold - Chasseur.md",
     "Géographie d'Heldenreise/Donjons",
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",

@@ -1,3 +1,18 @@
-Chevalier noir au service du roi liche. A pour mission de surveiller la montée des champs magiques dans la forêt d'argent et surtout autour de la tour d'argent.
-Il doit aussi évaluer la tour d'argent, s'il y a toujours de l'activité des maîtres du savoir et, si possible, essayer d'en prendre le contrôle.
-Il cueille des fleurs pour faire des potions contre l'épuisement. (néantine, lierre sanguin, lotus lunaire, violette)
+---
+tags:
+  - roi-demon
+  - NPC
+  - opposition
+type: ennemi
+nom: Absalom
+attributes:
+  for: 17
+  dex: 19
+  con: 15
+  int: 19
+  sag: 17
+  cha: 15
+
+---
+Chef de band au serveur du roi-démon.
+Après la fin de l'âge des héros, il n'a pas réussi à s'adapter à une vie sans violence et dirige depuis une bande pillards. Il a récement été contqcté par [[Telkhall l'oblitérateur]]
