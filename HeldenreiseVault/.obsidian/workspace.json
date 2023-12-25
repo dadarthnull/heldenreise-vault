@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e97ab295507e2b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md"
+                "file": "NPCs/Ennemis/Zakhan le noir.md"
               }
             }
           },
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +226,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "e97ab295507e2b6e",
   "lastOpenFiles": [
-    "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
     "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
+    "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 8 - 2023-12-09.md",
