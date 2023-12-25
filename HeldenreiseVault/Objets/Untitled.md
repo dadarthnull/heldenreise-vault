@@ -1,0 +1,1 @@
+Nécromancie Simplifiée : Secrets du Charlatan des Ombres

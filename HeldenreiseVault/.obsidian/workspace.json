@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "Objets/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "Objets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md"
+                "file": "Objets/Untitled.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "Objets/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,9 +228,11 @@
   },
   "active": "e97ab295507e2b6e",
   "lastOpenFiles": [
-    "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
-    "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
     "NPCs/Ennemis/Zakhan le noir.md",
+    "Objets/Untitled.md",
+    "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
+    "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
+    "Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Genesys/Resources.md",
@@ -260,8 +262,6 @@
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",
     "0cd1tgrlx4e71.jpg",
-    "Personnages/Résumé.md",
-    "NPCs/Monsters/Ours cornu.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
