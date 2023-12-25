@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "1b8ceae3290f12c5",
+            "id": "068af4f1ed9ba806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Résumé.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,32 +34,20 @@
             }
           },
           {
-            "id": "c94a58068d1121e2",
+            "id": "e5422f483833fa57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a52be2a4925271d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9 - 2024-01-XX.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9 - 2024-01-XX.md"
+                "file": "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md"
               }
             }
           },
@@ -189,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9 - 2024-01-XX.md",
+                "file": "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +213,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "5efd0df8fad3e4ba",
+  "active": "068af4f1ed9ba806",
   "lastOpenFiles": [
-    "Session Notes/Session 8 - 2023-12-09.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
+    "Objets/Grimoire - Ombres Ancestrales et Éveil des Morts.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
     "Genesys/Resources.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Genesys",
@@ -259,8 +249,6 @@
     "Personnages/Résumé.md",
     "NPCs/Monsters/Ours cornu.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "NPCs/Monsters/Cultiste.md",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
