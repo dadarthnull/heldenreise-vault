@@ -26,6 +26,7 @@
 
 # village de départ (AAA)
 ## Quêtes villageois
+- [ ] []
 - [ ] Khalum le chasseur est un agent de la couronne. Il surveille le vilage au cas ou des aventuriers apparaitraient. Il ne sait pas quoi penser de l'arrivée des PJs (faire un rapport ou pas ? si oui, les peindre sous un jour positif ou négatif ?)
 - [ ] Khalum le chasseur est inquiet de l'arrivé d'une meute d'hibloups dans la forét
 - [ ] L'aubergiste a un courrier d'Opus pour les joueurs
@@ -38,18 +39,17 @@
 - [ ] VVV attaque les caravanes sur la route marchande, elle fait attention à n'attaquer que des petits marchands pour ne ps attirer l'attention
 - [ ] Certains brigands sont passés au village et ont attiré l'attention du chef, mais il n'a rien fait pour l'instant parce qu'il n'y a pas eu assez d'attaques
 ## Le nécromancien
-- [ ] XXX est un jeune nécromancien au service de l'empereur liche
-- [ ] XXX crée des morts vivants dans les ruines de BBB près du village de AAA
-- [ ] XXX passe parfois au village pour se ravitailler, tout le monde le trouve désagréable
+- [ ] [[Zakhan le noir]] est un jeune nécromancien membre du culte de la lune noire
+- [ ] [[Zakhan le noir]] crée des morts vivants dans la [[Caverne de Zakhan le noir]] près du village de [[Secrets et indices/AbreissDorf|AbreissDorf]]
+- [ ] [[Zakhan le noir]] passe parfois au village pour se ravitailler, tout le monde le trouve désagréable
+- [ ] [[Zakhan le noir]] se fait passer pour un cartographe au service de la duchesse
 ## La tribu de kobolds
 - [ ] les ruines de BBB sont occupées par des kobolds, en guerre contre les morts vivants de XXX
 - [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devnir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti
 - [ ] ZZZ le chef de guerre veut just vivre en paix et protéger sa tribu, il veut se débarasser mais n'ose pas se dresser contre YYY
 - [ ] les kobolds ont peur des humains, mais peuvent attaquer des villageois si ils deviennent désespe2rés.
-## Monstres de la forêt
-- [ ] Les villageois ne sont pas au courant, mais les animaux féroces qui sont apparus dans la forét ont en fait été chassés de leur tanierre par un drake qui s'est installé dans une ruine au coeur de la forét.
 ## Le chevalier démon
-- [ ] Le drake est la monture d'un chevalier démon, TTT, qui recueille des informations sur l'étqt des royaumes d'Helvengard et Eisendom pour le compte du roi-démon
+- [ ] Le drake est la monture d'un chevalier démon, [[Lhaak le chevalier noir]], qui recueille des informations sur l'état des champs magiques au Sud pour [[Ludmilla la générale démon]]
 
 # tour d'argent
 - [ ] DDD (ex PJ), devenue vieux/vieille est à la tour pour entretnir le jardin de fleurs et le mausolé de Mira avec ses petits enfants

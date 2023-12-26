@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Absalom.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Absalom.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Absalom.md"
+                "file": "Secrets et indices/Secrets de campagne.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Absalom.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +226,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "068af4f1ed9ba806",
   "lastOpenFiles": [
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+    "NPCs/Ennemis/Absalom.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "NPCs/Ennemis/Tallarn la liche.md",
@@ -235,10 +237,8 @@
     "NPCs/Ennemis/Kongh Minn.md",
     "NPCs/Ennemis/Jutta Messer.md",
     "NPCs/Ennemis/Elsa Fuchs.md",
-    "NPCs/Ennemis/Absalom.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Ennemis/Wolf Stark.md",
-    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
