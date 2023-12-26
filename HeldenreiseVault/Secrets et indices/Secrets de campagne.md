@@ -50,7 +50,8 @@
 - [ ] [[Zakhan le noir]] se fait passer pour un cartographe au service de la duchesse
 - [ ] [[Zakhan le noir]]travaille pour [[Titia Andromico]]
 - [ ] [[Zakhan le noir]]pense que la cabale a le soutien de puissants noble dans la capitale [[Schmiedehafen]]
-- [ ] [[Zakhan le noir]] tient un journal intime, dans lequel on peut apprendre qu'il a été recruté par [[Prfesseur ]]
+- [ ] [[Zakhan le noir]] tient un journal intime, dans lequel on peut apprendre qu'il a été recruté par [[Fraularm]]
+- [ ] [[Schmiedehafen]] abrite un culte nécromantique appelé la cabale de la lune noire
 - [ ] [[Titia Andromico]] sait que la cabale travaille pour [[Yuaratoya]] une puissante liche
 - [ ] Si [[Zakhan le noir]] est capturé ou ses effets pris, [[Titia Andromico]] va attaquer le village avec ses mort-vivants pour faire taire [[Zakhan le noir]] et détruire tout ce qui pourrait le lier à la cabale ou donner des indices sur la cabale
 ## La tribu de kobolds
