@@ -26,10 +26,10 @@
 
 # village de départ (AAA)
 ## Quêtes villageois
-- [ ] []
+- [ ] [[Adeline]] l'aubergiste a un courrier d'Opus pour les joueurs
 - [ ] Khalum le chasseur est un agent de la couronne. Il surveille le vilage au cas ou des aventuriers apparaitraient. Il ne sait pas quoi penser de l'arrivée des PJs (faire un rapport ou pas ? si oui, les peindre sous un jour positif ou négatif ?)
 - [ ] Khalum le chasseur est inquiet de l'arrivé d'une meute d'hibloups dans la forét
-- [ ] L'aubergiste a un courrier d'Opus pour les joueurs
+- [ ] 
 - [ ] Camilla l'herboriste est très malade, sa fille, Ludivine veut aller en forêt pour cueillr des plantes médicinales, mais depuis quelques temps, des monstres rödent dans la forêt.
 - [ ] UUU, le chef du village et maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écrlate qui sont récemment apparus dans la forét
 - [ ] UUU pense offrir une prime pour se débarasser des brigands si ils continuent à attaquer les voyageurs

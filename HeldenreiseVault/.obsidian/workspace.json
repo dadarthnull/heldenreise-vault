@@ -24,9 +24,17 @@
             "id": "068af4f1ed9ba806",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed9d36445f843d8b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets et indices/Secrets de campagne.md",
+                "file": "Genealogie/Lucienne Chailley.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secrets et indices/Secrets de campagne.md",
+                "file": "Genealogie/Lucienne Chailley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secrets et indices/Secrets de campagne.md"
+                "file": "Genealogie/Lucienne Chailley.md"
               }
             }
           },
@@ -190,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secrets et indices/Secrets de campagne.md",
+                "file": "Genealogie/Lucienne Chailley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +234,14 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "068af4f1ed9ba806",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Genealogie/Jacques Mezerette.md",
+    "Genealogie/Lucienne Chailley.md",
+    "Genealogie/Marie-Françoise Mezerette.md",
+    "Session Notes/Session 9 - 2024-01-XX.md",
+    "Genealogie",
+    "Secrets et indices/Secrets de campagne.md",
     "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "NPCs/Ennemis/Absalom.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
@@ -239,7 +253,6 @@
     "NPCs/Ennemis/Elsa Fuchs.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Ennemis/Wolf Stark.md",
-    "Session Notes/Session 9 - 2024-01-XX.md",
     "Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
     "Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
@@ -250,14 +263,10 @@
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "Session Notes/Session 8 - 2023-12-09.md",
-    "Genesys/Resources.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Genesys",
     "wNYvVPq.jpeg",
     "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "cragmore-hidef.jpg",
-    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
     "Géographie d'Heldenreise/Donjons",
     "ETC0089_Sunless_Citadel.webp",
     "DcjFsRZW0AAet8Q.jpg",
@@ -272,7 +281,6 @@
     "Assets/Ferdinand-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
-    "Géographie d'Heldenreise/Scénarios",
-    "NPCs/Monsters"
+    "Géographie d'Heldenreise/Scénarios"
   ]
 }
