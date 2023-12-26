@@ -27,8 +27,13 @@
 # village de départ (AAA)
 ## Quêtes villageois
 - [ ] [[Adeline]] l'aubergiste a un courrier d'Opus pour les joueurs
-- [ ] Khalum le chasseur est un agent de la couronne. Il surveille le vilage au cas ou des aventuriers apparaitraient. Il ne sait pas quoi penser de l'arrivée des PJs (faire un rapport ou pas ? si oui, les peindre sous un jour positif ou négatif ?)
-- [ ] Khalum le chasseur est inquiet de l'arrivé d'une meute d'hibloups dans la forét
+- [ ] [[Lambert]] le chasseur est un agent de la couronne. Il surveille le village au cas ou des aventuriers apparaitraient. Il ne sait pas quoi penser de l'arrivée des PJs (faire un rapport ou pas ? si oui, les peindre sous un jour positif ou négatif ?)
+- [ ] [Dirke](app://obsidian.md/Dirke) cherche des aventuriers pour l'accompagner en forêt pour trouver des branches de noisetier doré et des pierres de mana au ruisseau de l'obélisque, pour aider sa sœur
+- [ ]  [Benno](app://obsidian.md/Benno) à l'autorité commerciale veut que quelqu'un vérifie si le fort en ruine sur la route vers Arfilo sert de base à des brigands et si il peut de nouveau servir pour des gardes
+- [ ] [[Wielfried]] le propriétaire du magasin général a perdu une caravane en route pour Abreissdorf et eut que que
+- [ ]  Aller voire l'obélisque magique dans la forêt - [Otto](app://obsidian.md/Otto) à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon (s'inspirer de sunken citadelle)
+- [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern, il squatte une ancienne tour de guet abandonnée
+- [ ]  (évènement) Une fillette cherche des aventuriers pour chercher son papa dans la montagne - [Marthe](app://obsidian.md/Marthe) n'a pas d'argent mais elle connait des plantes médicinales qu'elle est prête à donner à qui part à la recherche de son papa
 - [ ] 
 - [ ] Camilla l'herboriste est très malade, sa fille, Ludivine veut aller en forêt pour cueillr des plantes médicinales, mais depuis quelques temps, des monstres rödent dans la forêt.
 - [ ] UUU, le chef du village et maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écrlate qui sont récemment apparus dans la forét
