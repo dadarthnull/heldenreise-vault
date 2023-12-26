@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets et indices/Culte de la lune noire.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secrets et indices/Culte de la lune noire.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secrets et indices/Culte de la lune noire.md"
+                "file": "Secrets et indices/Secrets de campagne.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secrets et indices/Culte de la lune noire.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,11 +252,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e33a412d2e89a16d",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Secrets et indices/Culte de la lune noire.md",
     "lune-noire-symbole.png",
     "NPCs/Ennemis/Zenayoloya.md",
-    "Secrets et indices/Culte de la lune noire.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Absalom.md",
@@ -296,7 +296,6 @@
     "Assets/Marthe-portrait.webp",
     "Assets/Leise-portrait.webp",
     "Assets/Heldenreise-zoom-sud-original.jpg",
-    "Assets/Ferdinand-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios"
