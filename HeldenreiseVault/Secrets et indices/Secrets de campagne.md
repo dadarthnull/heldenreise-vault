@@ -33,12 +33,12 @@
 - [ ] [[Wielfried]] le propriétaire du magasin général a perdu une caravane en route pour Abreissdorf et eut que quelqu'un retrouve sa cargaison et punisse les brigands.
 - [ ] [Otto](app://obsidian.md/Otto) à la guilde des aventuriers s'inquiète que la magie s'accumule à l'ancien donjon du Temple englouti
 - [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern, il squatte une ancienne tour de guet abandonnée
-- [ ]  (évènement) Une fillette cherche des aventuriers pour chercher son papa dans la montagne - [Marthe](app://obsidian.md/Marthe) n'a pas d'argent mais elle connait des plantes médicinales qu'elle est prête à donner à qui part à la recherche de son papa
+- [ ]  [Marthe](app://obsidian.md/Marthe) n'a pas d'argent mais elle connait des plantes médicinales qu'elle est prête à donner à qui part à la recherche de son papa
+- [ ] [[Lazfam]], père de [[Marthe Holzkralle]] a été attaqué par des hibloux et est blessé dns la forêt
 - [ ] 
+- [ ] [[Sylvester]], le chef du village et [[Otto]], maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écarlate qui sont récemment apparus dans la forêt
 - [ ] 
-- [ ] UUU, le chef du village et maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écarlate qui sont récemment apparus dans la forêt
-- [ ] 
-## Les brigands
+## Les brigands sur la route vers Armelia
 - [ ] VVV est une noble déchue qui vit dans les grottes de CCC près du village de AAA, elle dirige un petit groupe de brigands
 - [ ] VVV a passé un accord avec XXX, mias est prête à le trahir
 - [ ] VVV attaque les caravanes sur la route marchande, elle fait attention à n'attaquer que des petits marchands pour ne ps attirer l'attention
@@ -48,6 +48,9 @@
 - [ ] [[Zakhan le noir]] crée des morts vivants dans la [[Caverne de Zakhan le noir]] près du village de [[Secrets et indices/AbreissDorf|AbreissDorf]]
 - [ ] [[Zakhan le noir]] passe parfois au village pour se ravitailler, tout le monde le trouve désagréable
 - [ ] [[Zakhan le noir]] se fait passer pour un cartographe au service de la duchesse
+- [ ] [[Zakhan le noir]]travaille pour [[Titia Andromico]]
+- [ ] [[Zakhan le noir]]pense que la cabale a le soutien de puissants noble dans la capitale [[Schmiedehafen]]
+- [ ] [[Titia Andromico]] sait que la cabale travaille pour [[Yuaratoya]] une puissante liche
 ## La tribu de kobolds
 - [ ] les ruines de BBB sont occupées par des kobolds, en guerre contre les morts vivants de XXX
 - [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devnir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti

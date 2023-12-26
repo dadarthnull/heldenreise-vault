@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
+                "file": "Session Notes/Session 3 - 2023-10-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md"
+                "file": "Secrets et indices/Secrets de campagne.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,13 +252,16 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "03b3cd13dc391945",
+  "active": "7ce4a35fb57a31f5",
   "lastOpenFiles": [
-    "NPCs/Habitants/Marthe Holzkralle.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-    "Secrets et indices/Secrets de campagne.md",
+    "Session Notes/Session 3 - 2023-10-05.md",
+    "Session Notes/Session 2 - 2023-09-16.md",
+    "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
+    "Secrets et indices/Secrets de campagne.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "NPCs/Habitants/Marthe Holzkralle.md",
     "NPCs/Habitants/Lambert.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
@@ -279,9 +282,6 @@
     "Genealogie/Lucienne Chailley.md",
     "Genealogie",
     "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
-    "NPCs/Ennemis/Absalom.md",
-    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
-    "NPCs/Ennemis/Titia Andromico.md",
     "Genesys",
     "Assets/wNYvVPq.jpeg",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
