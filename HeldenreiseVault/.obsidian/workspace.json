@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Zenayoloya.md",
+                "file": "Secrets et indices/Culte de la lune noire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Zenayoloya.md",
+                "file": "Secrets et indices/Culte de la lune noire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Zenayoloya.md"
+                "file": "Secrets et indices/Culte de la lune noire.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Zenayoloya.md",
+                "file": "Secrets et indices/Culte de la lune noire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +254,10 @@
   },
   "active": "e33a412d2e89a16d",
   "lastOpenFiles": [
-    "Session Notes/Session 3 - 2023-10-05.md",
+    "lune-noire-symbole.png",
     "NPCs/Ennemis/Zenayoloya.md",
+    "Secrets et indices/Culte de la lune noire.md",
+    "Session Notes/Session 3 - 2023-10-05.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Absalom.md",
     "Secrets et indices/Secrets de campagne.md",
@@ -279,8 +281,6 @@
     "NPCs/Habitants/Benno.md",
     "NPCs/Habitants/Adeline.md",
     "Assets/0cd1tgrlx4e71.jpg",
-    "Secrets et indices/AbreissDorf.md",
-    "Session Notes/Session 9 - 2024-01-XX.md",
     "Genealogie",
     "Genesys",
     "Assets/wNYvVPq.jpeg",
