@@ -54,6 +54,7 @@
 - [ ] [[Schmiedehafen]] abrite un culte nécromantique appelé la cabale de la lune noire
 - [ ] [[Titia Andromico]] sait que la cabale travaille pour [[Yuaratoya]] une puissante liche
 - [ ] Si [[Zakhan le noir]] est capturé ou ses effets pris, [[Titia Andromico]] va attaquer le village avec ses mort-vivants pour faire taire [[Zakhan le noir]] et détruire tout ce qui pourrait le lier à la cabale ou donner des indices sur la cabale
+	- [ ] [[Titia Andromico]] va faire un rituel nécromantique pour attaquer le village, le rituel prend beaucoup de temps
 ## La tribu de kobolds
 - [ ] les ruines de BBB sont occupées par des kobolds, en guerre contre les morts vivants de XXX
 - [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devnir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti
