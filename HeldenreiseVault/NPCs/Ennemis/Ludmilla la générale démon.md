@@ -3,6 +3,8 @@ tags:
   - roi-demon
   - NPC
   - opposition
+nom: Ludmilla
+type: ennemi
 ---
 
 ![[ludmilla.png]]

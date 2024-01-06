@@ -31,81 +31,82 @@ Géographie
 	- pâtures
 - Village
 	1. Maison du chasseur
+		1. habité par [[Lambert]]
 	2. Chapelle et nouveau cimetière
 		- la chapelle est entretenue par [[Lasfam]] le prêtre
 		- petit autel des grands dragon (un autel pour tous les dragons) dans une aile
 		- vitraux et série d'autels pour les dieux originels, les dieux vénérés par les humains avant l'exode dans cette région:
 			- le père des dieux majeurs, Jupiter et son épouse Xena ont eu 3 fils, Hercule, Thor et Odin (jumeaux) et 3 filles, Isis, Athéna et Morrigane, ils ont eu de nombreuses aventures, incarnent chacun un aspect positif et ont protégés les humains, ils ne peuvent plus intervenir, mais il est important de se souvenir d'eux et de continuer à les faire vivre dans le cœur des humains
-	1. fermier
-	2. Magasin général
+	3. fermier
+	4. Magasin général
 		- tenu par un jeune homme, [[Wielfried]] et sa mère [[Solange]]
-	3. Guilde des bûcherons
+	5. Guilde des bûcherons
 		- [[Gustav]]
-	4. fermier (verger)
+	6. fermier (verger)
 		- [[Hassel]] s'occupe du verger pour toute le village, les habitants participent tous aux récoltes
-	5. maison des voyageurs
+	7. maison des voyageurs
 		- cette maison a quelques chambres pour héberger les voyageurs qui n'ont pas les moyens d'une chambre à l'auberge et ne veulent pas camper.
 		- tenu par [[Rihiarda]]
 		- était une auberge concurrente de la grande auberge il y a longtemps, mais est devenu un refuge communal il y a 20 ans
-	1. entrepôt communal
+	8. entrepôt communal
 		- un grand entrepôt géré conjointement par le chef du village [[Gustav]], le chef de la guilde des aventuriers [[Otto]] et [[Adeline]]
 		- sert pour stocker les biens communs au village et parfois peut aussi stocker des biens personnels, contre droit de stockage ou corvée supplémentaire
-	2. salle des fêtes
+	9. salle des fêtes
 		- grande salle ou le village organise les évènements officiels et les fêtes, son entretient est une corvée attribuée aux habitants à tour de rôle
-	3. plazza
-	4. moulin
-	5. tour de garde
+	10. plazza
+	11. moulin
+	12. tour de garde
 		- une simple tour en bois, toujours occupée par un garde
 		- sert plus à avertir de l'arrivée de caravanes pour que le village puisse se préparer à les accueillir qu'à prévenir une arrivée de monstres ou brigands
-	6. fermier
-	7. alchimiste
+	13. fermier
+	14. alchimiste
 		- [[Raimund]]
-	8. herboriste
+	15. herboriste
 		- [[Oswald]]
-	9. auberge du bon départ
+	16. auberge du bon départ
 		- logement
 		- habitants: [[Nanette]], [[Adeline]], [[Eckhart]]
 		- Indices
 			- lettre d'Opus
 			- Rumeurs
-	10. ancien cimetière
+	17. ancien cimetière
 		- petit cimetière datant de l'âge des héros, il n'est plus utilisé et les pierres tombales sont maintenant toutes illisibles
-	11. forgeron
+	18. forgeron
 		- armes de mauvaises qualités, bons équipements
 		- habitants: [[Mariette]] et [[Marcus]]
 		- Indices:
 			- 
-	12. propriétaire terrien
-	13. fermier
-	14. autorité commerciale
+	19. propriétaire terrien
+	20. fermier
+	21. autorité commerciale
 		- [[Benno]]
-	15. fermier
-	16. chef du village
+	22. fermier
+	23. chef du village
 		- [[Sylvester]] le chef, [[Gerda]] sa femme, [[Grausam]] son fils et [[Gretia]] sa fille
-	17. notable
-	18. guilde des aventuriers
+	24. notable
+	25. guilde des aventuriers
 		- [[Bierce]]: dernier aventurier, passe ses journée sur le porche ou dans un fauteuil à l'intérieur
 		- [[Otto]], maître de la guilde, essaie de maintenir le bâtiment en état
 		- l'étage a été transformé en garderie et salle de classe pour les enfants du village
 		- un petit guichet et une table dans un coin servent toujours pour les affaires de la guilde, avec un tableau d'affichage, le reste de la salle commune a été transformé en atelier communal
-	19. scierie
-	20. maison des gardes
+	26. scierie
+	27. maison des gardes
 		- Capitaine de la garde: [[Shikza]]
 		- Gardes à plein temps: [[Moritz]], [[Heisshitze]], [[Geduldh]]
-	21. fournitures de l'aventurier
+	28. fournitures de l'aventurier
 		- habitants: [[Rosina]], [[Dirke]]
 		- ancien magasin, a connu des jours meilleurs, le toit fuit
 		- tenu par une ado et son petit frère qui ont hérité du bâtiment à la mort de leurs parents. Le village essaie de les aider mais la vie n'est pas rose
 		- 
-	22. pont de bois, route vers Armelia
+	29. pont de bois, route vers Armelia
 		- pont en bon état, refait récemment
-	23. route vers la forêt d'argent et Arfilo
+	30. route vers la forêt d'argent et Arfilo
 		- la route, au moins sur les premiers kilomètres est bien entretenue
-	24. chemin vers la forêt d'argent et les montagnes
+	31. chemin vers la forêt d'argent et les montagnes
 		- petit chemin, utilisé par les bûcherons et le chasseur
-	25. chemin du bois
+	32. chemin du bois
 		- le bois est un petit bois, avec beaucoup d'arbres à graines comestibles (noix, noisettes) et un peu de gibier. Il est utilisé fréquemment par les villageois et plutôt sûr, les enfants peuvent y aller jouer s'ils sont accompagnés d'un adulte
-	26. verger
+	33. verger
 		- verger de pommes, poires et abricots
 
 

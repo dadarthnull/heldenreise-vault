@@ -27,9 +27,12 @@ Bien sûr, ajoutons des personnages supplémentaires pour les trois premières f
 - **Kelda Holzkralle (grand-mère)** : Une chasseuse expérimentée, âgée mais toujours agile, connue pour ses compétences inégalées dans le pistage. Elle transmet son savoir aux jeunes générations, préservant les traditions familiales.
 
 - **Leise Holzkralle (fille aînée)** : Une jeune femme déterminée, spécialisée dans la création de pièges ingénieux pour la chasse. Elle cherche à moderniser les méthodes de chasse de la famille en y apportant une touche innovante.
-- Marthe Holzkralle (petite fille): en gamine agile et déterminée, elle adore ses parents et passe son temps à essayer de les aider, même si elle est trop petite pour certaines tâches.
+- Lazfam Langfahrtt: époux de Leise, a rejoint la famille Holzkralle car plus interesse par la chasse que la culture
+- [[Marthe Holzkralle]] (petite fille): en gamine agile et déterminée, elle adore ses parents et passe son temps à essayer de les aider, même si elle est trop petite pour certaines tâches.
 
 **3. Famille Langfahrtt - Fermiers itinérants**
+
+Les Langfahrtt n'ont pas de champs attitrés et aident aux autres champs. L'hiver, ils partent au sud pour aider les cultures d'hiver vers [[Schmiedehafen]]
 
 - **Ysabelle Langfahrtt (matriarche)** : Une femme d'âge moyen au visage marqué par les éléments, avec des yeux pétillants reflétant sa curiosité. Elle porte des vêtements colorés, représentant les diverses cultures avec lesquelles la famille a interagi.
 

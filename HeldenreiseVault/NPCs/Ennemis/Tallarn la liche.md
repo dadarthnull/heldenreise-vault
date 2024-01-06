@@ -7,6 +7,8 @@ tags:
   - tallarn-liche
   - NPC
   - opposition
+nom: Tallern
+type: ennemi
 ---
 
 ![[tallarn-liche.webp]]

@@ -13,67 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Donjons/Temple englouti.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2401490335a2dece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Résumé.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3a6a156c99be2e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7f39af2bd99aa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53eb0cd7f9e928b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7 - 2023-12-02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48f2105c391625d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 9 - XX-XX-2024.md",
+                "file": "NPCs/Habitants/Lambert.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -81,7 +21,7 @@
             }
           },
           {
-            "id": "2805169c738f890d",
+            "id": "00a38415ee2558e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,9 +32,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ce4a35fb57a31f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Habitants/Fraularm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7bbd323629f203b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ennemis/Yuaratoya.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "03b3cd13dc391945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33a412d2e89a16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secrets et indices/Secrets de campagne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Secrets et indices/Secrets de campagne.md"
               }
             }
           },
@@ -224,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,43 +267,43 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2805169c738f890d",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "Session Notes/Session 9 - XX-XX-2024.md",
-    "conflict-files-obsidian-git.md",
-    "Genesys/Resources.md",
-    "Genesys",
-    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "Secrets et indices/Culte de la lune noire.md",
+    "lune-noire-symbole.png",
+    "NPCs/Ennemis/Zenayoloya.md",
+    "Session Notes/Session 3 - 2023-10-05.md",
+    "NPCs/Ennemis/Yuaratoya.md",
+    "NPCs/Ennemis/Absalom.md",
+    "Secrets et indices/Secrets de campagne.md",
+    "NPCs/Habitants/Fraularm.md",
+    "Session Notes/Session 2 - 2023-09-16.md",
+    "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Géographie d'Heldenreise/Donjons/Temple englouti.md",
-    "Personnages/Résumé.md",
-    "Géographie d'Heldenreise/Donjons/Le laboratoire d'Aialize.md",
-    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
-    "NPCs/Monsters/Kobold - Chasseur.md",
-    "NPCs/Monsters/Elémentaire - Feu mineur.md",
-    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
-    "NPCs/Monsters/Kobold - Chef.md",
-    "NPCs/Monsters/Kobold - Shaman.md",
-    "NPCs/Monsters/Kobold - Villageois.md",
-    "NPCs/Monsters/Kobold - Guerrier.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "NPCs/Ennemis/Lhaak le chevalier noir.md",
-    "Géographie d'Heldenreise/Donjons/Tour effondrée.md",
-    "DcjFsRZW0AAet8Q.jpg",
-    "NPCs/Ennemis/Tallarn la liche.md",
-    "NPCs/Ennemis/Ludmilla la générale démon.md",
-    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
-    "0cd1tgrlx4e71.jpg",
-    "Géographie d'Heldenreise/Donjons/Forteresse de Gravenberg.md",
-    "wNYvVPq.jpeg",
-    "mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "cragmore-hidef.jpg",
-    "ETC0089_Sunless_Citadel.webp",
+    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "NPCs/Habitants/Marthe Holzkralle.md",
+    "NPCs/Habitants/Lambert.md",
+    "NPCs/Habitants/Hassel.md",
+    "NPCs/Habitants/Gustavo Haggard.md",
+    "NPCs/Habitants/Gustav.md",
+    "NPCs/Habitants/Gretia.md",
+    "NPCs/Habitants/Grausam.md",
+    "NPCs/Habitants/Gerda.md",
+    "NPCs/Habitants/Eckhart.md",
+    "NPCs/Habitants/Dirke.md",
+    "NPCs/Habitants/Bierce.md",
+    "NPCs/Habitants/Benno.md",
+    "NPCs/Habitants/Adeline.md",
+    "Assets/0cd1tgrlx4e71.jpg",
+    "Genealogie",
+    "Genesys",
+    "Assets/wNYvVPq.jpeg",
+    "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
+    "Assets/cragmore-hidef.jpg",
     "Géographie d'Heldenreise/Donjons",
-    "Session Notes Template 66c7dbec081047e88d528dc70bb369da",
+    "Assets/ETC0089_Sunless_Citadel.webp",
+    "Assets/DcjFsRZW0AAet8Q.jpg",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",
@@ -319,7 +311,6 @@
     "Assets/Marthe-portrait.webp",
     "Assets/Leise-portrait.webp",
     "Assets/Heldenreise-zoom-sud-original.jpg",
-    "Assets/Ferdinand-portrait.webp",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
     "Géographie d'Heldenreise/Scénarios"
