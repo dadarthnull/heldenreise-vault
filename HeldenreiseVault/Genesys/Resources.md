@@ -1,0 +1,6 @@
+- https://preview.drivethrurpg.com/en/product/294931/zynnythryx-s-guide-to-magic-a-beginner-s-guide-to-genesys-magic
+- https://preview.drivethrurpg.com/en/product/299740/skills-guide-skills-supplement-for-genesys
+- https://preview.drivethrurpg.com/en/product/315439/skill-adventures
+- https://preview.drivethrurpg.com/en/product/338758/factions-1-a-faction-talent-supplement
+- https://preview.drivethrurpg.com/en/product/348431/adventures-in-alchemy
+- 
