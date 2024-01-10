@@ -29,13 +29,13 @@ Nécromancien de pacotille, membre de la [[cabale de la lune noire]]
 
 **Livres Romantiques :**
 
-1. **"Éclats de Lune sur la Rosée"** - Un roman romantique qui se déroule dans un monde fantastique où les héros se battent pour protéger leur amour contre des forces surnaturelles. Le nécromancien novice trouve un réconfort dans la façon dont l'amour transcende même la mort.
+1. **"Éclats de Lune sur la Rosée"** - Un roman romantique qui se déroule dans un monde fantastique où les héros se battent pour protéger leur amour contre des forces surnaturelles. Son propriétaire trouve un réconfort dans la façon dont l'amour transcende même la mort.
 
-2. **"L'Écho du Souffle du Vent"** - Une histoire poétique d'amour et d'aventure dans un décor exotique. Les pages décrivent des liaisons passionnées entre des personnages principaux, offrant au nécromancien une pause bienvenue de l'obscurité de ses études.
+2. **"L'Écho du Souffle du Vent"** - Une histoire poétique d'amour et d'aventure dans un décor exotique. Les pages décrivent des liaisons passionnées entre des personnages principaux, offrant à son propriétaire une pause bienvenue de l'obscurité de ses études.
 
 Et aussi
 
-**"Nécromancie Simplifiée : Secrets du Charlatan des Ombres"**
+**"Nécromancie Simplifiée : Secrets du maître des Ombres"**
 
 Ce livre est un grimoire d'apprentissage écrit par un prétendu maître de la nécromancie, mais il est rapidement apparent que l'auteur est plus charlatan que sorcier. La couverture en cuir usée et les pages jaunies trahissent son âge et son utilisation fréquente par son propriétaire autodidacte. Voici quelques caractéristiques de ce guide déconcertant :
 
