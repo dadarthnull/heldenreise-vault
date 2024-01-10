@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Yuaratoya.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md"
+                "file": "Secrets et indices/Secrets de campagne.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "Secrets et indices/Secrets de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +256,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "00a38415ee2558e0",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Zakhan le noir.md",
+    "NPCs/Ennemis/Yuaratoya.md",
     "Session Notes/Session 10 - 13-01-2024.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Habitants/Fraularm.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
@@ -268,7 +269,6 @@
     "lune-noire-symbole.png",
     "NPCs/Ennemis/Zenayoloya.md",
     "Session Notes/Session 3 - 2023-10-05.md",
-    "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Absalom.md",
     "Secrets et indices/Secrets de campagne.md",
     "Session Notes/Session 2 - 2023-09-16.md",
