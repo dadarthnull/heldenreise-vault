@@ -37,7 +37,7 @@ Et aussi
 
 **"Nécromancie Simplifiée : Secrets du maître des Ombres"**
 
-Ce livre est un grimoire d'apprentissage écrit par un prétendu maître de la nécromancie, mais il est rapidement apparent que l'auteur est plus charlatan que sorcier. La couverture en cuir usée et les pages jaunies trahissent son âge et son utilisation fréquente par son propriétaire autodidacte. Voici quelques caractéristiques de ce guide déconcertant :
+Ce livre est un grimoire d'apprentissage écrit par un prétendu maître de la nécromancie, mais il est rapidement apparent que l'auteur est plus charlatan que sorcier. La couverture en cuir usée et les pages jaunies trahissent son âge et son utilisation fréquente par son propriétaire. Voici quelques caractéristiques de ce guide déconcertant :
 
 1. **Titres Alléchants** : Le livre est orné de titres pompeux tels que "Domination des Morts en 10 Étapes Faciles" et "La Nécromancie sans Larmes". Ces déclarations audacieuses sont destinées à attirer les novices en quête de résultats rapides.
 
