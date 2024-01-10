@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Monsters/Rose Vampire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Monsters/Rose Vampire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md"
+                "file": "NPCs/Monsters/Rose Vampire.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Monsters/Rose Vampire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,11 +265,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "2334ef380000f25a",
   "lastOpenFiles": [
+    "Session Notes/Session 10 - 13-01-2024.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
     "NPCs/Habitants/Gretia.md",
@@ -283,7 +285,6 @@
     "NPCs/Monsters/Cultiste.md",
     "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 10 - 13-01-2024.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
     "Personnages/Adelaïde.md",
     "templates/Session Template.md",
