@@ -68,7 +68,7 @@
                 "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
