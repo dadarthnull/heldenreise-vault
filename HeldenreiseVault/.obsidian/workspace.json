@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4a3c3afdc42ef7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Habitants/Lambert.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "00a38415ee2558e0",
             "type": "leaf",
             "state": {
@@ -32,61 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7ce4a35fb57a31f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7bbd323629f203b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secrets et indices/Secrets de campagne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03b3cd13dc391945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2334ef380000f25a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md"
+                "file": "Session Notes/Session 10 - 13-01-2024.md"
               }
             }
           },
@@ -218,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "692163436c173ed1",
@@ -268,12 +203,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2334ef380000f25a",
+  "active": "00a38415ee2558e0",
   "lastOpenFiles": [
+    "Secrets et indices/Secrets de campagne.md",
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "NPCs/Habitants/Benno.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 10 - 13-01-2024.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Habitants/Gerda.md",
     "NPCs/Habitants/Fraularm.md",
@@ -285,7 +223,6 @@
     "NPCs/Habitants/Gustavo Haggard.md",
     "NPCs/Habitants/Gretia.md",
     "NPCs/Habitants/Dirke.md",
-    "NPCs/Habitants/Benno.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Tallarn la liche.md",
@@ -294,8 +231,6 @@
     "Session Notes/Session 1 - 2023-09-09.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
     "Personnages/Adelaïde.md",
-    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
-    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
     "lune-noire-symbole.png",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
