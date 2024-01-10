@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md"
+                "file": "Session Notes/Session 10 - 13-01-2024.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +256,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "7ce4a35fb57a31f5",
+  "active": "00a38415ee2558e0",
   "lastOpenFiles": [
+    "NPCs/Ennemis/Zakhan le noir.md",
     "Session Notes/Session 10 - 13-01-2024.md",
     "Secrets et indices/Secrets de campagne.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
