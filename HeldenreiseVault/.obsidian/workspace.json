@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 10 - 13-01-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -71,9 +71,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2334ef380000f25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/NPC simple.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "templates/NPC simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md"
+                "file": "templates/NPC simple.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "templates/NPC simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +268,24 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "00a38415ee2558e0",
+  "active": "2334ef380000f25a",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Zakhan le noir.md",
+    "templates/npc-with-attributes.md",
+    "templates/NPC simple.md",
+    "templates/Session Template.md",
+    "Session Notes/Session 5 - 2023-11-11.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "NPCs/Monsters/Démon - Brute.md",
+    "NPCs/Monsters/Kobold - Shaman.md",
+    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
+    "NPCs/Monsters/Rose Vampire.md",
     "Session Notes/Session 10 - 13-01-2024.md",
+    "NPCs/Monsters/Démon - Armure.md",
+    "Personnages/Adelaïde.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "Secrets et indices/Secrets de campagne.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
@@ -270,20 +297,6 @@
     "NPCs/Ennemis/Zenayoloya.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "NPCs/Ennemis/Absalom.md",
-    "Session Notes/Session 2 - 2023-09-16.md",
-    "Session Notes/Session 1 - 2023-09-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "NPCs/Habitants/Marthe Holzkralle.md",
-    "NPCs/Habitants/Hassel.md",
-    "NPCs/Habitants/Gustavo Haggard.md",
-    "NPCs/Habitants/Gustav.md",
-    "NPCs/Habitants/Gretia.md",
-    "NPCs/Habitants/Grausam.md",
-    "NPCs/Habitants/Gerda.md",
-    "NPCs/Habitants/Eckhart.md",
-    "NPCs/Habitants/Dirke.md",
-    "NPCs/Habitants/Bierce.md",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
     "Genesys",
