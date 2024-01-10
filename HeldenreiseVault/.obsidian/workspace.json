@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Habitants/Hassel.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Habitants/Hassel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md"
+                "file": "NPCs/Habitants/Hassel.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "file": "NPCs/Habitants/Hassel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,12 +268,23 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "2334ef380000f25a",
   "lastOpenFiles": [
-    "NPCs/Patrons et alliés/Super nouveau PNJ.md",
-    "Session Notes/Session 10 - 13-01-2024.md",
-    "Personnages/Adelaïde.md",
+    "NPCs/Habitants/Gustavo Haggard.md",
+    "NPCs/Habitants/Gretia.md",
+    "NPCs/Habitants/Fraularm.md",
+    "NPCs/Habitants/Dirke.md",
+    "NPCs/Habitants/Benno.md",
+    "NPCs/Ennemis/Titia Andromico.md",
+    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+    "NPCs/Ennemis/Tallarn la liche.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
     "NPCs/Monsters/Cultiste.md",
+    "Session Notes/Session 1 - 2023-09-09.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 10 - 13-01-2024.md",
+    "NPCs/Patrons et alliés/Super nouveau PNJ.md",
+    "Personnages/Adelaïde.md",
     "templates/Session Template.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
@@ -281,21 +292,10 @@
     "templates/NPC simple.md",
     "templates/npc-with-attributes.md",
     "Session Notes/Session 5 - 2023-11-11.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Démon - Brute.md",
     "NPCs/Monsters/Kobold - Shaman.md",
-    "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "NPCs/Monsters/Rose Vampire.md",
-    "NPCs/Monsters/Démon - Armure.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
-    "Secrets et indices/Secrets de campagne.md",
-    "NPCs/Ennemis/Yuaratoya.md",
-    "NPCs/Habitants/Fraularm.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-    "NPCs/Habitants/Lambert.md",
     "lune-noire-symbole.png",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
