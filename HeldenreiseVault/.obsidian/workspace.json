@@ -24,8 +24,13 @@
             "id": "00a38415ee2558e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           },
           {
@@ -66,32 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e33a412d2e89a16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 9 - XX-XX-2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d823f1292f0bc1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9 - XX-XX-2024.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9 - XX-XX-2024.md"
+                "file": "Session Notes/Session 10 - 13-01-2024.md"
               }
             }
           },
@@ -223,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9 - XX-XX-2024.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,10 +256,11 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "6d823f1292f0bc1f",
+  "active": "00a38415ee2558e0",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "Session Notes/Session 10 - 13-01-2024.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
-    "Session Notes/Session 9 - XX-XX-2024.md",
     "NPCs/Habitants/Lambert.md",
     "Secrets et indices/Culte de la lune noire.md",
     "lune-noire-symbole.png",
@@ -291,7 +274,6 @@
     "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "NPCs/Habitants/Marthe Holzkralle.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
