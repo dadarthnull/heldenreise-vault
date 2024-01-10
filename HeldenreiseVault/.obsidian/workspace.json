@@ -78,8 +78,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Hassel.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Hassel.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Hassel.md"
+                "file": "Session Notes/Session 10 - 13-01-2024.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Hassel.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "692163436c173ed1",
@@ -270,6 +270,7 @@
   },
   "active": "2334ef380000f25a",
   "lastOpenFiles": [
+    "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
     "NPCs/Habitants/Gretia.md",
     "NPCs/Habitants/Fraularm.md",
@@ -295,7 +296,6 @@
     "Session Notes/Session 7 - 2023-12-02.md",
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Démon - Brute.md",
-    "NPCs/Monsters/Kobold - Shaman.md",
     "lune-noire-symbole.png",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
