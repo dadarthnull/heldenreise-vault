@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/NPC simple.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/NPC simple.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/NPC simple.md"
+                "file": "Session Notes/Session 10 - 13-01-2024.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/NPC simple.md",
+                "file": "Session Notes/Session 10 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,11 +268,18 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2334ef380000f25a",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "templates/npc-with-attributes.md",
-    "templates/NPC simple.md",
+    "NPCs/Patrons et alliés/Super nouveau PNJ.md",
+    "Session Notes/Session 10 - 13-01-2024.md",
+    "Personnages/Adelaïde.md",
+    "NPCs/Monsters/Cultiste.md",
     "templates/Session Template.md",
+    "Session Notes/Session 9 - 2024-01-XX.md",
+    "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
+    "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
+    "templates/NPC simple.md",
+    "templates/npc-with-attributes.md",
     "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 7 - 2023-12-02.md",
@@ -282,21 +289,14 @@
     "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
     "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
     "NPCs/Monsters/Rose Vampire.md",
-    "Session Notes/Session 10 - 13-01-2024.md",
     "NPCs/Monsters/Démon - Armure.md",
-    "Personnages/Adelaïde.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Secrets et indices/Secrets de campagne.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
-    "Session Notes/Session 9 - 2024-01-XX.md",
     "NPCs/Habitants/Lambert.md",
-    "Secrets et indices/Culte de la lune noire.md",
     "lune-noire-symbole.png",
-    "NPCs/Ennemis/Zenayoloya.md",
-    "Session Notes/Session 3 - 2023-10-05.md",
-    "NPCs/Ennemis/Absalom.md",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
     "Genesys",
