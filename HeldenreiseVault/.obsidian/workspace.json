@@ -78,8 +78,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Rose Vampire.md",
-                "mode": "source",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Rose Vampire.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Rose Vampire.md"
+                "file": "Session Notes/Session 6 - 2023-11-25.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Rose Vampire.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +232,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "692163436c173ed1",
@@ -271,11 +270,19 @@
   },
   "active": "2334ef380000f25a",
   "lastOpenFiles": [
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Session Notes/Session 9 - 2024-01-XX.md",
     "Session Notes/Session 10 - 13-01-2024.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "NPCs/Habitants/Gerda.md",
+    "NPCs/Habitants/Fraularm.md",
+    "Session Notes/Session 2 - 2023-09-16.md",
+    "templates/Session Template.md",
+    "templates/NPC simple.md",
+    "NPCs/Monsters/Rose Vampire.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
     "NPCs/Habitants/Gretia.md",
-    "NPCs/Habitants/Fraularm.md",
     "NPCs/Habitants/Dirke.md",
     "NPCs/Habitants/Benno.md",
     "NPCs/Ennemis/Titia Andromico.md",
@@ -287,16 +294,8 @@
     "Session Notes/Session 6 - 2023-11-25.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
     "Personnages/Adelaïde.md",
-    "templates/Session Template.md",
-    "Session Notes/Session 9 - 2024-01-XX.md",
     "Géographie d'Heldenreise/Donjons/Caverne de Zakhan le noir.md",
     "Géographie d'Heldenreise/Donjons/Arène démoniaque.md",
-    "templates/NPC simple.md",
-    "templates/npc-with-attributes.md",
-    "Session Notes/Session 5 - 2023-11-11.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
-    "NPCs/Monsters/Ours cornu.md",
-    "NPCs/Monsters/Démon - Brute.md",
     "lune-noire-symbole.png",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
