@@ -1,5 +1,13 @@
-Date: 
-Présents: 
+---
+runDate: 
+tags:
+  - timeline
+  - heldenreise
+  - session-note
+name: session XX
+startDate: 
+endDate: 
+---
 
 
 # Personnages
@@ -33,5 +41,7 @@ Check quand un secret a été révélé
 > 
 
 # Notes de la session
-- 
 
+```
+- 
+```

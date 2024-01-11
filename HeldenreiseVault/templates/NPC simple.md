@@ -1,16 +1,9 @@
-
---- 
-type: NPC 
-faction: [] 
-location: [] 
-world: Heldenreise 
-campaign: "Heldenreise" 
-date: [{{date}}] 
-description: "" 
-race: [] 
-gender: [] 
-class: [] 
-tags: NPC, 
 ---
-
-
+tags: npc
+location:
+name:
+gender:
+race:
+profession:
+snippet:
+---
