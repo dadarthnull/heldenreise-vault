@@ -12,7 +12,6 @@ Présents:
 
 # Départ puissant
 - les personnage sont dans la [[Caverne de Zakhan le noir]], ils viennent de capturer:
-	- ![[Zakhan le noir]]
 - 
 # Scènes
 - 
