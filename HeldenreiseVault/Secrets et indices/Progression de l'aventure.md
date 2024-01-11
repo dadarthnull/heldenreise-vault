@@ -1,4 +1,3 @@
-
 ```timeline
 tags=session-note
 ```
