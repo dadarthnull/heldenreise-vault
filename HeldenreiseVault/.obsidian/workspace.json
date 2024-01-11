@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets et indices/Progression de l'aventure.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secrets et indices/Progression de l'aventure.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secrets et indices/Progression de l'aventure.md"
+                "file": "Session Notes/Session 9 - 13-01-2024.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secrets et indices/Progression de l'aventure.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,23 +241,25 @@
   },
   "active": "00a38415ee2558e0",
   "lastOpenFiles": [
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Secrets et indices/Culte de la lune noire.md",
+    "NPCs/Monsters/Rose Vampire.md",
+    "templates/Samples.md",
+    "Secrets et indices/Progression de l'aventure.md",
     "templates/NPC simple.md",
     "NPCs/Habitants/Adeline.md",
     "NPCs/Habitants/Grausam.md",
     "NPCs/Habitants/Gustav.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Lambert.md",
-    "templates/Samples.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 8 - 2023-12-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 4 - 2023-10-28.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
-    "Secrets et indices/Progression de l'aventure.md",
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "Secrets et indices/Secrets de campagne.md",
     "NPCs/Ennemis/Zakhan le noir.md",
@@ -265,8 +267,6 @@
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "NPCs/Habitants/Benno.md",
-    "NPCs/Habitants/Gerda.md",
-    "NPCs/Habitants/Fraularm.md",
     "lune-noire-symbole.png",
     "Assets/0cd1tgrlx4e71.jpg",
     "Genealogie",
