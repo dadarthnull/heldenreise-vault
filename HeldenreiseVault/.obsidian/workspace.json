@@ -118,6 +118,7 @@
       {
         "id": "d9f502b3e639d7d0",
         "type": "tabs",
+        "dimension": 27.22567287784679,
         "children": [
           {
             "id": "2e22fef9c805d8a5",
@@ -217,14 +218,15 @@
         "currentTab": 3
       },
       {
-        "id": "692163436c173ed1",
+        "id": "b5a99c5e05d08417",
         "type": "tabs",
+        "dimension": 72.77432712215321,
         "children": [
           {
-            "id": "2d4b5a46322628b6",
+            "id": "e5787d67ec40c94e",
             "type": "leaf",
             "state": {
-              "type": "combatant-view",
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -252,8 +254,9 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e4a3c3afdc42ef7c",
+  "active": "e5787d67ec40c94e",
   "lastOpenFiles": [
+    "Assets/lune-noire-symbole.png",
     "Personnages/Adelaïde.md",
     "NPCs/Habitants/Lambert.md",
     "Assets/Adelaide 1.png",
@@ -289,7 +292,6 @@
     "NPCs/Habitants/Marthe Holzkralle.md",
     "NPCs/Habitants/Hassel.md",
     "NPCs/Habitants/Gustavo Haggard.md",
-    "NPCs/Habitants/Gustav.md",
     "Genealogie",
     "Genesys",
     "Géographie d'Heldenreise/Donjons",
