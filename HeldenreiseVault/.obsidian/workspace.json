@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
-                "mode": "source",
+                "file": "Personnages/Nirel Twister.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
+                "file": "Personnages/Nirel Twister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md"
+                "file": "Personnages/Nirel Twister.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Habitants/Lambert.md",
+                "file": "Personnages/Nirel Twister.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +252,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "Personnages/Adelaïde.md",
+    "NPCs/Habitants/Lambert.md",
     "Assets/Adelaide 1.png",
     "Assets/Akaryu.png",
     "Assets/Bhardar.png",
@@ -265,7 +267,6 @@
     "Assets/Ytilvia.png",
     "Assets/Yor.png",
     "Assets/Ydrisse.png",
-    "Assets/wzter lemental.png",
     "templates/Samples.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 4 - 2023-10-28.md",
@@ -277,7 +278,6 @@
     "NPCs/Habitants/Fraularm.md",
     "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
-    "NPCs/Habitants/Lambert.md",
     "Secrets et indices/Culte de la lune noire.md",
     "NPCs/Ennemis/Zenayoloya.md",
     "Session Notes/Session 3 - 2023-10-05.md",
