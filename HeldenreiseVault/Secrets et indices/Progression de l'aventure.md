@@ -1,2 +1,4 @@
 
-<!--TIMELINE BEGIN tags='timeline;session-note'--><!--TIMELINE END-->
+```timeline
+tags=session-note
+```
