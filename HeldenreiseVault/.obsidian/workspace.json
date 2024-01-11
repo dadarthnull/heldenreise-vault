@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1 - 2023-09-09.md",
-                "mode": "source",
+                "file": "Secrets et indices/Progression de l'aventure.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1 - 2023-09-09.md",
+                "file": "Secrets et indices/Progression de l'aventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1 - 2023-09-09.md"
+                "file": "Secrets et indices/Progression de l'aventure.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1 - 2023-09-09.md",
+                "file": "Secrets et indices/Progression de l'aventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,12 +227,12 @@
   },
   "active": "00a38415ee2558e0",
   "lastOpenFiles": [
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Secrets et indices/Progression de l'aventure.md",
-    "Session Notes/Session 4 - 2023-10-28.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Secrets et indices/Progression de l'aventure.md",
+    "Session Notes/Session 4 - 2023-10-28.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 6 - 2023-11-25.md",
