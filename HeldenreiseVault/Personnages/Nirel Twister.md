@@ -14,7 +14,7 @@ Initiative: "+3"
 > [!infobox] 
 > # Nirel Twister
 > Harangon - Wizard 2 
-> ![[Nirel.png]] 
+> ![[Nirel.png|cover hsmall]] 
 > ###### Stats 
 > | Carac. | Valeur | Bonus | Save |
 > | --- | --- | --- | --- |
