@@ -1,1 +1,0 @@
-transmutation, se lance sur une terre argileuse dépourvue d'herbes, crée un petit bain pour bains de pieds, étanche et le remplit d'eau. L'eau est tiède si on lance un cantrip de feu en même temps, 10 min de casting, reste effectif pour 4h
