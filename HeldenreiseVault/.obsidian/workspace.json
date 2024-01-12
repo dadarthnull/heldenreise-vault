@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genesys/Resources.md"
+                "file": "Homebrew/Rituels/mineurs/bain de pieds.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genesys/Resources.md",
+                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,16 +254,22 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "Homebrew/Rituels/mineurs/séchoir.md",
+    "Homebrew/Rituels/mineurs/sacafroid.md",
+    "Homebrew/Rituels/mineurs/pomme verdis.md",
+    "Homebrew/Rituels/mineurs/champ de fleurs.md",
+    "Homebrew/Rituels/mineurs/bain de pieds.md",
+    "Homebrew/Rituels/niveau 4",
+    "Homebrew/Rituels/niveau 3",
+    "Homebrew/Rituels/niveau 2",
+    "Homebrew/Rituels/niveau 1",
+    "Homebrew/Rituels/mineurs",
+    "Genesys/Resources.md",
     "Campagne/Les maîtres du savoir.md",
-    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "templates/Template Rituel.md",
     "NPCs/Ennemis/Zakhan le noir.md",
-    "Homebrew/Rituels/rituel mineur - séchoir.md",
-    "Homebrew/Rituels/rituel mineur - sacafroid.md",
-    "Homebrew/Rituels/rituel mineur - pomme verdis.md",
-    "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
     "Gazette",
     "Géographie d'Heldenreise/Untitled.md",
     "Personnages/Nirel Twister.md",
@@ -291,16 +297,9 @@
     "Campagne/Lieux à visiter/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Campagne/Culte de la lune noire.md",
-    "NPCs/Ennemis/Zenayoloya.md",
-    "Session Notes/Session 3 - 2023-10-05.md",
     "Genealogie",
     "Genesys",
     "Campagne/Donjons",
-    "Personnages/Untitled",
-    "Homebrew/Rituels",
-    "Homebrew/Arcanums",
-    "Homebrew",
-    "Secrets et indices/Untitled",
-    "Assets/Heldenreise_-_economie_dactions_(2).pdf"
+    "Personnages/Untitled"
   ]
 }

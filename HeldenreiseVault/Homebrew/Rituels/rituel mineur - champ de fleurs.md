@@ -1,1 +1,0 @@
-invocation, 1h d'incantation, fait pousser un champ de fleurs de bonus de maîtrise mètres carrés. Le lanceur doit avoir en main un examplaire de la fleur qui va composer le champ, une seule fleure.
