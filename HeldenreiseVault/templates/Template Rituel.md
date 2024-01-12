@@ -2,7 +2,7 @@
 tags: rituel, homebrew
 ecole: xx
 niveau: xx
-resule: xx
+resume: xx
 ---
 
 
@@ -16,7 +16,6 @@ resule: xx
 > | Participants | xx |
 > | Portée | xx |
 > | Durée | xx |
-> | Incantation | xx |
 > | Composants | xx |
 > ##### Résumé
 > *xxx*

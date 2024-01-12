@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
+                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "file": "templates/Template Rituel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
+                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - séchoir.md"
+                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
+                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,13 +254,15 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "templates/Template Rituel.md",
+    "NPCs/Ennemis/Zakhan le noir.md",
+    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+    "Homebrew/Rituels/rituel mineur - séchoir.md",
     "Homebrew/Rituels/rituel mineur - sacafroid.md",
     "Homebrew/Rituels/rituel mineur - pomme verdis.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
-    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
-    "templates/Template Rituel.md",
     "Géographie d'Heldenreise/Gazette",
     "Géographie d'Heldenreise/Untitled.md",
     "Personnages/Nirel Twister.md",
@@ -282,7 +284,6 @@
     "Session Notes/Session 4 - 2023-10-28.md",
     "Secrets et indices/Progression de l'aventure.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
     "Secrets et indices/Secrets de campagne.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
@@ -292,7 +293,6 @@
     "NPCs/Ennemis/Zenayoloya.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "NPCs/Ennemis/Absalom.md",
-    "Session Notes/Session 2 - 2023-09-16.md",
     "Genealogie",
     "Genesys",
     "Géographie d'Heldenreise/Donjons",
