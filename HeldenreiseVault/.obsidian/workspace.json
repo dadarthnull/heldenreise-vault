@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md"
+                "file": "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,11 @@
   },
   "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
+    "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
+    "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
+    "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
     "Homebrew/Summary.md",
     "Homebrew/Rituels/Niveau 1",
     "Homebrew/Rituels/Untitled.md",
@@ -230,7 +234,6 @@
     "Homebrew/Rituels/mineurs/Séchoir.md",
     "Homebrew/Rituels/mineurs/Sacafroid.md",
     "Homebrew/Rituels/mineurs/Sentir la mort.md",
-    "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
     "Homebrew/Rituels/mineurs/Champ de fleurs.md",
     "Homebrew/Rituels/mineurs/Pomme verdis.md",
     "Homebrew/Rituels/mineurs/Bain de pieds.md",
@@ -242,15 +245,12 @@
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes/Le rétablissement des royaumes.md",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros/L’arrivée des héros.md",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros/Ouverture de la route vers l’ouest.md",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros/La première grande guerre.md",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
     "Gazette/Histoire d'Heldenreise/5. Les sept royaumes",
     "Gazette/Histoire d'Heldenreise/4. L'empire Tallarn",
     "Gazette/Histoire d'Heldenreise/3. L'empire elfe",
     "Gazette/Histoire d'Heldenreise/2. La colonisation des trois continents",
-    "Gazette/Histoire d'Heldenreise/1. La guerre contre le grand ennemi",
     "Assets/wzter lemental.png",
     "Assets/wererat-4.png",
     "Assets/wererat-3.png",
