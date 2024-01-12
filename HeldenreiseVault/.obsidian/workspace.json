@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template Rituel.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template Rituel.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template Rituel.md"
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template Rituel.md",
+                "file": "Homebrew/Rituels/rituel mineur - séchoir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +256,13 @@
   },
   "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Homebrew/Rituels/rituel mineur - sacafroid.md",
+    "Homebrew/Rituels/rituel mineur - pomme verdis.md",
+    "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
+    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+    "templates/Template Rituel.md",
     "Géographie d'Heldenreise/Gazette",
     "Géographie d'Heldenreise/Untitled.md",
-    "templates/Template Rituel.md",
     "Personnages/Nirel Twister.md",
     "Assets/lune-noire-symbole.png",
     "Personnages/Adelaïde.md",
@@ -289,9 +293,6 @@
     "Session Notes/Session 3 - 2023-10-05.md",
     "NPCs/Ennemis/Absalom.md",
     "Session Notes/Session 2 - 2023-09-16.md",
-    "Session Notes/Session 1 - 2023-09-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
-    "Géographie d'Heldenreise/Lieux à visiter/AbreissDorf.md",
     "Genealogie",
     "Genesys",
     "Géographie d'Heldenreise/Donjons",
@@ -300,7 +301,6 @@
     "Homebrew/Arcanums",
     "Homebrew",
     "Secrets et indices/Untitled",
-    "Assets/Heldenreise_-_economie_dactions_(2).pdf",
-    "Géographie d'Heldenreise/Lieux à visiter"
+    "Assets/Heldenreise_-_economie_dactions_(2).pdf"
   ]
 }
