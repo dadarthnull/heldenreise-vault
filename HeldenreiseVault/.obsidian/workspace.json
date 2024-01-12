@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "templates/Ritual.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "templates/Ritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Nirel Twister.md"
+                "file": "templates/Ritual.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "templates/Ritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +254,10 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e5787d67ec40c94e",
+  "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "Personnages/Nirel Twister.md",
+    "templates/Ritual.md",
     "Assets/lune-noire-symbole.png",
     "Personnages/Adelaïde.md",
     "NPCs/Habitants/Lambert.md",
@@ -269,7 +271,6 @@
     "Session Notes/Session 10 - 13-01-2024.md",
     "Assets/Ytilvia.png",
     "Assets/Yor.png",
-    "Assets/Ydrisse.png",
     "templates/Samples.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 4 - 2023-10-28.md",
@@ -291,7 +292,6 @@
     "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
     "NPCs/Habitants/Marthe Holzkralle.md",
     "NPCs/Habitants/Hassel.md",
-    "NPCs/Habitants/Gustavo Haggard.md",
     "Genealogie",
     "Genesys",
     "Géographie d'Heldenreise/Donjons",
