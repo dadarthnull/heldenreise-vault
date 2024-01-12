@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3bbce55b6ef7a6",
+        "id": "08d47bb9a3f69304",
         "type": "tabs",
         "children": [
           {
-            "id": "00a38415ee2558e0",
+            "id": "91242a648a698b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
-                "mode": "source",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Nirel Twister.md"
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       },
       {
         "id": "a6b5b4448e7df677",
@@ -213,11 +213,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00a38415ee2558e0",
+  "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
+    "Homebrew/Summary.md",
+    "Homebrew/Rituels/Niveau 1",
+    "Homebrew/Rituels/Untitled.md",
+    "Homebrew/Rituels/mineurs/Thébon fraise.md",
+    "Homebrew/Rituels/mineurs/Ami oiseau.md",
+    "Homebrew/Rituels/mineurs/Lave vert.md",
+    "Homebrew/Rituels/mineurs/Vent bon.md",
+    "Personnages/Nirel Twister.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "conflict-files-obsidian-git.md",
-    "Personnages/Nirel Twister.md",
     "templates/Template Rituel.md",
     "Homebrew/Rituels/mineurs/Séchoir.md",
     "Homebrew/Rituels/mineurs/Sacafroid.md",
@@ -236,13 +244,6 @@
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros/L’arrivée des héros.md",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros/Ouverture de la route vers l’ouest.md",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros/La première grande guerre.md",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes/L’empire Cadien.md",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros/Découverte de la 13e tour arcanique 4488d537f30c453e81c602f227de8c60.md",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes/Les 7 royaumes.md",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros/Disparition des héros.md",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes/Les vents magiques.md",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes/Le roi démon se révèle.md",
-    "Gazette/Histoire d'Heldenreise/4. L'empire Tallarn/Naissance de l’empire Tallarn.md",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
     "Gazette/Histoire d'Heldenreise/5. Les sept royaumes",
@@ -250,7 +251,6 @@
     "Gazette/Histoire d'Heldenreise/3. L'empire elfe",
     "Gazette/Histoire d'Heldenreise/2. La colonisation des trois continents",
     "Gazette/Histoire d'Heldenreise/1. La guerre contre le grand ennemi",
-    "Gazette/Histoire d'Heldenreise",
     "Assets/wzter lemental.png",
     "Assets/wererat-4.png",
     "Assets/wererat-3.png",
