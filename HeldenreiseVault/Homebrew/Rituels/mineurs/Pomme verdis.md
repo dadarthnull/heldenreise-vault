@@ -9,7 +9,7 @@ resume: Transforme des pommes rouges en pommes vertes.
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Pomme verdis
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

@@ -9,7 +9,7 @@ resume: xx
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Communion avec la sépulture
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

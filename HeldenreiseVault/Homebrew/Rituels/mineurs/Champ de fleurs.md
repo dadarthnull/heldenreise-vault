@@ -9,7 +9,7 @@ resume: Fait pousser un champ de fleurs
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Champ de fleurs
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

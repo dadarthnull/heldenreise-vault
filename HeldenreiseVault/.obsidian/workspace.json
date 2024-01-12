@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/mineurs/Sentir la mort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/mineurs/Sentir la mort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md"
+                "file": "Homebrew/Rituels/mineurs/Sentir la mort.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "file": "Homebrew/Rituels/mineurs/Sentir la mort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,15 +254,16 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e4a3c3afdc42ef7c",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
-    "templates/Template Rituel.md",
-    "Homebrew/Rituels/mineurs/séchoir.md",
-    "Homebrew/Rituels/mineurs/sacafroid.md",
-    "Homebrew/Rituels/mineurs/pomme verdis.md",
+    "Homebrew/Rituels/mineurs/Bain de pieds.md",
+    "Homebrew/Rituels/mineurs/Champ de fleurs.md",
     "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
-    "Homebrew/Rituels/mineurs/champ de fleurs.md",
-    "Homebrew/Rituels/mineurs/bain de pieds.md",
+    "Homebrew/Rituels/mineurs/Pomme verdis.md",
+    "Homebrew/Rituels/mineurs/Sacafroid.md",
+    "Homebrew/Rituels/mineurs/Séchoir.md",
+    "Homebrew/Rituels/mineurs/Sentir la mort.md",
+    "templates/Template Rituel.md",
     "Homebrew/Rituels/niveau 4",
     "Homebrew/Rituels/niveau 3",
     "Homebrew/Rituels/niveau 2",
@@ -297,7 +298,6 @@
     "NPCs/Habitants/Fraularm.md",
     "Campagne/Lieux à visiter/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
-    "Campagne/Culte de la lune noire.md",
     "Genealogie",
     "Genesys",
     "Campagne/Donjons",

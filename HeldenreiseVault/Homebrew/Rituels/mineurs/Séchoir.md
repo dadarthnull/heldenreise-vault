@@ -9,7 +9,7 @@ resume: Un courant d'air chaud et sec part de la main droite du lanceur. Très p
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Séchoir
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

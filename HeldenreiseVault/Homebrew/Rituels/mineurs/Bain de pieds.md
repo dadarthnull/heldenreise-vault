@@ -9,7 +9,7 @@ resume: Crée un petit bassin étanche pour bains de pieds et le remplit d'eau
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Bain de pieds
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

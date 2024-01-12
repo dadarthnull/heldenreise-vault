@@ -9,7 +9,7 @@ resume: Garde le contenu d'un sac froid.
 ---
 
 
-> [!Infobox] nom
+> [!Infobox] Sacafroid
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |
