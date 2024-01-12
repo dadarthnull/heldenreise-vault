@@ -15,7 +15,7 @@ resume: Permet de gagner temporairement le contrôle d'un mort vivant
 > | --- | --- |
 > | Ecole | nécromancie |
 > | Niveau | 1 |
-> | Incantation | xx |
+> | Incantation | 1h |
 > | Participants | 1 personne capable de lancer un sort de niveau 1 |
 > | Portée | 4,5m (15 pieds, 3 cases) |
 > | Durée | Jusque fin de repos long |
