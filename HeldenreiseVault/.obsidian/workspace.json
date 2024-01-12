@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+                "file": "Genesys/Resources.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets et indices/Secrets de campagne.md",
+                "file": "Campagne/Secrets de campagne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Lieux à visiter/Zweifeldt.md",
+                "file": "Campagne/Lieux à visiter/Zweifeldt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 293.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+                "file": "Genesys/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md"
+                "file": "Genesys/Resources.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/rituel mineur - bain de pieds.md",
+                "file": "Genesys/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,16 +254,17 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e4a3c3afdc42ef7c",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Campagne/Les maîtres du savoir.md",
+    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "templates/Template Rituel.md",
     "NPCs/Ennemis/Zakhan le noir.md",
-    "Homebrew/Rituels/rituel mineur - bain de pieds.md",
     "Homebrew/Rituels/rituel mineur - séchoir.md",
     "Homebrew/Rituels/rituel mineur - sacafroid.md",
     "Homebrew/Rituels/rituel mineur - pomme verdis.md",
     "Homebrew/Rituels/rituel mineur - champ de fleurs.md",
-    "Géographie d'Heldenreise/Gazette",
+    "Gazette",
     "Géographie d'Heldenreise/Untitled.md",
     "Personnages/Nirel Twister.md",
     "Assets/lune-noire-symbole.png",
@@ -282,20 +283,19 @@
     "templates/Samples.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 4 - 2023-10-28.md",
-    "Secrets et indices/Progression de l'aventure.md",
+    "Campagne/Progression de l'aventure.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
-    "Secrets et indices/Secrets de campagne.md",
+    "Campagne/Secrets de campagne.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
-    "Géographie d'Heldenreise/Lieux à visiter/Zweifeldt.md",
+    "Campagne/Lieux à visiter/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
-    "Secrets et indices/Culte de la lune noire.md",
+    "Campagne/Culte de la lune noire.md",
     "NPCs/Ennemis/Zenayoloya.md",
     "Session Notes/Session 3 - 2023-10-05.md",
-    "NPCs/Ennemis/Absalom.md",
     "Genealogie",
     "Genesys",
-    "Géographie d'Heldenreise/Donjons",
+    "Campagne/Donjons",
     "Personnages/Untitled",
     "Homebrew/Rituels",
     "Homebrew/Arcanums",

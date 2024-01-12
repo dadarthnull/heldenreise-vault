@@ -1,4 +1,4 @@
-![[lune-noire-symbole.png]]
+![[lune-noire-symbole 1.png]]
 
 Dirigeants:
 - [[Yuaratoya]]
