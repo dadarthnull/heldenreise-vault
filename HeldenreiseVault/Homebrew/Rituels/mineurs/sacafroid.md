@@ -3,6 +3,7 @@ tags:
   - rituel
   - homebrew
 ecole: transmutation
+domaine: arcane
 niveau: mineur
 resume: Garde le contenu d'un sac froid.
 ---

@@ -1,6 +1,7 @@
 ---
 tags: rituel, homebrew
 ecole: xx
+domaine: arcane, divin ou primordial
 niveau: xx
 resume: xx
 ---

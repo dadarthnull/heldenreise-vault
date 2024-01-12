@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
-                "mode": "preview",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/bain de pieds.md"
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/mineurs/bain de pieds.md",
+                "file": "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +256,11 @@
   },
   "active": "e4a3c3afdc42ef7c",
   "lastOpenFiles": [
+    "templates/Template Rituel.md",
     "Homebrew/Rituels/mineurs/séchoir.md",
     "Homebrew/Rituels/mineurs/sacafroid.md",
     "Homebrew/Rituels/mineurs/pomme verdis.md",
+    "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
     "Homebrew/Rituels/mineurs/champ de fleurs.md",
     "Homebrew/Rituels/mineurs/bain de pieds.md",
     "Homebrew/Rituels/niveau 4",
@@ -268,7 +270,6 @@
     "Homebrew/Rituels/mineurs",
     "Genesys/Resources.md",
     "Campagne/Les maîtres du savoir.md",
-    "templates/Template Rituel.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Gazette",
     "Géographie d'Heldenreise/Untitled.md",

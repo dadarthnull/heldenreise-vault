@@ -3,6 +3,7 @@ tags:
   - rituel
   - homebrew
 ecole: conjuration
+domaine: arcane
 niveau: mineur
 resume: Fait pousser un champ de fleurs
 ---
@@ -12,7 +13,7 @@ resume: Fait pousser un champ de fleurs
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |
-> | Ecole | conjuration |
+> | Ecole | conjuration, arcane |
 > | Niveau | mineur |
 > | Incantation | 1h |
 > | Participants | 1 personne capable de lancer un sort mineur |

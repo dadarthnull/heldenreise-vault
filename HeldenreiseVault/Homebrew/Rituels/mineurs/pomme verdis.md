@@ -3,6 +3,7 @@ tags:
   - rituel
   - homebrew
 ecole: transmutation
+domaine: arcane
 niveau: mineur
 resume: Transforme des pommes rouges en pommes vertes.
 ---

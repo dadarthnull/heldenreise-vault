@@ -3,6 +3,7 @@ tags:
   - rituel
   - homebrew
 ecole: transmutation
+domaine: arcane
 niveau: mineur
 resume: Crée un petit bassin étanche pour bains de pieds et le remplit d'eau
 ---
@@ -12,7 +13,7 @@ resume: Crée un petit bassin étanche pour bains de pieds et le remplit d'eau
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |
-> | Ecole | transmutation |
+> | Ecole | transmutation, arcane |
 > | Niveau | mineur |
 > | Incantation | 10 minutes |
 > | Participants | 1 personne capable de lancer un sort mineur |

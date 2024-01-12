@@ -3,6 +3,7 @@ tags:
   - rituel
   - homebrew
 ecole: évocation
+domaine: arcane
 niveau: mineur
 resume: Un courant d'air chaud et sec part de la main droite du lanceur. Très pratique pour sécher les cheveux ou des vêtements mouillés.
 ---
