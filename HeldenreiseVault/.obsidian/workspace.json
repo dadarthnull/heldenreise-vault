@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Ritual.md",
+                "file": "templates/Template Rituel.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+                "file": "Géographie d'Heldenreise/Lieux à visiter/Zweifeldt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Ritual.md",
+                "file": "templates/Template Rituel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Ritual.md"
+                "file": "templates/Template Rituel.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Ritual.md",
+                "file": "templates/Template Rituel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +254,12 @@
       "obsidian-gallery:Gallery": false
     }
   },
-  "active": "e4a3c3afdc42ef7c",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
+    "Géographie d'Heldenreise/Gazette",
+    "Géographie d'Heldenreise/Untitled.md",
+    "templates/Template Rituel.md",
     "Personnages/Nirel Twister.md",
-    "templates/Ritual.md",
     "Assets/lune-noire-symbole.png",
     "Personnages/Adelaïde.md",
     "NPCs/Habitants/Lambert.md",
@@ -280,7 +282,7 @@
     "Secrets et indices/Secrets de campagne.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Habitants/Fraularm.md",
-    "Géographie d'Heldenreise/Scénarios/Zweifeldt.md",
+    "Géographie d'Heldenreise/Lieux à visiter/Zweifeldt.md",
     "Session Notes/Session 9 - 2024-01-XX.md",
     "Secrets et indices/Culte de la lune noire.md",
     "NPCs/Ennemis/Zenayoloya.md",
@@ -289,9 +291,7 @@
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Géographie d'Heldenreise/Scénarios/AbreissDorf.md",
-    "NPCs/Habitants/Marthe Holzkralle.md",
-    "NPCs/Habitants/Hassel.md",
+    "Géographie d'Heldenreise/Lieux à visiter/AbreissDorf.md",
     "Genealogie",
     "Genesys",
     "Géographie d'Heldenreise/Donjons",
@@ -301,6 +301,6 @@
     "Homebrew",
     "Secrets et indices/Untitled",
     "Assets/Heldenreise_-_economie_dactions_(2).pdf",
-    "Géographie d'Heldenreise/Scénarios"
+    "Géographie d'Heldenreise/Lieux à visiter"
   ]
 }
