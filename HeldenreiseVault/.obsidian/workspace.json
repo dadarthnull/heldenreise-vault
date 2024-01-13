@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
-                "mode": "source",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md"
+                "file": "Session Notes/Session 8 - 2023-12-09.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +243,10 @@
   },
   "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
-    "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 9 - 13-01-2024.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
@@ -269,7 +271,6 @@
     "Assets/lhaak.webp",
     "NPCs/Patrons et alliés/Esker.md",
     "templates/NPC Template.md",
-    "NPCs/Patrons et alliés/Wintrana.md",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
     "Homebrew/Rituels/mineurs",
