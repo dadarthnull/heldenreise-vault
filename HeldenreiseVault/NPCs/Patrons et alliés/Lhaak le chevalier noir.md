@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!Infobox] Lhaak
-> ![[xxx|cover hsmall]]
+> ![[lhaak.webp|cover hsmall]]
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |

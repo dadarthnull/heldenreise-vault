@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -215,6 +215,7 @@
   },
   "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "lhaak.webp",
     "NPCs/Patrons et alliés/Esker.md",
     "templates/NPC Template.md",
     "NPCs/Patrons et alliés/Lilre Nyelmida.md",
@@ -242,7 +243,6 @@
     "NPCs/Ennemis/Zakhan le noir.md",
     "conflict-files-obsidian-git.md",
     "templates/Template Rituel.md",
-    "Homebrew/Rituels/mineurs/Séchoir.md",
     "Homebrew/Rituels/mineurs",
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
