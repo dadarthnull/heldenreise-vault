@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
+                "file": "NPCs/Patrons et alliés/Akaryu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
+                "file": "NPCs/Patrons et alliés/Akaryu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Rituels/Niveau 2/Savoir des anciens.md"
+                "file": "NPCs/Patrons et alliés/Akaryu.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
+                "file": "NPCs/Patrons et alliés/Akaryu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,16 +215,18 @@
   },
   "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "Homebrew/Rituels/mineurs/Ami oiseau.md",
+    "Homebrew/Summary.md",
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+    "NPCs/Patrons et alliés/Akaryu.md",
+    "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
-    "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
-    "Homebrew/Summary.md",
     "Homebrew/Rituels/Niveau 1",
     "Homebrew/Rituels/Untitled.md",
     "Homebrew/Rituels/mineurs/Thébon fraise.md",
-    "Homebrew/Rituels/mineurs/Ami oiseau.md",
     "Homebrew/Rituels/mineurs/Lave vert.md",
     "Homebrew/Rituels/mineurs/Vent bon.md",
     "Personnages/Nirel Twister.md",
@@ -243,8 +245,6 @@
     "Homebrew/Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Homebrew/Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Homebrew/Objets",
-    "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes/Le rétablissement des royaumes.md",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros/L’arrivée des héros.md",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
     "Gazette/Histoire d'Heldenreise/5. Les sept royaumes",
