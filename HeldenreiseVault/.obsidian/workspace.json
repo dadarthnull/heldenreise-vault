@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91242a648a698b63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Célébrités/Kotaro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "baca600c75d8712e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/Zweifeldt.md",
+                "file": "Moritz.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,14 +230,16 @@
   },
   "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
+    "Moritz.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Campagne/Lieux à visiter/Zweifeldt.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
     "NPCs/Célébrités/Kotaro.md",
     "NPCs/Célébrités/Liren Selmoh.md",
     "NPCs/Célébrités/Ueshin l’immortel.md",
     "NPCs/Célébrités/Marie Ortie.md",
     "Campagne/Lieux à visiter/Dreibolt.md",
     "NPCs/Patrons et alliés/Dorver.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
-    "Campagne/Lieux à visiter/Zweifeldt.md",
     "NPCs/Patrons et alliés/Lirelle Nyelmida.md",
     "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "lhaak.webp",
@@ -269,9 +258,7 @@
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
     "Homebrew/Rituels/Niveau 2",
-    "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
     "Homebrew/Rituels/Niveau 1",
-    "Homebrew/Rituels/Untitled.md",
     "Homebrew/Rituels/mineurs",
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
