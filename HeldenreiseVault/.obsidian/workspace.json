@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md"
+                "file": "Session Notes/Session 9 - 13-01-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,10 +241,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "782a1946a5658bef",
+  "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
-    "Session Notes/Session 9 - 13-01-2024.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
