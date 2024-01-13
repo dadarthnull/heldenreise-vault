@@ -40,13 +40,14 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 6 - 2023-11-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Temple englouti.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Temple englouti.md"
+                "file": "Session Notes/Session 6 - 2023-11-25.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Donjons/Temple englouti.md",
+                "file": "Session Notes/Session 6 - 2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,13 +242,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "5ee007480d5ce0be",
+  "active": "782a1946a5658bef",
   "lastOpenFiles": [
+    "Campagne/Donjons/Temple englouti.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Campagne/Lieux à visiter/AbreissDorf.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
@@ -270,7 +272,6 @@
     "NPCs/Patrons et alliés/Lirelle Nyelmida.md",
     "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "Assets/lhaak.webp",
-    "NPCs/Patrons et alliés/Esker.md",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
     "Homebrew/Rituels/mineurs",
