@@ -93,8 +93,8 @@ Donjon - niveau 2-5
 ## Secrets et indices
 - [x] Opus est venu il y a 20 ans régulièrement pour mesurer la progression du donjon et des vents magiques
 - [x] Opus a laissé quelques élémentaires pour garder le donjon
-- [ ] le donjon progresse et crée régulièrement des monstres
-- [ ] le donjon grandi peu à peu
+- [x] le donjon progresse et crée régulièrement des monstres
+- [x] le donjon grandi peu à peu
 - [ ] le donjon est sensé être un ancien temple construit par des haut elfes hérétiques qui vénéraient les grand dragons
 - [ ] la tribu de kobolds hexécailles noires a trouvé refuge dans le donjon
 - [ ] la tribu de kobolds hexécailles a du fuire ses grottes à l'ouest à cause de grandes créatures à la peau rouge (les lances du néant, au service de [[Telkhall l'oblitérateur]])
