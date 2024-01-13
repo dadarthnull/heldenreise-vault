@@ -3,14 +3,14 @@ tags: npc
 ---
 
 
-> [!Infobox] XXXX
-> ![[xxx|cover hsmall]]
+> [!Infobox] Lirelle Nyelmida
+> ![[Lirelle Nyelmida.png|cover hsmall]]
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |
-> | Race | xxx |
-> | Classe | xxx |
-> | Affiliation | xxx |
+> | Race | Humain du continent Est |
+> | Classe | Bard |
+> | Affiliation | [[Opus Kettelheimer]], maîtres du savoir, guilde des aventuriers |
 > ##### Destin
 > *xxx*
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "NPCs/Patrons et alliés/Lirelle Nyelmida.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -32,8 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5ee007480d5ce0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -228,16 +241,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "91242a648a698b63",
+  "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
+    "NPCs/Patrons et alliés/Lirelle Nyelmida.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
     "Campagne/Lieux à visiter/Dreibolt.md",
     "Campagne/Lieux à visiter/Zweifeldt.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
     "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "lhaak.webp",
     "NPCs/Patrons et alliés/Esker.md",
     "templates/NPC Template.md",
-    "NPCs/Patrons et alliés/Lilre Nyelmida.md",
     "NPCs/Patrons et alliés/Wintrana.md",
     "NPCs/Patrons et alliés/Nogard.md",
     "NPCs/Patrons et alliés/Mira Miralin.md",
