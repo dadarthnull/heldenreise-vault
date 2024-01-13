@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
-                "mode": "preview",
+                "file": "Campagne/Lieux à visiter/Dreibolt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "baca600c75d8712e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Lieux à visiter/Zweifeldt.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+                "file": "Campagne/Lieux à visiter/Dreibolt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md"
+                "file": "Campagne/Lieux à visiter/Dreibolt.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+                "file": "Campagne/Lieux à visiter/Dreibolt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +228,10 @@
   },
   "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "Campagne/Lieux à visiter/Zweifeldt.md",
+    "Campagne/Lieux à visiter/Dreibolt.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "lhaak.webp",
     "NPCs/Patrons et alliés/Esker.md",
     "templates/NPC Template.md",
@@ -224,7 +241,6 @@
     "NPCs/Patrons et alliés/Mira Miralin.md",
     "NPCs/Patrons et alliés/Dorver.md",
     "NPCs/Patrons et alliés/Akaryu.md",
-    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
     "templates/Samples.md",
     "templates/NPC simple.md",
     "Personnages/Nirel Twister.md",
@@ -241,8 +257,6 @@
     "Homebrew/Rituels/mineurs/Lave vert.md",
     "Homebrew/Rituels/mineurs/Vent bon.md",
     "NPCs/Ennemis/Zakhan le noir.md",
-    "conflict-files-obsidian-git.md",
-    "templates/Template Rituel.md",
     "Homebrew/Rituels/mineurs",
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
@@ -259,7 +273,6 @@
     "Assets/water-elemental-lord.png",
     "Assets/tomas-llewellyn.png",
     "Assets/tomas-llewellyn-icon.png",
-    "Assets/token_1.png",
-    "Assets/sylene-enfant.png"
+    "Assets/token_1.png"
   ]
 }
