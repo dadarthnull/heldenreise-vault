@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Patrons et alliés/Akaryu.md",
+                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Patrons et alliés/Akaryu.md",
+                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Patrons et alliés/Akaryu.md"
+                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Patrons et alliés/Akaryu.md",
+                "file": "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,10 +215,20 @@
   },
   "active": "91242a648a698b63",
   "lastOpenFiles": [
+    "NPCs/Patrons et alliés/Esker.md",
+    "templates/NPC Template.md",
+    "NPCs/Patrons et alliés/Lilre Nyelmida.md",
+    "NPCs/Patrons et alliés/Wintrana.md",
+    "NPCs/Patrons et alliés/Nogard.md",
+    "NPCs/Patrons et alliés/Mira Miralin.md",
+    "NPCs/Patrons et alliés/Dorver.md",
+    "NPCs/Patrons et alliés/Akaryu.md",
+    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
+    "templates/Samples.md",
+    "templates/NPC simple.md",
+    "Personnages/Nirel Twister.md",
     "Homebrew/Rituels/mineurs/Ami oiseau.md",
     "Homebrew/Summary.md",
-    "NPCs/Patrons et alliés/Lhaak le chevalier noir.md",
-    "NPCs/Patrons et alliés/Akaryu.md",
     "Homebrew/Rituels/Niveau 2/Savoir des anciens.md",
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
@@ -229,21 +239,11 @@
     "Homebrew/Rituels/mineurs/Thébon fraise.md",
     "Homebrew/Rituels/mineurs/Lave vert.md",
     "Homebrew/Rituels/mineurs/Vent bon.md",
-    "Personnages/Nirel Twister.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "conflict-files-obsidian-git.md",
     "templates/Template Rituel.md",
     "Homebrew/Rituels/mineurs/Séchoir.md",
-    "Homebrew/Rituels/mineurs/Sacafroid.md",
-    "Homebrew/Rituels/mineurs/Sentir la mort.md",
-    "Homebrew/Rituels/mineurs/Champ de fleurs.md",
-    "Homebrew/Rituels/mineurs/Pomme verdis.md",
-    "Homebrew/Rituels/mineurs/Bain de pieds.md",
     "Homebrew/Rituels/mineurs",
-    "Homebrew/Objets/Grimoire - Ombres Ancestrales, Éveil des Morts.md",
-    "Homebrew/Objets/Grimoire - Nécromancie Simplifiée, Secrets de l'élu des Ombres.md",
-    "Homebrew/Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
-    "Homebrew/Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",

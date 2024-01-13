@@ -1,16 +1,9 @@
 ---
-player: Jean-Fabrice
-Race: Dracoïde rouge
-Classes: Fighter
-Patron: Mira Miralin
-Niveau: "5"
-Passive Perception: "13"
-Passive Investigation: "09"
-Passive Insight: "10"
-Class d'armure: "16"
-Initiative: "+3"
+tags: npc, ancien-personnage
 ---
+
 > [!Infobox] Akaryu
+> ![[Akaryu.png|cover hsmall]]
 > ##### Specifications
 > | Desc. | Valeur |
 > | --- | --- |
@@ -18,7 +11,14 @@ Initiative: "+3"
 > | Classe | xxx |
 > | Affiliation | Mira Miralin, Maîtres du savoir, [[Royaume d’Helvengard]] |
 > ##### Destin
-> *Après la défaite du roi démon, a monté son groupe d'aventurier, spécialisé dans la subjugation de monstres, basé à [[Eisenzitadelle]], a disparu avec son groupe*
+> *Après la défaite du roi démon, a monté son groupe d'aventurier, spécialisé dans la subjugation de monstres, basé à [[Eisenzitadelle]], a disparu avec son groupe lors d'une expédition d'extermination, il y a 30 ans*
 
-
+## Lien dndbeyond
 https://www.dndbeyond.com/characters/107738864
+
+## Historique
+
+## Idées d'interactions
+
+## Notes 
+
