@@ -10,6 +10,8 @@ nom: Zakhan le noir
 ---
 Nécromancien de pacotille, membre de la [[cabale de la lune noire]]
 
+- pere: Janam Parssy (commissaire aux compte au palais royal)
+
 - pas doué
 - habits de mauvaise qualité, sent le linge mal séché
 - se prend pour un grand nécromancien, pense que la cabale a reconnu son talent et qu'il va enfin prouver au monde qu'il mérite le respect

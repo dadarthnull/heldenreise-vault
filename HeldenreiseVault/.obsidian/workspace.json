@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5500dfe0fc1fa7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ennemis/Zakhan le noir.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -217,12 +230,17 @@
   },
   "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
+    "Campagne/Secrets de campagne.md",
+    "Assets/lune-noire-symbole 1.png",
+    "NPCs/Ennemis/Zakhan le noir.md",
+    "Homebrew/Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
+    "Homebrew/Objets/Grimoire - Essence des Ténèbres et Manipulation des Ombres.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
     "Homebrew/Rituels/mineurs/Sentir la mort.md",
     "Homebrew/Rituels/mineurs/Lave vert.md",
     "Homebrew/Rituels/mineurs/Champ de fleurs.md",
     "Homebrew/Rituels/mineurs/Ami oiseau.md",
     "Personnages/Nirel Twister.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
     "Campagne/Progression de l'aventure.md",
     "NPCs/Habitants/Moritz.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
@@ -239,11 +257,6 @@
     "NPCs/Patrons et alliés/Esker.md",
     "templates/NPC Template.md",
     "NPCs/Patrons et alliés/Wintrana.md",
-    "NPCs/Patrons et alliés/Nogard.md",
-    "NPCs/Patrons et alliés/Mira Miralin.md",
-    "NPCs/Patrons et alliés/Akaryu.md",
-    "templates/Samples.md",
-    "templates/NPC simple.md",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
     "Homebrew/Rituels/mineurs",
@@ -261,7 +274,6 @@
     "Assets/wereRat.png",
     "Assets/water-elemental-lord.png",
     "Assets/tomas-llewellyn.png",
-    "Assets/tomas-llewellyn-icon.png",
-    "Assets/token_1.png"
+    "Assets/tomas-llewellyn-icon.png"
   ]
 }

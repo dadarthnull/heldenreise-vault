@@ -35,7 +35,6 @@
 - [ ]  Un dragon a été vu volant au sud du village, il faut aller enquêter - il s'agit du chevalier démon sur sa monture wyvern, il squatte une ancienne tour de guet abandonnée
 - [ ]  [Marthe](app://obsidian.md/Marthe) n'a pas d'argent mais elle connait des plantes médicinales qu'elle est prête à donner à qui part à la recherche de son papa
 - [ ] [[Lazfam]], père de [[Marthe Holzkralle]] a été attaqué par des hibloux et est blessé dns la forêt
-- [ ] 
 - [ ] [[Sylvester]], le chef du village et [[Otto]], maître de la branche locale de la guilde des aventuriers offre une prime à quiconque tuera l'ours-hibou, la meute de hibloups et la harde de cerfs écarlate qui sont récemment apparus dans la forêt
 - [ ] 
 ## Les brigands sur la route vers Armelia
