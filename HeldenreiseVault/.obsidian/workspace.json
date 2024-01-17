@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ee007480d5ce0be",
+            "id": "20b79fd1fb3c4fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "20b79fd1fb3c4fa9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "HeldenreiseVault/.obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md"
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md"
               }
             }
           },
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +217,9 @@
   },
   "active": "20b79fd1fb3c4fa9",
   "lastOpenFiles": [
+    "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
+    "BathBoardGamingGroup/Sessions",
+    "BathBoardGamingGroup",
     "conflict-files-obsidian-git.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 7 - 2023-12-02.md",
@@ -255,7 +246,6 @@
     "NPCs/Célébrités/Marie Ortie.md",
     "Campagne/Lieux à visiter/Dreibolt.md",
     "NPCs/Patrons et alliés/Dorver.md",
-    "NPCs/Patrons et alliés/Lirelle Nyelmida.md",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
@@ -265,8 +255,6 @@
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
     "Gazette/Histoire d'Heldenreise/5. Les sept royaumes",
     "Gazette/Histoire d'Heldenreise/4. L'empire Tallarn",
-    "Gazette/Histoire d'Heldenreise/3. L'empire elfe",
-    "Gazette/Histoire d'Heldenreise/2. La colonisation des trois continents",
     "Assets/wzter lemental.png",
     "Assets/wererat-4.png",
     "Assets/wererat-3.png",
