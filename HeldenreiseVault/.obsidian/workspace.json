@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +217,10 @@
   },
   "active": "20b79fd1fb3c4fa9",
   "lastOpenFiles": [
+    "NPCs/Monsters/Half efreet.md",
+    "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
     "NPCs/Monsters/Construct - armure vivante.md",
-    "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "conflict-files-obsidian-git.md",
@@ -245,7 +246,6 @@
     "NPCs/Célébrités/Kotaro.md",
     "NPCs/Célébrités/Liren Selmoh.md",
     "NPCs/Célébrités/Ueshin l’immortel.md",
-    "NPCs/Célébrités/Marie Ortie.md",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
