@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Temple englouti.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5500dfe0fc1fa7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "782a1946a5658bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Session Notes/Session 9 - 13-01-2024.md"
               }
             }
           },
@@ -172,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,14 +215,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "782a1946a5658bef",
+  "active": "5ee007480d5ce0be",
   "lastOpenFiles": [
-    "Campagne/Donjons/Temple englouti.md",
-    "Campagne/Lieux à visiter/AbreissDorf.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Campagne/Donjons/Temple englouti.md",
     "Session Notes/Session 6 - 2023-11-25.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
