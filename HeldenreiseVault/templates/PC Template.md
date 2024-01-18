@@ -1,23 +1,23 @@
 ---
-player: Clément
-portrait: [[Bhardar.png]]
-race: Nain
-classes: Blood Hunter 3
-patron: Mira Miralin
-passive-perception: 13
-passive-investigation: 12
-passive-insight: 15
-AC: 16
-initiative: +4
-HP: 28
-hit-dice: 3d8 + 6
-vitesse: 30ft
+player: xxx
+portrait: xxx
+race: xxx
+classes: xxx
+patron: xxx
+passive-perception: xxx
+passive-investigation: xxx
+passive-insight: xxx
+AC: xxx
+initiative: xxx
+HP: xxx
+hit-dice: xxx
+vitesse: xxx
 ---
 
 > [!infobox] 
 > # `=this.file.name`
 > `=this.race` - `=this.classes` 
-> ![[Bhardar.png|cover hsmall]] 
+> ![[Nirel.png|cover hsmall]] 
 > ##### Combat
 > | AC | Init | HP | Dé de vie | Vitesse | 
 > | --- | --- | --- | --- | --- |
@@ -31,12 +31,8 @@ vitesse: 30ft
 > ##### Maîtrises
 > | Type | Kit/Langage |
 > | --- | --- |
-> | Kit | Alchimie |
-> | Kit | Dés |
-> | Kit | Véhicules (terrestres) |
-> | Langage | commun |
-> | Langage | elfe |
-> | Langage | nain |
+> | Kit | xxx |
+> | Langage | xxx |
 
 # dndbeyond
 

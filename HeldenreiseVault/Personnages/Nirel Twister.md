@@ -1,54 +1,49 @@
 ---
 player: Gregoire
-Race: Harangon
-Classes: Wizard
-Patron: Mira Miralin
-Niveau: "5"
-Passive Perception: "13"
-Passive Investigation: "18"
-Passive Insight: "13"
-Class d'armure: "13"
-Initiative: "+3"
+portrait: Nirel.png
+race: Harangon
+classes: Wizard 3
+patron: Mira Miralin
+passive-perception: "13"
+passive-investigation: "18"
+passive-insight: "13"
+AC: 13
+initiative: "+8"
+HP: 20
+hit-dice: d6
+vitesse: 30ft
 ---
 
 > [!infobox] 
-> # Nirel Twister
-> Harangon - Wizard 2 
+> # `=this.file.name`
+> `=this.race` - `=this.classes` 
 > ![[Nirel.png|cover hsmall]] 
-> ###### Stats 
-> | Carac. | Valeur | Bonus | Save |
-> | --- | --- | --- | --- |
-> | STR | 09 | -1| S -1 |
-> | AGI | 16 | +3| S +3 |
-> | CON | 15 | +3| S +2 |
-> | INT | 19 | +4| S +6 |
-> | WIS | 10 | +0 | S +2 |
-> | CHA | 12 | +1 | S +1 |
 > ##### Combat
-> | Attribut | Valeure |
-> | --- | --- |
-> | Initiative | +3 |
-> | Armor class | 16 |
-> | HP | 14 |
-> | Speed - walk | 30ft |
+> | AC | Init | HP | Dé de vie | Vitesse | 
+> | --- | --- | --- | --- | --- |
+> | `=this.AC` | `=this.initiative` | `=this.HP` | `=this.hit-dice` | `=this.vitesse` |
 > ##### Passives
 > | Compétence | Seuil |
 > | --- | --- |
-> | Perception | 12 |
-> | Investigation | 16 | 
-> | Insight | 12 | 
+> | Perception | `=this.passive-perception` |
+> | Investigation | `=this.passive-investigation` |
+> | Insight | `=this.passive-insight` |
 > ##### Maîtrises
-> | Type | Nom | Bonus |
-> | --- | --- | --- |
-> | Compétence | Arcane | +2 |
-> | Compétence | Insight | +2 |
-> | Compétence | Investigation | +2 |
-> | Compétence | Perception | +2 |
-> | Compétence | Performance | +2 |
-> | Compétence | Stealth | +2 |
-> | Outils | Kit de déguisement | +2 |
-> | Outils | Outils de voleurs | +2 |
-> | Langage | Commun | +2 |
-> | Langage | Infernal | +2 |
+> | Type | Kit/Langage |
+> | --- | --- |
+> | Outils | Kit de déguisement |
+> | Outils | Outils de voleurs |
+> | Langage | Commun |
+> | Langage | Infernal |
 
+# dndbeyond
 https://www.dndbeyond.com/characters/98668572
+
+# background
+
+# secrets et indices
+- [ ] 
+
+# Notes
+- 
+
