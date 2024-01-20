@@ -11,8 +11,13 @@
             "id": "9a427857e98391df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +217,7 @@
   },
   "active": "9a427857e98391df",
   "lastOpenFiles": [
+    "Session Notes/Session 10 - 20-01-2024.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Personnages/Bhardar Steelbreath.md",
     "Heldenreise.md",
@@ -237,7 +246,6 @@
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
-    "Homebrew/Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
