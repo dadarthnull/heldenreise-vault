@@ -67,9 +67,9 @@
               "state": {
                 "file": "Campagne/Empereur liche.canvas",
                 "viewState": {
-                  "x": 810.5,
-                  "y": 585,
-                  "zoom": -2.245206010109389
+                  "x": -448.5825903908149,
+                  "y": 575.1320550317249,
+                  "zoom": -1.2258744832180817
                 }
               }
             }
@@ -273,18 +273,20 @@
   },
   "active": "60e2dd210ac5a598",
   "lastOpenFiles": [
+    "Session Notes/Session 10 - 20-01-2024.md",
+    "Session Notes/Session 9 - 13-01-2024.md",
+    "Campagne/Empereur liche.canvas",
+    "NPCs/Ennemis/Fraularm.md",
+    "Campagne/Donjons/Manoir de titia Andromico.md",
     "NPCs/Habitants/Heisshitze.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
-    "Campagne/Empereur liche.canvas",
     "NPCs/Figures historiques/Aialize.md",
     "NPCs/Figures historiques/Aialize l'archimage des monstre.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
     "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
     "NPCs/Figures historiques/Ciriltoa l'alchimiste.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
     "Campagne/Donjons/Arsenal de Trazayuya.md",
     "NPCs/Ennemis/Absalom.md",
-    "Session Notes/Session 10 - 20-01-2024.md",
     "NPCs/Ennemis/Wolf Stark.md",
     "Homebrew/tables",
     "NPCs/Ennemis/Zenayoloya.md",
@@ -298,8 +300,6 @@
     "Heldenreise.md",
     "Personnages/Thelkyl.md",
     "NPCs/Monsters/Démon - Arcaniste.md",
-    "Personnages/Narllak.md",
-    "Personnages/Résumé.md",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Assets/lune-noire-symbole 1.png",

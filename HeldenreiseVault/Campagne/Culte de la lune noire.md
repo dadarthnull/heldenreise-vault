@@ -6,7 +6,7 @@ Dirigeants:
 Membres:
 - [[Zakhan le noir]]
 - [[Titia Andromico]]
-- [[Fraularm]]
+- [[NPCs/Habitants/Fraularm]]
 
 
 Plans:
