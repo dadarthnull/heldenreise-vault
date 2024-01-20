@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Creuset de Zenayoloya.md",
+                "file": "NPCs/Figures historiques/Aialize.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Creuset de Zenayoloya.md",
+                "file": "NPCs/Figures historiques/Aialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Creuset de Zenayoloya.md"
+                "file": "NPCs/Figures historiques/Aialize.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Donjons/Creuset de Zenayoloya.md",
+                "file": "NPCs/Figures historiques/Aialize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,10 +233,14 @@
   "lastOpenFiles": [
     "NPCs/Ennemis/Zenayoloya.md",
     "Campagne/Donjons/Creuset de Zenayoloya.md",
-    "NPCs/Figures historiques/Untitled.md",
-    "NPCs/Figures historiques/Aialize l'archimage des monstre.md",
-    "Campagne/Donjons/Forge de Trazayuya.md",
+    "Campagne/Donjons/Tour de la lune noire.md",
+    "Campagne/Donjons/Bosquet du printemps éternel.md",
+    "Campagne/Donjons/Mère des glaces.md",
+    "NPCs/Figures historiques/Aialize.md",
+    "Campagne/Donjons/Antre de Ciriltoa.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Campagne/Donjons/Forge de Trazayuya.md",
+    "NPCs/Figures historiques/Aialize l'archimage des monstre.md",
     "Session Notes/Session 10 - 20-01-2024.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Personnages/Bhardar Steelbreath.md",
@@ -253,12 +257,8 @@
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Construct - armure vivante.md",
     "NPCs/Monsters/Cultiste.md",
-    "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
-    "NPCs/Monsters/Half efreet.md",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
-    "conflict-files-obsidian-git.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
     "Assets/lune-noire-symbole 1.png",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
