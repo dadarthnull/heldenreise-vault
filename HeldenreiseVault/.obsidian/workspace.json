@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Empereur liche.canvas",
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Empereur liche.canvas"
+                "file": "Session Notes/Session 10 - 20-01-2024.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Empereur liche.canvas",
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,11 +270,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "60e2dd210ac5a598",
+  "active": "9a427857e98391df",
   "lastOpenFiles": [
+    "Campagne/Empereur liche.canvas",
     "Session Notes/Session 10 - 20-01-2024.md",
     "Session Notes/Session 9 - 13-01-2024.md",
-    "Campagne/Empereur liche.canvas",
     "NPCs/Ennemis/Fraularm.md",
     "Campagne/Donjons/Manoir de titia Andromico.md",
     "NPCs/Habitants/Heisshitze.md",
