@@ -1,0 +1,3 @@
+- titre: archimage des monstres
+- haut elfe, archimage à la court impériale
+- obsédée par l'hybridation de créatures

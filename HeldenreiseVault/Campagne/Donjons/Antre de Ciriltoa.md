@@ -1,1 +1,4 @@
-
+- donjon basé sur l'alchimie
+- contient des expérimentations sur créer des super-soldats et sur rallonger la vie à travers l'alchimie
+- indices sur l'origine des blood hunters
+- 
