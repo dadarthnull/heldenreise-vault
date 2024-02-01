@@ -11,8 +11,13 @@
             "id": "9a427857e98391df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gazette/Cadre de campagne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gazette/Cadre de campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gazette/Cadre de campagne.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gazette/Cadre de campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +212,13 @@
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "9a427857e98391df",
   "lastOpenFiles": [
+    "Gazette/Cadre de campagne.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Personnages/Bhardar Steelbreath.md",
     "Heldenreise.md",
@@ -237,7 +247,6 @@
     "NPCs/Ennemis/Zakhan le noir.md",
     "Campagne/Secrets de campagne.md",
     "Assets/lune-noire-symbole 1.png",
-    "Homebrew/Objets/Grimoire - Nécromancie Moderne, Un Guide Pratique.md",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
     "Homebrew/Rituels/Niveau 1",
