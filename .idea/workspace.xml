@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e99e9f20-fa9e-4fe2-a0a7-fdc3f7c09298" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HeldenreiseVault/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/HeldenreiseVault/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session 0.md" beforeDir="false" afterPath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session Zero.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session 3.md" beforeDir="false" afterPath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session 3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session Zero cf45e0524f874c5282153061973315a9.md" beforeDir="false" afterPath="$PROJECT_DIR$/HeldenreiseVault/Session Notes/Session Zero cf45e0524f874c5282153061973315a9.md" afterDir="false" />
-    </list>
+    <list default="true" id="e99e9f20-fa9e-4fe2-a0a7-fdc3f7c09298" name="Changes" comment="changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +17,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2X5HbB9KNp1eLDWfPd1WDAfSvkK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,12 +32,20 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/guillaume.degremont/Documents/dnd/HeldenreiseVault"
+    "last_opened_file_path": "/Users/guillaume.degremont/Documents/dnd/HeldenreiseVault",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-e58f7cfedaf7-155fe4b6e3a0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.14015.113" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -57,6 +60,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
