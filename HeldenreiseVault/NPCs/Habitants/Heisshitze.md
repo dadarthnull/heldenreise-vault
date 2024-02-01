@@ -1,0 +1,3 @@
+- membre de la garde d'[[AbreissDorf]]
+- espion au service de [[Titia Andromico]]
+- symbole de la lune noire tatoué sur pectoral gauche (au niveau du coeur)

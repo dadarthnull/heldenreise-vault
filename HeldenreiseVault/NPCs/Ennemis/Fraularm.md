@@ -1,0 +1,1 @@
+- doyen du département de nécromancie de l'[[Université de magie de Schmiedehafen]]

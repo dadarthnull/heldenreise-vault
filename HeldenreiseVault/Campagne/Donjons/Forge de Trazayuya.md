@@ -1,0 +1,3 @@
+ - donjon
+ - ancien laboratoire de [[Trazayuya le Sage]]
+ - nombreuses recherches sur la théorie de la magie, le multivers, les plans, les vents magiques, les grands dragons, le grand ennemi
