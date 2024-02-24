@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gazette/Cadre de campagne.md",
+                "file": "Session Notes/Session 11 - 24-02-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67c2329702afbc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gazette/Cadre de campagne.md",
+                "file": "Session Notes/Session 11 - 24-02-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gazette/Cadre de campagne.md"
+                "file": "Session Notes/Session 11 - 24-02-2024.md"
               }
             }
           },
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gazette/Cadre de campagne.md",
+                "file": "Session Notes/Session 11 - 24-02-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,10 +229,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "9a427857e98391df",
   "lastOpenFiles": [
-    "Assets/foret-d-argent.jpg",
+    "Session Notes/Session 10 - 20-01-2024.md",
+    "Session Notes/Session 11 - 24-02-2024.md",
     "Gazette/Cadre de campagne.md",
+    "Assets/foret-d-argent.jpg",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Personnages/Bhardar Steelbreath.md",
     "Heldenreise.md",
@@ -245,7 +260,6 @@
     "Session Notes/Session 8 - 2023-12-09.md",
     "Campagne/Donjons/Temple englouti.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
     "Assets/lune-noire-symbole 1.png",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
@@ -262,7 +276,6 @@
     "Assets/wererat-2.png",
     "Assets/wereRat.png",
     "Assets/water-elemental-lord.png",
-    "Assets/tomas-llewellyn.png",
-    "Assets/tomas-llewellyn-icon.png"
+    "Assets/tomas-llewellyn.png"
   ]
 }
