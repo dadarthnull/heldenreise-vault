@@ -24,9 +24,12 @@
             "id": "e8503d1e5427e759",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 11 - 24-02-2024.md",
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 11 - 24-02-2024.md"
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md"
               }
             }
           },
@@ -169,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 11 - 24-02-2024.md",
+                "file": "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
