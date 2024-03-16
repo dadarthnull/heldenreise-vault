@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +219,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9a427857e98391df",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
     "Session Notes/Session 11 - 24-02-2024.md",
     "Session Notes/Session 12 - 16-03-2024.md",
