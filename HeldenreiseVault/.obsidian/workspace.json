@@ -14,7 +14,20 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 12 - 16-03-2024.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2fd7d0c4c71e4e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -219,13 +232,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2b5468db4d09180c",
+  "active": "9a427857e98391df",
   "lastOpenFiles": [
-    "Session Notes/Session 11 - 24-02-2024.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 12 - 16-03-2024.md",
+    "Session Notes/Session 11 - 24-02-2024.md",
     "Gazette/Cadre de campagne.md",
     "Assets/foret-d-argent.jpg",
-    "Campagne/Lieux à visiter/AbreissDorf.md",
     "Personnages/Bhardar Steelbreath.md",
     "Heldenreise.md",
     "Personnages/Thelkyl.md",
@@ -249,7 +263,6 @@
     "Session Notes/Session 7 - 2023-12-02.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Campagne/Donjons/Temple englouti.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Assets/lune-noire-symbole 1.png",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
