@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d894f58e8dbe5b9",
+        "id": "be8e5c58c168d9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9a427857e98391df",
+            "id": "6a174fd8f7579a05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 12 - 16-03-2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2fd7d0c4c71e4e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/AbreissDorf.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -101,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 12 - 16-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 12 - 16-03-2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 12 - 16-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,11 +209,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9a427857e98391df",
+  "active": "6a174fd8f7579a05",
   "lastOpenFiles": [
+    "Session Notes/Session 12 - 16-03-2024.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 12 - 16-03-2024.md",
     "Session Notes/Session 11 - 24-02-2024.md",
     "Gazette/Cadre de campagne.md",
     "Assets/foret-d-argent.jpg",
