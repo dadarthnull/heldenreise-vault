@@ -11,11 +11,69 @@
             "id": "6a174fd8f7579a05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Donjons/Caverne de Zakhan le noir.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b3292b51c9fd3422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0236d7a337b49513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 9 - 13-01-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a642eb75cecef856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10 - 20-01-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dea6f7fd85452ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 12 - 16-03-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 12 - 16-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 12 - 16-03-2024.md"
+              }
             }
           },
           {
@@ -137,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 12 - 16-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,12 +271,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6a174fd8f7579a05",
+  "active": "dea6f7fd85452ae0",
   "lastOpenFiles": [
+    "Session Notes/Session 9 - 13-01-2024.md",
+    "Session Notes/Session 10 - 20-01-2024.md",
+    "Session Notes/Session 11 - 24-02-2024.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Campagne/Donjons/Caverne de Zakhan le noir.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 12 - 16-03-2024.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 11 - 24-02-2024.md",
     "Gazette/Cadre de campagne.md",
     "Assets/foret-d-argent.jpg",
     "Personnages/Bhardar Steelbreath.md",
@@ -235,11 +302,6 @@
     "NPCs/Monsters/Half efreet.md",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
-    "conflict-files-obsidian-git.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Campagne/Donjons/Temple englouti.md",
     "Assets/lune-noire-symbole 1.png",
     "Assets/lhaak.webp",
     "Homebrew/Rituels/Niveau 2",
