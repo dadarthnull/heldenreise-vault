@@ -1,4 +1,3 @@
-![[cerf-esprit.png]]
 
 ```statblock
 image: [[cerf-esprit.png]]
