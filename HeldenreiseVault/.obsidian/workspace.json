@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 13 - 30-03-2024.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 13 - 30-03-2024.md",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 13 - 30-03-2024.md"
+                "file": "Session Notes/Session 14 - 06-04-2024.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 13 - 30-03-2024.md",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,9 +259,10 @@
   },
   "active": "dea6f7fd85452ae0",
   "lastOpenFiles": [
+    "Session Notes/Session 13 - 30-03-2024.md",
+    "Session Notes/Session 14 - 06-04-2024.md",
     "NPCs/Monsters/Cerf-esprit.md",
     "NPCs/Monsters/Ours cornu.md",
-    "Session Notes/Session 13 - 30-03-2024.md",
     "cerf-esprit.png",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Cultiste.md",
@@ -294,7 +295,6 @@
     "NPCs/Monsters/Démon - Arcaniste.md",
     "Personnages/Narllak.md",
     "Personnages/Résumé.md",
-    "Personnages/Myrlou.md",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",
