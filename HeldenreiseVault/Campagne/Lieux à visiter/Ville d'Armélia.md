@@ -97,7 +97,7 @@ Possibilité de:
 	- extermination
 		- camp gobelin à proximité de la ville
 		- colonie de groins proche route commerciale (localisation inconnue)
-		- rats dans les égouts
+		- rats dans les égouts => guilde des voleurs lycanthrope 
 	- investigation
 		- plusieurs villages ont été attaqués par des groins, trouver la cause
 			- sages pensent que les vents magiques augmentent leur fertilité
