@@ -32,15 +32,26 @@ Possibilité de:
 ### L'ancienne citadelle
 ![[token-citadelle.png]]
 - centre de l'administration relative à la duchesse et à la ville
+- permet d'obtenir un rendz-vous avec la duchesse
+	- base: dans 1 semaine
+	- si insistent: 3 jours
 
 ### Le palais de la duchesse
 ![[token-palais-duchesse.png]]
+- résidence de la duchesse
+	- appartements
+	- bals et réceptions privés (les réceptions publiques sont à l'ancienne citadelle)
 
 ### L'hôtel de la garde
 ![[token-garde.png]]
+- caserne principale de la garde de la ville, sous les ordre du prévôt
+- multiples petits postes de garde partout dans la ville
 
 ### L'imprimerie d'Armélia
 ![[token-imprimerie-armelia.png]]
+- ancien entrepot transformé en imprimerie
+	- très bruyant (plaintes des voisins)
+	- 
 
 ### Le quartier des affaires
 ![[token-quartier-marchand.png]]
