@@ -10,20 +10,28 @@ Cette ville est a connu un accroissement de son activité très récemment. Situ
 
 ### L'arène
 ![[token-arène.png]]
+- actuellement fermé pour travaux, la saison des tournois n'a pas encore commencée
 
 ### L'autorité commerciale
 ![[token-authorité-commerciale.png]]
+Possibilité de:
+- échanger bons contre de l'argent (attention: billets d'Armélia et pièces bizarre privilégiés et formulaires pour retirer en po)
+- fonder sa compagnie commerciale
+- demander des services ou conseils
+- obtenir les services d'un notaire
+- cartes de la ville, du duché et du royaume, à jour avec les routes et villes
 
 ###  La ville noble
 ![[token-quartier-noble.png]]
-- quartier ou se trouvent la plupart des residences des nobles et tres riches marchands
-- nombreuses patrouilles de la garde et de milices privees
+- quartier ou se trouvent la plupart des résidences des nobles et très riches marchands
+- nombreuses patrouilles de la garde et de milices privées
 
 ### Le manoir de Titia Andromico
 ![[token-manoir-titia.png]]
 
 ### L'ancienne citadelle
 ![[token-citadelle.png]]
+- centre de l'administration relative à la duchesse et à la ville
 
 ### Le palais de la duchesse
 ![[token-palais-duchesse.png]]
