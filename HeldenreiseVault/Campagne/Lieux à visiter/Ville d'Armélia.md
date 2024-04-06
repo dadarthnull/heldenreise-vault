@@ -97,17 +97,18 @@ Possibilité de:
 	- extermination
 		- camp gobelin à proximité de la ville
 		- colonie de groins proche route commerciale (localisation inconnue)
-		- rats dans les égouts => guilde des voleurs lycanthrope, chassés par des zombies
+		- rats dans les égouts 
+			- une guilde des voleurs lycanthrope, en guerre contre les zombies de Titia qui s'échappent de son manoir
 	- investigation
 		- plusieurs villages ont été attaqués par des groins, trouver la cause
 			- sages pensent que les vents magiques augmentent leur fertilité
 			- un aventurier pense que quelqu'un les manipule
 			- un marchand sait que d'autres territoires ont l même problème
 				- une enquête révèle que seuls les territoires soutenant le 1er prince ont des attaques de groins
-		- bruits étranges dans la nuit près d'un puit
-			- 
+		- bruits étranges dans la nuit près d'une fontaine la nuit
+			- les ailes de la liberté se construisent un nouveau repaire
 		- cube gélatineux manquant
-			- 
+			- les cubes sont tombés sur un stock de blé contaminé et sont trop mal en point pour revenir
 	- escortes
 		- escortes de caravanes pour un peu partout
 	- récoltes
