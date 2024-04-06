@@ -105,7 +105,11 @@ Possibilité de:
 			- un marchand sait que d'autres territoires ont l même problème
 				- une enquête révèle que seuls les territoires soutenant le 1er prince ont des attaques de groins
 	- escortes
+		- escortes de caravanes pour un peu partout
 	- récoltes
+		- plantes (alentours et loin)
+		- minéraux
+		- objets magiques et composants
 	- divers
 
 ### L'arsenal
