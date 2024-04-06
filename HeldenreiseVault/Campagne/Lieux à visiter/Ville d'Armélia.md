@@ -83,7 +83,30 @@ Possibilité de:
 
 ### La guilde des aventuriers
 ![[token-guilde-aventuriers.png]]
-- 
+- ancienne auberge de luxe
+- zone de reception / rencontre / bar au rez de chaussé avec guichets
+- bureaux et salles d'enseignement étages
+- bureau du maître de guilde au plus haut
+- zone d'entrainement dans une grande court à l'arrière
+- guichet de traitement des proies (boucherie, tannerie, ... des animaux tués)
+- quêtes
+	- escortes en ville
+		- un baron cherche un groupe pour escorter sa fille en ville
+		- un riche marchand cherche des gardes pour un pique-nique en dehors de la ville
+		- compagnie marchande cherche escorte pour livraison sensible
+	- extermination
+		- camp gobelin à proximité de la ville
+		- colonie de groins proche route commerciale (localisation inconnue)
+		- 
+	- investigation
+		- plusieurs villages ont été attaqués par des groins, trouver la cause
+			- sages pensent que les vents magiques augmentent leur fertilité
+			- un aventurier pense que quelqu'un les manipule
+			- un marchand sait que d'autres territoires ont l même problème
+				- une enquête révèle que seuls les territoires soutenant le 1er prince ont des attaques de groins
+	- escortes
+	- récoltes
+	- divers
 
 ### L'arsenal
 ![[token-arsenal.png]]
@@ -95,7 +118,25 @@ Possibilité de:
 
 ### La scholaria
 ![[token-scholaria.png]]
-- série de bâtiments
+- série de bâtiments servant d'école, lycée et université
+- beaucoup de monde
+- établi depuis à peine 5 ans, est toujours une nouveauté
+- offre des cours pour les enfants/ados le jour et des cours du soir pour les adultes
+- parsemé de laboratoires
+- grande fierté des habitants de la ville
+- "la savoir est le pouvoir" écrit sur le fronton de chaque bâtiment qui accueille le publique
+- pas d'université arcanique, les cours sont plus orientés sur les savoirs communs et utiles
+- les cours les plus prestigieux sont
+	- médecine
+	- service civil
+	- comptabilité et gestion
+	- agriculture
+	- génie civil
+	- commerce et finance
+	- arts courtois
+	- arts et performances
+	- religion et philosophie
+	- 
 
 ### La taverne de l'horloge
 ![[token-taverne-horloge.png]]
@@ -107,5 +148,6 @@ Possibilité de:
 - 
 ### Le manoir à vendre
 ![[token-cottage-lumineux.png]]
+- pour plus tard
 
 ### 
