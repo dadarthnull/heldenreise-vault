@@ -21,42 +21,6 @@
             }
           },
           {
-            "id": "d118e5024ff16b1d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "36157736ebc8cabe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Cerf-esprit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7146bbaed7d8ce26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "442957e2fe281c38",
             "type": "leaf",
             "state": {
@@ -137,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md",
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md"
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md"
               }
             }
           },
@@ -195,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md",
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,10 +232,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d118e5024ff16b1d",
+  "active": "442957e2fe281c38",
   "lastOpenFiles": [
-    "Session Notes/Session 13 - 30-03-2024.md",
     "Session Notes/Session 14 - 06-04-2024.md",
+    "Session Notes/Session 13 - 30-03-2024.md",
     "NPCs/Monsters/Cerf-esprit.md",
     "NPCs/Monsters/Ours cornu.md",
     "cerf-esprit.png",

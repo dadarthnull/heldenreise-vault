@@ -16,6 +16,8 @@ Cette ville est a connu un accroissement de son activité très récemment. Situ
 
 ###  La ville noble
 ![[token-quartier-noble.png]]
+- quartier ou se trouvent la plupart des residences des nobles et tres riches marchands
+- nombreuses patrouilles de la garde et de milices privees
 
 ### Le manoir de Titia Andromico
 ![[token-manoir-titia.png]]
@@ -34,12 +36,18 @@ Cette ville est a connu un accroissement de son activité très récemment. Situ
 
 ### Le quartier des affaires
 ![[token-quartier-marchand.png]]
+- nombreuses boutiques et compagnies commerciales
+- 
 
 ### Le grand marché
 ![[token-grand-marché.png]]
+- grand marche ouvert sur une place
+- tous types de vendeurs melanges
+- 
 
 ### La taverne de l'eau bleue
 ![[token-taverne-eau-bleue.png]]
+- idées des joueurs
 
 ### Le temple des dragons
 
@@ -61,10 +69,12 @@ Cette ville est a connu un accroissement de son activité très récemment. Situ
 
 ### La taverne de l'horloge
 ![[token-taverne-horloge.png]]
+- idées des joueurs
 
 ### La taverne de la chope qui vole
 ![[token-taverne-chope-qui-vole.png]]
-
+- idées des joueurs
+- 
 ### Le manoir à vendre
 ![[token-cottage-lumineux.png]]
 
