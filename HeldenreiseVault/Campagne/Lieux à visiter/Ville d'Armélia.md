@@ -49,9 +49,13 @@ Possibilité de:
 
 ### L'imprimerie d'Armélia
 ![[token-imprimerie-armelia.png]]
-- ancien entrepot transformé en imprimerie
+- ancien entrepôt transformé en imprimerie
 	- très bruyant (plaintes des voisins)
-	- 
+	- refus de fournir des informations sur les ayant droits
+	- impriment à partir de scripts
+		- originaux fournis par une compagnie d'édition
+		- version abrégées viennent de la scholaria
+	- l'adresse du cousin se trouve dans un bureau fermé à clefs (adresse dans l'empire)
 
 ### Le quartier des affaires
 ![[token-quartier-marchand.png]]
@@ -73,18 +77,25 @@ Possibilité de:
 
 ### L'administratum
 ![[token-administratum.png]]
+- 2 sections
+	- l'administratum lui-même qui est une série de batiments connectés remplis de bureaux
+	- les services publiques (récéptions pour aider les gens pour leurs différentes procédures administratives)
 
 ### La guilde des aventuriers
 ![[token-guilde-aventuriers.png]]
+- 
 
 ### L'arsenal
 ![[token-arsenal.png]]
+- chateau et garnison pour les chevaliers ducaux
 
 ### Le théâtre de l'icosaèdre
 ![[token-theatre-isocaèdre.png]]
+- célèbre théatre, réputé pour l'utilisation de la magie dans les production
 
 ### La scholaria
 ![[token-scholaria.png]]
+- série de bâtiments
 
 ### La taverne de l'horloge
 ![[token-taverne-horloge.png]]
