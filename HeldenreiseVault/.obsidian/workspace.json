@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "d118e5024ff16b1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "36157736ebc8cabe",
             "type": "leaf",
             "state": {
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +268,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dea6f7fd85452ae0",
+  "active": "d118e5024ff16b1d",
   "lastOpenFiles": [
     "Session Notes/Session 13 - 30-03-2024.md",
     "Session Notes/Session 14 - 06-04-2024.md",
