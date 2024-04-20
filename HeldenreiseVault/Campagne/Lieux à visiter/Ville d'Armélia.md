@@ -153,8 +153,10 @@ Possibilité de:
 
 ### La taverne de la chope qui vole
 ![[token-taverne-chope-qui-vole.png]]
-- idées des joueurs
-- 
+- taverne avec une section salle de spectacle, qui a souvent des spectacles de magie, y compris un très célèbre numéro de magie qui fait voler les chopes, d'où le nom de l'auberge
+
+![[taverne-3.jpg]]
+
 ### Le manoir à vendre
 ![[token-cottage-lumineux.png]]
 - pour plus tard
