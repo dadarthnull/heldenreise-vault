@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md",
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md"
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 14 - 06-04-2024.md",
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +232,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dea6f7fd85452ae0",
+  "active": "442957e2fe281c38",
   "lastOpenFiles": [
+    "Session Notes/Session 14 - 06-04-2024.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 12 - 16-03-2024.md",
     "TC_Warehouse 04 Roof_Grid.jpg",
     "TC_Warehouse 01 Basement_Grid.jpg",
     "TC_Warehouse 03 Catwalk_Grid.jpg",
@@ -243,16 +247,13 @@
     "TC_House of Elazar 03 Ground Floor Mist_Grid.jpg",
     "TC_House of Elazar 02 Chapel_Grid.jpg",
     "TC_House of Elazar 01 Lair_Grid.jpg",
-    "river-5.jpg",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
-    "Session Notes/Session 14 - 06-04-2024.md",
     "Session Notes/Session 13 - 30-03-2024.md",
     "NPCs/Monsters/Cerf-esprit.md",
     "NPCs/Monsters/Ours cornu.md",
     "NPCs/Monsters/Démon - Ronin.md",
     "NPCs/Monsters/Cultiste.md",
     "Gazette/Continent Est/Armelia.md",
-    "Session Notes/Session 12 - 16-03-2024.md",
     "BathBoardGamingGroup/Sessions/Session 2024-01-17.md",
     "BathBoardGamingGroup/Sessions/Session 2024-03-20.md",
     "Session Notes/Session 9 - 13-01-2024.md",
@@ -261,7 +262,6 @@
     "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
     "Campagne/Donjons/Caverne de Zakhan le noir.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Gazette/Cadre de campagne.md",
     "Personnages/Bhardar Steelbreath.md",
