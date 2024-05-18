@@ -40,9 +40,21 @@ vitesse: 30ft
 https://www.dndbeyond.com/characters/98668572
 
 # background
+(la Comté, Sherlock Holmes, Eusebio)
 - Originaire de la ville de 
 - Membre de la CAROTTE, combat les ORTIES
 - A rejoint [[Mira Miralin]] après une enquête difficile sur le vol d'un puissant artefact par son frère 
+
+# Destin
+Veut devenir une légende, un héros connu de tous qui aura accompli de grandes choses
+
+# Projets en cours
+- cherche à trouver un lien entre la culte de la lune noire, le dragon noir, les morts vivants dans les grimoires
+	- jets Arcane/Religion
+	- [ ] réussite
+	- [ ] réussite
+	- [ ] réussite
+- 
 
 # secrets et indices
 - [ ] 
