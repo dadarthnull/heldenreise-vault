@@ -41,7 +41,8 @@ https://www.dndbeyond.com/characters/98668572
 
 # background
 (la Comté, Sherlock Holmes, Eusebio)
-- Originaire de la ville de 
+- Originaire de la ville de Hengjhi, une cité état paisible, tournée vers l'agriculture (inspiration le Comté)
+	- dragon tutélaire: le grand dragon Vert
 - Membre de la CAROTTE, combat les ORTIES
 - A rejoint [[Mira Miralin]] après une enquête difficile sur le vol d'un puissant artefact par son frère 
 
