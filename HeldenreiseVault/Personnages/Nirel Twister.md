@@ -40,6 +40,7 @@ vitesse: 30ft
 https://www.dndbeyond.com/characters/98668572
 
 # background
+- 
 
 # secrets et indices
 - [ ] 
