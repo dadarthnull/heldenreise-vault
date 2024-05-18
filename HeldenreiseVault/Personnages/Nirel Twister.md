@@ -44,6 +44,7 @@ https://www.dndbeyond.com/characters/98668572
 - Originaire de la ville de Hengjhi, une cité état paisible, tournée vers l'agriculture (inspiration le Comté)
 	- dragon tutélaire: le grand dragon Vert
 - Membre de la CAROTTE, combat les ORTIES
+	- les CAROTTES maintiennent l'ordre publique
 - A rejoint [[Mira Miralin]] après une enquête difficile sur le vol d'un puissant artefact par son frère 
 
 # Destin
