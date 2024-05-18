@@ -40,7 +40,9 @@ vitesse: 30ft
 https://www.dndbeyond.com/characters/98668572
 
 # background
-- 
+- Originaire de la ville de 
+- Membre de la CAROTTE, combat les ORTIES
+- A rejoint [[Mira Miralin]] après une enquête difficile sur le vol d'un puissant artefact par son frère 
 
 # secrets et indices
 - [ ] 
