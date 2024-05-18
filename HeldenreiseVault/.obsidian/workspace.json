@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 8 - 2023-12-09.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Nirel Twister.md",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md"
+                "file": "Session Notes/Session 14 - 06-04-2024.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6 - 2023-11-25.md",
+                "file": "Session Notes/Session 14 - 06-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,19 +232,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dea6f7fd85452ae0",
+  "active": "442957e2fe281c38",
   "lastOpenFiles": [
-    "Session Notes/Session 5 - 2023-11-11.md",
+    "Session Notes/Session 15 - 18-05-2024.md",
     "Personnages/Nirel Twister.md",
+    "Session Notes/Session 8 - 2023-12-09.md",
+    "Session Notes/Session 7 - 2023-12-02.md",
+    "Session Notes/Session 6 - 2023-11-25.md",
+    "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 4 - 2023-10-28.md",
     "Session Notes/Session 3 - 2023-10-05.md",
     "Session Notes/Session 2 - 2023-09-16.md",
     "Session Notes/Session 1 - 2023-09-09.md",
-    "Session Notes/Session 15 - 18-05-2024.md",
     "Session Notes/Session 14 - 06-04-2024.md",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "taverne-3.jpg",
-    "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 12 - 16-03-2024.md",
     "TC_Warehouse 04 Roof_Grid.jpg",
     "TC_Warehouse 01 Basement_Grid.jpg",
@@ -265,8 +268,6 @@
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 10 - 20-01-2024.md",
     "Session Notes/Session 11 - 24-02-2024.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "Campagne/Donjons/Caverne de Zakhan le noir.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "BathBoardGamingGroup/Sessions",
