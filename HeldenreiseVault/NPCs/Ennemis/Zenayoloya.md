@@ -15,6 +15,8 @@ attributes:
 
 ---
 
+![[death-knight-3.jpg]]
+
 - garde personnel de l'empereur elfe, 1er paladin de l'empire
 - devenu paladin de la mort
 - capable de supporter la lumière du soleil
