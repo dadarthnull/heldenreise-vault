@@ -12,7 +12,7 @@ speed: 10
 stats: [14, 3, 20, 1, 6, 1]
 saves:
 skillsaves:
-damage_vulnerabilities: -
+damage_vulnerabilities: Froid, Feu
 damage_resistances: -
 damage_immunities: -
 condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md"
+                "file": "NPCs/Monsters/Cube Gélatineux.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +247,9 @@
   },
   "active": "c9f3cce25d4513d0",
   "lastOpenFiles": [
+    "NPCs/Monsters/Cube Gélatineux Corrompu.md",
     "Session Notes/Session 17 - 01-06-2024.md",
     "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
-    "NPCs/Monsters/Cube Gélatineux Corrompu.md",
     "NPCs/Monsters/Cube Gélatineux.md",
     "Cube Gelatineux.png",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
