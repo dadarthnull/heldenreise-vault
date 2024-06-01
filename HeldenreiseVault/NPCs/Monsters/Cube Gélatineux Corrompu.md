@@ -5,7 +5,7 @@ size: L
 type: Slime
 subtype: Cube Gelatineux
 alignment: -
-ac: 6
+ac: 8
 hp: 80
 hit_dice: 8d10 + 20
 speed: 5
@@ -14,7 +14,7 @@ saves:
 skillsaves:
 damage_vulnerabilities: -
 damage_resistances: -
-damage_immunities: -
+damage_immunities: nécrotique
 condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 senses: Blindsight 60ft (12 cases), perception passive 8
 languages: commun, démon
