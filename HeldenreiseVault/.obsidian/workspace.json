@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 17 - 01-06-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux.md",
+                "file": "Session Notes/Session 17 - 01-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux.md"
+                "file": "Session Notes/Session 17 - 01-06-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux.md",
+                "file": "Session Notes/Session 17 - 01-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,12 +244,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c9f3cce25d4513d0",
+  "active": "e8f5d38a123636e4",
   "lastOpenFiles": [
+    "NPCs/Monsters/Cube Gélatineux.md",
     "NPCs/Monsters/Cube Gélatineux Corrompu.md",
     "Session Notes/Session 17 - 01-06-2024.md",
     "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
-    "NPCs/Monsters/Cube Gélatineux.md",
     "Cube Gelatineux.png",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
     "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
