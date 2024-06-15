@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 17 - 01-06-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67b84985e220b0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md"
+                "file": "NPCs/Monsters/Cube Gélatineux.md"
               }
             }
           },
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux Corrompu.md",
+                "file": "NPCs/Monsters/Cube Gélatineux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,11 +258,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d01ea7d8858d0c81",
+  "active": "67b84985e220b0f8",
   "lastOpenFiles": [
-    "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
+    "token_1 (3).png",
+    "Cube Gelatineux 1.png",
     "NPCs/Monsters/Cube Gélatineux Corrompu.md",
     "Session Notes/Session 17 - 01-06-2024.md",
+    "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
+    "token_3 (3).png",
+    "token_4 (2).png",
+    "token_5 (2).png",
     "NPCs/Monsters/Cube Gélatineux.md",
     "Session Notes/Session 18 - 15-06-2024.md",
     "Cube Gelatineux.png",
@@ -274,15 +292,10 @@
     "Personnages/Nirel Twister.md",
     "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 8 - 2023-12-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
     "taverne-3.jpg",
     "TC_Warehouse 04 Roof_Grid.jpg",
     "TC_Warehouse 01 Basement_Grid.jpg",
     "TC_Warehouse 03 Catwalk_Grid.jpg",
-    "TC_Warehouse 02 Ground Floor_Grid.jpg",
-    "TC_Warehouse 02 Ground Floor Dock_Grid.jpg",
-    "TC_House of Elazar 05 Roof Mist_Grid.jpg",
-    "TC_House of Elazar 04 Upper Floor Mist_Grid.jpg",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",

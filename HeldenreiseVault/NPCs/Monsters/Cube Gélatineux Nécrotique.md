@@ -1,5 +1,8 @@
+
+![[token_3 (3).png]]
+
 ```statblock
-image: [[wurzelhain.jpeg]]
+image: [[token_3 (3).png]]
 name: Gelatinous Cube Nécrotique
 size: L
 type: Slime

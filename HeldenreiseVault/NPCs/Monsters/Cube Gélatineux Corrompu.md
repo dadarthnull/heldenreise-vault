@@ -1,8 +1,8 @@
 
-
+![[token_5 (2).png]] ![[token_4 (2).png]]
 
 ```statblock
-image: [[wurzelhain.jpeg]]
+image: [[token_5 (2).png]]
 name: Gelatinous Cube Corrompu
 size: L
 type: Slime

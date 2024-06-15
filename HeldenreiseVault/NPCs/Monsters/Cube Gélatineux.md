@@ -1,5 +1,8 @@
+
+![[Cube Gelatineux 1.png]]  ![[token_1 (3).png]]
+
 ```statblock
-image: [[wurzelhain.jpeg]]
+image: [[Cube Gelatineux 1.png]]
 name: Gelatinous Cube
 size: L
 type: Slime
