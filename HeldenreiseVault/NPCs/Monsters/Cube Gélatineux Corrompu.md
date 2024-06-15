@@ -1,3 +1,6 @@
+
+
+
 ```statblock
 image: [[wurzelhain.jpeg]]
 name: Gelatinous Cube Corrompu
