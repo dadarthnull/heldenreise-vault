@@ -13,34 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 17 - 01-06-2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b5d9326023638639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Zenayoloya.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9f3cce25d4513d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Cube Gélatineux.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 18 - 15-06-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 17 - 01-06-2024.md",
+                "file": "Session Notes/Session 18 - 15-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 17 - 01-06-2024.md"
+                "file": "Session Notes/Session 18 - 15-06-2024.md"
               }
             }
           },
@@ -171,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 17 - 01-06-2024.md",
+                "file": "Session Notes/Session 18 - 15-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +220,10 @@
   },
   "active": "e8f5d38a123636e4",
   "lastOpenFiles": [
+    "Session Notes/Session 17 - 01-06-2024.md",
+    "Session Notes/Session 18 - 15-06-2024.md",
     "NPCs/Monsters/Cube Gélatineux.md",
     "NPCs/Monsters/Cube Gélatineux Corrompu.md",
-    "Session Notes/Session 17 - 01-06-2024.md",
     "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
     "Cube Gelatineux.png",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
@@ -273,7 +248,6 @@
     "Session Notes/Session 6 - 2023-11-25.md",
     "Session Notes/Session 8 - 2023-12-09.md",
     "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 5 - 2023-11-11.md",
     "taverne-3.jpg",
     "TC_Warehouse 04 Roof_Grid.jpg",
     "TC_Warehouse 01 Basement_Grid.jpg",
