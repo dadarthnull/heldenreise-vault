@@ -145,3 +145,15 @@ création de nouvelles armes.
 
 #### Note 27
 Je suis **Elara**, une prêtresse experte en sorts de protection et de soutien. J'ai récemment quitté mon ancien groupe après avoir complété une quête divine. Je recherche une équipe qui valorise la défense et la stratégie. En dehors de l'aventure, j'étudie les anciens manuscrits et les rituels sacrés.
+
+#### Note 28
+Je suis **Aldric**, un élémentaliste vieillissant de 
+62 ans, dont le groupe a récemment pris sa retraite. 
+Je cherche un nouveau groupe pour continuer mes 
+aventures malgré mon âge. Bien que je sois toujours 
+puissant dans la maîtrise des éléments, je souffre 
+d'arthrite, ce qui limite ma mobilité. Je suis à la 
+recherche d'une équipe compréhensive qui peut tirer 
+parti de mon expérience et de mes compétences 
+magiques tout en tenant compte de mes limitations 
+physiques.
