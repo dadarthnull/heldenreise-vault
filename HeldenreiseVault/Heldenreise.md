@@ -205,3 +205,5 @@ groupe est ambitieux et déterminé à surmonter les défis
 les plus ardus, et nous avons besoin de renforts pour 
 réussir dans nos prochaines quêtes.
 
+
+La Compagnie du Loup Blanc recherche un guérisseur pour équilibrer la composition de notre groupe. Nous sommes actuellement des aventuriers de haut niveau acceptant toutes sortes de missions, mais la plupart sont très dangereuses. Nous sommes Narllak, Myrlou, Thelkyl, Adelaïde, Nirel et Bhardar. Si vous êtes un guérisseur expérimenté et prêt à relever des défis périlleux, rejoignez-nous pour assurer notre survie et renforcer notre équipe dans nos aventures les plus risquées.
