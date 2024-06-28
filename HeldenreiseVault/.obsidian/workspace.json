@@ -32,9 +32,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0e2d0cacfc18cf56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b844ce740a0f177b",
+  "active": "0e2d0cacfc18cf56",
   "lastOpenFiles": [
     "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
