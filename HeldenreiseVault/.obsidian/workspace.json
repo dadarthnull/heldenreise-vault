@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "Heldenreise.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "Heldenreise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md"
+                "file": "Heldenreise.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "Heldenreise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,8 +234,8 @@
   },
   "active": "b844ce740a0f177b",
   "lastOpenFiles": [
-    "Session Notes/Session 19 - 22-06-2024.md",
     "Session Notes/Session 20 - 29-06-2024.md",
+    "Session Notes/Session 19 - 22-06-2024.md",
     "Heldenreise.md",
     "Assets/hideout-2.jpg",
     "Assets/cerf-esprit.png",
