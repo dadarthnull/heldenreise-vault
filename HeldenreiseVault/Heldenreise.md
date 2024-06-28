@@ -176,3 +176,32 @@ recherche d'une équipe compréhensive qui peut tirer
 parti de mon expérience et de mes compétences 
 magiques tout en tenant compte de mes limitations 
 physiques.
+
+### Tableau d'Affichage de la Guilde des Aventuriers
+
+#### Note 29
+Les Chevaliers de l'Aube recherchent 
+un nouveau membre pour remplacer un 
+membre récemment retraité. Nous sommes 
+actuellement Elys (Sorcier), Kael (Guerrier) 
+et Sylvaine (Druide). Nous cherchons un 
+voleur ou un ranger avec des compétences 
+en furtivité et en pistage. Notre groupe se 
+spécialise dans les quêtes dangereuses à 
+travers des terrains variés et nécessite un 
+membre supplémentaire pour maintenir 
+notre efficacité et notre équilibre.
+
+### Tableau d'Affichage de la Guilde des Aventuriers
+
+#### Note 30
+Les Chasseurs de Légendes recherchent un nouveau 
+membre pour augmenter notre puissance de feu après 
+une série d'échecs face à un monstre redoutable. Nous 
+sommes actuellement Draven (Guerrier), Mira (Sorcier) 
+et Finn (Archer). Nous cherchons un mage offensif ou 
+un guerrier avec une grande force de frappe. Notre 
+groupe est ambitieux et déterminé à surmonter les défis 
+les plus ardus, et nous avons besoin de renforts pour 
+réussir dans nos prochaines quêtes.
+
