@@ -106,3 +106,42 @@
 #### Note 9
 **Phaedra (Sorcier)** cherche un nouveau groupe d'aventuriers. Elle
 
+
+
+### Aventuriers Solitaires Cherchant des Groupes
+
+#### Note 23
+Je m'appelle Sylvaine et je suis une gardienne de la nature. 
+Je suis spécialisée dans la guérison et la régénération. Mon 
+ancien groupe s'est dissous pour raisons personnelle. 
+Je cherche une équipe qui partage mon amour pour l'harmonie 
+avec la nature. En dehors des aventures, j'adore cultiver des 
+légumes.
+
+#### Note 24
+Gideon, templier de 45 ans avec une grande famille de huit personnes à nourrir. 
+Suite à la fusion de deux églises, il y a eu une réduction de personnel et j'ai 
+perdu mon emploi , je cherche désespérément un nouveau groupe. 
+Je suis un combattant expérimenté avec un fort sens de la justice, spécialisé 
+dans les soins et la protection.
+
+#### Note 25
+Je suis Niko, exploratrice spécialisée dans la discrétion. 
+Je cherche un nouveau groupe. Ma spécialité est la 
+furtivité et l'infiltration. Mon dernier groupe s'est dissout 
+après une mission réussie. J'adore les énigmes et les 
+défis intellectuels, et je cherche une équipe qui valorise 
+la ruse et la discrétion.
+
+#### Note 26
+Salut, moi c'est **Freya**. Guerrière spécialisée 
+dans le combat rapproché, je suis à la recherche 
+d'une nouvelle équipe. Mon ancien groupe s'est 
+dissous après une bataille épique contre des 
+créatures légendaires dans laquelle plusieurs 
+membres ont été gravement blessés. En dehors 
+des combats, je me passionne pour la forge et la 
+création de nouvelles armes.
+
+#### Note 27
+Je suis **Elara**, une prêtresse experte en sorts de protection et de soutien. J'ai récemment quitté mon ancien groupe après avoir complété une quête divine. Je recherche une équipe qui valorise la défense et la stratégie. En dehors de l'aventure, j'étudie les anciens manuscrits et les rituels sacrés.
