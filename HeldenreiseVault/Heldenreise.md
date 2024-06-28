@@ -1,22 +1,41 @@
 ### Tableau d'Affichage de la Guilde des Aventuriers
 
 #### Note 1
-**Les Loups de Fer** recherchent un mage ou un guérisseur avec une attitude intrépide. Nous sommes actuellement Kael (Guerrier) et Liora (Ranger). Nous nous spécialisons dans les missions à haut risque et recherchons un meilleur équilibre dans notre groupe.
+**Les Loups de Fer** recherchent un mage ou un guérisseur avec une attitude intrépide. 
+Nous sommes actuellement Kael (Guerrier) et Liora (Ranger). Nous nous spécialisons dans 
+les missions à haut risque et recherchons un meilleur équilibre dans notre groupe.
 
 #### Note 2
-**Les Flèches d'Argent** recherchent un voleur furtif ou un sorcier rusé. Nous sommes actuellement Fara (Archer) et Tanis (Barde). Nous voulons diversifier nos tactiques pour des tâches complexes.
+Les Flèches d'Argent recherchent un 
+voleur furtif ou un sorcier rusé. Nous sommes 
+actuellement Fara (Archer) et Tanis (Barde). 
+Nous voulons diversifier nos tactiques pour 
+des tâches complexes.
 
 #### Note 3
-**Les Lames Mystiques** recherchent un guérisseur avec de puissants sorts défensifs. Nous sommes actuellement Eldrin (Mage) et Sirena (Guerrière). Nous devons remplacer un camarade tombé au combat récemment.
+Les Lames Mystiques recherchent une guérisseuse 
+avec de puissants sorts défensifs. Nous sommes actuellement 
+Elara (Mage) et Sirena (Guerrière). Nous devons remplacer une 
+camarade tombé au combat récemment. Nous somme un groupe
+uniquement féminin, hommes s'abstenir.
+(surtout Ludwig, laisses nous tranquille !)
 
 #### Note 4
-**Les Dagues Ivre** recherchent un guérisseur ou un mage qui aime rire. Nous sommes actuellement Bronn (Voleur), Kiera (Barde) et Morwin (Guerrier). Nous visons à relever de plus grands défis et des quêtes épiques.
+Les Dagues Ivre recherchent un guérisseur ou un 
+mage qui aime rire. Nous sommes actuellement Bronn 
+(Voleur), Kiera (Barde) et Morwin (Guerrier). Nous visons 
+à relever de plus grands défis et des quêtes épiques.
 
 #### Note 5
-**La Flamme du Dragon** recherche un guerrier au cœur noble. Nous sommes actuellement Tharok (Sorcier) et Alys (Voleuse). Nous devons remplacer un membre perdu lors d'une récente chasse au dragon.
+La Flamme du Dragon recherche un guerrier au cœur noble. Nous sommes actuellement Tharok (Sorcier) et Alys (Voleuse). Nous devons remplacer un membre perdu lors d'une récente chasse au dragon.
 
 #### Note 6
-**Les Boucliers d'Argent** recherchent un ranger ou un voleur avec des compétences de pistage. Nous sommes actuellement Gareth (Paladin), Elara (Prêtresse) et Lorn (Guerrier). Nous recherchons un meilleur équilibre pour nos missions de pistage.
+Les Boucliers d'Argent recherchent un ranger ou un 
+voleur avec des compétences de pistage. Nous sommes 
+actuellement Gareth (Paladin), Elara (Prêtresse) et Lorn 
+(Guerrier). Nous recherchons un meilleur équilibre pour 
+nos missions. Nous sommes spécialisés dans les missions 
+en forêt, principalement de chasse et cueillette
 
 #### Note 7
 **Les Faucons Nocturnes** recherchent un guérisseur capable de se défendre en combat. Nous sommes actuellement Raven (Voleuse), Sable (Mage) et Orion (Ranger). Nous devons assurer notre survie dans des quêtes dangereuses.
