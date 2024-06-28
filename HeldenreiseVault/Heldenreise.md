@@ -1,116 +1,108 @@
-### Adventurers Guild Notice Board
+### Tableau d'Affichage de la Guilde des Aventuriers
 
 #### Note 1
-**The Iron Wolves** are looking for a mage or healer with a fearless attitude. We are currently Kael (Warrior) and Liora (Ranger). We specialize in high-risk missions and seek better balance in our party.
+**Les Loups de Fer** recherchent un mage ou un guérisseur avec une attitude intrépide. Nous sommes actuellement Kael (Guerrier) et Liora (Ranger). Nous nous spécialisons dans les missions à haut risque et recherchons un meilleur équilibre dans notre groupe.
 
 #### Note 2
-**The Silver Arrows** are looking for a stealthy rogue or a cunning sorcerer. We are currently Fara (Archer) and Tanis (Bard). We want to diversify our tactics for complex tasks.
+**Les Flèches d'Argent** recherchent un voleur furtif ou un sorcier rusé. Nous sommes actuellement Fara (Archer) et Tanis (Barde). Nous voulons diversifier nos tactiques pour des tâches complexes.
 
 #### Note 3
-**The Mystic Blades** are looking for a healer with strong defensive spells. We are currently Eldrin (Mage) and Sirena (Warrior). We need to replace a fallen comrade in a recent battle.
+**Les Lames Mystiques** recherchent un guérisseur avec de puissants sorts défensifs. Nous sommes actuellement Eldrin (Mage) et Sirena (Guerrière). Nous devons remplacer un camarade tombé au combat récemment.
 
 #### Note 4
-**The Drunken Daggers** are looking for a healer or mage who enjoys a good laugh. We are currently Bronn (Rogue), Kiera (Bard), and Morwin (Warrior). We aim to tackle greater challenges and epic quests.
+**Les Dagues Ivre** recherchent un guérisseur ou un mage qui aime rire. Nous sommes actuellement Bronn (Voleur), Kiera (Barde) et Morwin (Guerrier). Nous visons à relever de plus grands défis et des quêtes épiques.
 
 #### Note 5
-**The Dragon's Flame** are looking for a warrior with a noble heart. We are currently Tharok (Sorcerer) and Alys (Rogue). We need to replace a lost member from a recent dragon hunt.
+**La Flamme du Dragon** recherche un guerrier au cœur noble. Nous sommes actuellement Tharok (Sorcier) et Alys (Voleuse). Nous devons remplacer un membre perdu lors d'une récente chasse au dragon.
 
 #### Note 6
-**The Silver Shields** are looking for a ranger or rogue with tracking skills. We are currently Gareth (Paladin), Elara (Priest), and Lorn (Warrior). We seek better balance for our tracking missions.
+**Les Boucliers d'Argent** recherchent un ranger ou un voleur avec des compétences de pistage. Nous sommes actuellement Gareth (Paladin), Elara (Prêtresse) et Lorn (Guerrier). Nous recherchons un meilleur équilibre pour nos missions de pistage.
 
 #### Note 7
-**The Night Hawks** are looking for a healer who can hold their own in a fight. We are currently Raven (Rogue), Sable (Mage), and Orion (Ranger). We need to ensure survival in dangerous quests.
+**Les Faucons Nocturnes** recherchent un guérisseur capable de se défendre en combat. Nous sommes actuellement Raven (Voleuse), Sable (Mage) et Orion (Ranger). Nous devons assurer notre survie dans des quêtes dangereuses.
 
 #### Note 8
-**The Thunderstrike** are looking for a bard or healer with a cheerful disposition. We are currently Draven (Warrior) and Mira (Sorceress). We need to replace a bard who retired recently.
+**Le Coup de Tonnerre** recherche un barde ou un guérisseur avec une disposition joyeuse. Nous sommes actuellement Draven (Guerrier) et Mira (Sorcier). Nous devons remplacer un barde qui a récemment pris sa retraite.
 
 #### Note 9
-**The Star Seekers** are looking for a rogue or ranger with a sense of adventure. We are currently Lyra (Mage) and Finn (Warrior). We are expanding our party for more ambitious explorations.
+**Les Chercheurs d'Étoiles** recherchent un voleur ou un ranger avec un sens de l'aventure. Nous sommes actuellement Lyra (Mage) et Finn (Guerrier). Nous élargissons notre groupe pour des explorations plus ambitieuses.
 
 #### Note 10
-**The Golden Gryphons** are looking for a mage or warrior with a strong sense of justice. We are currently Alistair (Paladin) and Kaida (Druid). We need to replace a member who left to pursue other goals.
+**Les Griffons Dorés** recherchent un mage ou un guerrier avec un fort sens de la justice. Nous sommes actuellement Alistair (Paladin) et Kaida (Druide). Nous devons remplacer un membre qui est parti pour poursuivre d'autres objectifs.
 
 #### Note 11
-**The Shadow Blades** are looking for a healer with a knack for stealth. We are currently Niko (Rogue), Zara (Warrior), and Eli (Mage). We aim to improve survival chances in stealth missions.
+**Les Lames de l'Ombre** recherchent un guérisseur ayant un talent pour la furtivité. Nous sommes actuellement Niko (Voleur), Zara (Guerrière) et Eli (Mage). Nous visons à améliorer nos chances de survie dans les missions furtives.
 
 #### Note 12
-**The Fiery Phoenix** are looking for a bard or healer with a love for storytelling. We are currently Phaedra (Sorceress) and Roran (Warrior). We seek to enhance our party dynamics for epic tales.
+**Le Phénix de Feu** recherche un barde ou un guérisseur passionné de contes. Nous sommes actuellement Phaedra (Sorcier) et Roran (Guerrier). Nous cherchons à améliorer la dynamique de notre groupe pour des récits épiques.
 
 #### Note 13
-**The Emerald Enclave** are looking for a warrior or rogue with forest survival skills. We are currently Sylvan (Druid) and Rowan (Ranger). We need to replace a member lost in a forest expedition.
+**L'Enclave d'Émeraude** recherche un guerrier ou un voleur ayant des compétences de survie en forêt. Nous sommes actuellement Sylvan (Druide) et Rowan (Ranger). Nous devons remplacer un membre perdu lors d'une expédition en forêt.
 
 #### Note 14
-**The Blazing Suns** are looking for a healer or bard with radiant energy. We are currently Leona (Paladin) and Kian (Mage). We seek better balance in light-based quests.
+**Les Soleils Brûlants** recherchent un guérisseur ou un barde avec une énergie radieuse. Nous sommes actuellement Leona (Paladin) et Kian (Mage). Nous recherchons un meilleur équilibre dans les quêtes basées sur la lumière.
 
 #### Note 15
-**The Silent Shadows** are looking for a healer who can keep quiet and move quickly. We are currently Vesper (Rogue), Lysandra (Mage), and Jax (Warrior). We need to ensure our party's stealth remains uncompromised.
+**Les Ombres Silencieuses** recherchent un guérisseur qui sait se déplacer rapidement et discrètement. Nous sommes actuellement Vesper (Voleuse), Lysandra (Mage) et Jax (Guerrier). Nous devons assurer que la furtivité de notre groupe reste intacte.
 
 #### Note 16
-**The Frost Wolves** are looking for a druid or ranger with ice magic skills. We are currently Fenris (Warrior) and Sigrid (Mage). We aim to tackle icy terrains and frosty foes.
+**Les Loups de Givre** recherchent un druide ou un ranger avec des compétences en magie de glace. Nous sommes actuellement Fenris (Guerrier) et Sigrid (Mage). Nous visons à affronter des terrains glacés et des ennemis gelés.
 
 #### Note 17
-**The Celestial Guard** are looking for a warrior or mage with celestial powers. We are currently Orion (Paladin) and Cassia (Priestess). We seek better balance for divine missions.
+**La Garde Céleste** recherche un guerrier ou un mage avec des pouvoirs célestes. Nous sommes actuellement Orion (Paladin) et Cassia (Prêtresse). Nous recherchons un meilleur équilibre pour les missions divines.
 
 #### Note 18
-**The Crimson Blades** are looking for a rogue or healer with a dark sense of humor. We are currently Dante (Warrior) and Lilith (Sorceress). We need to replace a rogue who left unexpectedly.
+**Les Lames Pourpres** recherchent un voleur ou un guérisseur avec un sens de l'humour sombre. Nous sommes actuellement Dante (Guerrier) et Lilith (Sorcier). Nous devons remplacer un voleur qui est parti soudainement.
 
 #### Note 19
-**The Wild Hunt** are looking for a warrior with strong tracking abilities. We are currently Eamon (Ranger) and Thalia (Druid). We are expanding our party for larger hunts.
+**La Chasse Sauvage** recherche un guerrier avec de solides capacités de pistage. Nous sommes actuellement Eamon (Ranger) et Thalia (Druide). Nous élargissons notre groupe pour des chasses plus grandes.
 
 #### Note 20
-**The Storm Bringers** are looking for a bard or healer who enjoys thunderous battles. We are currently Torrin (Warrior) and Elowen (Mage). We need to replace a healer who retired from adventuring.
+**Les Porteurs de Tempête** recherchent un barde ou un guérisseur qui aime les batailles tonitruantes. Nous sommes actuellement Torrin (Guerrier) et Elowen (Mage). Nous devons remplacer un guérisseur qui a pris sa retraite de l'aventure.
 
 #### Note 21
-**The Sunlit Path** are looking for a druid or ranger with a love for nature. We are currently Solara (Paladin) and Dorian (Bard). We seek better synergy in nature-based quests.
+**Le Sentier Ensoleillé** recherche un druide ou un ranger passionné de nature. Nous sommes actuellement Solara (Paladin) et Dorian (Barde). Nous recherchons une meilleure synergie pour les quêtes basées sur la nature.
 
 #### Note 22
-**The Mystic Ravens** are looking for a healer or warrior with mystical abilities. We are currently Zephyr (Mage) and Briar (Rogue). We need to replace a fallen warrior in a recent skirmish.
+**Les Corbeaux Mystiques** recherchent un guérisseur ou un guerrier avec des capacités mystiques. Nous sommes actuellement Zephyr (Mage) et Briar (Voleur). Nous devons remplacer un guerrier tombé lors d'une récente escarmouche.
 
 #### Note 23
-**The Iron Fists** are looking for a mage with a fiery personality. We are currently Gunnar (Warrior) and Freya (Ranger). We aim to tackle fire-based challenges more effectively.
+**Les Poings de Fer** recherchent un mage avec une personnalité ardente. Nous sommes actuellement Gunnar (Guerrier) et Freya (Ranger). Nous visons à relever plus efficacement les défis basés sur le feu.
 
 #### Note 24
-**The Twilight Watch** are looking for a rogue or bard who thrives at night. We are currently Selene (Priestess) and Darian (Warrior). We specialize in nocturnal missions and seek better balance in our party.
+**La Veille du Crépuscule** recherche un voleur ou un barde qui s'épanouit la nuit. Nous sommes actuellement Selene (Prêtresse) et Darian (Guerrier). Nous nous spécialisons dans les missions nocturnes et recherchons un meilleur équilibre dans notre groupe.
 
 #### Note 25
-**The Dragon's Roar** are looking for a healer with dragon lore knowledge. We are currently Drakon (Warrior) and Elys (Sorceress). We need to replace a healer lost in a dragon encounter.
+**Le Rugissement du Dragon** recherche un guérisseur connaissant bien le lore des dragons. Nous sommes actuellement Drakon (Guerrier) et Elys (Sorcier). Nous devons remplacer un guérisseur perdu lors d'une rencontre avec un dragon.
 
 ---
 
-### Individual Adventurers Seeking Parties
+### Aventuriers Solitaires Cherchant des Groupes
 
 #### Note 1
-**Thalia (Druid)** is looking for a party. She specializes in nature magic and healing, and seeks a group that values balance and harmony. She recently parted ways with her former party after completing a major quest.
+**Thalia (Druide)** cherche un groupe. Elle se spécialise dans la magie de la nature et la guérison, et recherche un groupe qui valorise l'équilibre et l'harmonie. Elle a récemment quitté son ancien groupe après avoir terminé une grande quête.
 
 #### Note 2
-**Eamon (Ranger)** is seeking a new group. He excels in tracking and survival skills, and is looking for a party that embarks on wilderness expeditions. His last group disbanded after a successful hunt.
+**Eamon (Ranger)** cherche un nouveau groupe. Il excelle dans le pistage et les compétences de survie, et recherche un groupe qui entreprend des expéditions en pleine nature. Son dernier groupe s'est dissous après une chasse réussie.
 
 #### Note 3
-**Dante (Warrior)** is in search of a new adventuring party. He is a strong frontline fighter with a strategic mind, looking for a team that faces formidable foes. He left his last group due to conflicting goals.
+**Dante (Guerrier)** est à la recherche d'un nouveau groupe d'aventuriers. Il est un combattant de première ligne solide avec un esprit stratégique, à la recherche d'une équipe qui affronte des ennemis redoutables. Il a quitté son dernier groupe en raison de divergences d'objectifs.
 
 #### Note 4
-**Lilith (Sorceress)** is available for a new party. She is adept in offensive magic and seeks a group that needs a powerful spellcaster. She recently left her previous team after a major conflict resolution.
+**Lilith (Sorcier)** est disponible pour un nouveau groupe. Elle est experte en magie offensive et recherche un groupe qui a besoin d'un puissant lanceur de sorts. Elle a récemment quitté son équipe précédente après avoir résolu un conflit majeur.
 
 #### Note 5
-**Finn (Warrior)** is looking for a party. He is a seasoned fighter who thrives in battle, seeking a group that takes on challenging quests. His last party was disbanded after their leader retired.
+**Finn (Guerrier)** cherche un groupe. C'est un combattant chevronné qui excelle au combat, recherchant un groupe qui relève des quêtes difficiles. Son dernier groupe s'est dissous après que leur chef a pris sa retraite.
 
 #### Note 6
-**Lyra (Mage)** is seeking a new adventuring group. She specializes in elemental magic and is looking for a team that values a strong magical presence. Her previous party split after achieving their primary goal.
+**Lyra (Mage)** cherche un nouveau groupe d'aventuriers. Elle se spécialise dans la magie élémentaire et recherche une équipe qui valorise une forte présence magique. Son ancien groupe s'est séparé après avoir atteint leur objectif principal.
 
 #### Note 7
-**Selene (Priestess)** is in search of a new group. She excels in healing and protective spells, and seeks a team that requires strong support. She recently left her last party after completing a divine mission.
+**Selene (Prêtresse)** est à la recherche d'un nouveau groupe. Elle excelle dans la guérison et les sorts de protection, et recherche une équipe qui a besoin d'un soutien solide. Elle a récemment quitté son dernier groupe après avoir accompli une mission divine.
 
 #### Note 8
-**Torrin (Warrior)** is looking for a new party. He is a formidable combatant who excels in melee combat, seeking a group that faces epic battles. His previous team disbanded after a significant victory.
+**Torrin (Guerrier)** cherche un nouveau groupe. C'est un combattant redoutable qui excelle au combat au corps à corps, à la recherche d'une équipe qui affronte des batailles épiques. Son groupe précédent s'est dissous après une victoire significative.
 
 #### Note 9
-**Phaedra (Sorceress)** is seeking a new adventuring group. She specializes in fire magic and seeks a team that faces fiery adversaries. Her last party was disbanded due to internal conflicts.
+**Phaedra (Sorcier)** cherche un nouveau groupe d'aventuriers. Elle
 
-#### Note 10
-**Vesper (Rogue)** is looking for a new group. She is a master of stealth and espionage, seeking a team that undertakes covert missions. Her previous party split after completing a major heist.
-
-#### Note 11
-**Draven (Warrior)** is seeking a new party. He excels in both offense and defense, looking for a team that takes on high-risk missions. He left his last group after their leader retired.
-
-#### Note 12
-**Elowen (Mage)** is in search of a new adventuring group. She specializes in arcane magic and seeks a team that values strong spellcasting. Her previous party disbanded after a long-term quest completion.
