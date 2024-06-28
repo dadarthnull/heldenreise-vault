@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heldenreise.md",
+                "file": "Session Notes/Session 19 - 22-06-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "0e2d0cacfc18cf56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heldenreise.md",
+                "file": "Session Notes/Session 19 - 22-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heldenreise.md"
+                "file": "Session Notes/Session 19 - 22-06-2024.md"
               }
             }
           },
@@ -169,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heldenreise.md",
+                "file": "Session Notes/Session 19 - 22-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +232,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0e2d0cacfc18cf56",
+  "active": "b844ce740a0f177b",
   "lastOpenFiles": [
+    "Heldenreise.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
-    "Heldenreise.md",
     "Assets/hideout-2.jpg",
     "Assets/cerf-esprit.png",
     "Session Notes/Session 18 - 15-06-2024.md",
