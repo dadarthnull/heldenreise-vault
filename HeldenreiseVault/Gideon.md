@@ -53,16 +53,16 @@ vitesse: xxx
 > [!infobox]
 > # Combat
 > | Niveau | AC | HP | Zèle | Atk |
-> | 1 | 14 | 9 | 2 | épée: +4, 5ft, d6+1 contondant |
-> | 2 | 14 | 18 | 3 | épée: +4, 5ft, d6+1 contondant |
-> | 3 | 14 | 27 | 4 | épée: +4, 5ft, d6+1 contondant |
-> | 4 | 14 | 36 | 6 | épée: +5, 5ft, d6+1 contondant |
-> | 5 | 14 | 45 | 7 | épée: +5, 5ft, d6+2 contondant |
-> | 6 | 15 | 54 | 8 | épée: +5, 5ft, d6+2 contondant |
-> | 7 | 15 | 63 | 9 | épée: +5, 5ft, d6+2 contondant |
-> | 8 | 15 | 72 | 11 | épée: +5, 5ft, d6+2 contondant |
-> | 9 | 15 | 81 | 12 | épée: +6, 5ft, d6+2 contondant |
-> | 10 | 15 | 90 | 13 | épée: +6, 5ft, d6+3 contondant |
+> | 1 | 16 | 9 | 2 | épée: +4, 5ft, d6+1 contondant |
+> | 2 | 16 | 18 | 3 | épée: +4, 5ft, d6+1 contondant |
+> | 3 | 16 | 27 | 4 | épée: +4, 5ft, d6+1 contondant |
+> | 4 | 16 | 36 | 6 | épée: +5, 5ft, d6+1 contondant |
+> | 5 | 16 | 45 | 7 | épée: +5, 5ft, d6+2 contondant |
+> | 6 | 17 | 54 | 8 | épée: +5, 5ft, d6+2 contondant |
+> | 7 | 17 | 63 | 9 | épée: +5, 5ft, d6+2 contondant |
+> | 8 | 17 | 72 | 11 | épée: +5, 5ft, d6+2 contondant |
+> | 9 | 17 | 81 | 12 | épée: +6, 5ft, d6+2 contondant |
+> | 10 | 17 | 90 | 13 | épée: +6, 5ft, d6+3 contondant |
 > # Feats
 > | Niveau | Nom | Type | Description |
 > | 1 | Zèle | -Passif | regagne tout on zèle à la fin d'un repos long. Remonte à moitié zèle fin repos court si prie, regagne 1 zèle fin combat si mort-vivant ou fielon tué pendant le combat |
