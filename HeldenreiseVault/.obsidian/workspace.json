@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 19 - 22-06-2024.md",
+                "file": "Sylvaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 19 - 22-06-2024.md"
+                "file": "Sylvaine.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 19 - 22-06-2024.md",
+                "file": "Sylvaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,9 +271,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fd49954874304b68",
+  "active": "26d230c0223b59bd",
   "lastOpenFiles": [
     "Session Notes/Session 20 - 29-06-2024.md",
+    "Session Notes/Session 19 - 22-06-2024.md",
     "Sylvaine.md",
     "Gideon.md",
     "Assets/gideon.jpg",
@@ -299,7 +300,6 @@
     "templates/NPC-Template-2.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Ennemis/Titia Andromico.md",
-    "Session Notes/Session 19 - 22-06-2024.md",
     "Heldenreise.md",
     "Session Notes/Session 18 - 15-06-2024.md",
     "Campagne/Donjons/Manoir de titia Andromico.md",
