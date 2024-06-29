@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "8fe1338f090bfaeb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "b844ce740a0f177b",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,7 +254,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e8f5d38a123636e4",
+  "active": "8fe1338f090bfaeb",
   "lastOpenFiles": [
     "Session Notes/Session 20 - 29-06-2024.md",
     "Iris Lana Almeria.md",
