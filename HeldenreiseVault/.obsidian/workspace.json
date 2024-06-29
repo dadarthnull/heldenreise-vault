@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8f5d38a123636e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tania Almeria.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "fca8dfafd004b5e5",
             "type": "leaf",
             "state": {
@@ -32,48 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fd49954874304b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 19 - 22-06-2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06ea1878012d5d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gideon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "26d230c0223b59bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sylvaine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,21 +220,21 @@
   },
   "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Gideon.md",
-    "Sylvaine.md",
+    "Sohei Almeria.md",
+    "Moneda Almeria.md",
+    "Rehme Almeria.md",
+    "Lyle Hahnes Almeria.md",
+    "Dida Almeria.md",
+    "Tania Almeria.md",
+    "Iris Lana Almeria.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
+    "Gideon.md",
+    "Sylvaine.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "templates/PC Template.md",
-    "Tania Almeria.md",
-    "Sohei Almeria.md",
     "Sebast Almeria.md",
-    "Rehme Almeria.md",
-    "Moneda Almeria.md",
-    "Lyle Hahnes Almeria.md",
-    "Iris Lana Almeria.md",
-    "Dida Almeria.md",
     "templates/NPC Template.md",
     "Assets/sebastian-almeria.jpeg",
     "Assets/sohei-almeria.webp",
