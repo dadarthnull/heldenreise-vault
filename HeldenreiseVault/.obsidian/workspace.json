@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "Iris Lana Almeria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md"
+                "file": "Iris Lana Almeria.md"
               }
             }
           },
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "Iris Lana Almeria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +231,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fca8dfafd004b5e5",
+  "active": "e8f5d38a123636e4",
   "lastOpenFiles": [
-    "Iris Lana Almeria.md",
     "Session Notes/Session 20 - 29-06-2024.md",
+    "Sebast Almeria.md",
+    "sebastian-almeria.jpeg",
+    "Sohei Almeria.md",
+    "sohei-almeria.webp",
+    "Moneda Almeria.md",
+    "moneda-almeria.jpg",
+    "Rehme Almeria.md",
+    "Screenshot 2024-06-29 at 15.39.50.png",
+    "Lyle Hahnes Almeria.md",
+    "lyle-almeria.webp",
+    "Dida Almeria.md",
+    "dida-almeria.webp",
+    "Tania Almeria.md",
+    "Screenshot 2024-06-29 at 15.38.41.png",
+    "Iris Lana Almeria.md",
+    "iri-lana-almeria-1.png",
     "templates/NPC-Template-2.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Ennemis/Titia Andromico.md",
@@ -251,25 +265,9 @@
     "NPCs/Monsters/Cube Gélatineux Corrompu.md",
     "Session Notes/Session 17 - 01-06-2024.md",
     "NPCs/Monsters/Cube Gélatineux.md",
-    "Assets/token_1 (3).png",
-    "Assets/Cube Gelatineux 1.png",
     "NPCs/Monsters/Cube Gélatineux Nécrotique.md",
-    "Assets/token_3 (3).png",
-    "Assets/token_4 (2).png",
-    "Assets/token_5 (2).png",
-    "Assets/Cube Gelatineux.png",
     "NPCs/Monsters/Mort-vivant - Zombie pourri.md",
     "NPCs/Monsters/Mort-vivant - Squelette kobold.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette gobelin.md",
-    "NPCs/Monsters/Half efreet.md",
-    "NPCs/Monsters/Cerf-esprit.md",
-    "NPCs/Monsters/Démon - Ronin.md",
-    "NPCs/Monsters/Dragon - Dragonet d'argent.md",
-    "NPCs/Monsters/Goblin - Chevalier.md",
-    "NPCs/Monsters/Elémentaire - Pierre mineur.md",
-    "Session Notes/Session 16 - 25-05-2024.md",
-    "Assets/death-knight-3.jpg",
-    "Assets/taverne-3.jpg",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",

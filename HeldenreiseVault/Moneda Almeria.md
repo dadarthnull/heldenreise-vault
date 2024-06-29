@@ -1,0 +1,1 @@
+![[moneda-almeria.jpg]]
