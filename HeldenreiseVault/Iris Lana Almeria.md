@@ -8,8 +8,8 @@ location:
 
 ---
 
-![[iri-lana-almeria-1.png]]
+![[iri-lana-almeria-1.png|cover small]]
 
 
 ## secrets et indices
-- 
+- Valind, pugiliste, administratrice de la guilde Ronchons et Dragons

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iris Lana Almeria.md",
-                "mode": "source",
+                "file": "Tania Almeria.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iris Lana Almeria.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iris Lana Almeria.md"
+                "file": "Session Notes/Session 20 - 29-06-2024.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iris Lana Almeria.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,29 +232,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e8f5d38a123636e4",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Session Notes/Session 20 - 29-06-2024.md",
-    "Sebast Almeria.md",
-    "sebastian-almeria.jpeg",
-    "Sohei Almeria.md",
-    "sohei-almeria.webp",
-    "Moneda Almeria.md",
-    "moneda-almeria.jpg",
-    "Rehme Almeria.md",
-    "Screenshot 2024-06-29 at 15.39.50.png",
-    "Lyle Hahnes Almeria.md",
-    "lyle-almeria.webp",
-    "Dida Almeria.md",
-    "dida-almeria.webp",
     "Tania Almeria.md",
-    "Screenshot 2024-06-29 at 15.38.41.png",
+    "Sohei Almeria.md",
+    "Sebast Almeria.md",
+    "Rehme Almeria.md",
+    "Moneda Almeria.md",
+    "Lyle Hahnes Almeria.md",
     "Iris Lana Almeria.md",
+    "Dida Almeria.md",
+    "templates/NPC Template.md",
+    "Session Notes/Session 20 - 29-06-2024.md",
+    "sebastian-almeria.jpeg",
+    "sohei-almeria.webp",
+    "moneda-almeria.jpg",
+    "Screenshot 2024-06-29 at 15.39.50.png",
+    "lyle-almeria.webp",
+    "dida-almeria.webp",
+    "Screenshot 2024-06-29 at 15.38.41.png",
     "iri-lana-almeria-1.png",
     "templates/NPC-Template-2.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Ennemis/Titia Andromico.md",
-    "templates/NPC Template.md",
     "templates/PC Template.md",
     "Session Notes/Session 19 - 22-06-2024.md",
     "Heldenreise.md",
