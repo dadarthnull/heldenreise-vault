@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylvaine.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylvaine.md"
+                "file": "Session Notes/Session 20 - 29-06-2024.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylvaine.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,10 +258,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "26d230c0223b59bd",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Gideon.md",
     "Sylvaine.md",
+    "Gideon.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "gideon.jpg",
     "sylvaine.png",
