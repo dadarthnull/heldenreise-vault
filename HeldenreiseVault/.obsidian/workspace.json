@@ -21,35 +21,12 @@
             }
           },
           {
-            "id": "8fe1338f090bfaeb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "b844ce740a0f177b",
+            "id": "fca8dfafd004b5e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/NPC-Template-Slim.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4ec4217f67194cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/NPC Template.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -124,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iris Lana Almeria.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iris Lana Almeria.md"
+                "file": "Session Notes/Session 20 - 29-06-2024.md"
               }
             }
           },
@@ -182,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iris Lana Almeria.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +232,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8fe1338f090bfaeb",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Session Notes/Session 20 - 29-06-2024.md",
     "Iris Lana Almeria.md",
+    "Session Notes/Session 20 - 29-06-2024.md",
     "templates/NPC-Template-2.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Ennemis/Titia Andromico.md",
