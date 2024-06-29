@@ -63,8 +63,21 @@ vitesse: xxx
 > | 9 | 15 | 54 | 12 | bâton: +6, 5ft, d6+2 contondant |
 > | 10 | 15 | 60 | 13 | bâton: +6, 5ft, d6+3 contondant |
 > # Feats
-> | Niveau | Nom | Type | Description |
-> | 1 | Régénération | Action | 1 allié à 30 pieds, regagne 1d4 pv au début de tour pendant 1minute, 1 harmonie |
-> | 1 | Peau d'épines | Action | 1 allié à 30 pieds, si touché par une attaque au corps à corps, inflige 1d4 dégât perçant pendant 1 minutes, 1 harmonie |
-> | 2 | ? | Action Bonus | Aura 10 pieds, ne provoque pas d'animosité des animaux sauvages, illimité (1 seule aura à la fois) |
-> | 2 | ? | 
+> | Niveau | Nom | Type | Coût en harmonie | Description |
+> | 1 | Harmonie | Passif | - | Regagne toute son harmonie à la fin d'un repos long et remonte à la moitié à la fin d'un repos court. Regagne 1 harmonie en forêt si aucun animal sauvage n'a été blessé ou tué pendant le combat |
+> | 1 | Régénération | Action | 1 | 1 allié à 30 pieds, regagne 1d4 pv au début de tour pendant 1minute |
+> | 1 | Peau d'épines | Action | 1 | 1 allié à 30 pieds, si touché par une attaque au corps à corps, inflige 1d4 dégât perçant pendant 1 minutes |
+> | 2 | ? | Action Bonus | 0 | Aura 10 pieds centrée sur Sylvaine, ne provoque pas d'animosité des animaux sauvages, 1 seule aura à la fois |
+> | 2 | Racines | Action | 1 | 1 allié à 30 pieds, dure 1 minute, la cible voit sa vitesse de déplacement réduite de 10 pieds, est immunisé au prone, grapple et à tout mouvement forcé |
+
+idées en vrac:
+- nuage de vie: aura sur un point: alliés dans zone regagne 1pv / round
+- peau d'ecorce
+- transfo treant
+- aura anti-nécrotique
+- modifs sur pouvoirs existant:
+	- +1 harmonie, racine ne donne plsu de malus
+	- +1 harmonie, racine grapple pour 1 action bonus
+	- +1 harmonie, regen gagne 1 dé
+	- +1 harmonie, regen upscale son dé
+	- +1 harmonie, 
