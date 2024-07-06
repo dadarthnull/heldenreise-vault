@@ -207,15 +207,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-gallery:Gallery": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "fca8dfafd004b5e5",
