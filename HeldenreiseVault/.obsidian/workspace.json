@@ -29,9 +29,19 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "c977ba052c901737",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "db979771bc3c6015",
+  "active": "c977ba052c901737",
   "lastOpenFiles": [
     "Sohei Almeria.md",
     "Moneda Almeria.md",
