@@ -13,35 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "templates/NPC-Template-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "db979771bc3c6015",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "c977ba052c901737",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 381.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -108,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "templates/NPC-Template-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md"
+                "file": "templates/NPC-Template-2.md"
               }
             }
           },
@@ -166,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "file": "templates/NPC-Template-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +218,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "c977ba052c901737",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
+    "templates/NPC Template.md",
+    "Session Notes/Session 20 - 29-06-2024.md",
     "Sohei Almeria.md",
     "Moneda Almeria.md",
     "Rehme Almeria.md",
@@ -248,7 +229,6 @@
     "Dida Almeria.md",
     "Tania Almeria.md",
     "Iris Lana Almeria.md",
-    "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
     "Gideon.md",
     "Sylvaine.md",
@@ -256,7 +236,6 @@
     "Assets/sylvaine.png",
     "templates/PC Template.md",
     "Sebast Almeria.md",
-    "templates/NPC Template.md",
     "Assets/sebastian-almeria.jpeg",
     "Assets/sohei-almeria.webp",
     "Assets/moneda-almeria.jpg",
