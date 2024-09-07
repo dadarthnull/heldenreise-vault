@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "db979771bc3c6015",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +229,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fca8dfafd004b5e5",
+  "active": "db979771bc3c6015",
   "lastOpenFiles": [
     "Sohei Almeria.md",
     "Moneda Almeria.md",
