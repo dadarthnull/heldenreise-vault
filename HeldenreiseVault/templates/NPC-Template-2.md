@@ -1,23 +1,27 @@
 ---
 tags: NPC
-Challenge: X
-Name: __nom-ici__
-Quote: __citation-ici__
+challenge: X
+name: __nom-ici__
+quote: __citation-ici__
 
 ---
 
-> [!kith|relationship] **Character Name** _Subtitle/Brief Relationship Description_
+> [!kith|relationship] **`=this.name`** _Subtitle/Brief Relationship Description_
 
 
 
 > [!infobox|left wikipedia]+ 
-> # Heading 
+> #  `=this.file.name` 
 > ![[Image.png]] 
+>  `=this.quote`
 > ###### Heading 6 
-> | Table Header | Table Header | 
-> | ---- | --- | 
-> | Test | Testing | 
-> | Test | Testing | 
+> | *HP* | Table Header | 
+> | *AC* | --- | 
+> | *Movement* | Testing | 
+> | *DC* | Testing | 
+> | *Bonus* | Testing |
+> | *Attaques* | Testing |
+> | *Traits* | Testing |
 > 
 > # Heading 1 
 > - Bullet list 

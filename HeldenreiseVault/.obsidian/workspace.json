@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/NPC-Template-2.md",
+                "file": "NPCs/Patrons et alliés/Super nouveau PNJ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/NPC-Template-2.md",
+                "file": "NPCs/Patrons et alliés/Super nouveau PNJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/NPC-Template-2.md"
+                "file": "NPCs/Patrons et alliés/Super nouveau PNJ.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/NPC-Template-2.md",
+                "file": "NPCs/Patrons et alliés/Super nouveau PNJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,10 @@
   },
   "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
+    "templates/NPC-Template-2.md",
     "templates/NPC Template.md",
+    "templates/PC Template.md",
+    "templates/NPC-Template-Slim.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Sohei Almeria.md",
     "Moneda Almeria.md",
@@ -234,7 +237,6 @@
     "Sylvaine.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
-    "templates/PC Template.md",
     "Sebast Almeria.md",
     "Assets/sebastian-almeria.jpeg",
     "Assets/sohei-almeria.webp",
@@ -244,8 +246,6 @@
     "Assets/dida-almeria.webp",
     "Assets/Screenshot 2024-06-29 at 15.38.41.png",
     "Assets/iri-lana-almeria-1.png",
-    "templates/NPC-Template-2.md",
-    "templates/NPC-Template-Slim.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "Heldenreise.md",
     "Session Notes/Session 18 - 15-06-2024.md",
