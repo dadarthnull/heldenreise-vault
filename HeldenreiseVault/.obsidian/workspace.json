@@ -19,35 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b22554bf55019780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3645dfa4a8104fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Creuset verdoyant.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md"
+                "file": "Session Notes/Session 21 - 21-09-2024.md"
               }
             }
           },
@@ -172,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,10 +218,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b22554bf55019780",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Campagne/Donjons/Temple englouti.md",
     "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+    "Campagne/Donjons/Temple englouti.md",
     "Session Notes/Session 21 - 21-09-2024.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Titia Andromico.md",
