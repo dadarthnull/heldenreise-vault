@@ -39,15 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "Campagne/Donjons/Creuset verdoyant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md"
+                "file": "Session Notes/Session 21 - 21-09-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,11 +244,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3645dfa4a8104fe5",
+  "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "Campagne/Donjons/Arène démoniaque.md",
+    "NPCs/Ennemis/Yuaratoya.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "NPCs/Ennemis/Titia Andromico.md",
+    "Campagne/Donjons/Creuset verdoyant.md",
+    "Campagne/Donjons/Arène démoniaque.md",
+    "Campagne/Donjons/Arsenal de Trazayuya.md",
+    "Campagne/Donjons/Antre de Ciriltoa.md",
+    "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "Campagne/Donjons/Temple englouti.md",
     "Campagne/Donjons/Tour effondrée.md",
     "Campagne/Donjons/Tour de la lune noire.md",
@@ -259,8 +263,6 @@
     "Campagne/Donjons/Forge de Trazayuya.md",
     "Campagne/Donjons/Creuset de Zenayoloya.md",
     "Campagne/Donjons/Bosquet du printemps éternel.md",
-    "Campagne/Donjons/Arsenal de Trazayuya.md",
-    "Campagne/Donjons/Antre de Ciriltoa.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Sylvaine.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
@@ -271,8 +273,6 @@
     "Sohei Almeria.md",
     "Moneda Almeria.md",
     "Rehme Almeria.md",
-    "Lyle Hahnes Almeria.md",
-    "Dida Almeria.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
