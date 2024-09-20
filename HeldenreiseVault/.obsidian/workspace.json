@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Temple englouti.md",
-                "mode": "preview",
+                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md"
+                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,17 +245,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fca8dfafd004b5e5",
+  "active": "b22554bf55019780",
   "lastOpenFiles": [
-    "NPCs/Ennemis/Yuaratoya.md",
+    "Campagne/Donjons/Temple englouti.md",
+    "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "Campagne/Donjons/Creuset verdoyant.md",
     "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Arsenal de Trazayuya.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "Campagne/Donjons/Temple englouti.md",
     "Campagne/Donjons/Tour effondrée.md",
     "Campagne/Donjons/Tour de la lune noire.md",
     "Campagne/Donjons/Mère des glaces.md",
@@ -272,7 +274,6 @@
     "templates/NPC-Template-Slim.md",
     "Sohei Almeria.md",
     "Moneda Almeria.md",
-    "Rehme Almeria.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
