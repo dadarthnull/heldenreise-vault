@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "NPCs/Monsters/Révolutionnaire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "NPCs/Monsters/Révolutionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md"
+                "file": "NPCs/Monsters/Révolutionnaire.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "NPCs/Monsters/Révolutionnaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +233,10 @@
   },
   "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
-    "Kael Frappe-fer.md",
+    "NPCs/Monsters/Cultiste.md",
+    "NPCs/Monsters/Révolutionnaire.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "Kael Frappe-fer.md",
     "Nara Coeur-de-lame.md",
     "Milo Pince-métal.md",
     "Lira Tempête.md",
@@ -260,8 +262,6 @@
     "Session Notes/Session 20 - 29-06-2024.md",
     "Sylvaine.md",
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
-    "templates/NPC-Template-2.md",
-    "templates/NPC Template.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
