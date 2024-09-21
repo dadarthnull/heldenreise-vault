@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "252eb9fe795bfc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -220,11 +233,15 @@
   },
   "active": "fca8dfafd004b5e5",
   "lastOpenFiles": [
+    "Kael Frappe-fer.md",
+    "Session Notes/Session 21 - 21-09-2024.md",
+    "Nara Coeur-de-lame.md",
+    "Milo Pince-métal.md",
+    "Lira Tempête.md",
     "theves-guild-hidout.webp",
     "sewers-cache.jpeg",
     "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
     "Campagne/Donjons/Temple englouti.md",
-    "Session Notes/Session 21 - 21-09-2024.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "Campagne/Donjons/Creuset verdoyant.md",
@@ -245,9 +262,6 @@
     "NPCs/Patrons et alliés/Super nouveau PNJ.md",
     "templates/NPC-Template-2.md",
     "templates/NPC Template.md",
-    "templates/PC Template.md",
-    "templates/NPC-Template-Slim.md",
-    "Sohei Almeria.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
@@ -255,7 +269,6 @@
     "Assets/moneda-almeria.jpg",
     "Assets/Screenshot 2024-06-29 at 15.39.50.png",
     "Assets/lyle-almeria.webp",
-    "Assets/dida-almeria.webp",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",

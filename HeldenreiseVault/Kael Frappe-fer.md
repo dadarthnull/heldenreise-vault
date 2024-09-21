@@ -1,0 +1,7 @@
+### **Kael "Frappe-Fer"**
+
+- **Âge** : 22 ans
+- **Race** : Humain
+- **Caractère** : Kael est le leader naturel du groupe. Il est charismatique, impulsif et a tendance à parler trop vite, souvent avant de réfléchir. C’est un vrai passionné, toujours en quête de nouveaux sons à expérimenter. Il refuse l’autorité, méprisant ceux qui se conforment aux règles de la société. Sa colère contre le système est la force motrice de son art. Il prend soin des membres du groupe comme de sa famille, mais a du mal à exprimer ses émotions en dehors de la musique.
+- **Description physique** : Kael est grand et athlétique, avec des cheveux noirs hirsutes, toujours un peu sales, et un tatouage représentant un poing serré sur son avant-bras gauche. Ses vêtements sont faits de bric et de broc, souvent déchirés, mais ornés de pièces de métal rouillé qu'il a récupérées dans les décombres du souterrain. Il porte un vieux plastron en cuir gravé de symboles anarchistes.
+- **Occupation dans le groupe** : Batteur et chef d'orchestre du groupe. Il crée ses propres tambours à partir de barils abandonnés et autres débris métalliques. Ses rythmes sont brutaux, frappants, et expriment la violence contenue de son esprit rebelle.
