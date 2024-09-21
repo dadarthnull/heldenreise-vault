@@ -6,7 +6,7 @@ size: M
 type: Larbin
 subtype: Révolutionnaire
 alignment: -
-ac: 12
+ac: 14
 hp: 9
 hit_dice: 2d8
 speed: 30
