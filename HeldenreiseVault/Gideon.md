@@ -14,12 +14,11 @@ hit-dice: xxx
 vitesse: xxx
 ---
 
-![[gideon.jpg]]
 
 > [!infobox] 
 > # `=this.file.name`
 > `=this.race` - `=this.classes` 
-> ![[Nirel.png|cover hsmall]] 
+> ![[gideon.jpg|cover hsmall]] 
 > ##### Combat
 > | AC | Init | HP | Dé de vie | Vitesse | 
 > | --- | --- | --- | --- | --- |

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fca8dfafd004b5e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "252eb9fe795bfc79",
             "type": "leaf",
             "state": {
@@ -32,9 +19,48 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c95de6576ae05ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bf6f0f14fd8ecfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d14a56f6e8b3460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walther Goldhain.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md"
+                "file": "Session Notes/Session 20 - 29-06-2024.md"
               }
             }
           },
@@ -159,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Session Notes/Session 20 - 29-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,11 +258,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "252eb9fe795bfc79",
+  "active": "bf6f0f14fd8ecfdd",
   "lastOpenFiles": [
-    "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
-    "NPCs/Monsters/Révolutionnaire.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "Walther Goldhain.md",
+    "walther-goldhain.webp",
+    "Session Notes/Session 17 - 01-06-2024.md",
+    "Session Notes/Session 16 - 25-05-2024.md",
+    "Session Notes/Session 15 - 18-05-2024.md",
+    "Session Notes/Session 14 - 06-04-2024.md",
+    "Session Notes/Session 13 - 30-03-2024.md",
+    "Session Notes/Session 12 - 16-03-2024.md",
+    "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
+    "Session Notes/Session 18 - 15-06-2024.md",
+    "Sylvaine.md",
+    "Gideon.md",
+    "Session Notes/Session 19 - 22-06-2024.md",
+    "Session Notes/Session 20 - 29-06-2024.md",
+    "NPCs/Monsters/Révolutionnaire.md",
     "NPCs/Monsters/Cultiste.md",
     "Kael Frappe-fer.md",
     "Nara Coeur-de-lame.md",
@@ -249,27 +288,13 @@
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Titia Andromico.md",
     "Campagne/Donjons/Creuset verdoyant.md",
-    "Campagne/Donjons/Arène démoniaque.md",
-    "Campagne/Donjons/Arsenal de Trazayuya.md",
-    "Campagne/Donjons/Antre de Ciriltoa.md",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "Campagne/Donjons/Tour effondrée.md",
-    "Campagne/Donjons/Tour de la lune noire.md",
-    "Campagne/Donjons/Mère des glaces.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "Campagne/Donjons/Forteresse de Gravenberg.md",
-    "Campagne/Donjons/Forge de Trazayuya.md",
-    "Campagne/Donjons/Creuset de Zenayoloya.md",
-    "Campagne/Donjons/Bosquet du printemps éternel.md",
-    "Session Notes/Session 20 - 29-06-2024.md",
-    "Sylvaine.md",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
     "Assets/sohei-almeria.webp",
     "Assets/moneda-almeria.jpg",
     "Assets/Screenshot 2024-06-29 at 15.39.50.png",
-    "Assets/lyle-almeria.webp",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",
