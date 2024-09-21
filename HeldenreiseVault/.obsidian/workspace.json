@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 15 - 18-05-2024.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 15 - 18-05-2024.md"
+                "file": "Session Notes/Session 21 - 21-09-2024.md"
               }
             }
           },
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 15 - 18-05-2024.md",
+                "file": "Session Notes/Session 21 - 21-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,10 +257,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "671c536f83a86f9f",
+  "active": "252eb9fe795bfc79",
   "lastOpenFiles": [
-    "Session Notes/Session 21 - 21-09-2024.md",
     "Session Notes/Session 15 - 18-05-2024.md",
+    "Session Notes/Session 21 - 21-09-2024.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Walther Goldhain.md",
     "Session Notes/Session 16 - 25-05-2024.md",
