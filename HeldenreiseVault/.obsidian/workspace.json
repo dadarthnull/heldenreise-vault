@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Campagne/Donjons/Arène démoniaque.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Campagne/Donjons/Arène démoniaque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md"
+                "file": "Campagne/Donjons/Arène démoniaque.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Campagne/Donjons/Arène démoniaque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,10 +244,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "c95de6576ae05ed3",
+  "active": "252eb9fe795bfc79",
   "lastOpenFiles": [
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Session Notes/Session 22 - 28-09-2024.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
     "Session Notes/Session 15 - 18-05-2024.md",
     "Session Notes/Session 20 - 29-06-2024.md",
@@ -275,7 +275,6 @@
     "Campagne/Donjons/Temple englouti.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "NPCs/Ennemis/Titia Andromico.md",
-    "Campagne/Donjons/Creuset verdoyant.md",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
