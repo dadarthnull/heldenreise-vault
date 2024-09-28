@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sir Ludlüng.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -27,19 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 22 - 28-09-2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f054910e6e7a5cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -249,6 +236,7 @@
   "lastOpenFiles": [
     "Sir Ludlüng.md",
     "Session Notes/Session 22 - 28-09-2024.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Selalulia.md",
     "Garde révolutionnaire.md",
     "Session Notes/Session 21 - 21-09-2024.md",
@@ -260,7 +248,6 @@
     "NPCs/Ennemis/Zenayoloya.md",
     "NPCs/Ennemis/Yuaratoya.md",
     "Campagne/Donjons/Arène démoniaque.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
     "Session Notes/Session 15 - 18-05-2024.md",
     "Session Notes/Session 20 - 29-06-2024.md",
