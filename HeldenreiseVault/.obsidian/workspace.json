@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "252eb9fe795bfc79",
+            "id": "f5e5c7ae5979837d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selalulia.md",
+                "file": "Sir Ludlüng.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ennemis/Titia Andromico.md",
+                "file": "Session Notes/Session 22 - 28-09-2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ennemis/Titia Andromico.md",
+                "file": "Session Notes/Session 22 - 28-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ennemis/Titia Andromico.md"
+                "file": "Session Notes/Session 22 - 28-09-2024.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ennemis/Titia Andromico.md",
+                "file": "Session Notes/Session 22 - 28-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,16 +247,18 @@
   },
   "active": "c95de6576ae05ed3",
   "lastOpenFiles": [
+    "Sir Ludlüng.md",
+    "Session Notes/Session 22 - 28-09-2024.md",
+    "Selalulia.md",
+    "Garde révolutionnaire.md",
+    "Session Notes/Session 21 - 21-09-2024.md",
+    "NPCs/Ennemis/Titia Andromico.md",
     "NPCs/Ennemis/Telkhall l'oblitérateur.md",
     "NPCs/Ennemis/Tallarn la liche.md",
     "NPCs/Ennemis/Kongh Minn.md",
     "NPCs/Ennemis/Elsa Fuchs.md",
     "NPCs/Ennemis/Zenayoloya.md",
     "NPCs/Ennemis/Yuaratoya.md",
-    "Session Notes/Session 22 - 28-09-2024.md",
-    "Session Notes/Session 21 - 21-09-2024.md",
-    "Selalulia.md",
-    "Sir Ludlüng.md",
     "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
@@ -272,8 +274,6 @@
     "Session Notes/Session 18 - 15-06-2024.md",
     "Sylvaine.md",
     "Gideon.md",
-    "Session Notes/Session 19 - 22-06-2024.md",
-    "NPCs/Monsters/Révolutionnaire.md",
     "theves-guild-hidout.webp",
     "sewers-cache.jpeg",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
