@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "Selalulia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "NPCs/Ennemis/Titia Andromico.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "NPCs/Ennemis/Titia Andromico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md"
+                "file": "NPCs/Ennemis/Titia Andromico.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagne/Donjons/Arène démoniaque.md",
+                "file": "NPCs/Ennemis/Titia Andromico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +245,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "252eb9fe795bfc79",
+  "active": "c95de6576ae05ed3",
   "lastOpenFiles": [
+    "NPCs/Ennemis/Telkhall l'oblitérateur.md",
+    "NPCs/Ennemis/Tallarn la liche.md",
+    "NPCs/Ennemis/Kongh Minn.md",
+    "NPCs/Ennemis/Elsa Fuchs.md",
+    "NPCs/Ennemis/Zenayoloya.md",
+    "NPCs/Ennemis/Yuaratoya.md",
     "Session Notes/Session 22 - 28-09-2024.md",
     "Session Notes/Session 21 - 21-09-2024.md",
+    "Selalulia.md",
+    "Sir Ludlüng.md",
+    "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
     "Session Notes/Session 15 - 18-05-2024.md",
@@ -264,17 +274,8 @@
     "Gideon.md",
     "Session Notes/Session 19 - 22-06-2024.md",
     "NPCs/Monsters/Révolutionnaire.md",
-    "NPCs/Monsters/Cultiste.md",
-    "Kael Frappe-fer.md",
-    "Nara Coeur-de-lame.md",
-    "Milo Pince-métal.md",
-    "Lira Tempête.md",
     "theves-guild-hidout.webp",
     "sewers-cache.jpeg",
-    "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
-    "Campagne/Donjons/Temple englouti.md",
-    "NPCs/Ennemis/Yuaratoya.md",
-    "NPCs/Ennemis/Titia Andromico.md",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
