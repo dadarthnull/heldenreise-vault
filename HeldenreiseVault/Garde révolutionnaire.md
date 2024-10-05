@@ -60,6 +60,6 @@ Dégâts: 11 (1d6+8)
 Flavor: moine
 capacités:
 - 5 ki
-- (2A + 1ki) 30', WIS save, succès=RAS, echec=peur jusque fin de tour du joueur
+- (2A + 1ki) 30', WIS 14 save, succès=RAS, echec=peur jusque fin de tour du joueur
 - (1A + 1 ki): step of the wind
 - (1A + 1ki): patient défense
