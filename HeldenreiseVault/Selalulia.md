@@ -19,7 +19,7 @@ Capacités:
 - (3A) se déplace de 9 cases ans provoque d'attaque d'opportunité et attaque toutes les cibles sur le trajet (DEX save DC15, 2d6+4 dégâts nécrotiques)
 Résistance légendaire (3):
 - (1) peut automatiquement résister un effet posé sur elle-même, au coup d'une résistance légendaire, si cet effet octroie un jet de sauvegarde pendant son round
-- (1) peut faire un jet (d20+2 vs 10+spell level) pour résister un effet déjà présent sur elle-même, à la fin de son tour, si cetr effet n'offre pas de jet de sauvegarde pendant son round.
+- (1) peut faire un jet (d20+2 vs 10+niveau de sort) pour résister un effet déjà présent sur elle-même, à la fin de son tour, si cet effet n'offre pas de jet de sauvegarde pendant son round.
 Actions légendaires (3) (1 adversaire sur 2):
 - fluidité de la mort: peut se déplacer sans provoquer d'attaque d'opportunité de 15ft (3 cases)
 - vivacité morbide: peut effectuer une attaque simple

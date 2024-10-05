@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 23 - 05-10-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selalulia.md",
+                "file": "Session Notes/Session 23 - 05-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selalulia.md"
+                "file": "Session Notes/Session 23 - 05-10-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selalulia.md",
+                "file": "Session Notes/Session 23 - 05-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,12 +244,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9d728d3ac5594668",
+  "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
+    "Selalulia.md",
     "Session Notes/Session 23 - 05-10-2024.md",
     "Session Notes/Session 22 - 28-09-2024.md",
     "Garde révolutionnaire.md",
-    "Selalulia.md",
     "Sir Ludlüng.md",
     "NPCs/Monsters/Révolutionnaire.md",
     "Session Notes/Session 21 - 21-09-2024.md",
