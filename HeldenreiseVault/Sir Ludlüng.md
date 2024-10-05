@@ -1,10 +1,10 @@
 Noble, membre des ailes de la liberté.
 
-AC: 12
-HP: 152
-Bonus: +7
-DPR: 41
-Nb attaques: 3
+AC: 14
+HP: 52
+Bonus: +3
+DPR: 21
+Nb attaques: 2
 Dégâts: 14(3d6+4) (nécrotique)
 Flavor: noble with powers of an undead patron
 2 spells:
