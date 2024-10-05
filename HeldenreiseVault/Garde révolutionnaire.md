@@ -45,7 +45,7 @@ capacités (1 par round):
 - lamentation tombale (après attaque: 2d6 dégâts nécrotiques à une créature à 15ft de la cible)
 - cunning action
 - uncanny dodge
-- téléportation d'ombre (40 pieds, coute 1/2 mvmt)
+- téléportation d'ombre (100 pieds, coute 1/2 mvmt)
  
 # Gorrik Sturmseele
 Moine
