@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Session Notes/Session 24 - 12-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md"
+                "file": "Session Notes/Session 24 - 12-10-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 21 - 21-09-2024.md",
+                "file": "Session Notes/Session 24 - 12-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,11 +244,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9ebb6d85824efa9f",
+  "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
+    "Session Notes/Session 21 - 21-09-2024.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Sylvaine.md",
-    "Session Notes/Session 21 - 21-09-2024.md",
     "Session Notes/Session 23 - 05-10-2024.md",
     "Session Notes/Session 22 - 28-09-2024.md",
     "assassin.md",
