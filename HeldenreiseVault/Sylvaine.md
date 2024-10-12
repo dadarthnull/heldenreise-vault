@@ -4,14 +4,15 @@ portrait: sylvaine.png
 race: demi elfe
 classes: gardienne de la nature
 patron: -
-passive-perception: 13
-passive-investigation: 11
-passive-insight: 11
-AC: 14
+passive-perception: -
+passive-investigation: -
+passive-insight: -
+AC: 13
 initiative: 12
-HP: lvl x (d8(5) + 1)
+HP: 29
 hit-dice: xxx
-vitesse: xxx
+vitesse: 30ft
+niveau: 4
 ---
 
 > [!infobox] 
@@ -19,20 +20,28 @@ vitesse: xxx
 > `=this.race` - `=this.classes` 
 > ![[sylvaine.png|cover hsmall]] 
 > ##### Combat
-> | AC | Init | HP | Dé de vie | Vitesse | 
+> | AC | Init | HP | Vitesse | 
 > | --- | --- | --- | --- | --- |
-> | `=this.AC` | `=this.initiative` | `=this.HP` | `=this.hit-dice` | `=this.vitesse` |
-> ##### Passives
-> | Compétence | Seuil |
-> | --- | --- |
-> | Perception | `=this.passive-perception` |
-> | Investigation | `=this.passive-investigation` |
-> | Insight | `=this.passive-insight` |
-> ##### Maîtrises
-> | Type | Kit/Langage |
-> | --- | --- |
-> | Kit | xxx |
-> | Langage | xxx |
+> | `=this.AC` | `=this.initiative` | `=this.HP` |`=this.vitesse` |
+> ##### Base
+> | **DC** | 13 |
+> | **Bonus de base** | +1 |
+> | **Bonus en maîtrise** | +3 |
+> | **Attaque** | **Baton**: +3 5ft, 1d8 contondant |
+> ##### Traits
+> | **J’ai grandi dans une communauté druidique en forêt** |
+> | **J’ai étudié pour devenir druide, mais n’ai pas été acceptée** |
+> | **Je suis une aventurière accomplie, je connais mon boulot.*** |
+
+# progression
+
+|Niveau|DC|Bonus Jet de Dé (BJD)|Bonus Trait (BT)|Attaque|
+|---|---|---|---|---|
+|1-4|13|+2|+0|+2|
+|5-8|14|+2|+1|+3|
+|9-12|15|+3|+2|+5|
+|13-16|16|+3|+3|+6|
+|17-20|18|+4|+4|+8|
 
 # background
 
