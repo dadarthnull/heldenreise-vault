@@ -38,18 +38,33 @@
             }
           },
           {
-            "id": "6b7527f2c7cbc093",
+            "id": "131c9a15414e7d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10 - 20-01-2024.md",
+                "file": "Session Notes/Session 24 - 12-10-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 10 - 20-01-2024"
+              "title": "Session 24 - 12-10-2024"
+            }
+          },
+          {
+            "id": "cc519a7249d494d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 24 - 12-10-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 24 - 12-10-2024"
             }
           }
         ]
@@ -278,10 +293,10 @@
   },
   "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
-    "Sylvaine.md",
     "Session Notes/Session 24 - 12-10-2024.md",
-    "Session Notes/Session 25 - 02-11-2024.md",
+    "Sylvaine.md",
     "Session Notes/Session 10 - 20-01-2024.md",
+    "Session Notes/Session 25 - 02-11-2024.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Liothek.md",
     "Selalulia.md",
