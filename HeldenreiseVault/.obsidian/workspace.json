@@ -52,8 +52,7 @@
               "title": "Session 10 - 20-01-2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylvaine.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sylvaine"
+              "title": "Backlinks for Session 25 - 02-11-2024"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylvaine.md"
+                "file": "Session Notes/Session 25 - 02-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylvaine"
+              "title": "Outline of Session 25 - 02-11-2024"
             }
           },
           {
@@ -194,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylvaine.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sylvaine"
+              "title": "Outgoing links from Session 25 - 02-11-2024"
             }
           },
           {
@@ -277,8 +276,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00244f80a84713c4",
+  "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
+    "Sylvaine.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 10 - 20-01-2024.md",
@@ -292,7 +292,6 @@
     "Session Notes/Session 5 - 2023-11-11.md",
     "Session Notes/Session 1 - 2023-09-09.md",
     "Campagne/Donjons/Creuset verdoyant.md",
-    "Sylvaine.md",
     "traqueur.md",
     "brute.md",
     "coupe-jarret.md",
