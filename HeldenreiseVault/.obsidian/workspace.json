@@ -127,8 +127,7 @@
               "title": "Session 10 - 20-01-2024"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ours-phenix.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ours-phenix"
+              "title": "Backlinks for Session 25 - 02-11-2024"
             }
           },
           {
@@ -257,10 +256,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ours-phenix.md"
+                "file": "Session Notes/Session 25 - 02-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ours-phenix"
+              "title": "Outline of Session 25 - 02-11-2024"
             }
           },
           {
@@ -269,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ours-phenix.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ours-phenix"
+              "title": "Outgoing links from Session 25 - 02-11-2024"
             }
           },
           {
@@ -352,11 +351,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "20552e2e11414dc4",
+  "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
-    "ours-hibou majestueux.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "ours-phenix.md",
+    "ours-hibou majestueux.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
