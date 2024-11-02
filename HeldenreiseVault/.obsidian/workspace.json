@@ -23,6 +23,36 @@
             }
           },
           {
+            "id": "6ca1cb7d50564d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Le laboratoire d'Aialize"
+            }
+          },
+          {
+            "id": "0bb01b05a9e3ca28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Donjons/Creuset verdoyant.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Creuset verdoyant"
+            }
+          },
+          {
             "id": "00244f80a84713c4",
             "type": "leaf",
             "state": {
@@ -37,7 +67,8 @@
               "title": "Session 24 - 12-10-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 25 - 02-11-2024"
+              "title": "Backlinks for Le laboratoire d'Aialize"
             }
           },
           {
@@ -166,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md"
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 25 - 02-11-2024"
+              "title": "Outline of Le laboratoire d'Aialize"
             }
           },
           {
@@ -178,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 25 - 02-11-2024"
+              "title": "Outgoing links from Le laboratoire d'Aialize"
             }
           },
           {
@@ -261,10 +292,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f5e5c7ae5979837d",
+  "active": "6ca1cb7d50564d6f",
   "lastOpenFiles": [
-    "Session Notes/Session 24 - 12-10-2024.md",
     "Session Notes/Session 25 - 02-11-2024.md",
+    "Campagne/Donjons/Creuset verdoyant.md",
+    "Session Notes/Session 24 - 12-10-2024.md",
     "Sylvaine.md",
     "traqueur.md",
     "brute.md",
@@ -288,7 +320,6 @@
     "NPCs/Ennemis/Yuaratoya.md",
     "Campagne/Donjons/Arène démoniaque.md",
     "NPCs/Monsters/Mort-vivant - Zombie homme rat.md",
-    "Session Notes/Session 20 - 29-06-2024.md",
     "walther-goldhain.webp",
     "theves-guild-hidout.webp",
     "sewers-cache.jpeg",
