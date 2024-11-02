@@ -37,8 +37,7 @@
               "title": "Session 24 - 12-10-2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 24 - 12-10-2024.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 24 - 12-10-2024"
+              "title": "Backlinks for Session 25 - 02-11-2024"
             }
           },
           {
@@ -167,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 24 - 12-10-2024.md"
+                "file": "Session Notes/Session 25 - 02-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 24 - 12-10-2024"
+              "title": "Outline of Session 25 - 02-11-2024"
             }
           },
           {
@@ -179,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 24 - 12-10-2024.md",
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 24 - 12-10-2024"
+              "title": "Outgoing links from Session 25 - 02-11-2024"
             }
           },
           {
@@ -262,10 +261,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00244f80a84713c4",
+  "active": "f5e5c7ae5979837d",
   "lastOpenFiles": [
-    "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 24 - 12-10-2024.md",
+    "Session Notes/Session 25 - 02-11-2024.md",
     "Sylvaine.md",
     "traqueur.md",
     "brute.md",
