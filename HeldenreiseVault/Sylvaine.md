@@ -7,7 +7,7 @@ patron: -
 passive-perception: -
 passive-investigation: -
 passive-insight: -
-AC: 13
+AC: 14
 initiative: 12
 HP: 29
 hit-dice: xxx
@@ -32,6 +32,10 @@ niveau: 4
 > | **J’ai grandi dans une communauté druidique en forêt** |
 > | **J’ai étudié pour devenir druide, mais n’ai pas été acceptée** |
 > | **Je suis une aventurière accomplie, je connais mon boulot.*** |
+# Equipement
+- anneau de protection
+- arcanum d'évaluation
+- arcanum de 
 
 # progression
 
