@@ -133,9 +133,9 @@ Si monte, entend comme des gémissements et hurlements qui viennent du couloir e
 | **D6** | **Description**                                                                    |
 | ------ | ---------------------------------------------------------------------------------- |
 | 1-3    | Une salle de torture, tout est en très mauvais état, presque détruit par le temps. |
-| 4      |                                                                                    |
-| 5      |                                                                                    |
-| 6      |                                                                                    |
+| 4      | Un chevalier mort vivant elfe torture un humain. Sauver l'humain fait apparaître un coffre avec des cristaux de mana.                                                                                   |
+| 5      | 3 chevaliers elfes jouent aux cartes, ils attaquent les aventuriers.                                                                                   |
+| 6      | Le général scorpion se repose. Il demande aux aventuriers de partir puis se téléporte.                                                                                   |
 
 ## 13 - fontaine
 | **D6** | **Description**                                                                                                          |
@@ -147,7 +147,6 @@ Si monte, entend comme des gémissements et hurlements qui viennent du couloir e
 Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau inférieur.
 
 ## 15 - camp abandonné
-
 | **D6** | **Description**                                                                                                                                  |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 - 3  | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
@@ -156,9 +155,47 @@ Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le
 
 
 ## 16 - salle de test
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+Le sol est parsemé de puits, couverts de blanches pourries. Marcher sur une planche requiert un jet de sauvegarde DEX DC 10 ou tomber (aucun dégâts, mais coûte tout mouvement pour sortir).
+Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle qu'une fois tout le monde entré dans la pièce. A ce moment, des grilles tombent et bloquent les 2 sorties.
+`Bienvenue, recrues. Les tests vont commencer. Après chaque test, vous pouvez abandonner. Ne pas finir l'exercice complêt sera vu négativement par vos officiers. Compléter tous les tests sera bénéfique pour votre carrière`
+
+| **Vague**  | **Récompense** | **Exact** |
+| ---------- | -------------- | --------- |
+| 1          | 1 * Table A    |           |
+| 2          | 1d4 * Table A  |           |
+| 3          | 1 * Table B    |           |
+| 4          | 1d4 * Table B  |           |
+| 5          | 1 * Table C    |           |
+| 6          | 1d4 * Table C  |           |
+| 7          | 1 * Table D    |           |
+| 8          | 1d4 * Table D  |           |
+| Complétion | 3 Table E      |           |
+
+| **D6** | **Description** |
+| ------ | --------------- |
+| 1      | 1d6 monstre affaibli                 |
+| 2      | 1d4 monstres                |
+| 3      | 1d46 monstres                |
+| 4      | 1d8 monstres                |
+| 5      | 1 monstre élite                |
+| 6       |Le général scorpion, jeune, avec un équipement de gladiateur.                 |
+
+Ring event (peut s'arrêter quand )
+
+| **D12** | **Monstre**           |
+| ------- | --------------------- |
+| 1       | [[ours-phenix]]       |
+| 2       | [[loup-cornu]]        |
+| 3       | [[chat-chouette]]     |
+| 4       | [[ours-cornu]]        |
+| 5       | [[sanglier-tonnerre]] |
+| 6       | [[sanglier-de-feu]]   |
+| 7       | [[magma-rhino]]       |
+| 8       | [[loup-chouette]]     |
+| 9       | [[ours-sanguinaire]]  |
+| 10      | [[arbreloup]]         |
+| 11      | [[sylvedogue]]        |
+| 12      | [[dryder]]            |
 
 
 ## 17 - accès au niveau supérieur
