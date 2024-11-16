@@ -161,15 +161,15 @@ Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle
 
 | **Vague**  | **Récompense** | **Exact** |
 | ---------- | -------------- | --------- |
-| 1          | 1 * Table A    |           |
-| 2          | 1d4 * Table A  |           |
-| 3          | 1 * Table B    |           |
-| 4          | 1d4 * Table B  |           |
-| 5          | 1 * Table C    |           |
-| 6          | 1d4 * Table C  |           |
-| 7          | 1 * Table D    |           |
-| 8          | 1d4 * Table D  |           |
-| Complétion | 3 Table E      |           |
+| 1          | 1 * Table A    | Potion of climbing          |
+| 2          | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison)          |
+| 3          | 1 * Table B    | Potion of greater healing          |
+| 4          | 1d4 * Table B  | Wand of magic detection, Potion of resistance, Potion of animal friendship, Dust of sneezing and choking          |
+| 5          | 1 * Table C    | Potion of gaseous form          |
+| 6          | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism          |
+| 7          | 1 * Table D    | Potion of speed          |
+| 8          | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole          |
+| Complétion | 3 Table E      | Cuir clouté de résistance (acide), robe of scintillating colors          |
 
 | **D6** | **Description** |
 | ------ | --------------- |
