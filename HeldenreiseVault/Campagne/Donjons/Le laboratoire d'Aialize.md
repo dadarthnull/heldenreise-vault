@@ -32,30 +32,56 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 # Salles
 
 ## 1 - entrée
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | un [[chat-chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[ours-hibou majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[ours-hibou majestueux]] qu'il ramène sur son promontoire et commence à déguster |
+| 5-6       |                                                                                                                          |
 
 ## 2 - grotte
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 3 - stock abandonné
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 4 - tunnel fragile
 
 ## 5 - ébouli
 
 ## 6 - cellules
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 7 - statue d'Aialize
 
 ## 8 - autel de la connaissance
 
 ## 9 - laboratoire
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 10 - escaliers
 
 ## 11 - cellules des gardes
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 12 - salle des gardes
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 13 - fontaine
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| 5-6       |  La L'eau ne jaillit pas du milieu. L'eau est potable. En boire donne la condition "repos": lors d'un repos court dans la salle, tout dé de vie dépensé donne toujours son résultat maximum.     Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 14 - accès au niveau inférieur 
 Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau inférieur.
@@ -66,9 +92,14 @@ Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 - 3  | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
 | 4 - 5  | La salle est complètement vide                                                                                                                   |
-| 6       | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                                                                                                                                 |
+| 6      | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                 ||
+
 
 ## 16 - salle de test
+| **D6** | **Description**                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+
 
 ## 17 - accès au niveau supérieur
 Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau supérieur.

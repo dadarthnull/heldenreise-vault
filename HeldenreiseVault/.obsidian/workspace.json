@@ -36,36 +36,9 @@
               "icon": "lucide-file",
               "title": "Le laboratoire d'Aialize"
             }
-          },
-          {
-            "id": "5af300bd95da7ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liothek.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Liothek"
-            }
-          },
-          {
-            "id": "cf002ac5a5a89e0e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,8 +262,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "cf002ac5a5a89e0e",
+  "active": "9f1ee588f219bd8d",
   "lastOpenFiles": [
+    "Liothek.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "ours-phenix.md",
@@ -303,7 +277,6 @@
     "Session Notes/Session 10 - 20-01-2024.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Sylvaine.md",
-    "Liothek.md",
     "Selalulia.md",
     "Session Notes/Session 9 - 13-01-2024.md",
     "Session Notes/Session 8 - 2023-12-09.md",
