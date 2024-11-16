@@ -45,18 +45,46 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 | 5-6    | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux sont couvertes de mousse et forment une pile au milieu de la pièce. Elle contiennent des équipement d'alchimie cassés et inutilisables. Au milieu des caisses se cache un [[arbreloup]]. |
 
 ## 4 - tunnel fragile
-*piège* 
+*piège* le plafond est instable. Jet de survie ou discrétion DC 14 pour éviter de se prendre 1d6 contondant par tranche de 4 d'échec.
 
 ## 5 - ébouli
+Le sol descend très rapidement jusqu'à un cul de sac. Jet de Acrobatie DC 12 pour éviter de glisser et rouler jusqu'à bout. aucun dégât, juste un peu d'embarrassement.. Une ouverture dans le plafond donne sur (6), à 4m de haut.
 
 ## 6 - cellules
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+Une plateforme en bois surplombe une série de cellules. Des escaliers descendent de la plateforme aux cellules. Un pont en bois branlant mène à une sortie au niveau de la plateforme.
+
+| **D6** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Les cellules sont vides.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2-3    | Une partie des cellules contiennent un assortiment d'humains, halfelins et animaux divers (loups, sangliers, araignées, serpents, oiseaux divers). L'odeur de fiente, sueur et misère est intenable (CON DC 15) ou statut empoisonné. Les humanoïdes semblent perdus si libérés. Si ils sont escortés à la sortie du donjon, ils disparaissent et un coffre de récompense tombe du plafond. Les animaux attaquent ou restent dans leur cellule si libérés.                |
+| 4-5    | Une partie des cellules contient des horreurs difformes d'humains et animaux fusionnés (5) et d'animaux transformés (7). Plus de la moitié semblent ne pas avoir survécu au changement.   L'odeur de pourriture est insoutenable    (CON DC 15)  ou statut empoisonné.  Aucun hybride n'est en état de sortir ou attaquer. Si tous tués, coffre de récompense sort du sol, mais sauvegarde WIS DC 15 ou état "déprimé" (comme empoisonné, disparait après un repos court). |
+| 6      | Seules quelques cellules (2d4) sont occupées.  Mais les hybrides qui les occupent semblent en bonne santé et viables. Tous les tuer donne un coffre de récompense et des cristaux de mana pour chaque monstre.                                                                                                                                                                                                                                                             |
+
+
+| **D12** | **Monstre**           |
+| ------- | --------------------- |
+| 1       | [[ours-phenix]]       |
+| 2       | [[loup-cornu]]        |
+| 3       | [[chat-chouette]]     |
+| 4       | [[ours-cornu]]        |
+| 5       | [[sanglier-tonnerre]] |
+| 6       | [[sanglier-de-feu]]   |
+| 7       | [[magma-rhino]]       |
+| 8       | [[loup-chouette]]     |
+| 9       | [[ours-sanguinaire]]  |
+| 10      | [[arbreloup]]         |
+| 11      | [[sylvedogue]]        |
+| 12      | [[dryder]]            |
+
 
 ## 7 - statue d'Aialize
+Une statue de l'archimage [[Aialize]] très bien conservée. Une elfe, au port arrogant, portant des robes élégantes, couvertes de runes (Arcane DC12 indique que le sculpteur n'y connaissait rien en magie).
+Prier un dieu de la magie ou de la connaissance devant la statue rend un emplacement de sort.
 
 ## 8 - autel de la connaissance
+Un autel envers le dieu Nethys (dieu de la magie de l'empire elfe) (Religion DC 14).
+Tout aventurier ou avatar voit comme une faille dans la réalité flottant au dessus de l'autel. Toucher la faille téléporte vers la [[tour de Liothek]].
+
 
 ## 9 - laboratoire
 | **D6** | **Description**                                                                                                          |
