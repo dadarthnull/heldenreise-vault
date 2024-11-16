@@ -87,7 +87,12 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 
 ## 9 - laboratoire
-**Bibliothèque**: 
+**Bibliothèque**: https://web.archive.org/web/20200108125314/http://www.dxcontent.com/5e_RandomSpellTables.html#WizardSection
+  - 6 sorts niveau 1:
+  - 4 sorts niveau 2: 
+  - 2 sorts niveau 3: 
+  - 2 sorts niveau 4:
+  - 1 sort niveau 5: 
 **Etude**: une salle d'étude austère. Un simple bureau et une chaise en bois. **Journal d'Aialize**
 **Salle de rituels**: 
 
@@ -150,6 +155,7 @@ Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le
 	- notes difficiles à lire, de nombreuses pages sont incohérentes, certains pages sont remplies de gribouillis et graffitis
 	- [[Aialize]] avait conscience des ses problèmes mentaux, attribués à sa participation dans l'emprisonnement du dragon blanc
 
+Journal d'Aialize
 > [!NOTE]
 > 	... J'en suis sûre, le premier disciple du sage n'est pas un elfe! Je n'ai aucune preuve, mais trop de mystères l'entourent. Et je pense que le sage est au courant. 
 > 	... LE DRAGON D'ARGENT !!!!! le premier disciple est le dragon d'argent !!!!! Mon sort de vision véritable ne peut pas me tromper! Je ne comprend pas pourquoi le dragon d'argent nous aiderait dans ce plan dément pour emprisonner le dragon blanc. Je dois faire quelque chose, mais personne ne va me croire. Que faire maintenant ?
@@ -159,9 +165,3 @@ Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le
 > 	... Le jour du rituel, alors que nous enfermions le dragon, une partie de ce pouvoir s’est déversée en moi. C’était une vague d’énergie brute, plus vaste que l’océan, plus ancienne que les étoiles. Elle m’a consumée, et depuis lors, je suis enchaînée à cette malédiction. Elle me pousse à modeler la vie, encore et encore, même contre ma volonté. Les créatures qui naissent sous mes mains sont des hybrides torturés, des êtres dont le souffle s’éteint souvent avant même qu'ils aient vu la lumière du jour.
 > 	... Tous les autres enchanteurs sont morts. Le premier disciple m'a visité, il a fait quelque chose. Absorbé une partie du mana corrompu qui empoisonnait mon corps. Pourquoi ?
 > 	... Les quelques créations qui survivent… l’Empire leur trouve toujours une fonction, brutale et cruelle. Des bêtes de guerre, des monstres de cirque, des sujets d’expérimentation, des traqueurs pour chasser les esclaves pour le plaisir de nobles toujours plus dépravés.
-
-
-> [!NOTE]
-> 	... J'en suis sûre, le premier disciple du sage n'est pas un elfe! Je n'ai aucune preuve, mais trop de mystères l'entourent. Et je pense que le sage est au courant. ...
-> 	... LE DRAGON D'ARGENT !!!!! le premier disciple est le dragon d'argent !!!!! Mon sort de vision véritable ne peut pas me tromper! Je ne comprend pas pourquoi le dragon d'argent nous aiderait dans ce plan dément pour emprisonner le dragon blanc. Je dois faire quelque chose, mais personne ne va me croire. Que faire ...
-> 	
