@@ -11,23 +11,23 @@ name: Le laboratoire d'Aialize
 Donjon - niveau 2-5
 
 
-![[0cd1tgrlx4e71.jpg]]
+![[laboratoire-d-aialize-plan.jpg]]
 
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
-- [[ours-phenix]]
-- [[loup-cornu]]
-- [[chat-chouette]]
-- [[ours-cornu]]
-- [[sanglier-tonnerre]]
-- [[sanglier-de-feu]]
-- [[magma-rhino]]
-- [[loup-chouette]]
-- [[ours-sanguinaire]]
-- [[arbreloup]]
-- [[sylvedogue]]
-- [[ours-hibou majestueux]]
+- ![[ours-phenix]]
+- ![[loup-cornu]]
+- ![[chat-chouette]]
+- ![[Ours cornu]]
+- ![[sanglier-tonnerre]]
+- ![[sanglier-de-feu]]
+- ![[magma-rhino]]
+- ![[loup-chouette]]
+- ![[ours-sanguinaire]]
+- ![[arbreloup]]
+- ![[sylvedogue]]
+- ![[ours-hibou majestueux]]
 
 # Salles
 
@@ -88,7 +88,7 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 ## 9 - laboratoire
 **Bibliothèque**: https://web.archive.org/web/20200108125314/http://www.dxcontent.com/5e_RandomSpellTables.html#WizardSection
-  - **6** sorts **niveau 1**: *Image silencieuse*, *Mains brûlantes*, *Catapulte*, *Graisse, Saut*
+  - **5** sorts **niveau 1**: *Image silencieuse*, *Mains brûlantes*, *Catapulte*, *Graisse, Saut*
   - **4** sorts **niveau 2**: *Détection de l'invisible*, *Verrou magique*, *Flou*, *Vision dans le noir*
   - **3** sorts **niveau 3**: *Délivrance de la malédiction*, *Cercle magique*, *Respiration aquatiqu*e
   - **2** sorts **niveau 4**: *Bouclier de feu*, *Sphère de vitriol* 
@@ -188,7 +188,7 @@ Ring event (peut s'arrêter quand )
 | 1       | [[ours-phenix]]       |
 | 2       | [[loup-cornu]]        |
 | 3       | [[chat-chouette]]     |
-| 4       | [[ours-cornu]]        |
+| 4       | [[Ours cornu]]        |
 | 5       | [[sanglier-tonnerre]] |
 | 6       | [[sanglier-de-feu]]   |
 | 7       | [[magma-rhino]]       |

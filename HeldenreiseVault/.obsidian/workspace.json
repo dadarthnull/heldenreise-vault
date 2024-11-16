@@ -4,41 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "be8e5c58c168d9bf",
+        "id": "569aa7838782ace7",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e5c7ae5979837d",
+            "id": "269550f4ec276afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "file": "Session Notes/Session 26 - 16-11-2024 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 25 - 02-11-2024"
+              "title": "Session 26 - 16-11-2024 1"
             }
           },
           {
-            "id": "9f1ee588f219bd8d",
+            "id": "b39e87166a1407eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tour de Liothek.md",
-                "mode": "source",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tour de Liothek"
+              "title": "Le laboratoire d'Aialize"
+            }
+          },
+          {
+            "id": "8c4b234c2e9918d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Ours cornu.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ours cornu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 272.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -262,44 +276,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9f1ee588f219bd8d",
+  "active": "269550f4ec276afc",
   "lastOpenFiles": [
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "tour de Liothek.md",
-    "Liothek.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "Session Notes/Session 26 - 16-11-2024 1.md",
+    "légionnaire haut elfe.md",
+    "arbreloup.md",
+    "Assets/Mega Lab Base Gridded 256 PNG.jpg",
+    "Campagne/Donjons/tour de Liothek.md",
+    "NPCs/Figures historiques/Aialize.md",
+    "Aialize Bolenan.md",
+    "loup-chouette.md",
+    "loup-cornu.md",
+    "NPCs/Monsters/ours-phenix.md",
+    "NPCs/Monsters/ours-hibou majestueux.md",
+    "NPCs/Monsters/Garde révolutionnaire.md",
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "Campagne/Empereur liche.canvas",
+    "Heldenreise.md",
+    "NPCs/Patrons et alliés/Walther Goldhain.md",
+    "Assets/Mega Lab Base Gridded 256 PNG.png",
+    "NPCs/Ennemis/Sir Ludlüng.md",
+    "NPCs/Ennemis/Selalulia.md",
+    "NPCs/Patrons et alliés/Gideon.md",
     "Session Notes/Session 25 - 02-11-2024.md",
-    "ours-phenix.md",
-    "ours-hibou majestueux.md",
+    "NPCs/Figures historiques/Liothek.md",
     "Session Notes/Session 20 - 29-06-2024.md",
     "Session Notes/Session 19 - 22-06-2024.md",
     "Session Notes/Session 18 - 15-06-2024.md",
     "Session Notes/Session 22 - 28-09-2024.md",
     "Session Notes/Session 21 - 21-09-2024.md",
-    "Session Notes/Session 10 - 20-01-2024.md",
-    "Session Notes/Session 24 - 12-10-2024.md",
-    "Sylvaine.md",
-    "Selalulia.md",
-    "Session Notes/Session 9 - 13-01-2024.md",
-    "Session Notes/Session 8 - 2023-12-09.md",
-    "Session Notes/Session 7 - 2023-12-02.md",
-    "Session Notes/Session 6 - 2023-11-25.md",
-    "Session Notes/Session 5 - 2023-11-11.md",
-    "Session Notes/Session 1 - 2023-09-09.md",
-    "Campagne/Donjons/Creuset verdoyant.md",
-    "traqueur.md",
-    "brute.md",
-    "coupe-jarret.md",
-    "assassin.md",
-    "walther-goldhain.webp",
-    "theves-guild-hidout.webp",
-    "sewers-cache.jpeg",
+    "Assets/walther-goldhain.webp",
+    "Assets/theves-guild-hidout.webp",
+    "Assets/sewers-cache.jpeg",
     "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
     "Assets/gideon.jpg",
     "Assets/sylvaine.png",
     "Assets/sebastian-almeria.jpeg",
     "Assets/sohei-almeria.webp",
-    "Assets/moneda-almeria.jpg",
-    "Assets/Screenshot 2024-06-29 at 15.39.50.png",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",
