@@ -87,6 +87,10 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 
 ## 9 - laboratoire
+**Bibliothèque**: 
+**Etude**: une salle d'étude austère. Un simple bureau et une chaise en bois.
+**Salle de rituels**: 
+
 | **D6** | **Description**                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------ |
 | 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
