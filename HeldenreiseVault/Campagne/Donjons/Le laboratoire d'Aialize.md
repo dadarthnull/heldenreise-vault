@@ -88,19 +88,39 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 ## 9 - laboratoire
 **Bibliothèque**: https://web.archive.org/web/20200108125314/http://www.dxcontent.com/5e_RandomSpellTables.html#WizardSection
-  - 6 sorts niveau 1:
-  - 4 sorts niveau 2: 
-  - 2 sorts niveau 3: 
-  - 2 sorts niveau 4:
-  - 1 sort niveau 5: 
+  - 6 sorts niveau 1: Image silencieuse, Mains brûlantes, Catapulte, Graisse, Saut
+  - 4 sorts niveau 2: Détection de l'invisible, Verrou magique, Flou, Vision dans le noir
+  - 2 sorts niveau 3: Délivrance de la malédiction; Cercle magique, Respiration aquatique
+  - 2 sorts niveau 4: Bouclier de feu, Sphère de vitriol, 
+  - 1 sort niveau 5: Refuge
 **Etude**: une salle d'étude austère. Un simple bureau et une chaise en bois. **Journal d'Aialize**
 **Salle de rituels**: 
 
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| **D6** | **Description**                                                                                                                                                                                                                          |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-4    | Un tapis en ruine au milieu de la salle. Des glyphes partiellement effacés. Les restes d'un triangle arcanique sur la plateforme. Une couche de poussière recouvre tout.                                                                 |
+| 5      | Vision du passé: [[Aialize]] execute un rituel sur un animal (table monstre). Se placer au milieu du rituel où se trouve l'animal: Save CON DC 15: succès: 1/2HP, sinon 1 HP. Dans tous les cas: gagne un attribut de l'animal résistant |
+| 6       |Vision du passé: [[Aialize]] fait des ronds, l'air préoccupée, puis soudain s'écroule et à une crise folie. Elle marche à 4 pattes, bave et se tape la tête contre les murs. Après quelques minutes, un groupe de soldats humains surgit et la tue. Le groupe reçoit des pierres de mana.                                                                                                                                                                                                                                          |
+
+| **D12** | **Monstre**           | **Effet** |
+| ------- | --------------------- |-----------|
+| 1       | [[ours-phenix]]       | **1/repos long**: *action bonus: regagne full HP* |
+| 2       | [[loup-cornu]]        | **1/repos court**: *si allié au contact cible, peut rendre cible prône si attaque touche* |
+| 3       | [[chat-chouette]]     | **1/repos long**: *1/2 taille et vol pendant 1 minute* |
+| 4       | [[ours-cornu]]        | **1/repos court**: *action bonus: coup de boule: cantrip d6 dégâts (compte comme attaque de moine)* |
+| 5       | [[sanglier-tonnerre]] | **1/repos court**: *ajoute 1d10 dégâts foudre à une attaque* |
+| 6       | [[sanglier-de-feu]]   | **1/repos court**: *ajoute 1d10 dégâts feu à une attaque* |
+| 7       | [[magma-rhino]]       | **1/repos long**: *ajoute 1d10 dégâts foudre à une attaque* |
+| 8       | [[loup-chouette]]     | **1/repos court**: *ajoute cantrip d6 dégâts attaque sournoise à une attaque (ou augmente attaque sournoise existante)* |
+| 9       | [[ours-sanguinaire]]  | **1/repos court**: *attaque téméraire, si capacité connue, attaque téméraire sans le désavantage* |
+| 10      | [[arbreloup]]         | **1/repos long**: *paralysé, prend forme d'un arbre pendant 1 minute. Insensible dégâts autre que feu, ne peut être distingué d'un vrai arbre* |
+| 11      | [[sylvedogue]]        | **1/repos court**: *ignore terrain difficile jusque fin du prochain tour*|
+| 12      | [[dryder]]            | **1/repos long**: *spider climb jusque fin du prochain tour* |
+
 
 ## 10 - escaliers
+Un long couloir descendant, coupé par une série d'escaliers.
+Si monte, entend comme des gémissements et hurlements qui viennent du couloir en haut.
 
 ## 11 - cellules des gardes
 | **D6** | **Description**                                                                                                          |
