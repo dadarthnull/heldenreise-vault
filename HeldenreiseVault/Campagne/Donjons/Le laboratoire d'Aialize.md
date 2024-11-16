@@ -88,11 +88,11 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 ## 9 - laboratoire
 **Bibliothèque**: https://web.archive.org/web/20200108125314/http://www.dxcontent.com/5e_RandomSpellTables.html#WizardSection
-  - 6 sorts niveau 1: Image silencieuse, Mains brûlantes, Catapulte, Graisse, Saut
-  - 4 sorts niveau 2: Détection de l'invisible, Verrou magique, Flou, Vision dans le noir
-  - 2 sorts niveau 3: Délivrance de la malédiction; Cercle magique, Respiration aquatique
-  - 2 sorts niveau 4: Bouclier de feu, Sphère de vitriol, 
-  - 1 sort niveau 5: Refuge
+  - **6** sorts **niveau 1**: *Image silencieuse*, *Mains brûlantes*, *Catapulte*, *Graisse, Saut*
+  - **4** sorts **niveau 2**: *Détection de l'invisible*, *Verrou magique*, *Flou*, *Vision dans le noir*
+  - **3** sorts **niveau 3**: *Délivrance de la malédiction*, *Cercle magique*, *Respiration aquatiqu*e
+  - **2** sorts **niveau 4**: *Bouclier de feu*, *Sphère de vitriol* 
+  - **1** sort **niveau 5**: *Refuge*
 **Etude**: une salle d'étude austère. Un simple bureau et une chaise en bois. **Journal d'Aialize**
 **Salle de rituels**: 
 
@@ -123,14 +123,16 @@ Un long couloir descendant, coupé par une série d'escaliers.
 Si monte, entend comme des gémissements et hurlements qui viennent du couloir en haut.
 
 ## 11 - cellules des gardes
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| **D6** | **Description**                                                                                                                                                   |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-4    | Des meubles et râteliers en bois sont renversés et brisés. Les cellules contiennent des squelettes de gardes elfes (loot: armes et armures de légionnaires elfes) |
+| 5      | Salle en parfait état mais vide. Une notice indique que les cellules sont réservées à la méditation                                                               |
+| 6       | Gardes à combattre, 3 [[légionnaire haut elfe]]                                                                                                                                                                  |
 
 ## 12 - salle des gardes
 | **D6** | **Description**                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| 1-4    |  |
 
 ## 13 - fontaine
 | **D6** | **Description**                                                                                                          |
