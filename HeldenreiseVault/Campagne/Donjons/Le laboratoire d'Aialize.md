@@ -130,9 +130,12 @@ Si monte, entend comme des gémissements et hurlements qui viennent du couloir e
 | 6       | Gardes à combattre, 3 [[légionnaire haut elfe]]                                                                                                                                                                  |
 
 ## 12 - salle des gardes
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    |  |
+| **D6** | **Description**                                                                    |
+| ------ | ---------------------------------------------------------------------------------- |
+| 1-3    | Une salle de torture, tout est en très mauvais état, presque détruit par le temps. |
+| 4      |                                                                                    |
+| 5      |                                                                                    |
+| 6      |                                                                                    |
 
 ## 13 - fontaine
 | **D6** | **Description**                                                                                                          |
