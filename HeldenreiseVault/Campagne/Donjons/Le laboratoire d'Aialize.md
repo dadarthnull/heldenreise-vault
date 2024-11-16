@@ -41,9 +41,11 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 ## 3 - stock abandonné
 | **D6** | **Description**                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| 1-4    | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux et contiennent des équipement d'alchimie cassés et inutilisables |
+| 5-6    | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux sont couvertes de mousse et forment une pile au milieu de la pièce. Elle contiennent des équipement d'alchimie cassés et inutilisables. Au milieu des caisses se cache un [[arbreloup]]. |
 
 ## 4 - tunnel fragile
+*piège* 
 
 ## 5 - ébouli
 
