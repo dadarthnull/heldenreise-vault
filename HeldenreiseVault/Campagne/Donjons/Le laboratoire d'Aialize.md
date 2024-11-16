@@ -31,16 +31,12 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 
 # Salles
 
-## 1 - entrée
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | un [[chat-chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[ours-hibou majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[ours-hibou majestueux]] qu'il ramène sur son promontoire et commence à déguster |
-| 5-6       |                                                                                                                          |
-
-## 2 - grotte
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+## 1 - entrée + 2 - grotte
+| **D6** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3    | un [[chat-chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[ours-hibou majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[ours-hibou majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[ours-hibou majestueux]] et 1d4 [[ours-hibou majestueux juvénile]] |
+| 4-5    | un [[chat-chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[ours-hibou majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[ours-hibou majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[ours-hibou majestueux]] et un [[ours-phenix]]                     |
+| 6       | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[dryder]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## 3 - stock abandonné
 | **D6** | **Description**                                                                                                          |
