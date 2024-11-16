@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "file": "tour de Liothek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Le laboratoire d'Aialize"
+              "title": "tour de Liothek"
             }
           }
         ],
@@ -264,8 +264,9 @@
   },
   "active": "9f1ee588f219bd8d",
   "lastOpenFiles": [
-    "Liothek.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "tour de Liothek.md",
+    "Liothek.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "ours-phenix.md",
     "ours-hibou majestueux.md",
@@ -289,7 +290,6 @@
     "brute.md",
     "coupe-jarret.md",
     "assassin.md",
-    "Session Notes/Session 23 - 05-10-2024.md",
     "walther-goldhain.webp",
     "theves-guild-hidout.webp",
     "sewers-cache.jpeg",
