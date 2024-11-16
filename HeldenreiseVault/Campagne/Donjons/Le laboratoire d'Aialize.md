@@ -29,6 +29,51 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 - [[sylvedogue]]
 - [[ours-hibou majestueux]]
 
+# Salles
+
+## 1 - entrée
+
+## 2 - grotte
+
+## 3 - stock abandonné
+
+## 4 - tunnel fragile
+
+## 5 - ébouli
+
+## 6 - cellules
+
+## 7 - statue d'Aialize
+
+## 8 - autel de la connaissance
+
+## 9 - laboratoire
+
+## 10 - escaliers
+
+## 11 - cellules des gardes
+
+## 12 - salle des gardes
+
+## 13 - fontaine
+
+## 14 - accès au niveau inférieur 
+Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau inférieur.
+
+## 15 - camp abandonné
+
+| **D6** | **Description**                                                                                                                                  |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 - 3  | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
+| 4 - 5  | La salle est complètement vide                                                                                                                   |
+| 6       | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                                                                                                                                 |
+
+## 16 - salle de test
+
+## 17 - accès au niveau supérieur
+Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau supérieur.
+
+
 
 # Secrets et indices
 - Laboratoire ou [[Aialize]] a poursuivi ses recherches sur l'hibridation d'espèces jusqu'à sa mort

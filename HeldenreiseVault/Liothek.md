@@ -14,6 +14,10 @@ tags:
 > ##### Destin
 > *xxx*
 
+## Description
+
+Une jeune elfe au teint blafard et aux cheveux violets. Habillée d'une tunique aux couleurs vives.
+
 ## Lien dndbeyond
 
 ## Historique
