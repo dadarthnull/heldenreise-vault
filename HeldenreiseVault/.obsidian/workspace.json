@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "6dd91a8720fb6588",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "b39e87166a1407eb",
             "type": "leaf",
             "state": {
@@ -55,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
-                "mode": "preview",
+                "file": "NPCs/NPC Progression Tables.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ours cornu"
+              "title": "NPC Progression Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,19 +277,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6dd91a8720fb6588",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "NPCs/Monsters/arbreloup.md",
+    "NPCs/NPC Progression Tables.md",
+    "templates/NPC Template.md",
+    "templates/NPC-Template-2.md",
+    "templates/PC Template.md",
+    "templates/NPC-Template-Slim.md",
+    "NPCs/Figures historiques/Aialize Bolenan.md",
     "NPCs/Monsters/Ours cornu.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 26 - 16-11-2024 1.md",
-    "légionnaire haut elfe.md",
-    "arbreloup.md",
+    "NPCs/Monsters/légionnaire haut elfe.md",
     "Assets/Mega Lab Base Gridded 256 PNG.jpg",
     "Campagne/Donjons/tour de Liothek.md",
     "NPCs/Figures historiques/Aialize.md",
-    "Aialize Bolenan.md",
-    "loup-chouette.md",
-    "loup-cornu.md",
+    "NPCs/Monsters/loup-chouette.md",
+    "NPCs/Monsters/loup-cornu.md",
     "NPCs/Monsters/ours-phenix.md",
     "NPCs/Monsters/ours-hibou majestueux.md",
     "NPCs/Monsters/Garde révolutionnaire.md",
@@ -315,11 +308,6 @@
     "NPCs/Patrons et alliés/Gideon.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "NPCs/Figures historiques/Liothek.md",
-    "Session Notes/Session 20 - 29-06-2024.md",
-    "Session Notes/Session 19 - 22-06-2024.md",
-    "Session Notes/Session 18 - 15-06-2024.md",
-    "Session Notes/Session 22 - 28-09-2024.md",
-    "Session Notes/Session 21 - 21-09-2024.md",
     "Assets/walther-goldhain.webp",
     "Assets/theves-guild-hidout.webp",
     "Assets/sewers-cache.jpeg",
