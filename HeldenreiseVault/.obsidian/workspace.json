@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "6dd91a8720fb6588",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "b39e87166a1407eb",
             "type": "leaf",
             "state": {
@@ -52,7 +64,8 @@
               "title": "Ours cornu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,7 +289,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "269550f4ec276afc",
+  "active": "6dd91a8720fb6588",
   "lastOpenFiles": [
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Ours cornu.md",
