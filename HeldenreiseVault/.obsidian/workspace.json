@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/NPC Progression Tables.md",
+                "file": "NPCs/Monsters/Ours cornu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NPC Progression Tables"
+              "title": "Ours cornu"
             }
           }
         ],
@@ -279,10 +279,10 @@
   },
   "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
-    "NPCs/Monsters/arbreloup.md",
-    "NPCs/NPC Progression Tables.md",
-    "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
+    "templates/NPC Template.md",
+    "NPCs/NPC Progression Tables.md",
+    "NPCs/Monsters/arbreloup.md",
     "templates/PC Template.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Figures historiques/Aialize Bolenan.md",
