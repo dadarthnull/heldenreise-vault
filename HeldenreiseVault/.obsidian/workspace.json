@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
+                "file": "NPCs/Monsters/ours-phenix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ours cornu"
+              "title": "ours-phenix"
             }
           }
         ],
@@ -279,35 +279,36 @@
   },
   "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
+    "NPCs/Monsters/Ancien template/traqueur.md",
+    "NPCs/Monsters/Ancien template/Rose Vampire.md",
+    "NPCs/Monsters/Ancien template/Révolutionnaire.md",
+    "NPCs/Monsters/Ancien template/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/loup-cornu.md",
+    "NPCs/Monsters/loup-chouette.md",
+    "NPCs/Monsters/légionnaire haut elfe.md",
+    "NPCs/Monsters/Ancien template/Half efreet.md",
+    "NPCs/Monsters/Ancien template/Cultiste.md",
+    "NPCs/Monsters/Ancien template/brute.md",
+    "NPCs/Monsters/Ancien template/Cube Gélatineux.md",
+    "NPCs/Monsters/Ancien template/Hiblou - Adulte.md",
+    "NPCs/Monsters/Ancien template",
+    "NPCs/Monsters/Ancien template/Hiblou - Alpha.md",
+    "NPCs/Monsters/arbreloup.md",
+    "NPCs/Monsters/ours-phenix.md",
+    "NPCs/Monsters/ours-hibou majestueux.md",
+    "NPCs/Monsters/Ours cornu.md",
     "templates/NPC-Template-2.md",
     "templates/NPC Template.md",
     "NPCs/NPC Progression Tables.md",
-    "NPCs/Monsters/arbreloup.md",
     "templates/PC Template.md",
     "templates/NPC-Template-Slim.md",
     "NPCs/Figures historiques/Aialize Bolenan.md",
-    "NPCs/Monsters/Ours cornu.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 26 - 16-11-2024 1.md",
-    "NPCs/Monsters/légionnaire haut elfe.md",
     "Assets/Mega Lab Base Gridded 256 PNG.jpg",
     "Campagne/Donjons/tour de Liothek.md",
-    "NPCs/Figures historiques/Aialize.md",
-    "NPCs/Monsters/loup-chouette.md",
-    "NPCs/Monsters/loup-cornu.md",
-    "NPCs/Monsters/ours-phenix.md",
-    "NPCs/Monsters/ours-hibou majestueux.md",
-    "NPCs/Monsters/Garde révolutionnaire.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Empereur liche.canvas",
-    "Heldenreise.md",
-    "NPCs/Patrons et alliés/Walther Goldhain.md",
     "Assets/Mega Lab Base Gridded 256 PNG.png",
-    "NPCs/Ennemis/Sir Ludlüng.md",
-    "NPCs/Ennemis/Selalulia.md",
-    "NPCs/Patrons et alliés/Gideon.md",
-    "Session Notes/Session 25 - 02-11-2024.md",
-    "NPCs/Figures historiques/Liothek.md",
     "Assets/walther-goldhain.webp",
     "Assets/theves-guild-hidout.webp",
     "Assets/sewers-cache.jpeg",
@@ -324,7 +325,6 @@
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
     "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes",
-    "Gazette/Histoire d'Heldenreise/4. L'empire Tallarn"
+    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes"
   ]
 }
