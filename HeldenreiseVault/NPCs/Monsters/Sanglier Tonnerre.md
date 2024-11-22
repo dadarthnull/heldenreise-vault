@@ -1,22 +1,26 @@
 
-![[NPC Progression Tables#Membre groupe]]
+# Icône
+![[sanglier-tonnerre.png]]
 
+# Fiche
 ```
-Ours Cornu
-Size: L
-Mouvement: 40(8 cases)
+Sanglier Tonnerre
+Size: M
+Mouvement: 30 (8 cases)
 CR: 6-7
-Flavor: aberration très aggressive
+Flavor: aberration très aggressive, foudre
 Traits:
 - Sauvegarde (FOR, CON)
 - Brute (Athlétisme)
 - Bête sauvage (Survie, Perception)
 Attaques:
-- griffes: dégâts normaux (tranchants), corps-à-corps
-- morsure (1): dégâts normaux + 5 (perçant), corps-à-corps
-- cornes (1): dégâts normaux sur 3 cases adjacentes qui se touchent, corps-à-corps
+- (A) foudre: dégâts normaux - 1d, 10' (2 cases)
+- (A) cornes (1/tour): dégâts normaux, corps-à-corps
+- (A) morsure (1/tour): dégâts normaux (perçant), corps-à-corps
+- (A) charge (1/tour) (nécessite mouvement droit sur 15'): dégâts normaux + 5, corps-à-corps, renversement (Save FOR)
 Capacités:
-- _**Vision et Odorat supérieurs.**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
-- _**Brute.**_ Au début de chaque round, augmente ses dégâts de +3 (+1d6)
-- _**Cuir résistant.**_ Ignore les attaques infligeants 6 ou moins points de dégâts contondants, perçants ou tranchants non magiques.
+- _**Cuir résistant.**_ Ignore les attaques infligeants 10 ou moins points de dégâts contondants, perçants ou tranchants non magiques.
 ```
+
+# Référence
+![[NPC Progression Tables#Membre groupe]]

@@ -38,82 +38,7 @@
             }
           },
           {
-            "id": "9b77255afaf3ce19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Ours Hibou Majestueux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ours Hibou Majestueux"
-            }
-          },
-          {
-            "id": "6997038f4de2c120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Sylvedogue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sylvedogue"
-            }
-          },
-          {
-            "id": "f16135074d848a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Arbreloup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arbreloup"
-            }
-          },
-          {
-            "id": "39dd12fc43272b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Sylvedogue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sylvedogue"
-            }
-          },
-          {
-            "id": "b88132144eaae429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Loup Chouette.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Loup Chouette"
-            }
-          },
-          {
-            "id": "ba1fb8043c15f87c",
+            "id": "51d6b11569925717",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,114 +51,9 @@
               "icon": "lucide-file",
               "title": "Magma Rhino"
             }
-          },
-          {
-            "id": "51d6b11569925717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Loup Chouette.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Loup Chouette"
-            }
-          },
-          {
-            "id": "293c1f42055bc29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Sanglier de Feu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sanglier de Feu"
-            }
-          },
-          {
-            "id": "3ac1874505f4027e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Sanglier Tonnerre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sanglier Tonnerre"
-            }
-          },
-          {
-            "id": "f47e59ead4520dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Ours Hibou Majestueux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ours Hibou Majestueux"
-            }
-          },
-          {
-            "id": "9215f678eef60d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Chat Chouette.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chat Chouette"
-            }
-          },
-          {
-            "id": "c87f9f9d715cb1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Loup Cornu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Loup Cornu"
-            }
-          },
-          {
-            "id": "714085af0aaba95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Ours Phenix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ours Phenix"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -457,25 +277,34 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "39dd12fc43272b2f",
+  "active": "51d6b11569925717",
   "lastOpenFiles": [
-    "sylvedogue.png",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "NPCs/Monsters/Magma Rhino.md",
+    "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Monsters/Ours Cornu.md",
+    "magma-rhino.png",
+    "NPCs/Monsters/Loup Cornu.md",
+    "horned-wolf.webp",
+    "NPCs/Monsters/Loup Chouette.md",
+    "loup-chouettes.png",
+    "NPCs/Monsters/Chat Chouette.md",
+    "chat-chouette.png",
+    "arbreloup.png",
+    "NPCs/Monsters/légionnaire haut elfe.md",
+    "NPCs/Monsters/Ours Hibou Majestueux.md",
+    "NPCs/Monsters/Sylvedogue.md",
+    "NPCs/Monsters/Ours Phenix.md",
+    "dire-owlbear.png",
+    "ours-phenix.png",
     "NPCs/Monsters/Sanglier Tonnerre.md",
     "NPCs/Monsters/Sanglier de Feu.md",
     "NPCs/Monsters/Ours Sanguinaire.md",
-    "NPCs/Monsters/Ours Phenix.md",
-    "NPCs/Monsters/Ours Hibou Majestueux.md",
-    "NPCs/Monsters/Ours cornu.md",
-    "NPCs/Monsters/Magma Rhino.md",
-    "NPCs/Monsters/Loup Cornu.md",
-    "NPCs/Monsters/Loup Chouette.md",
-    "NPCs/Monsters/légionnaire haut elfe.md",
-    "NPCs/Monsters/Chat Chouette.md",
-    "NPCs/Monsters/Arbreloup.md",
-    "NPCs/Monsters/Sylvedogue.md",
+    "ours-sanguinaire.png",
+    "sanglier-de-feu.png",
+    "ours-cornu.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
     "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Arsenal de Trazayuya.md",
@@ -487,17 +316,7 @@
     "Campagne/Donjons/explorés/Tour effondrée.md",
     "Campagne/Donjons/explorés",
     "NPCs/Monsters/Ancien template",
-    "Assets/Mega Lab Base Gridded 256 PNG.jpg",
     "Campagne/Empereur liche.canvas",
-    "Assets/Mega Lab Base Gridded 256 PNG.png",
-    "Assets/walther-goldhain.webp",
-    "Assets/theves-guild-hidout.webp",
-    "Assets/sewers-cache.jpeg",
-    "Assets/mountain-pack-cages-dungeon-battlemap-dd-lq.webp",
-    "Assets/gideon.jpg",
-    "Assets/sylvaine.png",
-    "Assets/sebastian-almeria.jpeg",
-    "Assets/sohei-almeria.webp",
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",

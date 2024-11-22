@@ -16,18 +16,18 @@ Donjon - niveau 2-5
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
-- ![[Ours Phenix]]
-- ![[Loup Cornu]]
-- ![[Chat Chouette]]
-- ![[Ours cornu]]
-- ![[Sanglier Tonnerre]]
-- ![[Sanglier de Feu]]
-- ![[Magma Rhino]]
-- ![[Loup Chouette]]
-- ![[Ours Sanguinaire]]
-- ![[Arbreloup]]
-- ![[Sylvedogue]]
-- ![[Ours Hibou Majestueux]]
+- ![[Ours Phenix#Fiche]]
+- ![[Loup Cornu#Fiche]]
+- ![[Chat Chouette#Fiche]]
+- ![[Ours Cornu#Fiche]]
+- ![[Sanglier Tonnerre#Fiche]]
+- ![[Sanglier de Feu#Fiche]]
+- ![[Magma Rhino#Fiche]]
+- ![[Loup Chouette#Fiche]]
+- ![[Ours Sanguinaire#Fiche]]
+- ![[Arbreloup#Fiche]]
+- ![[Sylvedogue#Fiche]]
+- ![[Ours Hibou Majestueux#Fiche]]
 
 # Salles
 
@@ -188,7 +188,7 @@ Ring event (peut s'arrêter quand )
 | 1       | [[Ours Phenix]]       |
 | 2       | [[Loup Cornu]]        |
 | 3       | [[Chat Chouette]]     |
-| 4       | [[Ours cornu]]        |
+| 4       | [[Ours Cornu]]        |
 | 5       | [[Sanglier Tonnerre]] |
 | 6       | [[Sanglier de Feu]]   |
 | 7       | [[Magma Rhino]]       |
