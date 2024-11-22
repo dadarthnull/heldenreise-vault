@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "b39e87166a1407eb",
+            "id": "8c4b234c2e9918d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -38,7 +38,187 @@
             }
           },
           {
-            "id": "8c4b234c2e9918d4",
+            "id": "9b77255afaf3ce19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/ours-hibou majestueux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ours-hibou majestueux"
+            }
+          },
+          {
+            "id": "6997038f4de2c120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sylvedogue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "sylvedogue"
+            }
+          },
+          {
+            "id": "f16135074d848a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/arbreloup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "arbreloup"
+            }
+          },
+          {
+            "id": "39dd12fc43272b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ours-sanguinaire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ours-sanguinaire"
+            }
+          },
+          {
+            "id": "b88132144eaae429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/loup-chouette.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "loup-chouette"
+            }
+          },
+          {
+            "id": "ba1fb8043c15f87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magma-rhino.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "magma-rhino"
+            }
+          },
+          {
+            "id": "51d6b11569925717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/loup-chouette.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "loup-chouette"
+            }
+          },
+          {
+            "id": "293c1f42055bc29d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sanglier-de-feu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "sanglier-de-feu"
+            }
+          },
+          {
+            "id": "3ac1874505f4027e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sanglier-tonnerre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "sanglier-tonnerre"
+            }
+          },
+          {
+            "id": "f47e59ead4520dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Ours cornu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ours cornu"
+            }
+          },
+          {
+            "id": "9215f678eef60d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chat-chouette.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "chat-chouette"
+            }
+          },
+          {
+            "id": "c87f9f9d715cb1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/loup-cornu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "loup-cornu"
+            }
+          },
+          {
+            "id": "714085af0aaba95b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,34 +459,35 @@
   },
   "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
+    "NPCs/Monsters/ours-hibou majestueux.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "sylvedogue.md",
+    "NPCs/Monsters/arbreloup.md",
+    "ours-sanguinaire.md",
+    "NPCs/Monsters/loup-chouette.md",
+    "magma-rhino.md",
+    "sanglier-de-feu.md",
+    "sanglier-tonnerre.md",
+    "NPCs/Monsters/Ours cornu.md",
+    "chat-chouette.md",
+    "NPCs/Monsters/loup-cornu.md",
+    "NPCs/Monsters/ours-phenix.md",
+    "Campagne/Donjons/Antre de Ciriltoa.md",
+    "Campagne/Donjons/Arène démoniaque.md",
+    "Campagne/Donjons/Arsenal de Trazayuya.md",
+    "Campagne/Donjons/Bosquet du printemps éternel.md",
+    "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+    "Campagne/Donjons/Mère des glaces.md",
+    "Campagne/Donjons/explorés/Temple englouti.md",
+    "Campagne/Donjons/Tour de la lune noire.md",
+    "Campagne/Donjons/explorés/Tour effondrée.md",
+    "Campagne/Donjons/explorés/README.md",
+    "Campagne/Donjons/explorés",
+    "Campagne/Donjons/explorés/Caverne de Zakhan le noir.md",
     "NPCs/Monsters/Ancien template/traqueur.md",
     "NPCs/Monsters/Ancien template/Rose Vampire.md",
-    "NPCs/Monsters/Ancien template/Révolutionnaire.md",
-    "NPCs/Monsters/Ancien template/Mort-Vivant - Archer squelette.md",
-    "NPCs/Monsters/loup-cornu.md",
-    "NPCs/Monsters/loup-chouette.md",
-    "NPCs/Monsters/légionnaire haut elfe.md",
-    "NPCs/Monsters/Ancien template/Half efreet.md",
-    "NPCs/Monsters/Ancien template/Cultiste.md",
-    "NPCs/Monsters/Ancien template/brute.md",
-    "NPCs/Monsters/Ancien template/Cube Gélatineux.md",
-    "NPCs/Monsters/Ancien template/Hiblou - Adulte.md",
     "NPCs/Monsters/Ancien template",
-    "NPCs/Monsters/Ancien template/Hiblou - Alpha.md",
-    "NPCs/Monsters/arbreloup.md",
-    "NPCs/Monsters/ours-phenix.md",
-    "NPCs/Monsters/ours-hibou majestueux.md",
-    "NPCs/Monsters/Ours cornu.md",
-    "templates/NPC-Template-2.md",
-    "templates/NPC Template.md",
-    "NPCs/NPC Progression Tables.md",
-    "templates/PC Template.md",
-    "templates/NPC-Template-Slim.md",
-    "NPCs/Figures historiques/Aialize Bolenan.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "Session Notes/Session 26 - 16-11-2024 1.md",
     "Assets/Mega Lab Base Gridded 256 PNG.jpg",
-    "Campagne/Donjons/tour de Liothek.md",
     "Campagne/Empereur liche.canvas",
     "Assets/Mega Lab Base Gridded 256 PNG.png",
     "Assets/walther-goldhain.webp",
@@ -324,7 +505,6 @@
     "Homebrew/Rituels/mineurs",
     "Homebrew/Objets",
     "Gazette/Histoire d'Heldenreise/7. Les nouveaux royaumes",
-    "Gazette/Histoire d'Heldenreise/6. L' âge des héros",
-    "Gazette/Histoire d'Heldenreise/5. Les sept royaumes"
+    "Gazette/Histoire d'Heldenreise/6. L' âge des héros"
   ]
 }
