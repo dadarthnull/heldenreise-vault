@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/ours-hibou majestueux.md",
+                "file": "NPCs/Monsters/Ours Hibou Majestueux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ours-hibou majestueux"
+              "title": "Ours Hibou Majestueux"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sylvedogue.md",
+                "file": "NPCs/Monsters/Sylvedogue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sylvedogue"
+              "title": "Sylvedogue"
             }
           },
           {
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/arbreloup.md",
+                "file": "NPCs/Monsters/Arbreloup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "arbreloup"
+              "title": "Arbreloup"
             }
           },
           {
@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ours-sanguinaire.md",
+                "file": "NPCs/Monsters/Sylvedogue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ours-sanguinaire"
+              "title": "Sylvedogue"
             }
           },
           {
@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/loup-chouette.md",
+                "file": "NPCs/Monsters/Loup Chouette.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "loup-chouette"
+              "title": "Loup Chouette"
             }
           },
           {
@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magma-rhino.md",
+                "file": "NPCs/Monsters/Magma Rhino.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "magma-rhino"
+              "title": "Magma Rhino"
             }
           },
           {
@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/loup-chouette.md",
+                "file": "NPCs/Monsters/Loup Chouette.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "loup-chouette"
+              "title": "Loup Chouette"
             }
           },
           {
@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sanglier-de-feu.md",
+                "file": "NPCs/Monsters/Sanglier de Feu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sanglier-de-feu"
+              "title": "Sanglier de Feu"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sanglier-tonnerre.md",
+                "file": "NPCs/Monsters/Sanglier Tonnerre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sanglier-tonnerre"
+              "title": "Sanglier Tonnerre"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Ours cornu.md",
+                "file": "NPCs/Monsters/Ours Hibou Majestueux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ours cornu"
+              "title": "Ours Hibou Majestueux"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chat-chouette.md",
+                "file": "NPCs/Monsters/Chat Chouette.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "chat-chouette"
+              "title": "Chat Chouette"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/loup-cornu.md",
+                "file": "NPCs/Monsters/Loup Cornu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "loup-cornu"
+              "title": "Loup Cornu"
             }
           },
           {
@@ -223,17 +223,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/ours-phenix.md",
+                "file": "NPCs/Monsters/Ours Phenix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ours-phenix"
+              "title": "Ours Phenix"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -457,20 +457,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f47e59ead4520dcb",
+  "active": "39dd12fc43272b2f",
   "lastOpenFiles": [
-    "sanglier-tonnerre.md",
-    "sanglier-de-feu.md",
-    "NPCs/Monsters/loup-chouette.md",
-    "magma-rhino.md",
-    "ours-sanguinaire.md",
-    "sylvedogue.md",
-    "NPCs/Monsters/ours-hibou majestueux.md",
-    "NPCs/Monsters/ours-phenix.md",
-    "NPCs/Monsters/loup-cornu.md",
-    "chat-chouette.md",
+    "sylvedogue.png",
+    "NPCs/Monsters/Sanglier Tonnerre.md",
+    "NPCs/Monsters/Sanglier de Feu.md",
+    "NPCs/Monsters/Ours Sanguinaire.md",
+    "NPCs/Monsters/Ours Phenix.md",
+    "NPCs/Monsters/Ours Hibou Majestueux.md",
     "NPCs/Monsters/Ours cornu.md",
-    "NPCs/Monsters/arbreloup.md",
+    "NPCs/Monsters/Magma Rhino.md",
+    "NPCs/Monsters/Loup Cornu.md",
+    "NPCs/Monsters/Loup Chouette.md",
+    "NPCs/Monsters/légionnaire haut elfe.md",
+    "NPCs/Monsters/Chat Chouette.md",
+    "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Monsters/Sylvedogue.md",
+    "templates/NPC Template.md",
+    "templates/NPC-Template-2.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
     "Campagne/Donjons/Arène démoniaque.md",
@@ -481,11 +485,7 @@
     "Campagne/Donjons/explorés/Temple englouti.md",
     "Campagne/Donjons/Tour de la lune noire.md",
     "Campagne/Donjons/explorés/Tour effondrée.md",
-    "Campagne/Donjons/explorés/README.md",
     "Campagne/Donjons/explorés",
-    "Campagne/Donjons/explorés/Caverne de Zakhan le noir.md",
-    "NPCs/Monsters/Ancien template/traqueur.md",
-    "NPCs/Monsters/Ancien template/Rose Vampire.md",
     "NPCs/Monsters/Ancien template",
     "Assets/Mega Lab Base Gridded 256 PNG.jpg",
     "Campagne/Empereur liche.canvas",

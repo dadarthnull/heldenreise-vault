@@ -18,3 +18,23 @@ capacités:
 - _**Cuir résistant.**_ Ignore les attaques infligeants 6 ou moins points de dégâts contondants, perçants ou tranchants inférieurs.
 - _**Phenix.**_ Après sa mort, revient à 1/2HP au début de son tour suivant.
 ```
+
+```
+Ours Cornu
+Size: L
+Mouvement: 40(8 cases)
+CR: 6-7
+Flavor: aberration très aggressive
+Traits:
+- Sauvegarde (FOR, CON)
+- Brute (Athlétisme)
+- Bête sauvage (Survie, Perception)
+Attaques:
+- griffes: dégâts normaux (tranchants), corps-à-corps
+- morsure (1): dégâts normaux + 5 (perçant), corps-à-corps
+- cornes (1): dégâts normaux sur 3 cases adjacentes qui se touchent, corps-à-corps
+Capacités:
+- _**Vision et Odorat supérieurs.**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
+- _**Brute.**_ Au début de chaque round, augmente ses dégâts de +3 (+1d6)
+- _**Cuir résistant.**_ Ignore les attaques infligeants 6 ou moins points de dégâts contondants, perçants ou tranchants non magiques.
+```
