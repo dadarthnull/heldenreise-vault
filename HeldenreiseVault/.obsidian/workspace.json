@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Tour de Liothek.md",
-                "mode": "source",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tour de Liothek"
+              "title": "Le laboratoire d'Aialize"
             }
           }
         ],
@@ -264,9 +264,9 @@
   },
   "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
+    "Campagne/Donjons/Tour de Liothek.md",
     "imperial-ship-corridor.jpg",
     "NPCs/Monsters/Aberration - ailes.md",
-    "Campagne/Donjons/Tour de Liothek.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "Assets/horned-wolf.webp",
     "Assets/arbreloup.png",
@@ -297,7 +297,6 @@
     "NPCs/Monsters/légionnaire haut elfe.md",
     "Assets/dire-owlbear.png",
     "Assets/ours-phenix.png",
-    "Assets/ours-sanguinaire.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
     "Campagne/Donjons/explorés",

@@ -11,7 +11,7 @@ name: Le laboratoire d'Aialize
 Donjon - niveau 2-5
 
 
-![[laboratoire-d-aialize-plan.jpg]]
+![[laboratoire-d-aialize-plan.jpg|600]]
 
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
