@@ -29,7 +29,11 @@ En l'absence d'un administrateur, rejoignez la salle de contrôle pour commencer
 
 
 ## 2 - sas
+La salle est vide. Les dalles du sol indiquent un chemin vers une autre porte lourde porte.
+
 ## 3 - salle de triage
+Un [[Aberration - plante]] se tient au milieu de la salle. La porte ouest est ouverte sur la salle de contrôle.
+
 ## 4 - salle de contrôle
 
 ```
