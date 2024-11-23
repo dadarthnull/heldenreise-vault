@@ -16,6 +16,8 @@ Donjon - niveau 2-5
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
+![[NPC Progression Tables#Membre groupe]]
+
 - ![[Ours Phenix#Icône]]![[Ours Phenix#Fiche]]
 - ![[Loup Cornu#Icône]]![[Loup Cornu#Fiche]]
 - ![[Chat Chouette#Icône]]![[Chat Chouette#Fiche]]
