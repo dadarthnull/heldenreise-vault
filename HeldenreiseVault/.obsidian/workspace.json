@@ -38,37 +38,22 @@
             }
           },
           {
-            "id": "51d6b11569925717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Loup Cornu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Loup Cornu"
-            }
-          },
-          {
             "id": "12233248c677f742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/tour de Liothek.md",
+                "file": "Aberration - devoreur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tour de Liothek"
+              "title": "Aberration - devoreur"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,8 +279,8 @@
   },
   "active": "12233248c677f742",
   "lastOpenFiles": [
-    "NPCs/Monsters/Loup Cornu.md",
     "Campagne/Donjons/tour de Liothek.md",
+    "NPCs/Monsters/Loup Cornu.md",
     "Aberration - ailes.md",
     "Aberration - plante.md",
     "Aberration - masque.md",
