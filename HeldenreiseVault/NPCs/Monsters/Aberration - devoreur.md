@@ -24,7 +24,8 @@
 
 **Capacités**:
 - (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
-- **Odeur du sang** : Les attaques contre une cible blessée infligent des dégâts supplémentaires.
+- **Odeur du sang** : Les attaques contre un
+- e cible blessée infligent des dégâts supplémentaires.
 - **Hurlement coordonné** : Augmente la précision et les dégâts des alliés chaotiques proches.
 - **Bond prédateur** : Peut se déplacer de 20 pieds sans provoquer d’attaques d’opportunité.
 - **Instinct de survie** : Réussit automatiquement un jet de sauvegarde contre les effets qui infligeraient des dégâts critiques.

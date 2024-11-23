@@ -6,7 +6,6 @@
       {
         "id": "569aa7838782ace7",
         "type": "tabs",
-        "dimension": 49.23413566739606,
         "children": [
           {
             "id": "269550f4ec276afc",
@@ -37,77 +36,9 @@
               "icon": "lucide-file",
               "title": "Tour de Liothek"
             }
-          },
-          {
-            "id": "12233248c677f742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Aberration - devoreur.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Aberration - devoreur"
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "c5fedf8808bdf66b",
-        "type": "tabs",
-        "dimension": 50.76586433260394,
-        "children": [
-          {
-            "id": "0688bab72693de88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Aberration - masque.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Aberration - masque"
-            }
-          },
-          {
-            "id": "2d2a0a9bb0751ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Arbreloup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arbreloup"
-            }
-          },
-          {
-            "id": "5f8406b18440c94b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Aberration - ailes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Aberration - ailes"
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,9 +262,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "12233248c677f742",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
     "NPCs/Monsters/Aberration - ailes.md",
+    "Campagne/Donjons/Tour de Liothek.md",
+    "NPCs/Monsters/Aberration - devoreur.md",
     "Assets/horned-wolf.webp",
     "Assets/arbreloup.png",
     "NPCs/Monsters/Aberration - squelette.md",
@@ -341,8 +274,6 @@
     "NPCs/Monsters/Aberration - plante.md",
     "NPCs/Monsters/Aberration - oeil.md",
     "NPCs/Monsters/Aberration - masque.md",
-    "NPCs/Monsters/Aberration - devoreur.md",
-    "Campagne/Donjons/Tour de Liothek.md",
     "Assets/asteroid-lab-map.png",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Arbreloup.md",

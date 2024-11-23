@@ -6,6 +6,8 @@ Tout le complexe ressemble à une base sci-fi (genre intérieur d'un vaisseau st
 tout porte est une porte coulissante. Les murs sont blancs, uniforme, d'une matière inconnue, sans joints. Les sols sont des dalles blanches immaculées, avec des tuiles de couleur formant des chemins.
 Il y a des consoles et tablettes dans les murs a côté de chaque porte.
 
+
+
 ## 1 - entrée
 La pièce est baignée d'une lumière vive, bleue. Un écran géant dans le mur sud fournit les messages suivants:
 ```
@@ -52,11 +54,11 @@ Bienvenue, NOM_DU_PERSONNAGE (Avatar de NOM_DU_PERSONNAGE), passez les épreuves
 
 # Monstres
 - ![[Aberration - squelette#Description]]![[Aberration - squelette#Fiche]]
-- [[Aberration - oeil]]
-- [[Aberration - devoreur]]
-- [[Aberration - slime]]
-- [[Aberration - masque]]
-- [[Aberration - plante]]
-- [[Aberration - ailes]]
+- ![[Aberration - oeil#Description]]![[Aberration - oeil#Fiche]]
+- ![[Aberration - devoreur#Description]]![[Aberration - devoreur#Fiche]]
+- ![[Aberration - slime#Description]]![[Aberration - slime#Fiche]]
+- ![[Aberration - masque#Description]]![[Aberration - masque#Fiche]]
+- ![[Aberration - plante#Description]]![[Aberration - plante#Fiche]]
+- ![[Aberration - ailes#Description]]![[Aberration - ailes#Fiche]]
 
 # Secrets et indices
