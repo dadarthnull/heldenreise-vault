@@ -174,14 +174,14 @@ Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle
 | Complétion | 3 Table E      | Cuir clouté de résistance (acide), robe of scintillating colors                                          |
 |            |                |                                                                                                          |
 
-| **D6** | **Description** |
-| ------ | --------------- |
-| 1      | 1d6 monstre affaibli                 |
-| 2      | 1d4 monstres                |
-| 3      | 1d46 monstres                |
-| 4      | 1d8 monstres                |
-| 5      | 1 monstre élite                |
-| 6       |Le général scorpion, jeune, avec un équipement de gladiateur.                 |
+| **D6** | **Description**                                               |
+| ------ | ------------------------------------------------------------- |
+| 1      | 1d6 monstre affaibli                                          |
+| 2      | 1d4 monstres                                                  |
+| 3      | 1d6 monstres                                                  | 
+| 4      | 1d8 monstres                                                  |
+| 5      | 1 monstre élite                                               |
+| 6      | Le général scorpion, jeune, avec un équipement de gladiateur. |
 
 Ring event (peut s'arrêter quand )
 
