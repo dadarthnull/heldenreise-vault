@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Magma Rhino.md",
+                "file": "NPCs/Monsters/Loup Chouette.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Magma Rhino"
+              "title": "Loup Chouette"
             }
           }
         ],
@@ -280,21 +280,21 @@
   "active": "51d6b11569925717",
   "lastOpenFiles": [
     "NPCs/Monsters/Loup Cornu.md",
+    "NPCs/Monsters/Loup Chouette.md",
+    "NPCs/Monsters/Ours Phenix.md",
+    "NPCs/Monsters/Ours Hibou Majestueux.md",
+    "NPCs/Monsters/Ours Cornu.md",
     "NPCs/Monsters/Magma Rhino.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Arbreloup.md",
-    "NPCs/Monsters/Ours Cornu.md",
     "magma-rhino.png",
     "horned-wolf.webp",
-    "NPCs/Monsters/Loup Chouette.md",
     "loup-chouettes.png",
     "NPCs/Monsters/Chat Chouette.md",
     "chat-chouette.png",
     "arbreloup.png",
     "NPCs/Monsters/légionnaire haut elfe.md",
-    "NPCs/Monsters/Ours Hibou Majestueux.md",
     "NPCs/Monsters/Sylvedogue.md",
-    "NPCs/Monsters/Ours Phenix.md",
     "dire-owlbear.png",
     "ours-phenix.png",
     "NPCs/Monsters/Sanglier Tonnerre.md",

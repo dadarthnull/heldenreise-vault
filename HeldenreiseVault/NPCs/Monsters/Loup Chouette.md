@@ -4,11 +4,11 @@
 
 # Fiche
 ```
-Sylvedogue
+Loup Chouette
 Size: M
 Mouvement: 40 (8 cases)
-CR: 5
-Flavor: aberration (mi-chien, mi-herbes), pack, dressable, nature et régénération
+CR: 5-6
+Flavor: aberration très aggressive, animal de pack
 Traits:
 - **Sauvegarde** (DEX, CON)
 - **Rapide** (Athlétisme, Acrobatie)
@@ -16,7 +16,7 @@ Traits:
 - **Peau d'écorce**: CA+3
 Action:
 - (A) griffes: dégâts normaux (tranchants), corps-à-corps
-- (A) morsure (1/tour): dégâts normaux (perçant), corps-à-corps
+- (A) morsure (1/tour): dégâts normaux + 5 (perçant), corps-à-corps, renversement (Sauvegarde DEX)
 - (A) lèche (1/tour): soin 7 (2d6 + 1), corps-à-corps
 - (2A) jardinier: fait pousser un arbuste (5 pieds x 5 pieds)
 Capacités:
