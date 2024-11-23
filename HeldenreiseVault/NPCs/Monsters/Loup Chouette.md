@@ -13,16 +13,14 @@ Traits:
 - **Sauvegarde** (DEX, CON)
 - **Rapide** (Athlétisme, Acrobatie)
 - **Bête sauvage** (Survie, Perception)
-- **Peau d'écorce**: CA+3
 Action:
 - (A) griffes: dégâts normaux (tranchants), corps-à-corps
 - (A) morsure (1/tour): dégâts normaux + 5 (perçant), corps-à-corps, renversement (Sauvegarde DEX)
 - (A) lèche (1/tour): soin 7 (2d6 + 1), corps-à-corps
-- (2A) jardinier: fait pousser un arbuste (5 pieds x 5 pieds)
+- (2A) Cri (1/combat):  
 Capacités:
-- _**Vision et Odorat supérieurs**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
+- _**Vision et Odorat supérieurs**_ Le Loup Chouette a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
 - _**Pack**_ Avantage sur attaque si cible est au corps-à-corps avec un allié.
-- _**Animal végétal**_ Caché dans les herbes hautes et arbustes, nécéssite un jet de Perception ou Invstigation pour être vu.
 ```
 
 # Référence
