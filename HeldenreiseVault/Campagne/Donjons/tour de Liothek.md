@@ -10,15 +10,17 @@ Il y a des consoles et tablettes dans les murs a côté de chaque porte.
 ## 1 - entrée
 La pièce est baignée d'une lumière vive, bleue. Un écran géant dans le mur sud fournit les messages suivants:
 `Bienvenue, aventuriers, dans la 6e tour arcanique. Passer l'épreuve de Liothek et gagner la récompense de la 6e tour.`
-`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
 `{niveau: "avertissement", message: "L'administrateur [Liothek (Avatar de Sophie Wrexler)] n'existe plus. En l'absence d'un administrateur, la tour est dans l'incapacité d'administrer les épreuves et de fournir la récompense."}`
-`{niveau: "avertissement", message: "En l'absence d'un administrateur, le complexe requiert un nouvel administrateur. Toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}`
+`{niveau: "avertissement", message: "En l'absence d'un administrateur, le complexe requiert un nouvel administrateur."}`
 `{niveau: "avertissement", message: "En l'absence d'un administrateur, le complexe revient à sa configration par défaut."}`
-`{niveau: "erreur", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}`
-`{niveau: "panique", message: ".", trace: ""}`
+
+`Bienvenue, Nirel Twister (Avatar de Nirel Twister), passez les épreuves de la tour pour en prendre le contrôle.`
+`{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}`
 `{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
-`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
-`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: ""}`
+`{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}`
+`{niveau: "avertissement", message: "La tour retoune à ses paramètres originaux. Toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}`
+
 `{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
 `{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
 
