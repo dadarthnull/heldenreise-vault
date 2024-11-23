@@ -14,20 +14,20 @@
 **Thème**: Mort et désespoir, corruption de l’esprit et du corps.
 
 **Traits**:
-- **Sauvegarde** (DEX, CON)
-- **Rapide** (Athlétisme, Acrobatie)
-- **Bête sauvage** (Survie, Perception)
-- **Peau d'écorce**: CA+3
+- **Sauvegarde** (*CON*, *WIS*)
 
 **Actions**:
-- (A) griffes: dégâts normaux (tranchants), corps-à-corps
-- (A) morsure (1/tour): dégâts normaux (perçant), corps-à-corps
-- (A) lèche (1/tour): soin 7 (2d6 + 1), corps-à-corps
-- (2A) jardinier: fait pousser un arbuste (5 pieds x 5 pieds)
+- (A) **Toucher dévorant** : Une attaque au corps à corps qui draine la vitalité, infligeant des dégâts nécrotiques et soignant le Crâne pour la moitié des dégâts infligés.
+- (A) **Hurlement abyssal** : Toutes les créatures à portée de 60 pieds doivent réussir un jet de sauvegarde de Sagesse ou être terrifiées pour 1 minute.
+- (A) **Flétrissement de l'âme** : Inflige des dégâts nécrotiques qui réduisent temporairement le maximum de points de vie de la cible du bonus de maîtrise.
+- (A) **Cercle de décomposition** : Crée une zone de 10 pieds autour de lui où tout être vivant subit des dégâts normaux à la fin de son tour.
 
 **Capacités**:
-- _**Vision et Odorat supérieurs**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
-- _**Arbricole**_ Peut fusionner avec un arbre  en se déplaçant sur l'emplacement de l'arbre. Il se téléporter d'un arbre vers un autre au coup de tout son mouvement restant. Si un Arbreloup commence son tour fusionné à un arbre, il regagne 10% de ses HP. Stopper la fusion avec un arbre coûte la moitié de son mouvement à un arbreloup. Il apparaît dans un espace libre adjacent à l'arbre avec lequel il était fusionné.
+- (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
+- (P) **Aura de fatalité** : Les créatures dans un rayon de 20 pieds doivent réussir un jet de sauvegarde de Charisme ou subir un désavantage aux jets de sauvegarde contre la peur.
+- (R) **Forme spectrale** : Réduit temporairement les dégâts physiques reçus de moitié et peut passer à travers les murs.
+- (P) **Volonté de l'au-delà** : Peut se relever avec la moitié de ses PV après avoir été réduit à 0 PV, une fois par combat.
+- (A) **Chuchotements du néant** : Oblige les ennemis à réussir un jet de Sagesse ou à utiliser leur action pour fuir ou attaquer leurs alliés.
 
 # Référence
 ![[NPC Progression Tables#Membre groupe]]
