@@ -15,14 +15,13 @@ Traits:
 - **Bête sauvage** (Survie, Perception)
 - **Peau d'écorce**: CA+3
 Action:
-- (A) griffes: dégâts normaux (tranchants), corps-à-corps
-- (A) morsure (1/tour): dégâts normaux (perçant), corps-à-corps
-- (A) lèche (1/tour): soin 7 (2d6 + 1), corps-à-corps
-- (2A) jardinier: fait pousser un arbuste (5 pieds x 5 pieds)
+- (A) morsure (1/tour): dégâts légers (normaux -2d) (perçant), corps-à-corps
+- (A) défenses: dégâts normaux (feu), corps-à-corps
+- (A) charge (1/tour) (15 pieds mouvement en ligne droite): dégâts normaux (feu) + renversement (sauvegarde FOR DC 15)
+- (A) piétinement (1/tour) (cible "à terre"): dégâts normaux + 2d6 (feu), corps-à-corps
 Capacités:
-- _**Vision et Odorat supérieurs**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
-- _**Pack**_ Avantage sur attaque si cible est au corps-à-corps avec un allié.
-- _**Animal végétal**_ Caché dans les herbes hautes et arbustes, nécéssite un jet de Perception ou Invstigation pour être vu.
+- _**Solitaire**_ Avantage sur attaque si au corps-à-corps avec un allié de la cible et aucun allié au corps-à-corps avec la cible.
+- _**Magma vivant**_ Laisse un chemin de lave sur tout hexagone traversé, la trace de magma se dissipe au début du tour suivant du Magma rhino et nécessite un jet d'acrobatie (DC 15) pour être traversé sans issue. En cas d'échec, ou si une créature commence son tour sur une case trace, le magma inflige 3d6 de dégâts de feu.
 ```
 
 # Référence
