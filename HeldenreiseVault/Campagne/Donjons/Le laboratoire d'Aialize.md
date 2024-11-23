@@ -165,7 +165,7 @@ Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle
 | ---------- | -------------------- | ----------------- | -------------- | -------------------------------------------------------------------------------------------------------- |
 | 1          | 1d4 monstre affaibli | 1d8               | 1 * Table A    | Potion of climbing                                                                                       |
 | 2          | 1d6 monstre affaibli | 1d8               | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison)   |
-| 3          | 1d4 monstres         | 1d8 + 1           | 1 * Table B    | Potion of greater healing                                                                                |
+| 3          | 1d4 monstres         | 1d8 + 1           | 1 * Table B    | 2 x Potion of greater healing                                                                                |
 | 4          | 1d6 monstres         | 1d8 + 2           | 1d4 * Table B  | Wand of magic detection, Potion of resistance, Potion of animal friendship, Dust of sneezing and choking |
 | 5          | 1d6 monstres         | 1d8 + 2           | 1 * Table C    | Potion of gaseous form                                                                                   |
 | 6          | 1d4 monstres  +1     | 1d8 + 3           | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                       |

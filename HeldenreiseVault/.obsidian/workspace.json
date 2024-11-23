@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Sanglier Tonnerre.md",
+                "file": "NPCs/Monsters/Arbreloup.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sanglier Tonnerre"
+              "title": "Arbreloup"
             }
           }
         ],
@@ -280,6 +280,8 @@
   "active": "bf2749369c8b9c7b",
   "lastOpenFiles": [
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Monsters/Sanglier Tonnerre.md",
     "NPCs/Monsters/légionnaire haut elfe.md",
     "Campagne/Donjons/Tour de Liothek.md",
     "imperial-ship-corridor.jpg",
@@ -293,13 +295,11 @@
     "NPCs/Monsters/Aberration - oeil.md",
     "NPCs/Monsters/Aberration - masque.md",
     "Assets/asteroid-lab-map.png",
-    "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Loup Cornu.md",
     "Session Notes/Session 26 - 16-11-2024 1.md",
     "Assets/loup-cornu.png",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Sylvedogue.md",
-    "NPCs/Monsters/Sanglier Tonnerre.md",
     "NPCs/Monsters/Sanglier de Feu.md",
     "NPCs/Monsters/Ours Sanguinaire.md",
     "NPCs/Monsters/Ours Phenix.md",
