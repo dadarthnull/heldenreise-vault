@@ -161,27 +161,17 @@ Le sol est parsemé de puits, couverts de blanches pourries. Marcher sur une pla
 Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle qu'une fois tout le monde entré dans la pièce. A ce moment, des grilles tombent et bloquent les 2 sorties.
 `Bienvenue, recrues. Les tests vont commencer. Après chaque test, vous pouvez abandonner. Ne pas finir l'exercice complêt sera vu négativement par vos officiers. Compléter tous les tests sera bénéfique pour votre carrière`
 
-| **Vague**  | **Récompense** | **Exact**                                                                                                |
-| ---------- | -------------- | -------------------------------------------------------------------------------------------------------- |
-| 1          | 1 * Table A    | Potion of climbing                                                                                       |
-| 2          | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison)   |
-| 3          | 1 * Table B    | Potion of greater healing                                                                                |
-| 4          | 1d4 * Table B  | Wand of magic detection, Potion of resistance, Potion of animal friendship, Dust of sneezing and choking |
-| 5          | 1 * Table C    | Potion of gaseous form                                                                                   |
-| 6          | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                       |
-| 7          | 1 * Table D    | Potion of speed                                                                                          |
-| 8          | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                            |
-| Complétion | 3 Table E      | Cuir clouté de résistance (acide), robe of scintillating colors                                          |
-|            |                |                                                                                                          |
-
-| **D6** | **Description**                                               |
-| ------ | ------------------------------------------------------------- |
-| 1      | 1d6 monstre affaibli                                          |
-| 2      | 1d4 monstres                                                  |
-| 3      | 1d6 monstres                                                  | 
-| 4      | 1d8 monstres                                                  |
-| 5      | 1 monstre élite                                               |
-| 6      | Le général scorpion, jeune, avec un équipement de gladiateur. |
+| **Vague**  | **Nombre monstres**  | **Type monstres** | **Récompense** | **Exact**                                                                                                |
+| ---------- | -------------------- | ----------------- | -------------- | -------------------------------------------------------------------------------------------------------- |
+| 1          | 1d4 monstre affaibli | 1d8               | 1 * Table A    | Potion of climbing                                                                                       |
+| 2          | 1d6 monstre affaibli | 1d8               | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison)   |
+| 3          | 1d4 monstres         | 1d8 + 1           | 1 * Table B    | Potion of greater healing                                                                                |
+| 4          | 1d6 monstres         | 1d8 + 2           | 1d4 * Table B  | Wand of magic detection, Potion of resistance, Potion of animal friendship, Dust of sneezing and choking |
+| 5          | 1d6 monstres         | 1d8 + 2           | 1 * Table C    | Potion of gaseous form                                                                                   |
+| 6          | 1d4 monstres  +1     | 1d8 + 3           | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                       |
+| 7          | 1 monstre élite      | 1d8 + 4           | 1 * Table D    | Potion of speed                                                                                          |
+| 8          | Le général scorpion  |                   | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                            |
+| Complétion |                      |                   | 3 Table E      | Cuir clouté de résistance (acide), robe of scintillating colors                                          |
 
 Ring event (peut s'arrêter quand )
 
