@@ -6,6 +6,8 @@ Tout le complexe ressemble à une base sci-fi (genre intérieur d'un vaisseau st
 tout porte est une porte coulissante. Les murs sont blancs, uniforme, d'une matière inconnue, sans joints. Les sols sont des dalles blanches immaculées, avec des tuiles de couleur formant des chemins.
 Il y a des consoles et tablettes dans les murs a côté de chaque porte.
 
+![[imperial-ship-corridor.jpg]]
+
 *Vous émergez du portail dans un lieu qui ne ressemble à rien de ce que vous avez connu. Vos bottes, habituées à fouler la terre battue, la pierre rugueuse ou les pavés irréguliers, rencontrent une surface lisse et glaciale, presque trop parfaite. Vous baissez les yeux et découvrez un sol noir et brillant, si poli qu’il reflète votre silhouette comme un miroir sombre. Vous êtes saisis par la propreté irréelle de l’endroit. Pas une seule trace de poussière, pas une fissure, pas un défaut. C’est comme si cet endroit refusait la saleté, comme si l’imperfection était une hérésie en ces lieux.*
 *L’air est étrange. Vous ne sentez ni fumée de torches, ni moisi, ni même la moindre odeur de vie. Au lieu de cela, il est froid, pur, trop pur, presque artificiel. Vous inspirez profondément, mais au lieu de vous apaiser, ce vide aseptisé vous met mal à l’aise.*
 *Le silence vous pèse presque autant que cette lumière omniprésente. Pas de flamme vacillante, pas d’ombre dansante. La lumière blanche et crue descend directement des plafonds, si uniforme qu’elle semble nier toute tentative de cacher quoi que ce soit. Le monde que vous connaissez regorge de coins sombres, de recoins secrets ; ici, tout est exposé, et cela vous dérange profondément.*
