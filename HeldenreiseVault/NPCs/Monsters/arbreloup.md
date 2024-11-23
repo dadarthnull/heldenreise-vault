@@ -22,8 +22,7 @@ Action:
 - (2A) jardinier: fait pousser un arbuste (5 pieds x 5 pieds)
 Capacités:
 - _**Vision et Odorat supérieurs**_ L'ours cornu a un avantage sur les jets de Perception [Sagesse] basés sur la vision ou l'odorat.
-- _**Pack**_ Avantage sur attaque si cible est au corps-à-corps avec un allié.
-- _**Animal végétal**_ Caché dans les herbes hautes et arbustes, nécéssite un jet de Perception ou Invstigation pour être vu.
+- _**Arbricole**_ Peut fusionner avec un arbre  en se déplaçant sur l'emplacement de l'arbre. Il se téléporter d'un arbre vers un autre au coup de tout son mouvement restant. Si un Arbreloup commence son tour fusionné à un arbre, il regagne 10% de ses HP. Stopper la fusion avec un arbre coûte la moitié de son mouvement à un arbreloup. Il apparaît dans un espace libre adjacent à l'arbre avec lequel il était fusionné.
 ```
 
 # Référence

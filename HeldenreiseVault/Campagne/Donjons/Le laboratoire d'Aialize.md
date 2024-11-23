@@ -16,18 +16,18 @@ Donjon - niveau 2-5
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
-- ![[Ours Phenix#Fiche]]
-- ![[Loup Cornu#Fiche]]
-- ![[Chat Chouette#Fiche]]
-- ![[Ours Cornu#Fiche]]
-- ![[Sanglier Tonnerre#Fiche]]
-- ![[Sanglier de Feu#Fiche]]
-- ![[Magma Rhino#Fiche]]
-- ![[Loup Chouette#Fiche]]
-- ![[Ours Sanguinaire#Fiche]]
-- ![[Arbreloup#Fiche]]
-- ![[Sylvedogue#Fiche]]
-- ![[Ours Hibou Majestueux#Fiche]]
+- ![[Ours Phenix#Icône]]![[Ours Phenix#Fiche]]
+- ![[Loup Cornu#Icône]]![[Loup Cornu#Fiche]]
+- ![[Chat Chouette#Icône]]![[Chat Chouette#Fiche]]
+- ![[Ours Cornu#Icône]]![[Ours Cornu#Fiche]]
+- ![[Sanglier Tonnerre#Icône]]![[Sanglier Tonnerre#Fiche]]
+- ![[Sanglier de Feu#Icône]]![[Sanglier de Feu#Fiche]]
+- ![[Magma Rhino#Icône]]![[Magma Rhino#Fiche]]
+- ![[Loup Chouette#Icône]]![[Loup Chouette#Fiche]]
+- ![[Ours Sanguinaire#Icône]]![[Ours Sanguinaire#Fiche]]
+- ![[Arbreloup#Icône]]![[Arbreloup#Fiche]]
+- ![[Sylvedogue#Icône]]![[Sylvedogue#Fiche]]
+- ![[Ours Hibou Majestueux#Icône]]![[Ours Hibou Majestueux#Fiche]]
 
 # Salles
 

@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Arbreloup.md",
+                "file": "NPCs/Monsters/Loup Cornu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arbreloup"
+              "title": "Loup Cornu"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,8 +277,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "51d6b11569925717",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
+    "NPCs/Monsters/Loup Cornu.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "loup-cornu.png",
+    "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Sylvedogue.md",
     "NPCs/Monsters/Sanglier Tonnerre.md",
@@ -288,10 +292,7 @@
     "NPCs/Monsters/Ours Hibou Majestueux.md",
     "NPCs/Monsters/Ours Cornu.md",
     "NPCs/Monsters/Magma Rhino.md",
-    "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Loup Chouette.md",
-    "NPCs/Monsters/Loup Cornu.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "magma-rhino.png",
     "horned-wolf.webp",
     "loup-chouettes.png",
@@ -302,7 +303,6 @@
     "ours-phenix.png",
     "ours-sanguinaire.png",
     "sanglier-de-feu.png",
-    "ours-cornu.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",

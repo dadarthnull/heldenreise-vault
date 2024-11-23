@@ -1,6 +1,6 @@
 
 # Icône
-![[horned-wolf.webp]]
+![[loup-cornu.png]]
 
 # Fiche
 ```
