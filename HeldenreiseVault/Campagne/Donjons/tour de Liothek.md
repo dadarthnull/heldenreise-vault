@@ -9,10 +9,19 @@ Il y a des consoles et tablettes dans les murs a côté de chaque porte.
 
 ## 1 - entrée
 La pièce est baignée d'une lumière vive, bleue. Un écran géant dans le mur sud fournit les messages suivants:
-`Bienvenue, aventuriers, dans la 6e tour arcanique`
-`Attention - L'administrateur [Liothek (Avatar de Sophie Wrexler)] n'existe plus. En l'absence d'un administrateur, la tour est dans l'incapacité d'administrer les épreuves et de fournir la récompense. `
-`Attention - En l'absence d'un administrateur, le complexe revient à sa configration par défaut.`
-`Attention - En l'absence d'un administrateur, le complexe requiert un nouvel administrateur. Toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur`
+`Bienvenue, aventuriers, dans la 6e tour arcanique. Passer l'épreuve de Liothek et gagner la récompense de la 6e tour.`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "avertissement", message: "L'administrateur [Liothek (Avatar de Sophie Wrexler)] n'existe plus. En l'absence d'un administrateur, la tour est dans l'incapacité d'administrer les épreuves et de fournir la récompense."}`
+`{niveau: "avertissement", message: "En l'absence d'un administrateur, le complexe requiert un nouvel administrateur. Toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}`
+`{niveau: "avertissement", message: "En l'absence d'un administrateur, le complexe revient à sa configration par défaut."}`
+`{niveau: "erreur", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}`
+`{niveau: "panique", message: ".", trace: ""}`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+`{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}`
+
 `Attention - Avatars détectés. suivant la configuration par défaut, les avatars ne sont pas souhaités comme administrateurs. La difficulté du test est augmenté au niveau 15.`
 `Attention - Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe.`
 
