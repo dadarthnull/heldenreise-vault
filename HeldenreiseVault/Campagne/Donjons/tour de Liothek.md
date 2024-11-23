@@ -34,7 +34,13 @@ La salle est vide. Les dalles du sol indiquent un chemin vers une autre porte lo
 ## 3 - salle de triage
 Un [[Aberration - plante]] se tient au milieu de la salle. La porte ouest est ouverte sur la salle de contrôle.
 
+
 ## 4 - salle de contrôle
+Au milieu, une carte du complexe avec la la position des aberrations.
+INT pour utiliser. Utiliser affiche une image des monstres.
+
+Les consoles de contrôles sont des écrans tactiles à la star trek.
+Activer l'un des écrans affiche le message:
 
 ```
 Bienvenue, NOM_DU_PERSONNAGE (Avatar de NOM_DU_PERSONNAGE), passez les épreuves de la tour pour en prendre le contrôle.
