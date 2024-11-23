@@ -20,6 +20,7 @@ Attaques:
 - (A) charge (1/tour) (nécessite mouvement droit sur 15'): dégâts normaux + 5, corps-à-corps, renversement (Save FOR)
 Capacités:
 - _**Cuir résistant.**_ Ignore les attaques infligeants 10 ou moins points de dégâts contondants, perçants ou tranchants non magiques.
+- _**hybride élémentaire de foudre**_ Peut se transformer en foudre, se téléporte de 30 pieds, néttoie tout débuff non divin.
 ```
 
 # Référence

@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "Le laboratoire d'Aialize"
             }
+          },
+          {
+            "id": "bf2749369c8b9c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Sanglier Tonnerre.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sanglier Tonnerre"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,10 +277,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8c4b234c2e9918d4",
+  "active": "bf2749369c8b9c7b",
   "lastOpenFiles": [
-    "NPCs/Monsters/légionnaire haut elfe.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "NPCs/Monsters/légionnaire haut elfe.md",
     "Campagne/Donjons/Tour de Liothek.md",
     "imperial-ship-corridor.jpg",
     "NPCs/Monsters/Aberration - ailes.md",
