@@ -85,7 +85,7 @@ Prier un dieu de la magie ou de la connaissance devant la statue rend un emplace
 
 ## 8 - autel de la connaissance
 Un autel envers le dieu Nethys (dieu de la magie de l'empire elfe) (Religion DC 14).
-Tout aventurier ou avatar voit comme une faille dans la réalité flottant au dessus de l'autel. Toucher la faille téléporte vers la [[tour de Liothek]].
+Tout aventurier ou avatar voit comme une faille dans la réalité flottant au dessus de l'autel. Toucher la faille téléporte vers la [[Tour de Liothek]].
 
 
 ## 9 - laboratoire

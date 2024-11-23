@@ -6,6 +6,7 @@
       {
         "id": "569aa7838782ace7",
         "type": "tabs",
+        "dimension": 49.23413566739606,
         "children": [
           {
             "id": "269550f4ec276afc",
@@ -28,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "file": "Campagne/Donjons/Tour de Liothek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Le laboratoire d'Aialize"
+              "title": "Tour de Liothek"
             }
           },
           {
@@ -50,6 +51,59 @@
               },
               "icon": "lucide-file",
               "title": "Aberration - devoreur"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c5fedf8808bdf66b",
+        "type": "tabs",
+        "dimension": 50.76586433260394,
+        "children": [
+          {
+            "id": "0688bab72693de88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aberration - masque.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Aberration - masque"
+            }
+          },
+          {
+            "id": "2d2a0a9bb0751ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Arbreloup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Arbreloup"
+            }
+          },
+          {
+            "id": "5f8406b18440c94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aberration - squelette.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Aberration - squelette"
             }
           }
         ],
@@ -277,21 +331,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "12233248c677f742",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
-    "Campagne/Donjons/tour de Liothek.md",
+    "asteroid-lab-map.png",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Aberration - squelette.md",
+    "Aberration - devoreur.md",
+    "NPCs/Monsters/Arbreloup.md",
+    "Aberration - masque.md",
+    "Campagne/Donjons/Tour de Liothek.md",
     "NPCs/Monsters/Loup Cornu.md",
     "Aberration - ailes.md",
     "Aberration - plante.md",
-    "Aberration - masque.md",
     "Aberration - slime.md",
-    "Aberration - devoreur.md",
     "Aberration - oeil.md",
-    "Aberration - squelette.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 26 - 16-11-2024 1.md",
     "loup-cornu.png",
-    "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Sylvedogue.md",
     "NPCs/Monsters/Sanglier Tonnerre.md",
@@ -314,7 +369,6 @@
     "sanglier-de-feu.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
-    "Campagne/Donjons/Antre de Ciriltoa.md",
     "Campagne/Donjons/explorés",
     "NPCs/Monsters/Ancien template",
     "Campagne/Empereur liche.canvas",

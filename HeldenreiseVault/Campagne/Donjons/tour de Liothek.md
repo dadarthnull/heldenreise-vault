@@ -1,6 +1,5 @@
 # Carte
-
-![[Mega Lab Base Gridded 256 PNG.jpg]]
+![[asteroid-lab-map.png|600]]
 
 # Salles
 Tout le complexe ressemble à une base sci-fi (genre intérieur d'un vaisseau star trek).
@@ -117,7 +116,7 @@ Bienvenue, Thelkyl (Avatar de Thelkyl), passez les épreuves de la tour pour en 
 
 
 # Monstres
-- [[Aberration - squelette]]
+- ![[Aberration - squelette#Description]]![[Aberration - squelette#Fiche]]
 - [[Aberration - oeil]]
 - [[Aberration - devoreur]]
 - [[Aberration - slime]]
