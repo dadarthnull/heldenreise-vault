@@ -23,72 +23,7 @@ En l'absence d'un administrateur, rejoignez la salle de contrôle pour commencer
 ## 4 - salle de contrôle
 
 ```
-Bienvenue, Adelaïde Albrecht (Avatar de Adelaïde Albrecht), passez les épreuves de la tour pour en prendre le contrôle.
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}
-{niveau: "avertissement", message: "Résolution impossible. Retour aux paramètres originaux de la tour arcanique."}
-{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}
-{niveau: "avertissement", message: "Paramètre originel: toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}
-```
-
-```
-Bienvenue, Bhardar Steelbreath (Avatar de Bhardar Steelbreath), passez les épreuves de la tour pour en prendre le contrôle.
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}
-{niveau: "avertissement", message: "Résolution impossible. Retour aux paramètres originaux de la tour arcanique."}
-{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}
-{niveau: "avertissement", message: "Paramètre originel: toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}
-```
-
-```
-Bienvenue, Myrlou (Avatar de Myrlou), passez les épreuves de la tour pour en prendre le contrôle.
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}
-{niveau: "avertissement", message: "Résolution impossible. Retour aux paramètres originaux de la tour arcanique."}
-{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}
-{niveau: "avertissement", message: "Paramètre originel: toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}
-```
-
-```
-Bienvenue, Narllak (Avatar de Narllak), passez les épreuves de la tour pour en prendre le contrôle.
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}
-{niveau: "avertissement", message: "Résolution impossible. Retour aux paramètres originaux de la tour arcanique."}
-{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}
-{niveau: "avertissement", message: "Paramètre originel: toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}
-```
-
-```
-Bienvenue, Nirel Twister (Avatar de Nirel Twister), passez les épreuves de la tour pour en prendre le contrôle.
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
-{niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
-{niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
-{niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}
-{niveau: "avertissement", message: "Résolution impossible. Retour aux paramètres originaux de la tour arcanique."}
-{niveau: "erreure", message: "Les niveaux de mana d'Heldenreise sont critiques. La brèche astrale ne peut plus être contenue. Aberrations astrales détectées dans le complexe."}
-{niveau: "avertissement", message: "Paramètre originel: toute personne qui complète le test [Purger la tour arcanique] sera nommé nouvel administrateur."}
-```
-
-```
-Bienvenue, Thelkyl (Avatar de Thelkyl), passez les épreuves de la tour pour en prendre le contrôle.
+Bienvenue, NOM_DU_PERSONNAGE (Avatar de NOM_DU_PERSONNAGE), passez les épreuves de la tour pour en prendre le contrôle.
 {niveau: "avertissement", message: "La tour est configurée pour accepter uniquement des avatars."}
 {niveau: "erreure", message: "La configuration par défaut n'authorise pas des avatars à prendre le contrôle."}
 {niveau: "panique", message: "Incompatibilité logique détéctée.", trace: "sync.runtime_SemacquireMutex(0xc00012e038, 0x0) +0x47 rulesengine.(*Evaluator).lockRulesContext(0xc00012e000) +0x89 rulesengine.(*Evaluator).Evaluate(0xc00012e000, 0xc0001a2030) +0xc4 rulesengine.(*Dispatcher).DispatchRules(0xc0001a2010, 0xc0002b6070) +0x104 rulesengine.(*Dispatcher).Run(0xc0001a2010) +0x76"}`
