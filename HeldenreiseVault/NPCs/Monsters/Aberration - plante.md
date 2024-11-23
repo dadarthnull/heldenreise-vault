@@ -6,12 +6,12 @@
 *Une horreur végétale qui mélange bois et chaire dans un amalgame contre-nature. Son corps est couvert de yeux et de bouches qui s’ouvrent pour cracher des spores nocifs. Ses racines serpentent au sol, s’enfonçant dans la terre comme des griffes avides, tandis que des fruits difformes pendent de ses branches, suintant une sève sanglante.*
 
 # Fiche
-**Aberration - squelette**
+**Aberration - plante**
 
 **Taille**: M
 **Mouvement**: 40 (8 cases)
 **Challenge**: 12
-**Thème**: Mort et désespoir, corruption de l’esprit et du corps.
+**Thème**: Régénération et enracinement.
 
 **Traits**:
 - **Sauvegarde** (*CON*, *WIS*)
@@ -23,6 +23,7 @@
 - **Frappe fractale** : Inflige des dégâts de force à plusieurs cibles en étendant des branches tranchantes.
 
 **Capacités**:
+- (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
 - **Enracinement chaotique** : Peut s’ancrer au sol pour ne plus être repoussé ou renversé.
 - **Floraison aberrante** : Fait pousser des racines mutantes dans un rayon de 30 pieds, ralentissant les ennemis et les empêchant de se téléporter.
 - **Écorce adaptative** : Gagne une résistance temporaire à un type de dégât (choisi à chaque tour).

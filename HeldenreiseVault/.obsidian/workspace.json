@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aberration - devoreur.md",
+                "file": "NPCs/Monsters/Aberration - devoreur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aberration - masque.md",
+                "file": "NPCs/Monsters/Aberration - masque.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,13 +97,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aberration - plante.md",
+                "file": "NPCs/Monsters/Aberration - ailes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aberration - plante"
+              "title": "Aberration - ailes"
             }
           }
         ],
@@ -331,22 +331,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "5f8406b18440c94b",
+  "active": "12233248c677f742",
   "lastOpenFiles": [
-    "Aberration - slime.md",
-    "Aberration - ailes.md",
-    "Aberration - squelette.md",
-    "Aberration - devoreur.md",
+    "NPCs/Monsters/Aberration - ailes.md",
+    "Assets/horned-wolf.webp",
+    "Assets/arbreloup.png",
+    "NPCs/Monsters/Aberration - squelette.md",
+    "NPCs/Monsters/Aberration - slime.md",
+    "NPCs/Monsters/Aberration - plante.md",
+    "NPCs/Monsters/Aberration - oeil.md",
+    "NPCs/Monsters/Aberration - masque.md",
+    "NPCs/Monsters/Aberration - devoreur.md",
     "Campagne/Donjons/Tour de Liothek.md",
-    "Aberration - plante.md",
-    "Aberration - oeil.md",
-    "Aberration - masque.md",
-    "asteroid-lab-map.png",
+    "Assets/asteroid-lab-map.png",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Loup Cornu.md",
     "Session Notes/Session 26 - 16-11-2024 1.md",
-    "loup-cornu.png",
+    "Assets/loup-cornu.png",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Sylvedogue.md",
     "NPCs/Monsters/Sanglier Tonnerre.md",
@@ -357,15 +359,13 @@
     "NPCs/Monsters/Ours Cornu.md",
     "NPCs/Monsters/Magma Rhino.md",
     "NPCs/Monsters/Loup Chouette.md",
-    "magma-rhino.png",
-    "horned-wolf.webp",
-    "loup-chouettes.png",
-    "chat-chouette.png",
-    "arbreloup.png",
+    "Assets/magma-rhino.png",
+    "Assets/loup-chouettes.png",
+    "Assets/chat-chouette.png",
     "NPCs/Monsters/légionnaire haut elfe.md",
-    "dire-owlbear.png",
-    "ours-phenix.png",
-    "ours-sanguinaire.png",
+    "Assets/dire-owlbear.png",
+    "Assets/ours-phenix.png",
+    "Assets/ours-sanguinaire.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
     "Campagne/Donjons/explorés",

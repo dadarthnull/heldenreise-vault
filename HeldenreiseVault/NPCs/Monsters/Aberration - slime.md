@@ -23,6 +23,7 @@
 - **Étreinte corrosive** : Une attaque de mêlée qui détruit partiellement l’armure ou les armes d’un adversaire.
 
 **Capacités**:
+- (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
 - **Morphogenèse rapide** : Peut réduire ou agrandir sa taille, passant d'une catégorie de taille à l'autre au besoin.
 - **Chair liquide** : Réduit de moitié les dégâts non-magiques reçus et peut se faufiler à travers des espaces restreints.
 - **Adhérence mutagène** : Toute créature au contact direct avec le Slime doit réussir un jet de Constitution ou développer des mutations temporaires nuisibles.
