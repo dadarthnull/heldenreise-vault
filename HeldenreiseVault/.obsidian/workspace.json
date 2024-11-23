@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Loup Chouette.md",
+                "file": "NPCs/Monsters/Arbreloup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Loup Chouette"
+              "title": "Arbreloup"
             }
           }
         ],
@@ -279,27 +279,27 @@
   },
   "active": "51d6b11569925717",
   "lastOpenFiles": [
-    "NPCs/Monsters/Loup Cornu.md",
-    "NPCs/Monsters/Loup Chouette.md",
+    "NPCs/Monsters/Chat Chouette.md",
+    "NPCs/Monsters/Sylvedogue.md",
+    "NPCs/Monsters/Sanglier Tonnerre.md",
+    "NPCs/Monsters/Sanglier de Feu.md",
+    "NPCs/Monsters/Ours Sanguinaire.md",
     "NPCs/Monsters/Ours Phenix.md",
     "NPCs/Monsters/Ours Hibou Majestueux.md",
     "NPCs/Monsters/Ours Cornu.md",
     "NPCs/Monsters/Magma Rhino.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Monsters/Loup Chouette.md",
+    "NPCs/Monsters/Loup Cornu.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "magma-rhino.png",
     "horned-wolf.webp",
     "loup-chouettes.png",
-    "NPCs/Monsters/Chat Chouette.md",
     "chat-chouette.png",
     "arbreloup.png",
     "NPCs/Monsters/légionnaire haut elfe.md",
-    "NPCs/Monsters/Sylvedogue.md",
     "dire-owlbear.png",
     "ours-phenix.png",
-    "NPCs/Monsters/Sanglier Tonnerre.md",
-    "NPCs/Monsters/Sanglier de Feu.md",
-    "NPCs/Monsters/Ours Sanguinaire.md",
     "ours-sanguinaire.png",
     "sanglier-de-feu.png",
     "ours-cornu.png",

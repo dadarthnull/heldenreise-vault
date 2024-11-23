@@ -5,7 +5,7 @@
 # Fiche
 ```
 Sylvedogue
-Size: M
+Size: L
 Mouvement: 40 (8 cases)
 CR: 5
 Flavor: aberration (mi-chien, mi-herbes), pack, dressable, nature et régénération
