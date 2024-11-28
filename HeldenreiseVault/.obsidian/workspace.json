@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 26 - 16-11-2024 1.md",
+                "file": "Session Notes/Session 27 - 16-11-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 26 - 16-11-2024 1"
+              "title": "Session 27 - 16-11-2024"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Arbreloup"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,9 +276,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bf2749369c8b9c7b",
+  "active": "269550f4ec276afc",
   "lastOpenFiles": [
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Session Notes/Session 27 - 16-11-2024.md",
+    "Session Notes/Session 26 - 16-11-2024.md",
     "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Sanglier Tonnerre.md",
     "NPCs/Monsters/légionnaire haut elfe.md",
@@ -296,7 +297,6 @@
     "NPCs/Monsters/Aberration - masque.md",
     "Assets/asteroid-lab-map.png",
     "NPCs/Monsters/Loup Cornu.md",
-    "Session Notes/Session 26 - 16-11-2024 1.md",
     "Assets/loup-cornu.png",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Sylvedogue.md",
