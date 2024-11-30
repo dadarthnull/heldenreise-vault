@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "campement du laboratoire.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -52,8 +52,7 @@
               "title": "Session 28 - 30-11-2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "file": "campement du laboratoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Le laboratoire d'Aialize"
+              "title": "Backlinks for campement du laboratoire"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md"
+                "file": "campement du laboratoire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Le laboratoire d'Aialize"
+              "title": "Outline of campement du laboratoire"
             }
           },
           {
@@ -277,15 +276,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8c4b234c2e9918d4",
+  "active": "269550f4ec276afc",
   "lastOpenFiles": [
-    "Session Notes/Session 28 - 30-11-2024.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "NPCs/Habitants/Abreissdorf/Rosina.md",
     "campement du laboratoire.md",
+    "NPCs/Habitants/Abreissdorf/Dirke.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Session Notes/Session 28 - 30-11-2024.md",
     "NPCs/Monsters/Arbreloup.md",
     "NPCs/Habitants/Abreissdorf/Wielfried.md",
     "NPCs/Habitants/Abreissdorf/Solange.md",
-    "NPCs/Habitants/Abreissdorf/Rosina.md",
     "NPCs/Habitants/Fraularm.md",
     "Session Notes/Session 27 - 23-11-2024.md",
     "Session Notes/Session 26 - 16-11-2024.md",
@@ -304,7 +304,6 @@
     "NPCs/Habitants/Abreissdorf/Marthe Holzkralle.md",
     "NPCs/Habitants/Abreissdorf/Mariette.md",
     "NPCs/Habitants/Abreissdorf/Marcus.md",
-    "NPCs/Habitants/Abreissdorf/Lutz.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
