@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "8c4b234c2e9918d4",
+            "id": "bd6176c0ac2a9eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Magma Rhino.md",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Magma Rhino"
+              "title": "Le laboratoire d'Aialize"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Magma Rhino.md",
+                "file": "NPCs/Monsters/Dryder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Magma Rhino"
+              "title": "Backlinks for Dryder"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Magma Rhino.md"
+                "file": "NPCs/Monsters/Dryder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Magma Rhino"
+              "title": "Outline of Dryder"
             }
           },
           {
@@ -292,12 +292,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8c4b234c2e9918d4",
+  "active": "cce46f03864dc899",
   "lastOpenFiles": [
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "Session Notes/Session 28 - 30-11-2024.md",
-    "campement du laboratoire.md",
     "NPCs/Monsters/Dryder.md",
+    "campement du laboratoire.md",
+    "NPCs/Monsters/Magma Rhino.md",
+    "Session Notes/Session 28 - 30-11-2024.md",
     "NPCs/Monsters/Général scorpion.md",
     "NPCs/Monsters/Aberration - ailes.md",
     "NPCs/Monsters/Aberration - devoreur.md",
@@ -319,7 +320,6 @@
     "NPCs/Habitants/Abreissdorf/Sylvester.md",
     "NPCs/Habitants/Abreissdorf/Rihiarda.md",
     "NPCs/Habitants/Abreissdorf/Raimund.md",
-    "NPCs/Habitants/Abreissdorf/Otto.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",

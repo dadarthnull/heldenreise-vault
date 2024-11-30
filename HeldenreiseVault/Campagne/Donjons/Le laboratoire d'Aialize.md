@@ -195,7 +195,7 @@ Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle
 | 1          | Base -1 | 1d4 monstre         | 1d8                 | 1 * Table A    | Potion of climbing                                                                                     |
 | 2          | Base    | 1d6 monstre         | 1d8 + 1             | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison) |
 | 3          | Base -1 | 1d4 monstres        | 1d8 + 2             | 1 * Table B    | 2 x Potion of greater healing                                                                          |
-| 4          | Base +1 | 1d4 monstres  +1    | 1d8 + 3             | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                     |
+| 4          | Base +1 | 1d4 monstres  +1    | 1d8 + 3             | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), Scroll of protection (plants), Potion of heroism                     |
 | 5          | Base +2 | 1 monstre           | 1d8 + 4             | 1 * Table D    | Potion of speed, Potion of Frost Giant Strength, Potion of Pugilism                                    |
 | 6          | Base +2 | 1 monstre           | [[Général scorpion]] | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                          |
 | Complétion |         |                     | 3 Table E           | -              | Cuir clouté de résistance (acide), robe of scintillating colors, Fragment de Compétence (Survie)       |
