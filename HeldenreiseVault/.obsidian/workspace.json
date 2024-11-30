@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Dryder.md",
+                "file": "NPCs/Monsters/Général scorpion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dryder"
+              "title": "Général scorpion"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Monsters/Dryder.md",
+                "file": "NPCs/Monsters/Général scorpion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dryder"
+              "title": "Backlinks for Général scorpion"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Monsters/Dryder.md"
+                "file": "NPCs/Monsters/Général scorpion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dryder"
+              "title": "Outline of Général scorpion"
             }
           },
           {
@@ -294,12 +294,12 @@
   },
   "active": "cce46f03864dc899",
   "lastOpenFiles": [
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "NPCs/Monsters/Dryder.md",
+    "NPCs/Monsters/Général scorpion.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "campement du laboratoire.md",
     "NPCs/Monsters/Magma Rhino.md",
     "Session Notes/Session 28 - 30-11-2024.md",
-    "NPCs/Monsters/Général scorpion.md",
     "NPCs/Monsters/Aberration - ailes.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - masque.md",
