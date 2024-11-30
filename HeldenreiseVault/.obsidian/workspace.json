@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bf2749369c8b9c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 28 - 30-11-2024.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 28 - 30-11-2024"
+            }
+          },
+          {
             "id": "269550f4ec276afc",
             "type": "leaf",
             "state": {
@@ -28,31 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
-                "mode": "source",
+                "file": "NPCs/Monsters/Magma Rhino.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Le laboratoire d'Aialize"
+              "title": "Magma Rhino"
             }
           },
           {
-            "id": "bf2749369c8b9c7b",
+            "id": "cce46f03864dc899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 28 - 30-11-2024.md",
+                "file": "NPCs/Monsters/Dryder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 28 - 30-11-2024"
+              "title": "Dryder"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campement du laboratoire.md",
+                "file": "NPCs/Monsters/Magma Rhino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for campement du laboratoire"
+              "title": "Backlinks for Magma Rhino"
             }
           },
           {
@@ -181,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "campement du laboratoire.md"
+                "file": "NPCs/Monsters/Magma Rhino.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of campement du laboratoire"
+              "title": "Outline of Magma Rhino"
             }
           },
           {
@@ -276,14 +292,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "269550f4ec276afc",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
-    "NPCs/Habitants/Abreissdorf/Rosina.md",
-    "campement du laboratoire.md",
-    "NPCs/Habitants/Abreissdorf/Dirke.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 28 - 30-11-2024.md",
+    "campement du laboratoire.md",
+    "NPCs/Monsters/Dryder.md",
+    "NPCs/Monsters/Général scorpion.md",
+    "NPCs/Monsters/Aberration - ailes.md",
+    "NPCs/Monsters/Aberration - devoreur.md",
+    "NPCs/Monsters/Aberration - masque.md",
     "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Monsters/Chat Chouette.md",
+    "NPCs/Monsters/Loup Cornu.md",
+    "NPCs/Habitants/Abreissdorf/Rosina.md",
+    "NPCs/Habitants/Abreissdorf/Dirke.md",
     "NPCs/Habitants/Abreissdorf/Wielfried.md",
     "NPCs/Habitants/Abreissdorf/Solange.md",
     "NPCs/Habitants/Fraularm.md",
@@ -297,13 +320,6 @@
     "NPCs/Habitants/Abreissdorf/Rihiarda.md",
     "NPCs/Habitants/Abreissdorf/Raimund.md",
     "NPCs/Habitants/Abreissdorf/Otto.md",
-    "NPCs/Habitants/Abreissdorf/Oswald.md",
-    "NPCs/Habitants/Abreissdorf/Nanette.md",
-    "NPCs/Habitants/Almeria/Nara Coeur-de-lame.md",
-    "NPCs/Habitants/Abreissdorf/Moritz.md",
-    "NPCs/Habitants/Abreissdorf/Marthe Holzkralle.md",
-    "NPCs/Habitants/Abreissdorf/Mariette.md",
-    "NPCs/Habitants/Abreissdorf/Marcus.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",

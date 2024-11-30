@@ -67,7 +67,7 @@ Couleur des pierres de mana
 | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-3    | Base   | un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et 1d4 [[ours-hibou majestueux juvénile]] |
 | 4-5    | Base   | un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et un [[Ours Phenix]]                     |
-| 6      | Base   | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[dryder]]                                                                                                                         |
+| 6      | Base   | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[Dryder]]                                                                                                                         |
 
 ## 3 - stock abandonné
 | **D6** | **CR** | **Description**                                                                                                                                                                                                                                                                  |
@@ -105,7 +105,7 @@ Une plateforme en bois surplombe une série de cellules. Des escaliers descenden
 | 9       | [[Ours Sanguinaire]]  |
 | 10      | [[Arbreloup]]         |
 | 11      | [[Sylvedogue]]        |
-| 12      | [[dryder]]            |
+| 12      | [[Dryder]]            |
 
 
 ## 7 - statue d'Aialize
@@ -146,7 +146,7 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 | 9       | [[Ours Sanguinaire]]  | **1/repos court**: *attaque téméraire, si capacité connue, attaque téméraire sans le désavantage* |
 | 10      | [[Arbreloup]]         | **1/repos long**: *paralysé, prend forme d'un arbre pendant 1 minute. Insensible dégâts autre que feu, ne peut être distingué d'un vrai arbre* |
 | 11      | [[Sylvedogue]]        | **1/repos court**: *ignore terrain difficile jusque fin du prochain tour*|
-| 12      | [[dryder]]            | **1/repos long**: *spider climb jusque fin du prochain tour* |
+| 12      | [[Dryder]]            | **1/repos long**: *spider climb jusque fin du prochain tour* |
 
 
 ## 10 - escaliers
@@ -197,7 +197,7 @@ Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle
 | 3          | Base -1 | 1d4 monstres        | 1d8 + 2             | 1 * Table B    | 2 x Potion of greater healing                                                                          |
 | 4          | Base +1 | 1d4 monstres  +1    | 1d8 + 3             | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                     |
 | 5          | Base +2 | 1 monstre           | 1d8 + 4             | 1 * Table D    | Potion of speed, Potion of Frost Giant Strength, Potion of Pugilism                                    |
-| 6          | Base +2 | 1 monstre           | Le général scorpion | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                          |
+| 6          | Base +2 | 1 monstre           | [[Général scorpion]] | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                          |
 | Complétion |         |                     | 3 Table E           | -              | Cuir clouté de résistance (acide), robe of scintillating colors, Fragment de Compétence (Survie)       |
 
 Ring event (peut s'arrêter quand )
@@ -215,7 +215,7 @@ Ring event (peut s'arrêter quand )
 | 9       | [[Ours Sanguinaire]]  |
 | 10      | [[Arbreloup]]         |
 | 11      | [[Sylvedogue]]        |
-| 12      | [[dryder]]            |
+| 12      | [[Dryder]]            |
 
 
 ## 17 - accès au niveau supérieur
