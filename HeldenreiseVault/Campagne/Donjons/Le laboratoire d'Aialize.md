@@ -113,7 +113,7 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 | 1       | [[Ours Phenix]]       | **1/repos long**: *action bonus: regagne full HP* |
 | 2       | [[Loup Cornu]]        | **1/repos court**: *si allié au contact cible, peut rendre cible prône si attaque touche* |
 | 3       | [[Chat Chouette]]     | **1/repos long**: *1/2 taille et vol pendant 1 minute* |
-| 4       | [[ours-cornu]]        | **1/repos court**: *action bonus: coup de boule: cantrip d6 dégâts (compte comme attaque de moine)* |
+| 4       | [[Ours Cornu]]        | **1/repos court**: *action bonus: coup de boule: cantrip d6 dégâts (compte comme attaque de moine)* |
 | 5       | [[Sanglier Tonnerre]] | **1/repos court**: *ajoute 1d10 dégâts foudre à une attaque* |
 | 6       | [[Sanglier de Feu]]   | **1/repos court**: *ajoute 1d10 dégâts feu à une attaque* |
 | 7       | [[Magma Rhino]]       | **1/repos long**: *ajoute 1d10 dégâts foudre à une attaque* |
