@@ -13,7 +13,7 @@ Traits:
 - **Sauvegarde** (DEX, CON)
 - **Rapide** (Athlétisme, Acrobatie)
 - **Bête sauvage** (Survie, Perception)
-- **Peau d'écorce**: CA+3
+- **Peau d'écorce**: CA+2
 Action:
 - (A) morsure (1/tour): dégâts légers (normaux -2d) (perçant), corps-à-corps
 - (A) défenses: dégâts normaux (feu), corps-à-corps
