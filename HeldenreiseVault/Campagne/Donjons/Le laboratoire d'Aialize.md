@@ -16,6 +16,8 @@ Donjon - niveau 2-5
 Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
+Lors de l'entrée dans le donjon, lancer 1d4 + 1. Cela donne le Challenge Rating (CR) de base du donjon. Chaque salle indique le CR des monstres qui s'y trouvent en fonction du CR de base.
+
 ![[NPC Progression Tables#Membre groupe]]
 
 - ![[Ours Phenix#Icône]]![[Ours Phenix#Fiche]]
@@ -31,20 +33,22 @@ Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans l
 - ![[Sylvedogue#Icône]]![[Sylvedogue#Fiche]]
 - ![[Ours Hibou Majestueux#Icône]]![[Ours Hibou Majestueux#Fiche]]
 
+# Règles spéciales
+
 # Salles
 
 ## 1 - entrée + 2 - grotte
-| **D6** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-3    | un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et 1d4 [[ours-hibou majestueux juvénile]] |
-| 4-5    | un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et un [[Ours Phenix]]                     |
-| 6       | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[dryder]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **D6** | **CR** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3    | Base |  un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et 1d4 [[ours-hibou majestueux juvénile]] |
+| 4-5    | Base | un [[Chat Chouette]] perché sur une pierre qui dépasse en hauteur a le regard fixé sur l'ouverture de grotte. A l'arrivée des aventuriers, il pousse un cri et alerte l'[[Ours Hibou Majestueux]]  qui s'y trouve. Une fois le combat engagé, il vole dans la grotte pour prendre un oeuf d'[[Ours Hibou Majestueux]] qu'il ramène sur son promontoire et commence à déguster. Le fond de la grotte contient quelques oeufs d'[[Ours Hibou Majestueux]] et un [[Ours Phenix]]                     |
+| 6       | Base | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[dryder]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## 3 - stock abandonné
 | **D6** | **Description**                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux et contiennent des équipement d'alchimie cassés et inutilisables |
-| 5-6    | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux sont couvertes de mousse et forment une pile au milieu de la pièce. Elle contiennent des équipement d'alchimie cassés et inutilisables. Au milieu des caisses se cache un [[Arbreloup]]. |
+| 1-4    | - | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux et contiennent des équipement d'alchimie cassés et inutilisables |
+| 5-6    | Base | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux sont couvertes de mousse et forment une pile au milieu de la pièce. Elle contiennent des équipement d'alchimie cassés et inutilisables. Au milieu des caisses se cache un [[Arbreloup]]. |
 
 ## 4 - tunnel fragile
 *piège* le plafond est instable. Jet de survie ou discrétion DC 14 pour éviter de se prendre 1d6 contondant par tranche de 4 d'échec.
@@ -57,10 +61,10 @@ Une plateforme en bois surplombe une série de cellules. Des escaliers descenden
 
 | **D6** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Les cellules sont vides.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 2-3    | Une partie des cellules contiennent un assortiment d'humains, halfelins et animaux divers (loups, sangliers, araignées, serpents, oiseaux divers). L'odeur de fiente, sueur et misère est intenable (CON DC 15) ou statut empoisonné. Les humanoïdes semblent perdus si libérés. Si ils sont escortés à la sortie du donjon, ils disparaissent et un coffre de récompense tombe du plafond. Les animaux attaquent ou restent dans leur cellule si libérés.                |
-| 4-5    | Une partie des cellules contient des horreurs difformes d'humains et animaux fusionnés (5) et d'animaux transformés (7). Plus de la moitié semblent ne pas avoir survécu au changement.   L'odeur de pourriture est insoutenable    (CON DC 15)  ou statut empoisonné.  Aucun hybride n'est en état de sortir ou attaquer. Si tous tués, coffre de récompense sort du sol, mais sauvegarde WIS DC 15 ou état "déprimé" (comme empoisonné, disparait après un repos court). |
-| 6      | Seules quelques cellules (2d4) sont occupées.  Mais les hybrides qui les occupent semblent en bonne santé et viables. Tous les tuer donne un coffre de récompense et des cristaux de mana pour chaque monstre.                                                                                                                                                                                                                                                             |
+| 1      | Base | Les cellules sont vides.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2-3    | Base | Une partie des cellules contiennent un assortiment d'humains, halfelins et animaux divers (loups, sangliers, araignées, serpents, oiseaux divers). L'odeur de fiente, sueur et misère est intenable (CON DC 15) ou statut empoisonné. Les humanoïdes semblent perdus si libérés. Si ils sont escortés à la sortie du donjon, ils disparaissent et un coffre de récompense tombe du plafond. Les animaux attaquent ou restent dans leur cellule si libérés.                |
+| 4-5    | Base | Une partie des cellules contient des horreurs difformes d'humains et animaux fusionnés (5) et d'animaux transformés (7). Plus de la moitié semblent ne pas avoir survécu au changement.   L'odeur de pourriture est insoutenable    (CON DC 15)  ou statut empoisonné.  Aucun hybride n'est en état de sortir ou attaquer. Si tous tués, coffre de récompense sort du sol, mais sauvegarde WIS DC 15 ou état "déprimé" (comme empoisonné, disparait après un repos court). |
+| 6      | Base | Seules quelques cellules (2d4) sont occupées.  Mais les hybrides qui les occupent semblent en bonne santé et viables. Tous les tuer donne un coffre de récompense et des cristaux de mana pour chaque monstre.                                                                                                                                                                                                                                                             |
 
 
 | **D12** | **Monstre**           |
@@ -100,9 +104,9 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 
 | **D6** | **Description**                                                                                                                                                                                                                          |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-4    | Un tapis en ruine au milieu de la salle. Des glyphes partiellement effacés. Les restes d'un triangle arcanique sur la plateforme. Une couche de poussière recouvre tout.                                                                 |
-| 5      | Vision du passé: [[Aialize]] execute un rituel sur un animal (table monstre). Se placer au milieu du rituel où se trouve l'animal: Save CON DC 15: succès: 1/2HP, sinon 1 HP. Dans tous les cas: gagne un attribut de l'animal résistant |
-| 6       |Vision du passé: [[Aialize]] fait des ronds, l'air préoccupée, puis soudain s'écroule et à une crise folie. Elle marche à 4 pattes, bave et se tape la tête contre les murs. Après quelques minutes, un groupe de soldats humains surgit et la tue. Le groupe reçoit des pierres de mana.                                                                                                                                                                                                                                          |
+| 1-4    | Base | Un tapis en ruine au milieu de la salle. Des glyphes partiellement effacés. Les restes d'un triangle arcanique sur la plateforme. Une couche de poussière recouvre tout.                                                                 |
+| 5      | Base | Vision du passé: [[Aialize]] execute un rituel sur un animal (table monstre). Se placer au milieu du rituel où se trouve l'animal: Save CON DC 15: succès: 1/2HP, sinon 1 HP. Dans tous les cas: gagne un attribut de l'animal résistant |
+| 6       |Base | Vision du passé: [[Aialize]] fait des ronds, l'air préoccupée, puis soudain s'écroule et à une crise folie. Elle marche à 4 pattes, bave et se tape la tête contre les murs. Après quelques minutes, un groupe de soldats humains surgit et la tue. Le groupe reçoit des pierres de mana.                                                                                                                                                                                                                                          |
 
 | **D12** | **Monstre**           | **Effet** |
 | ------- | --------------------- |-----------|
@@ -127,23 +131,23 @@ Si monte, entend comme des gémissements et hurlements qui viennent du couloir e
 ## 11 - cellules des gardes
 | **D6** | **Description**                                                                                                                                                   |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-4    | Des meubles et râteliers en bois sont renversés et brisés. Les cellules contiennent des squelettes de gardes elfes (loot: armes et armures de légionnaires elfes) |
-| 5      | Salle en parfait état mais vide. Une notice indique que les cellules sont réservées à la méditation                                                               |
-| 6       | Gardes à combattre, 3 [[légionnaire haut elfe]]                                                                                                                                                                  |
+| 1-4    | Base | Des meubles et râteliers en bois sont renversés et brisés. Les cellules contiennent des squelettes de gardes elfes (loot: armes et armures de légionnaires elfes) |
+| 5      | Base | Salle en parfait état mais vide. Une notice indique que les cellules sont réservées à la méditation                                                               |
+| 6       | Base | Gardes à combattre, 3 [[légionnaire haut elfe]]                                                                                                                                                                  |
 
 ## 12 - salle des gardes
 | **D6** | **Description**                                                                    |
 | ------ | ---------------------------------------------------------------------------------- |
-| 1-3    | Une salle de torture, tout est en très mauvais état, presque détruit par le temps. |
-| 4      | Un chevalier mort vivant elfe torture un humain. Sauver l'humain fait apparaître un coffre avec des cristaux de mana.                                                                                   |
-| 5      | 3 chevaliers elfes jouent aux cartes, ils attaquent les aventuriers.                                                                                   |
-| 6      | Le général scorpion se repose. Il demande aux aventuriers de partir puis se téléporte.                                                                                   |
+| 1-3    | Base | Une salle de torture, tout est en très mauvais état, presque détruit par le temps. |
+| 4      | Base | Un chevalier mort vivant elfe torture un humain. Sauver l'humain fait apparaître un coffre avec des cristaux de mana.                                                                                   |
+| 5      | Base | 3 chevaliers elfes jouent aux cartes, ils attaquent les aventuriers.                                                                                   |
+| 6      | Base | Le général scorpion se repose. Il demande aux aventuriers de partir puis se téléporte.                                                                                   |
 
 ## 13 - fontaine
 | **D6** | **Description**                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1-4    | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
-| 5-6       |  La L'eau ne jaillit pas du milieu. L'eau est potable. En boire donne la condition "repos": lors d'un repos court dans la salle, tout dé de vie dépensé donne toujours son résultat maximum.     Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| 1-4    | Base | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
+| 5-6       |  Base | La L'eau ne jaillit pas du milieu. L'eau est potable. En boire donne la condition "repos": lors d'un repos court dans la salle, tout dé de vie dépensé donne toujours son résultat maximum.     Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
 ## 14 - accès au niveau inférieur 
 Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau inférieur.
@@ -151,9 +155,9 @@ Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le
 ## 15 - camp abandonné
 | **D6** | **Description**                                                                                                                                  |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 - 3  | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
-| 4 - 5  | La salle est complètement vide                                                                                                                   |
-| 6      | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                 ||
+| 1 - 3  | Base | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
+| 4 - 5  | Base | La salle est complètement vide                                                                                                                   |
+| 6      | Base | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                 ||
 
 
 ## 16 - salle de test

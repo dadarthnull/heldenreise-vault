@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "campement du laboratoire.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -43,16 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Arbreloup.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 28 - 30-11-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arbreloup"
+              "title": "Session 28 - 30-11-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campement du laboratoire.md",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for campement du laboratoire"
+              "title": "Backlinks for Le laboratoire d'Aialize"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "campement du laboratoire.md"
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of campement du laboratoire"
+              "title": "Outline of Le laboratoire d'Aialize"
             }
           },
           {
@@ -276,10 +277,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "269550f4ec276afc",
+  "active": "8c4b234c2e9918d4",
   "lastOpenFiles": [
     "Session Notes/Session 28 - 30-11-2024.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "campement du laboratoire.md",
+    "NPCs/Monsters/Arbreloup.md",
+    "NPCs/Habitants/Abreissdorf/Wielfried.md",
+    "NPCs/Habitants/Abreissdorf/Solange.md",
+    "NPCs/Habitants/Abreissdorf/Rosina.md",
     "NPCs/Habitants/Fraularm.md",
     "Session Notes/Session 27 - 23-11-2024.md",
     "Session Notes/Session 26 - 16-11-2024.md",
@@ -287,10 +293,7 @@
     "Session Notes/Session 24 - 12-10-2024.md",
     "NPCs/Patrons et alliés/Walther Goldhain.md",
     "NPCs/Habitants/Gustavo Haggard.md",
-    "NPCs/Habitants/Abreissdorf/Wielfried.md",
     "NPCs/Habitants/Abreissdorf/Sylvester.md",
-    "NPCs/Habitants/Abreissdorf/Solange.md",
-    "NPCs/Habitants/Abreissdorf/Rosina.md",
     "NPCs/Habitants/Abreissdorf/Rihiarda.md",
     "NPCs/Habitants/Abreissdorf/Raimund.md",
     "NPCs/Habitants/Abreissdorf/Otto.md",
@@ -302,8 +305,6 @@
     "NPCs/Habitants/Abreissdorf/Mariette.md",
     "NPCs/Habitants/Abreissdorf/Marcus.md",
     "NPCs/Habitants/Abreissdorf/Lutz.md",
-    "NPCs/Habitants/Abreissdorf/Leise.md",
-    "NPCs/Habitants/Abreissdorf/Lasfam.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
