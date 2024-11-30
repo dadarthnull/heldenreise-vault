@@ -45,8 +45,8 @@ Lors de l'entrée dans le donjon, lancer 1d4 + 1. Cela donne le Challenge Rating
 | 6       | Base | L'entrée est presque bloquée par des toiles d'araignées. 6 [[araignée géante]] se cachent dans les toiles. Les toiles ne sont pas inflammables et sont collantes. Se déplacer dans une case de toiles requiert un jet de FOR DC 12 (cible entravée en cas d'echec, action avec test FOR DC 12 pour se libérer). Au fond de la grotte, de nombreux oeufs et une [[dryder]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## 3 - stock abandonné
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **D6** |  **CR** | **Description**                                                                                                          |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1-4    | - | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux et contiennent des équipement d'alchimie cassés et inutilisables |
 | 5-6    | Base | Une réserve abandonnée depuis longtemps. Les caisses de bois pourri tombent en morceaux sont couvertes de mousse et forment une pile au milieu de la pièce. Elle contiennent des équipement d'alchimie cassés et inutilisables. Au milieu des caisses se cache un [[Arbreloup]]. |
 
@@ -59,8 +59,8 @@ Le sol descend très rapidement jusqu'à un cul de sac. Jet de Acrobatie DC 12 p
 ## 6 - cellules
 Une plateforme en bois surplombe une série de cellules. Des escaliers descendent de la plateforme aux cellules. Un pont en bois branlant mène à une sortie au niveau de la plateforme.
 
-| **D6** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **D6** |  **CR** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | Base | Les cellules sont vides.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 2-3    | Base | Une partie des cellules contiennent un assortiment d'humains, halfelins et animaux divers (loups, sangliers, araignées, serpents, oiseaux divers). L'odeur de fiente, sueur et misère est intenable (CON DC 15) ou statut empoisonné. Les humanoïdes semblent perdus si libérés. Si ils sont escortés à la sortie du donjon, ils disparaissent et un coffre de récompense tombe du plafond. Les animaux attaquent ou restent dans leur cellule si libérés.                |
 | 4-5    | Base | Une partie des cellules contient des horreurs difformes d'humains et animaux fusionnés (5) et d'animaux transformés (7). Plus de la moitié semblent ne pas avoir survécu au changement.   L'odeur de pourriture est insoutenable    (CON DC 15)  ou statut empoisonné.  Aucun hybride n'est en état de sortir ou attaquer. Si tous tués, coffre de récompense sort du sol, mais sauvegarde WIS DC 15 ou état "déprimé" (comme empoisonné, disparait après un repos court). |
@@ -102,8 +102,8 @@ Tout aventurier ou avatar voit comme une faille dans la réalité flottant au de
 **Etude**: une salle d'étude austère. Un simple bureau et une chaise en bois. **Journal d'Aialize**
 **Salle de rituels**: 
 
-| **D6** | **Description**                                                                                                                                                                                                                          |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **D6** |  **CR** | **Description**                                                                                                                                                                                                                          |
+| ------ | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-4    | Base | Un tapis en ruine au milieu de la salle. Des glyphes partiellement effacés. Les restes d'un triangle arcanique sur la plateforme. Une couche de poussière recouvre tout.                                                                 |
 | 5      | Base | Vision du passé: [[Aialize]] execute un rituel sur un animal (table monstre). Se placer au milieu du rituel où se trouve l'animal: Save CON DC 15: succès: 1/2HP, sinon 1 HP. Dans tous les cas: gagne un attribut de l'animal résistant |
 | 6       |Base | Vision du passé: [[Aialize]] fait des ronds, l'air préoccupée, puis soudain s'écroule et à une crise folie. Elle marche à 4 pattes, bave et se tape la tête contre les murs. Après quelques minutes, un groupe de soldats humains surgit et la tue. Le groupe reçoit des pierres de mana.                                                                                                                                                                                                                                          |
@@ -129,23 +129,23 @@ Un long couloir descendant, coupé par une série d'escaliers.
 Si monte, entend comme des gémissements et hurlements qui viennent du couloir en haut.
 
 ## 11 - cellules des gardes
-| **D6** | **Description**                                                                                                                                                   |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **D6** |  **CR** | **Description**                                                                                                                                                   |
+| ------ | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-4    | Base | Des meubles et râteliers en bois sont renversés et brisés. Les cellules contiennent des squelettes de gardes elfes (loot: armes et armures de légionnaires elfes) |
 | 5      | Base | Salle en parfait état mais vide. Une notice indique que les cellules sont réservées à la méditation                                                               |
 | 6       | Base | Gardes à combattre, 3 [[légionnaire haut elfe]]                                                                                                                                                                  |
 
 ## 12 - salle des gardes
-| **D6** | **Description**                                                                    |
-| ------ | ---------------------------------------------------------------------------------- |
+| **D6** |  **CR** | **Description**                                                                    |
+| ------ | ----- | ---------------------------------------------------------------------------------- |
 | 1-3    | Base | Une salle de torture, tout est en très mauvais état, presque détruit par le temps. |
 | 4      | Base | Un chevalier mort vivant elfe torture un humain. Sauver l'humain fait apparaître un coffre avec des cristaux de mana.                                                                                   |
 | 5      | Base | 3 chevaliers elfes jouent aux cartes, ils attaquent les aventuriers.                                                                                   |
 | 6      | Base | Le général scorpion se repose. Il demande aux aventuriers de partir puis se téléporte.                                                                                   |
 
 ## 13 - fontaine
-| **D6** | **Description**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **D6** |  **CR** | **Description**                                                                                                          |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------ |
 | 1-4    | Base | Une jolie fontaine avec un petit jet d'eau au centre. Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 | 5-6       |  Base | La L'eau ne jaillit pas du milieu. L'eau est potable. En boire donne la condition "repos": lors d'un repos court dans la salle, tout dé de vie dépensé donne toujours son résultat maximum.     Zone sûre. L'eau est potable, aucun monstre ne suit dans la salle. |
 
@@ -153,8 +153,8 @@ Si monte, entend comme des gémissements et hurlements qui viennent du couloir e
 Inaccessible pour le moment. Des blocks de pierre fantomatiques indiquent que le donjon n'a pas assez de mana pour manifester le niveau inférieur.
 
 ## 15 - camp abandonné
-| **D6** | **Description**                                                                                                                                  |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **D6** |  **CR** | **Description**                                                                                                                                  |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1 - 3  | Base | Les restes d'un feu de camp, un coffre de pierres rustique (traces d'énergies magiques indiquent un coffre invoqué), traces d'un sac de couchage |
 | 4 - 5  | Base | La salle est complètement vide                                                                                                                   |
 | 6      | Base | vision du passé: [[Liothek]] en train de de préparer son camp, cuisiner, lire un livre ou écrire dans un journal                                 ||
@@ -165,17 +165,15 @@ Le sol est parsemé de puits, couverts de blanches pourries. Marcher sur une pla
 Au dessus de la porte, une bouche en marbre donne des ordres. La bouche ne parle qu'une fois tout le monde entré dans la pièce. A ce moment, des grilles tombent et bloquent les 2 sorties.
 `Bienvenue, recrues. Les tests vont commencer. Après chaque test, vous pouvez abandonner. Ne pas finir l'exercice complêt sera vu négativement par vos officiers. Compléter tous les tests sera bénéfique pour votre carrière`
 
-| **Vague**  | **Nombre monstres**  | **Type monstres** | **Récompense** | **Exact**                                                                                                |
-| ---------- | -------------------- | ----------------- | -------------- | -------------------------------------------------------------------------------------------------------- |
-| 1          | 1d4 monstre affaibli | 1d8               | 1 * Table A    | Potion of climbing                                                                                       |
-| 2          | 1d6 monstre affaibli | 1d8               | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison)   |
-| 3          | 1d4 monstres         | 1d8 + 1           | 1 * Table B    | 2 x Potion of greater healing                                                                                |
-| 4          | 1d6 monstres         | 1d8 + 2           | 1d4 * Table B  | Wand of magic detection, Potion of resistance, Potion of animal friendship, Dust of sneezing and choking |
-| 5          | 1d6 monstres         | 1d8 + 2           | 1 * Table C    | Potion of gaseous form                                                                                   |
-| 6          | 1d4 monstres  +1     | 1d8 + 3           | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                       |
-| 7          | 1 monstre élite      | 1d8 + 4           | 1 * Table D    | Potion of speed                                                                                          |
-| 8          | Le général scorpion  |                   | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                            |
-| Complétion |                      |                   | 3 Table E      | Cuir clouté de résistance (acide), robe of scintillating colors                                          |
+| **Vague**  | **CR**  | **Nombre monstres** | **Type monstres**   | **Récompense** | **Exact**                                                                                              |
+| ---------- | ------- | ------------------- | ------------------- | -------------- | ------------------------------------------------------------------------------------------------------ |
+| 1          | Base -1 | 1d4 monstre         | 1d8                 | 1 * Table A    | Potion of climbing                                                                                     |
+| 2          | Base    | 1d6 monstre         | 1d8 + 1             | 1d4 * Table A  | Bag of holding, scroll of fire bolt (x 2), Driftglobe, Spell scroll (Skywrite, Protection from poison) |
+| 3          | Base -1 | 1d4 monstres        | 1d8 + 2             | 1 * Table B    | 2 x Potion of greater healing                                                                          |
+| 4          | Base +1 | 1d4 monstres  +1    | 1d8 + 3             | 1d4 * Table C  | Spell scroll (Cloudkill), ammunion +2 (3), scroll of protection, Potion of heroism                     |
+| 5          | Base +2 | 1 monstre           | 1d8 + 4             | 1 * Table D    | Potion of speed, Potion of Frost Giant Strength, Potion of Pugilism                                    |
+| 6          | Base +2 | 1 monstre           | Le général scorpion | 1d4 * Table D  | Potion of longevity, potion of vitality, Spell scroll (Blight), Portable hole                          |
+| Complétion |         |                     | 3 Table E           | -              | Cuir clouté de résistance (acide), robe of scintillating colors, Fragment de Compétence (Survie)       |
 
 Ring event (peut s'arrêter quand )
 
