@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "file": "campement du laboratoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 25 - 02-11-2024"
+              "title": "Backlinks for campement du laboratoire"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md"
+                "file": "campement du laboratoire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 25 - 02-11-2024"
+              "title": "Outline of campement du laboratoire"
             }
           },
           {
@@ -232,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "a6b5b4448e7df677",
@@ -253,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
