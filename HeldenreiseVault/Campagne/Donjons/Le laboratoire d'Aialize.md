@@ -13,7 +13,7 @@ Donjon - niveau 2-5
 
 ![[laboratoire-d-aialize-plan.jpg|600]]
 
-Ancien laboratoire de l'archimage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
+Ancien laboratoire de l'archi-mage elfe [[Aialize Bolenan]], spécialisée dans la création de nouvelles espèces par hybridations magiques. On lui doit notamment Hibloux, Ours-Hiboux, Chats-Chouettes, Griffons, Ours-Cornus, Sangliers-écarlates.
 
 # Monstres
 Lors de l'entrée dans le donjon, lancer 1d4 + 1. Cela donne le Challenge Rating (CR) de base du donjon. Chaque salle indique le CR des monstres qui s'y trouvent en fonction du CR de base.
@@ -33,7 +33,32 @@ Lors de l'entrée dans le donjon, lancer 1d4 + 1. Cela donne le Challenge Rating
 - ![[Sylvedogue#Icône]]![[Sylvedogue#Fiche]]
 - ![[Ours Hibou Majestueux#Icône]]![[Ours Hibou Majestueux#Fiche]]
 
-# Règles spéciales
+Chaque monstre dans le donjon (sauf salle de tests) droppe:
+- 1d4 + 2 pierres de mana mineures
+- 1d3 pierres mana
+Bosses et récompenses d'évènements augmentent les récompense avec: 
+- pair:
+	- 1d12 x 20 po
+	- 2d8 x 25 pa
+- impair
+	- 1d4
+	- 1: table A
+	- 2: table B
+	- 3: table F
+	- 4: table G
+
+Couleur des pierres de mana
+
+| D8  | Couleur   |
+| --- | --------- |
+| 1   | Or        |
+| 2   | Argent    |
+| 3   | blanc     |
+| 4   | noir      |
+| 5   | bleu      |
+| 6   | vert      |
+| 7   | rouge     |
+| 8   | arcanique |
 
 # Salles
 
