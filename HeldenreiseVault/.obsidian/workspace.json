@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grotte Morts-vivants du Nord"
+              "title": "Mort-Vivant - Squelette fragile"
             }
           },
           {
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 499.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -294,9 +294,12 @@
   },
   "active": "269550f4ec276afc",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/Ours Cornu.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "campement du laboratoire.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Campagne/Donjons/Tour de Liothek.md",
     "Campagne/Donjons/Tour de la lune noire.md",
     "Campagne/Donjons/Mère des glaces.md",
@@ -317,9 +320,6 @@
     "NPCs/Monsters/Aberration - ailes.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - masque.md",
-    "NPCs/Monsters/Arbreloup.md",
-    "NPCs/Monsters/Chat Chouette.md",
-    "NPCs/Monsters/Loup Cornu.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
