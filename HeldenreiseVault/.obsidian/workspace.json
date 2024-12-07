@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Squelette.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Squelette fragile"
+              "title": "Mort-Vivant - Squelette"
             }
           },
           {
@@ -294,9 +294,10 @@
   },
   "active": "269550f4ec276afc",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Ours Cornu.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "campement du laboratoire.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
@@ -319,7 +320,6 @@
     "Session Notes/Session 28 - 30-11-2024.md",
     "NPCs/Monsters/Aberration - ailes.md",
     "NPCs/Monsters/Aberration - devoreur.md",
-    "NPCs/Monsters/Aberration - masque.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
