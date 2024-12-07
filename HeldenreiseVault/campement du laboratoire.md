@@ -26,6 +26,7 @@ Campement temporaire installé devant l'entrée du [[Le laboratoire d'Aialize]]
 	- un fourgon blindé dans une tente. Un aventurier niveau 1 ou 2 est en permanence devant l'entrée et elle est au milieu du camp, à la vue de tout le monde
 - L'ancre du Courage (**taverne**)
 	- patron ([[Rander Volk]]) et serveuses ([[Filla Volk]], [[Nira Volk]]), sert de bureau non-officiel à [[[[Elda Revan]]]]
+	- vin: 1pa, biere 5pc, plat gratuit
 	- piliers de bar: [[Kaelen Sordane]], [[Silyra Thalenn]] , [[Kalithra Duskshade]], [[Ogran Tharsk]], [[Mina Holt]], [[Eryk Maldrin]], [[Felra Anser]] 
 - Or et Éther (**compagnie marchande**)
 	- [[Altherin Lorrath]]
