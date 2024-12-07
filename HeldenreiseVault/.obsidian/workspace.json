@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campement du laboratoire.md",
+                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "campement du laboratoire"
+              "title": "Grotte Morts-vivants du Nord"
             }
           },
           {
@@ -58,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Tour de Liothek.md",
-                "mode": "preview",
+                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tour de Liothek"
+              "title": "Le laboratoire d'Aialize"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,14 +292,26 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "c8005052a7a12a39",
+  "active": "269550f4ec276afc",
   "lastOpenFiles": [
-    "NPCs/Monsters/Aberration - plante.md",
-    "Campagne/Donjons/Tour de Liothek.md",
+    "campement du laboratoire.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+    "Campagne/Donjons/Tour de Liothek.md",
+    "Campagne/Donjons/Tour de la lune noire.md",
+    "Campagne/Donjons/Mère des glaces.md",
+    "Campagne/Donjons/Forteresse de Gravenberg.md",
+    "Campagne/Donjons/Forge de Trazayuya.md",
+    "Campagne/Donjons/Creuset verdoyant.md",
+    "Campagne/Donjons/Creuset de Zenayoloya.md",
+    "Campagne/Donjons/Citadelle de l'équilibre éternel.md",
+    "Campagne/Donjons/Bosquet du printemps éternel.md",
+    "Campagne/Donjons/Arsenal de Trazayuya.md",
+    "Campagne/Donjons/Arène démoniaque.md",
+    "Campagne/Donjons/Antre de Ciriltoa.md",
+    "NPCs/Monsters/Aberration - plante.md",
     "NPCs/Monsters/Général scorpion.md",
     "NPCs/Monsters/Dryder.md",
-    "campement du laboratoire.md",
     "NPCs/Monsters/Magma Rhino.md",
     "Session Notes/Session 28 - 30-11-2024.md",
     "NPCs/Monsters/Aberration - ailes.md",
@@ -308,18 +320,6 @@
     "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Loup Cornu.md",
-    "NPCs/Habitants/Abreissdorf/Rosina.md",
-    "NPCs/Habitants/Abreissdorf/Dirke.md",
-    "NPCs/Habitants/Abreissdorf/Wielfried.md",
-    "NPCs/Habitants/Abreissdorf/Solange.md",
-    "NPCs/Habitants/Fraularm.md",
-    "Session Notes/Session 27 - 23-11-2024.md",
-    "Session Notes/Session 26 - 16-11-2024.md",
-    "Session Notes/Session 25 - 02-11-2024.md",
-    "Session Notes/Session 24 - 12-10-2024.md",
-    "NPCs/Patrons et alliés/Walther Goldhain.md",
-    "NPCs/Habitants/Gustavo Haggard.md",
-    "NPCs/Habitants/Abreissdorf/Sylvester.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
