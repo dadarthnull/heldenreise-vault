@@ -13,32 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 28 - 30-11-2024.md",
+                "file": "Session Notes/Session 29 - 07-12-2024.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 28 - 30-11-2024"
+              "title": "Session 29 - 07-12-2024"
             }
           },
           {
-            "id": "269550f4ec276afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 28 - 30-11-2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Session 28 - 30-11-2024"
-            }
-          },
-          {
-            "id": "bd6176c0ac2a9eb3",
+            "id": "8bebe34bbe9ea0ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,22 +38,22 @@
             }
           },
           {
-            "id": "c8005052a7a12a39",
+            "id": "bf046e85b1247cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Le laboratoire d'Aialize.md",
-                "mode": "source",
+                "file": "campement du laboratoire.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Le laboratoire d'Aialize"
+              "title": "campement du laboratoire"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 271.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -292,18 +277,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "269550f4ec276afc",
+  "active": "bf046e85b1247cc6",
   "lastOpenFiles": [
-    "Session Notes/Session 27 - 23-11-2024.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 29 - 07-12-2024.md",
+    "campement du laboratoire.md",
+    "NPCs/Monsters/Aberration - plante.md",
     "Session Notes/Session 28 - 30-11-2024.md",
+    "Session Notes/Session 27 - 23-11-2024.md",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Ours Cornu.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
-    "campement du laboratoire.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Campagne/Donjons/Tour de Liothek.md",
     "Campagne/Donjons/Tour de la lune noire.md",
     "Campagne/Donjons/Mère des glaces.md",
@@ -316,7 +302,6 @@
     "Campagne/Donjons/Arsenal de Trazayuya.md",
     "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
-    "NPCs/Monsters/Aberration - plante.md",
     "NPCs/Monsters/Général scorpion.md",
     "NPCs/Monsters/Dryder.md",
     "NPCs/Monsters/Magma Rhino.md",

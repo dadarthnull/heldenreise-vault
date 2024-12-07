@@ -29,7 +29,7 @@ Campement temporaire installé devant l'entrée du [[Le laboratoire d'Aialize]]
 	- piliers de bar: [[Kaelen Sordane]], [[Silyra Thalenn]] , [[Kalithra Duskshade]], [[Ogran Tharsk]], [[Mina Holt]], [[Eryk Maldrin]], [[Felra Anser]] 
 - Or et Éther (**compagnie marchande**)
 	- [[Altherin Lorrath]]
-- L'Ours Gourmand (**épicerie, charcuterie)
+- L'Ours Gourmand (**épicerie, charcuterie**)
 	- [[Rykon Fleetfoot]]
 - Comptoir de l'aventure (**magasin général**)
 	- [[Rosina]] et [[Dirke]] ont vendu leur magasin à [[AbreissDorf]] et investit dans une tente et des fournitures pour monter un nouveau magasin à l'entrée du donjon. Ils sont très enthousiastes et optimistes (les reste du village leur à fait une avance de fonds)
