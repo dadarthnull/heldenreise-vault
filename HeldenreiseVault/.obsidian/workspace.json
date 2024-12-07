@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Squelette.md",
-                "mode": "source",
+                "file": "Session Notes/Session 28 - 30-11-2024.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Squelette"
+              "title": "Session 28 - 30-11-2024"
             }
           },
           {
@@ -294,8 +294,11 @@
   },
   "active": "269550f4ec276afc",
   "lastOpenFiles": [
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "Session Notes/Session 27 - 23-11-2024.md",
+    "Session Notes/Session 29 - 07-12-2024.md",
+    "Session Notes/Session 28 - 30-11-2024.md",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Ours Cornu.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
@@ -317,9 +320,6 @@
     "NPCs/Monsters/Général scorpion.md",
     "NPCs/Monsters/Dryder.md",
     "NPCs/Monsters/Magma Rhino.md",
-    "Session Notes/Session 28 - 30-11-2024.md",
-    "NPCs/Monsters/Aberration - ailes.md",
-    "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
