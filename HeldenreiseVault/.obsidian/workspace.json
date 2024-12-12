@@ -52,8 +52,7 @@
               "title": "campement du laboratoire"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,10 +276,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bf046e85b1247cc6",
+  "active": "bf2749369c8b9c7b",
   "lastOpenFiles": [
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "campement du laboratoire.md",
+    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Session Notes/Session 29 - 07-12-2024.md",
     "Session Notes/Session 28 - 30-11-2024.md",
     "Session Notes/Session 27 - 23-11-2024.md",
