@@ -1,5 +1,5 @@
 # Icône
-!
+![[archer-squelette.png]]
 
 # Fiche
 ```

@@ -1,5 +1,5 @@
 # Icône
-!
+![[squelette.png]]
 
 # Fiche
 ```

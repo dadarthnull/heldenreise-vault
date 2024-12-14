@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Squelette.md",
+                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Squelette"
+              "title": "Grotte Morts-vivants du Nord"
+            }
+          },
+          {
+            "id": "373e0c637a323821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Rose Vampire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rose Vampire"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,10 +277,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "03a20af4459cff82",
+  "active": "2b5468db4d09180c",
   "lastOpenFiles": [
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "zombie.png",
+    "ghoule.png",
+    "squelette-fragile.png",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
+    "squelette.png",
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "archer-squelette.png",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Session Notes/Session 30- 14-12-2024.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
@@ -274,7 +295,6 @@
     "Session Notes/Session 28 - 30-11-2024.md",
     "Session Notes/Session 27 - 23-11-2024.md",
     "NPCs/Monsters/Aberration - plante.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Ours Cornu.md",
     "Campagne/Donjons/Tour de Liothek.md",
     "Campagne/Donjons/Tour de la lune noire.md",
@@ -289,7 +309,6 @@
     "Campagne/Donjons/Arène démoniaque.md",
     "Campagne/Donjons/Antre de Ciriltoa.md",
     "NPCs/Monsters/Général scorpion.md",
-    "NPCs/Monsters/Dryder.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
@@ -298,11 +317,6 @@
     "Assets/arbreloup.png",
     "Assets/asteroid-lab-map.png",
     "Assets/loup-cornu.png",
-    "Assets/magma-rhino.png",
-    "Assets/loup-chouettes.png",
-    "Assets/chat-chouette.png",
-    "Assets/dire-owlbear.png",
-    "Assets/ours-phenix.png",
     "Campagne/Donjons/explorés",
     "NPCs/Monsters/Ancien template",
     "Campagne/Empereur liche.canvas",
