@@ -21,9 +21,13 @@ Donjon - niveau 2-5
 - ![[Mort-Vivant - Archer squelette#Icône]][[Mort-Vivant - Archer squelette#Fiche]]
 - ![[Mort-Vivant - Squelette fragile#Icône]][[Mort-Vivant - Squelette fragile#Fiche]]
 - ![[Mort-Vivant - Squelette#Icône]][[Mort-Vivant - Squelette#Fiche]]
-- ![[Mort-Vivant - Zombie]]
-- ![[Rose Vampire]]
-- 
+- ![[Mort-Vivant - Zombie#Icône]][[Rose Vampire#Fiche]]
+- ![[Mort-Vivant - Zombie Runique#Icône]][[Rose Vampire#Fiche]]
+- ![[Mort-Vivant - Vampire#Icône]][[Rose Vampire#Fiche]]
+- ![[Culte de la lune noire#Icône]][[Rose Vampire#Fiche]]
+- ![[Prêtre de la lune noire#Icône]][[Rose Vampire#Fiche]]
+- ![[Mort-Vivant - Chevalier de la mort#Icône]][[Rose Vampire#Fiche]]
+- ![[Rose Vampire#Icône]][[Rose Vampire#Fiche]]
 
 ## Récompenses
 
