@@ -9,8 +9,9 @@ Mouvement: 30 (6 cases)
 CR: 1/4
 Flavor: Mort-Vivant
 Traits:
-- Vulnérabilité (Contondant)
-- Immunité (Poison), conditions (Fatigué, Empoisonné)
+- Vulnérabilité (Contondant, Force)
+- Résistant (Tranchant)
+- Immunité (Poison, Perçant), conditions (Fatigué, Empoisonné)
 Attaques:
 - (A) épée courte: dégâts normaux (tranchants), corps-à-corps
 Capacités:
