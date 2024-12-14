@@ -63,6 +63,7 @@ Donjon - niveau 2-5
 - [[Mort-Vivant - Squelette fragile]]
 - [[Mort-Vivant - Zombie]]
 - [[Mort-Vivant - Zombie Runique]]
+- [[Mort]]
 
 ## 9 - enclos des golems
 
