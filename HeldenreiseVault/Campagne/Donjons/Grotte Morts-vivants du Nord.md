@@ -30,7 +30,43 @@ Donjon - niveau 2-5
 # Salles
 ## Entrée
 
-## 1 - 
+## 1 - Réserve
+- cultistes
+- coffres (équipement)
+- golem de chair
+- champignonnière
+
+## 2 - Puit de miasme
+
+## 3 - Zone de prière
+- cultistes
+- zombies
+- vampire
+
+## 4 - Campement
+- cultistes
+
+## 5 - latrines
+
+## 6 - Laboratoire de nécromancie
+- cultistes
+- chevalier de la mort (jeune)
+- zombies
+- zombies runiques
+
+## 7 - Réserve
+- coffres et sacs 
+
+## 8 - entrée de la cave de miasme
+- [[Mort-Vivant - Squelette]]
+- [[Mort-Vivant - Archer squelette]]
+- [[Mort-Vivant - Squelette fragile]]
+- [[Mort-Vivant - Zombie]]
+- [[Mort-Vivant - Zombie Runique]]
+
+## 9 - enclos des golems
+
+## 10 - echelle vers le complexe supérieur
 
 # Secrets et indices
 
