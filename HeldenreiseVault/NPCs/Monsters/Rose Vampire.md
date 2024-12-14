@@ -1,39 +1,28 @@
 
-```statblock
-image: --
-name: Rose Vampire
-size: S-M-L
-type: plante
-subtype: -
-alignment: -
-ac: 15
-hp: 55
-hit_dice: 10d6 + 15
-speed: 15
-stats: [20, 10, 19, 03, 13, 05]
-saves:
-  - Strength: +12
-  - Constitution: +8
-skillsaves:
-damage_vulnerabilities: Feu, Glace, Acide
-damage_resistances: Poison, Nécrotique
-damage_immunities: -
-condition_immunities: tout effet mental, sommeil
-senses: perception passive 15
-languages: -
-cr: -
-traits:
-  - name: xxx
-    desc: xxx
-actions:
-  - name: Multi Attaque
-    desc: Effecture 5 attaques de lianes ou Un vol de vie si au moins une créature est capturée par une liane
-  - name: Attaque (lianes)
-    desc: "Melee Weapon Attack: +8 to Hit, reach 15ft, one target. Hit: 5 (1d8) tranchant, cible doit faire un jet se sauvegarde CON DC 14 ou être capturé (condition grappled, test de FOR DC 15 pour se libérer)"
-    - name: Vol de Vie
-      desc: "Une creature capturée doit fair eun jet de résistance CON DC 13, en cas d'échec, elle pert 10 (2d8) point de vie, divisé par deux en cas de réussite  du jet de sauvegarde. LE rose vampire regagne autant de pints de vie qu'infligés par le vold e vie."
-bonus_actions:
-reactions:
-  - name: xxx
-    desc: "xxx"
-```
+# Icône
+![[rose-vampire.png|150]]
+
+# Fiche
+**Rose Vampire**
+
+*Size*: M
+*Mouvement*: 0 (0 cases)
+*CR*: 1
+*Flavor*: Plante vampire, émanation nécrotique
+
+**Traits**:
+- Vulnérabilité (Feu, Glace, Acide)
+- Résistant (Poison, Nécrotique)
+
+**Attaques**:
+- (A) **_vrille vampire_**: 1/2 dégâts normaux (nécrotique), corps-à-corps, 10ft (2 cases), gagne HP égaux aux dégâts infligés
+- (A) **_vignes entravantes_**: 1/2 dégâts normaux (perçants), corps-à-corps, 10ft (2 cases)
+
+**Capacités**:
+- **(P)** **_Aura nécrotique_** [aura 10 feet (2 cases, 3m] Tout mort-vivant dans l'aura gagne les capacités suivantes:
+    - regagne 1d6 HP au début de son tour
+    - si tombe à 0hp, réapparait à 1HP au début de son tour suivant.
+
+
+# Référence
+![[NPC Progression Tables#Membre groupe]]
