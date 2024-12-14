@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Zombie.md",
+                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Zombie"
+              "title": "Grotte Morts-vivants du Nord"
             }
           },
           {
@@ -279,8 +279,12 @@
   },
   "active": "03a20af4459cff82",
   "lastOpenFiles": [
-    "templates/NPC Template.md",
     "NPCs/Monsters/Mort-Vivant - Zombie.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette.md",
+    "Session Notes/Session 30- 14-12-2024.md",
+    "zombie.png",
+    "token_28.png",
+    "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
     "NPCs/Monsters/Arbreloup.md",
     "NPCs/Monsters/Aberration - ailes.md",
@@ -294,7 +298,6 @@
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Aberration - slime.md",
     "NPCs/Monsters/Aberration - squelette.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Ours Cornu.md",
     "NPCs/Monsters/Ours Hibou Majestueux.md",
@@ -304,9 +307,7 @@
     "NPCs/Monsters/Sanglier de Feu.md",
     "NPCs/Monsters/Sanglier Tonnerre.md",
     "NPCs/Monsters/Sylvedogue.md",
-    "NPCs/Monsters/Aberration - devoreur.md",
     "rose-vampire.png",
-    "zombie.png",
     "ghoule.png",
     "squelette-fragile.png",
     "squelette.png",
@@ -317,7 +318,6 @@
     "imperial-ship-corridor.jpg",
     "Assets/horned-wolf.webp",
     "Assets/arbreloup.png",
-    "Assets/asteroid-lab-map.png",
     "Campagne/Donjons/explorés",
     "NPCs/Monsters/Ancien template",
     "Campagne/Empereur liche.canvas",

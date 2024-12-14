@@ -1,34 +1,33 @@
 
 ---
-nom: __nom du PNJ__
+nom: Zombie
 image: __image__
-taille: __taille du PNJ__
-mouvement: __mouvement du PNJ__
-challenge: __challenge rating du PNJ__
+taille: M
+mouvement: 20
+challenge: 1
 theme: __
 ---
 
 # Icône
-![[ `this.image`|150]]
+![[zombie.png|150]]
 
 # Fiche
-** `this.taille`**
+**Zombie**
 
-*Taille*: `this.taille`
-*Mouvement*: `this.mouvement`
-*CR*:  `this.challenge`
-*Thème*:  `this.theme`
+*Taille*: M
+*Mouvement*: 20ft (4 cases, 6m)
+*CR*:  1
+*Thème*:  zombie
 
 **Traits**:
-- **Sauvegarde** --
-- **Trait** --
+- **Sauvegarde** SAG
 
 **Action**:
-- (A) attaque: dégâts normaux (tranchants), corps-à-corps
-- (A) attaque (1/tour): dégâts normaux (perçant), corps-à-corps
+- (A) poings: dégâts normaux (contondant), corps-à-corps
+- (A) griffes (1/tour): dégâts normaux (perçant), corps-à-corps
 
 **Capacités**:
-- _**capacité**_ blah blah
+- _**intuable**_ Si les dégâts réduisent le zombie à 0 point de vie, il doit faire un jet de sauvegarde de **Constitution** avec un **DC** de **5 + les dégâts subis**, sauf si les dégâts sont rayonnants ou s'il s'agit d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie.
 
 
 # Référence

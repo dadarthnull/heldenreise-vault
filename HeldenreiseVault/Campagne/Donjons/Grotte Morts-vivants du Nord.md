@@ -21,6 +21,8 @@ Donjon - niveau 2-5
 - ![[Mort-Vivant - Archer squelette#Icône]][[Mort-Vivant - Archer squelette#Fiche]]
 - ![[Mort-Vivant - Squelette fragile#Icône]][[Mort-Vivant - Squelette fragile#Fiche]]
 - ![[Mort-Vivant - Squelette#Icône]][[Mort-Vivant - Squelette#Fiche]]
+- ![[Mort-Vivant - Zombie]]
+- ![[Rose Vampire]]
 - 
 
 ## Récompenses
