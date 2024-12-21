@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Liche.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Golem de Chair"
+              "title": "Mort-Vivant - Liche"
             }
           }
         ],
@@ -264,7 +264,9 @@
   },
   "active": "03a20af4459cff82",
   "lastOpenFiles": [
+    "token_17 (1).png",
     "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+    "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "NPCs/Monsters/Mort-Vivant - Liche.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
@@ -284,7 +286,6 @@
     "Assets/golem de chair.png",
     "Assets/goule.png",
     "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
-    "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "NPCs/Monsters/Cultiste de la lune noire.md",
     "NPCs/Monsters/Chat Chouette.md",
     "NPCs/Monsters/Arbreloup.md",
@@ -299,7 +300,6 @@
     "Assets/zombie.png",
     "token_28.png",
     "templates/NPC Template.md",
-    "templates/NPC-Template-2.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
