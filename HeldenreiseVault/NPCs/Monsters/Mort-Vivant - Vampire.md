@@ -9,7 +9,7 @@ theme: __
 ---
 
 # Icône
-
+![[token_16 (1).png]]  ![[token_7 (1).png]]  ![[token_38.png]]  ![[token_36.png]]  
 
 # Fiche
 **Vampire**
