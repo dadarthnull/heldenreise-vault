@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Vampire.md",
-                "mode": "source",
+                "file": "NPCs/Monsters/Mort-Vivant - Zombie.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Vampire"
+              "title": "Mort-Vivant - Zombie"
             }
           }
         ],
@@ -264,6 +264,7 @@
   },
   "active": "03a20af4459cff82",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "token_36.png",
     "token_38.png",
     "token_7 (1).png",
@@ -286,7 +287,6 @@
     "token_65.png",
     "Assets/imperial-ship-corridor.jpg",
     "Assets/cultiste.png",
-    "Assets/ghoule.png",
     "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
     "NPCs/Monsters/Cultiste de la lune noire.md",
     "NPCs/Monsters/Chat Chouette.md",
@@ -295,7 +295,6 @@
     "NPCs/Monsters/Aberration - masque.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - ailes.md",
-    "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "NPCs/NPC Progression Tables.md",
     "NPCs/Monsters/Mort-Vivant - Zombie.md",
     "Session Notes/Session 30- 14-12-2024.md",
