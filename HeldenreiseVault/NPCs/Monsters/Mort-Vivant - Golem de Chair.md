@@ -26,7 +26,8 @@ theme: __
 **Action**:
 - *(A)* **racloir**: dégâts augmentés (tranchants), corps-à-corps
 - *(A)* **griffes** *(1/tour)*: dégâts normaux (tranchants), corps-à-corps
-- *(A)* **gross'baff** *(1/tour)*: dégâts normaux (contondant), corps-à-corps, sauvegarde FOR ou 'au sol'
+- *(2A)* **gross'baff**: dégâts normaux (contondant), corps-à-corps, sauvegarde FOR ou 'au sol'
+- *(2A)* **tatane balèze**: dégâts normaux (contondant), corps-à-corps, projeté 10pieds, dégâts réduits simouvement bloqué
 
 **Capacités**:
 - _**intuable**_ Si les dégâts réduisent le golem à 0 point de vie, il doit faire un jet de sauvegarde de **Constitution** avec un **DC** de **dégâts subis**, sauf si les dégâts sont rayonnants ou s'il s'agit d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie.

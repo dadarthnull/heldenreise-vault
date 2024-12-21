@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grotte Morts-vivants du Nord"
-            }
-          },
-          {
-            "id": "b2c6f98cb1ff679f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Bénédiction des anciens"
+              "title": "Mort-Vivant - Golem de Chair"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,19 +262,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b2c6f98cb1ff679f",
+  "active": "03a20af4459cff82",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+    "NPCs/Monsters/Mort-Vivant - Liche.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+    "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
-    "NPCs/Monsters/Mort-Vivant - Liche.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
     "token_10 (1).png",
     "token_33.png",
     "token_65.png",
-    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Assets/imperial-ship-corridor.jpg",
     "Assets/cultiste.png",
     "NPCs/Monsters/Mort-Vivant - Goule.md",
@@ -305,7 +292,6 @@
     "NPCs/Monsters/Aberration - masque.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - ailes.md",
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "NPCs/NPC Progression Tables.md",
     "NPCs/Monsters/Mort-Vivant - Zombie.md",
@@ -314,7 +300,6 @@
     "token_28.png",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",
-    "NPCs/Monsters/Loup Cornu.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
