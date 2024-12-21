@@ -1,6 +1,6 @@
 
 ---
-nom: Zombie
+nom: Liche
 image: __image__
 taille: M
 mouvement: 20
@@ -12,24 +12,40 @@ theme: __
 ![[token_17 (1).png]] 
 
 # Fiche
-**Goule**
+**Liche**
 
 *Taille*: M
 *Mouvement*: 20ft (4 cases, 6m)
 *CR*:  1
-*Thème*:  zombie
+*Thème*:  mort vivant, lanceur de sort, manipulateur
 
 **Traits**:
-- **Sauvegarde** SAG
+- **Sauvegarde** INT, SAG
+- **Immunités**: dégâts (poison, contondant, perçant, tranchant), conditions (charmé, épuisé, effrayé, paralysé, empoisonné)
+- **résistances**: froid, électrique, nécrotique
+- **sorts mineurs**: mage hand, prestidigitation, ray of frost, chill touch
+- **sorts niveau 1**: 
+- **sorts niveau 2**: 
+- **sorts niveau 3**: 
+- **sorts niveau 4**: 
+- **sorts niveau 5**: 
+- **sorts niveau 6**:
+- **sorts niveau 7**: 
+- **sorts niveau 8**: 
+- **sorts niveau 9**:  
 
 **Action**:
-- (A) morsure: dégâts réduits (perçant), corps-à-corps, Sauvegarde CON ou condition (maladie), si meurt avec la condition, se relève en goule le lendemain
-- (A) griffes (1/tour): dégâts normaux (tranchant), corps-à-corps
+- **(A)** **toucher paralytique** *(1/tour)*: dégâts minimes (nécrotique), corps-à-corps, Sauvegarde CON ou condition (paralysé)
+- **(A)** **griffes**: dégâts réduits (tranchant), corps-à-corps
 
-**Maladie**: fièvre de goule: la fièvre impose un -1 aux jets de d20. NE peut être guérie que par des moyens magiques (restauration mineure, restauration majeure, imposition des mains, ...)
+**Actions légendaires**: 
+- **(1)** **sort mineur**: lance un sort mineur
+- **(2)** **toucher paralytique**: dégâts minimes (nécrotique), corps-à-corps, Sauvegarde CON ou condition (paralysé)
+- **(2)** **regard effrayant**: 1 créature à 20 pieds en ligne de vue, fait un jet de sauvegarde WID en cas d'échec, effrayé pour 1 minute (nouveau jet en fin de tour)
+- **(3)** **disruption de vie**: dégâts minimes (nécrotique), toute personne dans un rayon de 20 pieds (4 cases) fait un jet de sauvegarde CON. Dégâts divisés par deux en cas de réussite.
 
 **Capacités**:
-- _**intuable**_ Si les dégâts réduisent le zombie à 0 point de vie, il doit faire un jet de sauvegarde de **Constitution** avec un **DC** de **5 + les dégâts subis**, sauf si les dégâts sont rayonnants ou s'il s'agit d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie.
+- 
 
 
 # Référence

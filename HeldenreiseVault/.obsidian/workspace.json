@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Liche.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Vampire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Liche"
+              "title": "Mort-Vivant - Vampire"
             }
           }
         ],
@@ -264,15 +264,16 @@
   },
   "active": "03a20af4459cff82",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "NPCs/Monsters/Mort-Vivant - Goule.md",
+    "NPCs/Monsters/Mort-Vivant - Liche.md",
     "token_17 (1).png",
     "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
-    "NPCs/Monsters/Mort-Vivant - Liche.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
@@ -281,7 +282,6 @@
     "token_65.png",
     "Assets/imperial-ship-corridor.jpg",
     "Assets/cultiste.png",
-    "NPCs/Monsters/Mort-Vivant - Goule.md",
     "Assets/ghoule.png",
     "Assets/golem de chair.png",
     "Assets/goule.png",
@@ -298,7 +298,6 @@
     "NPCs/Monsters/Mort-Vivant - Zombie.md",
     "Session Notes/Session 30- 14-12-2024.md",
     "Assets/zombie.png",
-    "token_28.png",
     "templates/NPC Template.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",

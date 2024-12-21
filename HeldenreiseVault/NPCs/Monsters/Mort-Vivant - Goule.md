@@ -1,6 +1,6 @@
 
 ---
-nom: Zombie
+nom: Goule
 image: __image__
 taille: M
 mouvement: 20
