@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 30- 14-12-2024.md",
+                "file": "Session Notes/Session 30- 21-12-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 30- 14-12-2024"
+              "title": "Session 30- 21-12-2024"
             }
           },
           {
@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Zombie.md",
+                "file": "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Zombie"
+              "title": "Mort-Vivant - Squelette fragile"
+            }
+          },
+          {
+            "id": "b5c2a4257046b75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mort-Vivant - Chevalier de la mort"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,8 +277,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "03a20af4459cff82",
+  "active": "b5c2a4257046b75e",
   "lastOpenFiles": [
+    "Session Notes/Session 30- 21-12-2024.md",
+    "Session Notes/Session 31- 21-12-2024.md",
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
+    "NPCs/Monsters/Mort-Vivant - Zombie.md",
+    "NPCs/Monsters/Rose Vampire.md",
     "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "token_36.png",
     "token_38.png",
@@ -273,13 +294,11 @@
     "NPCs/Monsters/Mort-Vivant - Goule.md",
     "NPCs/Monsters/Mort-Vivant - Liche.md",
     "token_17 (1).png",
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
     "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
     "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
     "token_10 (1).png",
@@ -296,9 +315,6 @@
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - ailes.md",
     "NPCs/NPC Progression Tables.md",
-    "NPCs/Monsters/Mort-Vivant - Zombie.md",
-    "Session Notes/Session 30- 14-12-2024.md",
-    "templates/NPC Template.md",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
