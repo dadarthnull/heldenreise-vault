@@ -66,6 +66,21 @@
               "icon": "lucide-file",
               "title": "Arcanums"
             }
+          },
+          {
+            "id": "df94ef4445d927d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 25 - 02-11-2024"
+            }
           }
         ],
         "currentTab": 3
@@ -294,8 +309,12 @@
   },
   "active": "3982af52f9b2b976",
   "lastOpenFiles": [
-    "Campagne/Secrets de campagne.md",
+    "Session Notes/Session 25 - 02-11-2024.md",
+    "Session Notes/Session 26 - 16-11-2024.md",
+    "Session Notes/Session 27 - 23-11-2024.md",
+    "Session Notes/Session 28 - 30-11-2024.md",
     "Homebrew/Arcanums/Arcanums.md",
+    "Campagne/Secrets de campagne.md",
     "Homebrew/Arcanums/arcanum tactique - groupe.md",
     "Homebrew/Arcanums/arcanum d'alchimie - elixirs.md",
     "Campagne/Progression de l'aventure.md",
@@ -322,10 +341,6 @@
     "NPCs/Monsters/Mort-Vivant - Liche.md",
     "token_17 (1).png",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
-    "Homebrew/Rituels/Niveau 1/Bénédiction des anciens.md",
-    "Homebrew/Rituels/Niveau 1/Contrôle de mort vivant.md",
-    "Homebrew/Rituels/mineurs/Communion avec la sépulture.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "token_10 (1).png",
     "token_33.png",
     "token_65.png",
