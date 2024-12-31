@@ -1,4 +1,0 @@
-
-```aat-vertical
-adventure-timeline, 
-```
