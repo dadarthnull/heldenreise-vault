@@ -92,4 +92,23 @@ Faire un jet lié à la compétence de récolte associée (kit ou survie).
 
 
 # Amélioration
-Faire un jet lié à la compétence de récolte associée (kit ou survie).
+Permet d'ajouter un effet à un objet magique (ou non) existant de manière temporaire ou permanente.
+La puissance et la permanence de l'effet dépendent du temps disponible pour l'amélioration.
+
+Faire un jet lié à la compétence de récolte associée (kit ou survie), consulter la table de difficulté pour savoir si l'amélioration réussit ou non.
+
+
+| Niveau d'arcanum | Temps disponible | DC  | Effet                   | Ingrédients | 
+| ---------------- | ---------------- | --- | ----------------------- | ------------ |
+| 1                | repos court      | 13  | **Infusion mineure**    |              |
+| 1                | repos court      | 15  | **efficacité 1 courte** |              |
+| 1                | repos long       | 13  | **infusion 1**          |              |
+| 1                | repos long       | 15  | **efficacité 1 longue** |              |
+| 1                | repos long       | 13  | **puissance**           |              |
+| 1                | temps libre      | 13  | **infusion 1**          |              |
+| 1                | temps libre      | 15  | **efficacité 1 longue** |              |
+| 1                | temps libre      | 13  | **puissance**           |              |
+
+- **Infusion X**: infuse un objet permanent (talisman, bijou, armure, arme, ..) avec un sort de niveau X au maximum. L'objet permet de lancer de lancer le sort pour une action bonus (si action ou action bonus) ou une réaction (si réaction) par le porteur de l'objet infusé
+- **efficacité N courte/longue/permanente**: permet une armure de gagner +N en CA ou une arme de gagner +N en dégâts ou + toucher (à choisir au moment de l'artisanat), l'effet disparait après un repos court ou long ou est permanent
+- **puissance courte/longue/permanente**: permet d'augmenter l'efficacité d'un consommable. Augment le degré de rareté du consommable
