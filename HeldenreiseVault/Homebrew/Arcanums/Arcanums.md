@@ -87,7 +87,21 @@ Faire un jet lié à la compétence de récolte associée (kit ou survie).La dif
 
 
 # Création
-Faire un jet lié à la compétence de récolte associée (kit ou survie).
+Permet de créer un objet consommable ou permanent.
+
+Faire un jet lié à la compétence de récolte associée (kit ou survie). La difficulté dépend du type d'objet et du temps disponible.
+Le temps disponible va limiter la quantité et la puissance des consommables qui peuvent être créés. Le DC va dépendre du type de consommable.
+
+
+## Consommables
+Peuvent être des potions, ou des talismans
+
+## Armures
+Créer des armures magiques ou non
+
+## Armes
+Créer des armes magiques ou non
+
 
 
 
@@ -98,34 +112,35 @@ La puissance et la permanence de l'effet dépendent du temps disponible pour l'a
 Faire un jet lié à la compétence de récolte associée (kit ou survie), consulter la table de difficulté pour savoir si l'amélioration réussit ou non.
 
 
-| Niveau d'arcanum | Temps disponible | DC  | Effet                    | Ingrédients    |
-| ---------------- | ---------------- | --- | ------------------------ | -------------- |
-| 1                | repos court      | 13  | **Infusion mineure**     | 1 peu commun   |
-| 1                | repos court      | 15  | **efficacité 1 courte**  | 1 peu commun   |
-| 1                | repos long       | 13  | **infusion 1**           | 1-2 peu commun |
-| 1                | repos long       | 15  | **efficacité 1 longue**  | 1-2 peu commun |
-| 1                | repos long       | 13  | **puissance longue**     | 1-2 peu commun |
-| 1                | temps libre      | 13  | **infusion 2**           | 1 rare         |
-| 1                | temps libre      | 15  | **efficacité 1 longue**  | 1-2 peu commun | 
-| 1                | temps libre      | 13  | **puissance permanente** | 1 rare         |
-| 2                | repos court      | 13  | **Infusion mineure**     | 1 peu commun   |
-| 2                | repos court      | 15  | **efficacité 1 courte**  | 1 peu commun   |
-| 2                | repos long       | 13  | **infusion 1**           | 1-2 peu commun |
-| 2                | repos long       | 15  | **efficacité 1 longue**  | 1-2 peu commun |
-| 2                | repos long       | 13  | **puissance longue**     | 1-2 peu commun |
-| 2                | temps libre      | 13  | **infusion 2**           | 1 rare         |
-| 2                | temps libre      | 15  | **efficacité 1 longue**  | 1-2 peu commun | 
-| 2                | temps libre      | 13  | **puissance permanente** | 1 rare         |
-| 3                | repos court      | 13  | **Infusion mineure**     | 1 peu commun   |
-| 3                | repos court      | 15  | **efficacité 1 courte**  | 1 peu commun   |
-| 3                | repos long       | 13  | **infusion 1**           | 1-2 peu commun |
-| 3                | repos long       | 15  | **efficacité 1 longue**  | 1-2 peu commun |
-| 3                | repos long       | 13  | **puissance longue**     | 1-2 peu commun |
-| 3                | temps libre      | 13  | **infusion 2**           | 1 rare         |
-| 3                | temps libre      | 15  | **efficacité 1 longue**  | 1-2 peu commun | 
-| 3                | temps libre      | 13  | **puissance permanente** | 1 rare         |
+| Niveau d'arcanum | Temps disponible | DC  | Effet                       | Ingrédients    |
+| ---------------- | ---------------- | --- | --------------------------- | -------------- |
+| 1                | repos court      | 13  | **Infusion mineure**        | 1 peu commun   |
+| 1                | repos court      | 15  | **efficacité 1 courte**     | 1 peu commun   |
+| 1                | repos long       | 13  | **infusion 1**              | 1-2 peu commun |
+| 1                | repos long       | 15  | **efficacité 1 longue**     | 1-2 peu commun |
+| 1                | repos long       | 13  | **puissance longue**        | 1-2 peu commun |
+| 1                | temps libre      | 13  | **infusion 2**              | 1 rare         |
+| 1                | temps libre      | 15  | **efficacité 1 longue**     | 1-2 peu commun |
+| 1                | temps libre      | 13  | **puissance permanente**    | 1 rare         |
+| ---------------- | ---------------- | --- | ------------------------    | -------------- |
+| 2                | repos court      | 13  | **Infusion 1**              | 1-3 peu commun |
+| 2                | repos court      | 15  | **efficacité 1 courte**     |                |
+| 2                | repos long       | 13  | **infusion 2**              | 1-2 rare       |
+| 2                | repos long       | 15  | **efficacité 1 longue**     |                |
+| 2                | repos long       | 13  | **puissance longue**        |                |
+| 2                | temps libre      | 13  | **infusion 3**              |                |
+| 2                | temps libre      | 15  | **efficacité 1 permanente** |                |
+| 2                | temps libre      | 13  | **puissance permanente**    |                |
+| ---------------- | ---------------- | --- | ------------------------    | -------------- |
+| 3                | repos court      | 13  | **Infusion 2**              |                |
+| 3                | repos court      | 15  | **efficacité 2 courte**     |                |
+| 3                | repos long       | 13  | **infusion 3**              |                |
+| 3                | repos long       | 15  | **efficacité 2 longue**     |                |
+| 3                | repos long       | 13  | **puissance longue**        |                |
+| 3                | temps libre      | 13  | **infusion 4**              |                |
+| 3                | temps libre      | 15  | **efficacité 2 permanente** |                |
+| 3                | temps libre      | 13  | **puissance permanente**    |                | 
 
 - **Infusion X**: infuse un objet permanent (talisman, bijou, armure, arme, ..) avec un sort de niveau X au maximum. L'objet permet de lancer de lancer le sort pour une action bonus (si action ou action bonus) ou une réaction (si réaction) par le porteur de l'objet infusé
 - **efficacité N courte/longue/permanente**: permet une armure de gagner +N en CA ou une arme de gagner +N en dégâts ou + toucher (à choisir au moment de l'artisanat), l'effet disparait après un repos court ou long ou est permanent
 - **puissance courte/longue/permanente**: permet d'augmenter l'efficacité d'un consommable. Augment le degré de rareté du consommable si possible, ou augmente un type de dé ou augmente de 50% une valeur numérique fixe
-- 
