@@ -90,11 +90,36 @@ Faire un jet lié à la compétence de récolte associée (kit ou survie).La dif
 Permet de créer un objet consommable ou permanent.
 
 Faire un jet lié à la compétence de récolte associée (kit ou survie). La difficulté dépend du type d'objet et du temps disponible.
-Le temps disponible va limiter la quantité et la puissance des consommables qui peuvent être créés. Le DC va dépendre du type de consommable.
 
 
 ## Consommables
 Peuvent être des potions, ou des talismans
+Le temps disponible va limiter la quantité et la puissance des consommables qui peuvent être créés. Le DC va dépendre du type de consommable.
+
+
+| Rang d'arcanum | Temps disponible | Limite de potions | Limite de type de potions |
+| -------------- | ---------------- | ----------------- | ------------------------- |
+| 1              | Repos court      | 1                 | peu commune               |
+| 2              | Repos court      | 1                 | rare                      |
+| 3              | Repos court      | 2                 | rare                      |
+| 1              | Repos long       | 1d3               | peu commune               |
+| 2              | Repos long       | 1d4               | rare                      |
+| 3              | Repos long       | 1d6               | très rare                 |
+| 1              | Temps libre      | bonus maîtrise    | rare                      |
+| 2              | Temps libre      | bonus maîtrise    | très rare                 |
+| 3              | Temps libre      | bonus maîtrise    | légendaire                | 
+
+
+
+| Rareté     | DC  | Ingrédients | Exemples d'effets                         | Example                                                                                 |
+| ---------- | --- | ----------- | ----------------------------------------- | --------------------------------------------------------------------------------------- |
+| Commun     | 10  | commun      | Cosmétique, potion commune                | potion de soins, potion of climbing, ...                                                |
+| Peu commun | 13  | peu commun  | Infusion sort mineur, potion peu commune  | potion of greater healing,potion of water breathing, Potion of hill giant strength, ... |
+| Rare       | 16  | rare        | Infusion sort niveau 1, potion rare       | potion of superior healing, Potion of frost/stone/fire giant strength, ...              | 
+| Très rare  | 19  | très rare   | Infusion sort niveau 1, potion très rare  | potion of supreme healing, Potion of cloud giant strength, ...                          |
+| légendaire | 21  | légendaire  | Infusion sort niveau 1, potion légendaire | Potion of storm giant strength, ...                                                     |
+
+
 
 ## Armures
 Créer des armures magiques ou non
