@@ -26,6 +26,7 @@
 | Cartographie | 1    | Achat (75po)                    | mini-map simple                                                                                                             |                                                                          |
 | Cartographie | 2    | Quête reconnaissance (niveau 5) | mini-map avec notes                                                                                                         | Récole: récoltables sur la mini-map (avantage sur jet)                   |
 | Cartographie | 3    | Quête investigation (niveau 10) | mini-map indique des éléments cachés                                                                                        | Récole: récoltables sur la mini-map (avantage sur jet), +1 tranche de DC |
+|              |      |                                 |                                                                                                                             |                                                                          |
 
 
 
