@@ -27,6 +27,7 @@
 > "Ceux qui respirent sont faibles, enchaînés à leur chair éphémère. Mais nous, disciples éclairés, embrassons l’éternité offerte par l’ombre."
 > "Sous l'éclat pâle de la Lune Noire, nous trouvons la vérité éternelle : la vie n'est qu'une prison, et la mort… la clé qui nous libère."
 > "Les vivants tomberont, et la lune baignera la terre de ses rayons glacés. Alors, les morts se lèveront, et leur règne sera sans fin."
+> "Ceux qui parlent d'équilibre mentent. Le Dragon Noir est le chaos qui précède un nouvel ordre. Et cet ordre est le nôtre."
 
 # Référence
 ![[NPC Progression Tables#Membre groupe]]
