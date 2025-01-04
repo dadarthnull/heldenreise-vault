@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Prêtre de la lune noire.md",
-                "mode": "source",
+                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prêtre de la lune noire"
+              "title": "Grotte Morts-vivants du Nord"
             }
           }
         ],
@@ -279,8 +279,8 @@
   },
   "active": "373ab6d37ca53b62",
   "lastOpenFiles": [
-    "Homebrew/Arcanums/Arcanums.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
+    "Homebrew/Arcanums/Arcanums.md",
     "Session Notes/Session 31- 04-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Session Notes/Session 25 - 02-11-2024.md",
