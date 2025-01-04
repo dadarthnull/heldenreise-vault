@@ -36,6 +36,21 @@
               "icon": "lucide-file",
               "title": "Grotte Morts-vivants du Nord"
             }
+          },
+          {
+            "id": "9b6cec9f666c7373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mort-Vivant - Chevalier de la mort"
+            }
           }
         ]
       }
@@ -263,6 +278,7 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Session Notes/Session 31- 04-01-2025.md",
     "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
@@ -270,7 +286,6 @@
     "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "NPCs/Patrons et alliés/Sylvaine.md",
     "NPCs/Monsters/Rose Vampire.md",
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Cultiste de la lune noire.md",
     "Homebrew/Arcanums/Arcanums.md",
     "Session Notes/Session 24 - 12-10-2024.md",
