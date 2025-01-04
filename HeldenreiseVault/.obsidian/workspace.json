@@ -36,54 +36,8 @@
               "icon": "lucide-file",
               "title": "Grotte Morts-vivants du Nord"
             }
-          },
-          {
-            "id": "af594c0f47c826d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mort-Vivant - Zombie Runique"
-            }
-          },
-          {
-            "id": "27df1e8463c7bbb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mort-Vivant - Zombie Runique"
-            }
-          },
-          {
-            "id": "dae350131b1d25d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Cultiste de la lune noire.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cultiste de la lune noire"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,14 +261,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "27df1e8463c7bbb8",
+  "active": "df94ef4445d927d7",
   "lastOpenFiles": [
-    "NPCs/Monsters/Prêtre de la lune noire.md",
-    "NPCs/Monsters/Cultiste de la lune noire.md",
-    "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
-    "Homebrew/Arcanums/Arcanums.md",
+    "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
+    "NPCs/Monsters/Prêtre de la lune noire.md",
+    "NPCs/Monsters/Mort-Vivant - Vampire.md",
+    "NPCs/Patrons et alliés/Sylvaine.md",
     "Session Notes/Session 31- 04-01-2025.md",
+    "NPCs/Monsters/Rose Vampire.md",
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+    "NPCs/Monsters/Cultiste de la lune noire.md",
+    "Homebrew/Arcanums/Arcanums.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 26 - 16-11-2024.md",
@@ -322,7 +280,6 @@
     "Session Notes/Session 28 - 30-11-2024.md",
     "Session Notes/Session 29 - 07-12-2024.md",
     "Session Notes/Session 30- 21-12-2024.md",
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Campagne/Secrets de campagne.md",
     "Homebrew/Arcanums/arcanum tactique - groupe.md",
@@ -330,12 +287,9 @@
     "Campagne/Progression de l'aventure.md",
     "Campagne/Les maîtres du savoir.md",
     "Campagne/Enigmes - archive interdit.md",
-    "NPCs/Monsters/Rose Vampire.md",
     "Campagne/Empereur liche.canvas",
     "NPCs/Monsters/Loup Chouette.md",
     "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
-    "Session Notes/Session 31- 21-12-2024.md",
     "token_36.png",
     "token_38.png",
     "token_7 (1).png",
