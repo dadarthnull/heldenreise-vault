@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3982af52f9b2b976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Arcanums/Arcanums.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arcanums"
-            }
-          },
-          {
             "id": "df94ef4445d927d7",
             "type": "leaf",
             "state": {
@@ -51,9 +36,54 @@
               "icon": "lucide-file",
               "title": "Grotte Morts-vivants du Nord"
             }
+          },
+          {
+            "id": "af594c0f47c826d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mort-Vivant - Zombie Runique"
+            }
+          },
+          {
+            "id": "27df1e8463c7bbb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mort-Vivant - Zombie Runique"
+            }
+          },
+          {
+            "id": "dae350131b1d25d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Cultiste de la lune noire.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cultiste de la lune noire"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,9 +307,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "373ab6d37ca53b62",
+  "active": "27df1e8463c7bbb8",
   "lastOpenFiles": [
     "NPCs/Monsters/Prêtre de la lune noire.md",
+    "NPCs/Monsters/Cultiste de la lune noire.md",
+    "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Homebrew/Arcanums/Arcanums.md",
     "Session Notes/Session 31- 04-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
@@ -303,13 +336,10 @@
     "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
     "Session Notes/Session 31- 21-12-2024.md",
-    "NPCs/Monsters/Mort-Vivant - Zombie.md",
-    "NPCs/Monsters/Mort-Vivant - Vampire.md",
     "token_36.png",
     "token_38.png",
     "token_7 (1).png",
     "token_16 (1).png",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "token_17 (1).png",
     "token_10 (1).png",
     "token_33.png",

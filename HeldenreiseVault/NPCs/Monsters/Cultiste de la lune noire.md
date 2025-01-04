@@ -28,4 +28,4 @@
 | non-mort             | Quand tué, un zombie se relève au début du round suivant                                                                              |
 
 # Référence
-![[NPC Progression Tables#Membre groupe]]
+![[NPC Progression Tables#Minions]]
