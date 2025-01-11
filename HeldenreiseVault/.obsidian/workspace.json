@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
-                "mode": "source",
+                "file": "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mort-Vivant - Chevalier de la mort"
+              "title": "Mort-Vivant - Golem de Chair"
             }
           }
         ]
@@ -278,9 +278,10 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
-    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+    "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "Session Notes/Session 31- 04-01-2025.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
     "NPCs/Monsters/Mort-Vivant - Vampire.md",
@@ -304,7 +305,6 @@
     "Campagne/Enigmes - archive interdit.md",
     "Campagne/Empereur liche.canvas",
     "NPCs/Monsters/Loup Chouette.md",
-    "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
     "token_36.png",
     "token_38.png",
     "token_7 (1).png",
