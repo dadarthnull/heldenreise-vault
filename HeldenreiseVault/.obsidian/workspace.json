@@ -15,11 +15,32 @@
               "state": {
                 "file": "Session Notes/Session 33- 15-03-2025.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Session 33- 15-03-2025"
+            }
+          },
+          {
+            "id": "cd4afebf4e1647c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -52,7 +73,8 @@
               "title": "Mort-Vivant - Golem de Chair"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -276,7 +299,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "cd4afebf4e1647c4",
   "lastOpenFiles": [
     "Session Notes/Session 32- 11-01-2025.md",
     "Session Notes/Session 33- 15-03-2025.md",
