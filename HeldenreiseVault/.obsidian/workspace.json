@@ -30,36 +30,6 @@
               "icon": "lucide-file",
               "title": "Session 32- 11-01-2025"
             }
-          },
-          {
-            "id": "373ab6d37ca53b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Grotte Morts-vivants du Nord"
-            }
-          },
-          {
-            "id": "9b6cec9f666c7373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mort-Vivant - Golem de Chair"
-            }
           }
         ]
       }
