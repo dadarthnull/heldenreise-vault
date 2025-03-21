@@ -42,6 +42,28 @@
 |**16**|Le second prince lui-même, masqué, visite la région sous une fausse identité. Il tente d’enrôler les PJ dans un plan « pour sauver le royaume », flattant leur égo.|
 |**17**|Un rituel occulte est en cours dans les catacombes d’un château noble. Nobles corrompus, chevaliers fanatisés, morts-vivants et démons collaborent dans un ballet d’horreur élégante. Un basculement politique majeur approche.|
 
+## 👹 **Table d’événements aléatoires – Faction du Roi-Démon** (1d12 + modificateur relation)
+
+|Résultat|Événement|
+|---|---|
+|**1**|Une pierre étrange, taillée comme une griffe, pousse du sol dans une clairière. En s’y attardant, les PJ ressentent un écho ancien : les dragons d’antan ont enfermé ici une partie du Roi-Démon.|
+|**2**|Un vieil ermite en transe parle d’un feu noir dans ses rêves. Il griffonne frénétiquement des cercles d'invocation inversés. Il était jadis mage, désormais "marqué".|
+|**3**|Un petit groupe de réfugiés porte des signes subtils de mutation (ongles sombres, veines violacées). Ils fuient des "chasseurs d’âmes" au nord. L’un d’eux a un médaillon démoniaque verrouillé par magie.|
+|**4**|Une statue brisée d’un dragon ancestral semble pleurer un liquide noir. Les PJ peuvent sentir la magie du Roi-Démon y frémir. Une voix tente de s’adresser à eux dans leur sommeil.|
+|**5**|Les PJ trouvent un carnet appartenant à un prêtre. Il détaille des meurtres rituels et des conversions par la drogue démoniaque. Il termine par une note étrange : « Il revient par la brèche du froid ».|
+|**6**|Un marchand vend à bas prix des objets "exotiques" venus du nord : parmi eux, un masque rituel qui donne brièvement des visions de la prison du Roi-Démon.|
+|**7**|Une route est barrée par un combat récent. Des hommes-bêtes ont attaqué un convoi. Certains portent des marques de rituel gravées à même leur chair. Un parchemin mentionne « l’éveil du Tiers-Sceau ».|
+|**8**|Une caravane entière a disparu. Les PJ découvrent les restes : visages figés dans l’horreur, aucune blessure. Une rune démoniaque brûlée sur la roche toute proche.|
+|**9**|Une bande de pillards sous drogues magiques attaque un village. Leur chef crie des versets d’un évangile noir. Leur sang bouillonne, même une fois morts.|
+|**10**|Un démon mineur enfermé dans une amulette est proposé à la vente sur un marché noir. Si libéré (volontairement ou non), il tente de contacter ses maîtres pour signaler la position des PJ.|
+|**11**|Une grande faille s’ouvre brièvement dans une montagne proche. Des créatures hybrides en sortent. Si repoussées, la faille se referme. Sinon, la corruption se répand.|
+|**12**|Un seigneur du nord, corrompu, a commencé à recruter des criminels et à imposer un culte étrange. Une rumeur parle d’un nouveau « Prophète du Feu Intérieur ».|
+|**13**|Une tempête anormale, noire et grondante, s’abat sur la région. Les éclairs murmurent des mots anciens. Des statues d’anciennes batailles se brisent d’elles-mêmes.|
+|**14**|Un ancien dragon endormi (ou scellé) a été "souillé" par un fragment de la volonté du Roi-Démon. Il délire, crache des flammes violettes, et devient instable.|
+|**15**|Les PJ sont pris en chasse par une unité spéciale d’assassins du Roi-Démon : yeux noirs, lames enchantées, ils ne parlent que dans une langue morte.|
+|**16**|Un portail instable vers la prison du Roi-Démon apparaît brièvement. Un bras de fumée en sort. L’un des PJ reçoit une marque, brûlante, sur le bras ou la poitrine.|
+|**17**|La réalité se distord pendant une heure : ombres vivantes, sol respirant, murmures constants. Le monde entier devient un reflet de la prison du Roi-Démon. À la fin, tout redevient "normal". Quelque chose a été libéré.|
+
 
 
 
