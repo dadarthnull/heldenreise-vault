@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/tables/Factions.md",
+                "file": "Gazette/Continent Est/Royaume de Eisendom.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Royaume de Eisendom"
             }
           }
         ]
@@ -257,8 +257,8 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
-    "Campagne/tables/Météo.md",
     "Campagne/tables/Factions.md",
+    "Campagne/tables/Météo.md",
     "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/tables",
     "Session Notes/Session 32- 11-01-2025.md",
