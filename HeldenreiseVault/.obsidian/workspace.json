@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gazette/Continent Est/Royaume de Eisendom.md",
+                "file": "Campagne/tables/Factions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Royaume de Eisendom"
+              "title": "Factions"
             }
           }
         ]
@@ -257,6 +257,7 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
+    "Gazette/Continent Est/Royaume de Eisendom.md",
     "Campagne/tables/Factions.md",
     "Campagne/tables/Météo.md",
     "Session Notes/Session 33- 15-03-2025.md",
@@ -284,7 +285,6 @@
     "Session Notes/Session 28 - 30-11-2024.md",
     "Session Notes/Session 29 - 07-12-2024.md",
     "Session Notes/Session 30- 21-12-2024.md",
-    "Campagne/Donjons/Le laboratoire d'Aialize.md",
     "Campagne/Empereur liche.canvas",
     "token_36.png",
     "token_38.png",
