@@ -64,7 +64,27 @@
 |**16**|Un portail instable vers la prison du Roi-Démon apparaît brièvement. Un bras de fumée en sort. L’un des PJ reçoit une marque, brûlante, sur le bras ou la poitrine.|
 |**17**|La réalité se distord pendant une heure : ombres vivantes, sol respirant, murmures constants. Le monde entier devient un reflet de la prison du Roi-Démon. À la fin, tout redevient "normal". Quelque chose a été libéré.|
 
+## 🛤️ **Table d’événements en voyage – Factions neutres (Guilde des Aventuriers, Autorité Commerciale, Opus)**
 
+|Résultat|Événement|
+|---|---|
+|**1**|Une équipe d’**explorateurs Opus** installe un petit observatoire mobile au bord d’un chemin de montagne. Ils partagent des nouvelles des flux de mana et offrent un abri pour la nuit.|
+|**2**|Un **patrouilleur de la Guilde** voyage seul. Il propose de joindre les PJ temporairement, partage rumeurs et trajets sûrs. Il peut donner des bons pour des auberges affiliées.|
+|**3**|Sur une route commerciale, un **convoi marchand protégé par l’Autorité** invite les PJ à partager leur feu de camp. Ils discutent politique et affaires : bon moment pour créer des contacts.|
+|**4**|Une vieille **borne de guidage magique** (posée autrefois par Opus) réactive une projection fantomatique : elle donne une info ou vision liée à un flux de mana anormal à proximité.|
+|**5**|Les PJ trouvent un **corbeau de messagerie de la Guilde** blessé, porteur d’un contrat annulé ou modifié. Il contient aussi une info sensible tombée par hasard entre leurs mains.|
+|**6**|Une petite **barricade de l’Autorité Commerciale** filtre les voyageurs : inspection douanière, vérification des licences d’aventuriers. Rien de grave… sauf si les PJ cachent quelque chose.|
+|**7**|Un **chantier abandonné** au bord de la route porte encore les sceaux d’Opus. Des pierres vibrent légèrement. Un ancien projet magique semble avoir été stoppé net.|
+|**8**|Les PJ croisent une **caravane d’aventuriers juniors** affiliée à la Guilde. Enthousiastes mais maladroits, ils peuvent partager une rumeur ou être en danger à cause de leur naïveté.|
+|**9**|Un **marchand itinérant** propose des artefacts mineurs récupérés "dans les montagnes". Certains semblent provenir d’un site magique protégé par Opus. Il est suspecté de vol, mais est discret.|
+|**10**|Un **incident magique** perturbe une route forestière : les arbres eux-mêmes murmurent des extraits de formules. Un groupe d’Opus arrive peu après pour contenir la zone.|
+|**11**|Des **rumeurs locales** accusent les aventuriers d’avoir provoqué la fermeture d’un relais commercial (alors qu’ils ne sont jamais passés là). Leur passage provoque tensions et suspicion.|
+|**12**|Un ancien **relais de la Guilde**, en ruine, émet encore des signaux de détresse magiques. En explorant, les PJ trouvent des traces de corruption ou d'une expérience magique instable.|
+|**13**|Un **nœud de mana instable** se manifeste dans un col de montagne. Opus a envoyé une équipe, mais ils sont en retard. Les PJ doivent passer par là : illusions, distorsions et bestioles magiques possibles.|
+|**14**|Une embuscade déguisée en **patrouille commerciale officielle** tente de détrousser les PJ. Des documents sur eux impliquent un marchand corrompu haut placé dans l’Autorité.|
+|**15**|Un **caravanier important** a disparu. Son escorte accuse un groupe d’aventuriers vus dans les parages. Un groupe de soldats de l’Autorité barre la route et menace d’arrestation.|
+|**16**|Un **cercle de mages d’Opus** a scellé un passage de colline. Ils affirment que la montée de mana est trop dangereuse. Il faut convaincre ou détourner, mais cela attire l’attention.|
+|**17**|Un **phénomène surnaturel** bloque toute route dans une large zone : pluie de feu doux, gravité inversée, chants dans le vent. Le sceau d’Opus y est visible… mais instable. La Guilde exige une enquête urgente… que les PJ ne peuvent refuser.|
 
 
 
