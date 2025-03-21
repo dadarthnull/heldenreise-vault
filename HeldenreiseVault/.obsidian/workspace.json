@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 33- 15-03-2025.md",
+                "file": "Campagne/tables/Factions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 33- 15-03-2025"
+              "title": "Factions"
             }
           }
         ]
@@ -257,8 +257,11 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
-    "Session Notes/Session 32- 11-01-2025.md",
+    "Campagne/tables/Météo.md",
+    "Campagne/tables/Factions.md",
     "Session Notes/Session 33- 15-03-2025.md",
+    "Campagne/tables",
+    "Session Notes/Session 32- 11-01-2025.md",
     "NPCs/Patrons et alliés/Tania Almeria.md",
     "Timo.md",
     "timo-npc.png",
@@ -282,8 +285,6 @@
     "Session Notes/Session 29 - 07-12-2024.md",
     "Session Notes/Session 30- 21-12-2024.md",
     "Campagne/Donjons/Le laboratoire d'Aialize.md",
-    "Campagne/Secrets de campagne.md",
-    "Homebrew/Arcanums/arcanum tactique - groupe.md",
     "Campagne/Empereur liche.canvas",
     "token_36.png",
     "token_38.png",
@@ -302,7 +303,6 @@
     "BathBoardGamingGroup/Sessions",
     "BathBoardGamingGroup",
     "Homebrew/Rituels/Niveau 2",
-    "Homebrew/Rituels/Niveau 1",
-    "Homebrew/Rituels/mineurs"
+    "Homebrew/Rituels/Niveau 1"
   ]
 }
