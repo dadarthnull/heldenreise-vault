@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 33- 15-03-2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/tables/Météo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Arcanums/Arcanums.md",
+                "file": "Campagne/Lieux à visiter/Duché Anderson.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arcanums"
+              "title": "Duché Anderson"
             }
           },
           {
@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/tables/Factions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -151,7 +151,8 @@
               "title": "Factions"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -376,17 +377,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00f7a2d2b1af0ac7",
+  "active": "ad6ae7cc6cefba97",
   "lastOpenFiles": [
-    "NPCs/Patrons et alliés/Sylvaine.md",
-    "Session Notes/Session 33- 15-03-2025.md",
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
-    "Homebrew/Arcanums/Arcanums.md",
-    "Session Notes/Session 32- 11-01-2025.md",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
     "Campagne/tables/Météo.md",
+    "Campagne/tables/Factions.md",
+    "Homebrew/Arcanums/Arcanums.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
+    "Session Notes/Session 33- 15-03-2025.md",
+    "NPCs/Patrons et alliés/Sylvaine.md",
+    "Session Notes/Session 32- 11-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-    "Campagne/tables/Factions.md",
     "Campagne/tables/Voyage Eisendom.md",
     "Session Notes/Session 30- 21-12-2024.md",
     "Session Notes/Session 31- 04-01-2025.md",
@@ -399,7 +401,6 @@
     "NPCs/Monsters/Ogre Quantique.md",
     "ocine ogre quantique.png",
     "ogre quantique.webp",
-    "Campagne/Lieux à visiter/Duché Anderson.md",
     "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
     "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
     "Assets/Benoit le Ventru.webp",
