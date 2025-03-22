@@ -1,67 +1,21 @@
 
 
-## 🌸 Printemps – Table météo (1d12 + mod - bonus = climat doux, malus = météo capricieuse)
+## 🌦️ **Table météo magique – Jet de 1d12**
 
-|Résultat|Météo|
-|---|---|
-|0|**Effet magique bénéfique**|
-|1|Ciel dégagé, soleil doux, odeur d’herbe fraîche. Journée idéale pour le voyage.|
-|2|Nuages légers, brise tiède, un peu d’humidité dans l’air.|
-|3|Petites pluies intermittentes, sentiers boueux mais praticables.|
-|4|Pluie continue, ciel plombé. Visibilité réduite, terrain glissant.|
-|5|**Effet magique mineur**|
-|6|Vent fort, sifflement étrange dans les arbres. Difficulté à entendre au loin.|
-|7|Orages brefs mais intenses. Éclairs colorés. Animaux nerveux.|
-|8|Pluie diluvienne, champs inondés. Déplacement difficile voire impossible.|
-|9|**Effet magique négatif**|
-
----
-## ☀️ Été – Table météo
-
-|Résultat|Météo|
-|---|---|
-|0|**Effet magique bénéfique**|
-|1|Soleil radieux, chaleur agréable, ciel parfaitement bleu.|
-|2|Chaud, légèrement venteux, ciel limpide.|
-|3|Chaleur sèche, fatigante sur de longues marches. Nécessite plus d’eau.|
-|4|Humidité lourde, air poisseux, moustiques magiques.|
-|5|**Effet magique mineur**|
-|6|Orage d’été, soudain, chaud et bruyant. Électrise l’atmosphère.|
-|7|Canicule : tests de Constitution pour éviter l’épuisement. Métal brûle au toucher.|
-|8|Vague de chaleur surnaturelle. Herbes brûlent spontanément, incendies possibles.|
-|9|**Effet magique négatif**|
-
----
-## 🍂 Automne – Table météo
-
-|Résultat|Météo|
-|---|---|
-|0|**Effet magique bénéfique**|
-|1|Temps frais, feuilles tombent en tourbillons paisibles.|
-|2|Nuages gris doux, bruine légère, ambiance nostalgique.|
-|3|Vent froid constant, feuilles volantes réduisent la visibilité.|
-|4|Brouillard dense le matin, se lève lentement. Navigation difficile.|
-|5|**Effet magique mineur**|
-|6|Pluie froide persistante, moral en baisse. Tests de résistance au froid.|
-|7|Rafales violentes, arbres craquent, branches tombent.|
-|8|Brouillard magique : distorsion de l’espace (risque de désorientation).|
-|9|**Effet magique négatif**|
-
----
-## ❄️ Hiver – Table météo
-
-|Résultat|Météo|
-|---|---|
-|0|**Effet magique bénéfique**|
-|1|Froid sec, ciel bleu, neige fine. Bonnes conditions.|
-|2|Ciel couvert, neige douce, facile à gérer.|
-|3|Froid mordant, givre sur les objets. Doigts engourdis.|
-|4|Neige épaisse, ralentit les déplacements. Animaux se cachent.|
-|5|**Effet magique mineur**|
-|6|Verglas traître, sol glissant. Tests d’Acrobatie nécessaires.|
-|7|Blizzard modéré, visibilité réduite, nécessite abri rapide.|
-|8|Blizzard violent, perte de piste garantie, risque d’engelure.|
-|9|**Effet magique négatif**|
+|🎲 Jet|🌸 Printemps|☀️ Été|🍂 Automne|❄️ Hiver|
+|---|---|---|---|---|
+|**1**|**Effet magique bénéfique**|**Effet magique bénéfique**|**Effet magique bénéfique**|**Effet magique bénéfique**|
+|**2**|Matin frais, air pur, ciel dégagé|Chaleur douce, brise rafraîchissante|Soleil bas et agréable, feuillages flamboyants|Froid sec, neige légère, visibilité parfaite|
+|**3**|Nuages légers, chants d’oiseaux|Temps chaud mais supportable, ombres marquées|Brume légère, ambiance mélancolique mais calme|Air mordant, mais sec et stable|
+|**4**|Pluie fine, revitalisante, terrain légèrement humide|Soleil écrasant, nécessite pauses régulières|Pluie régulière, chemins glissants|Chutes de neige modérées, fatigue accrue|
+|**5**|Orage printanier rapide, éclairs verts|Vent chaud et sec, poussière soulevée|Rafales froides, feuilles projetées|Givre sur les vêtements et le sol|
+|**6**|**Effet magique mineur**|**Effet magique mineur**|**Effet magique mineur**|**Effet magique mineur**|
+|**7**|Rafales soudaines, branches tombantes|Canicule|Pluie froide, visibilité réduite|Verglas dangereux, nécessite prudence|
+|**8**|Orage prolongé, chemins inondés|Éclairs à répétition, chaleur orageuse|Brouillard dense, désorientation possible|Blizzard intermittent, besoin d’abri|
+|**9**|Grêle localisée, végétation endommagée|Vents chauds violents, incendies possibles|Bourrasques hurlantes, feuilles tranchantes|Rafales glacées, morsures de froid|
+|**10**|Vent magique soulevant le pollen : allergies aléatoires|Chaleur surnaturelle, illusions de mirage instables|Ciel rougeâtre, pluie de feuilles acides|Chute de cristaux de glace coupants|
+|**11**|Ciel vert pâle, pression atmosphérique anormale|Animaux fous, comportements erratiques|Arbres gémissants, animaux fuyants|Givre vivant rampant lentement sur le sol|
+|**12**|**Effet magique négatif**|**Effet magique négatif**|**Effet magique négatif**|**Effet magique négatif**|
 
 ---
 ## 🌱 **Table 1 : Effets étranges mais bénins**
