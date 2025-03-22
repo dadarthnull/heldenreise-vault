@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/tables/Météo.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 33- 15-03-2025.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Météo"
+              "title": "Session 33- 15-03-2025"
             }
           },
           {
@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -127,8 +127,7 @@
               "title": "Baronnie de Schattenwald"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,31 +352,32 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00f7a2d2b1af0ac7",
+  "active": "df94ef4445d927d7",
   "lastOpenFiles": [
+    "Assets/timo-npc.png",
+    "Assets/Intendante Alra.webp",
+    "Assets/Barnik Dornbruck.webp",
+    "Campagne/tables/Météo.md",
     "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-    "Campagne/Lieux à visiter/Duché Anderson.md",
-    "Garde-chef Guerin.webp",
-    "Pere Tamas.webp",
-    "Maitre Luthric.webp",
-    "Clara de Baerfeld.webp",
-    "Baron Erwald de Baerfeld.webp",
     "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
+    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
+    "Assets/Viscomte Hadrik Dornbruck.webp",
+    "Assets/Oren Dornbruck.webp",
+    "Assets/Capitaine Thessa.webp",
+    "Assets/Vieille Nanda.webp",
+    "Assets/Baron Veltan Schattenwald.webp",
+    "Assets/Baronesse Hild Schattenwald.webp",
+    "Assets/Darek Schattenwald.webp",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "Assets/Garde-chef Guerin.webp",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Session Notes/Session 30- 21-12-2024.md",
     "Session Notes/Session 31- 04-01-2025.md",
-    "Capitane Runhilde.webp",
-    "Conrad Anderson.webp",
-    "Duchesse Marwynn Anderson.webp",
-    "Frère Dorvald.webp",
-    "Duc Eldric Anderson.webp",
     "Campagne/Lieux à visiter/campement du laboratoire.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
     "Session Notes/Session 33- 15-03-2025.md",
-    "Campagne/tables/Météo.md",
     "Campagne/tables/Effets magiques en donjon.md",
     "Campagne/tables/Voyage Eisendom.md",
     "Campagne/tables/Factions.md",
