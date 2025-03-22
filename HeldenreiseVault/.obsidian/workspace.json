@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -282,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,6 +308,8 @@
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
     "Session Notes/Session 24 - 12-10-2024.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
+    "Session Notes/Session 33- 15-03-2025.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 26 - 16-11-2024.md",
     "Session Notes/Session 27 - 23-11-2024.md",
@@ -315,9 +318,7 @@
     "Session Notes/Session 30- 21-12-2024.md",
     "Session Notes/Session 31- 04-01-2025.md",
     "Session Notes/Session 32- 11-01-2025.md",
-    "Session Notes/Session 33- 15-03-2025.md",
     "NPCs/Monsters/Ours Hibou Majestueux.md",
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "NPCs/Monsters/Ogre Quantique.md",
     "ocine ogre quantique.png",
     "ogre quantique.webp",
