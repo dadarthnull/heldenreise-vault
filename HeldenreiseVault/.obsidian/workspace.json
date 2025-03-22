@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Météo"
             }
+          },
+          {
+            "id": "53d0bdae1c511089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Viscomté de Dornbruck"
+            }
+          },
+          {
+            "id": "cd405771f1c727b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mort-Vivant - Archer squelette"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,46 +305,46 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "53d0bdae1c511089",
   "lastOpenFiles": [
-    "Campagne/tables/Effets magiques en donjon.md",
+    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
+    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
+    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
+    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
+    "Session Notes/Session 30- 21-12-2024.md",
+    "Session Notes/Session 31- 04-01-2025.md",
+    "Capitane Runhilde.webp",
+    "Conrad Anderson.webp",
+    "Duchesse Marwynn Anderson.webp",
+    "Frère Dorvald.webp",
+    "Duc Eldric Anderson.webp",
+    "Campagne/Lieux à visiter/campement du laboratoire.md",
+    "Campagne/Lieux à visiter/AbreissDorf.md",
+    "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
+    "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/tables/Météo.md",
+    "Campagne/tables/Effets magiques en donjon.md",
     "Campagne/tables/Voyage Eisendom.md",
     "Campagne/tables/Factions.md",
     "Gazette/Continent Est/Royaume de Eisendom.md",
-    "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/tables",
     "Session Notes/Session 32- 11-01-2025.md",
     "NPCs/Patrons et alliés/Tania Almeria.md",
     "Timo.md",
     "timo-npc.png",
     "NPCs/Monsters/Aberration - masque.md",
-    "Session Notes/Session 31- 04-01-2025.md",
     "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
-    "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
     "NPCs/Monsters/Prêtre de la lune noire.md",
     "NPCs/Monsters/Mort-Vivant - Vampire.md",
-    "NPCs/Patrons et alliés/Sylvaine.md",
-    "NPCs/Monsters/Rose Vampire.md",
-    "NPCs/Monsters/Cultiste de la lune noire.md",
-    "Homebrew/Arcanums/Arcanums.md",
-    "Session Notes/Session 24 - 12-10-2024.md",
-    "Session Notes/Session 25 - 02-11-2024.md",
-    "Session Notes/Session 26 - 16-11-2024.md",
-    "Session Notes/Session 27 - 23-11-2024.md",
-    "Session Notes/Session 28 - 30-11-2024.md",
     "Campagne/Empereur liche.canvas",
     "token_36.png",
     "token_38.png",
     "token_7 (1).png",
     "token_16 (1).png",
-    "token_17 (1).png",
-    "token_10 (1).png",
-    "token_33.png",
-    "token_65.png",
-    "Assets/imperial-ship-corridor.jpg",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
     "NPCs/Habitants/Abreissdorf",
