@@ -30,7 +30,7 @@ _Un territoire froid, rigide, surveillé, mais sûr. Tout est ordre... jusqu'à 
 |**7**|Un vieux champ de bataille. Des squelettes d’armures brisées y dorment sous la terre… ou presque.|
 |**8**|Un duel d'honneur est sur le point d’avoir lieu au bord de la route. Deux jeunes officiers s’y affrontent, sans témoins.|
 |**9**|Une patrouille suspecte les PJ d’être des espions. Inspection sévère, mais légale. Mal s’expliquer pourrait dégénérer.|
-|**10**|Un soldat désorienté erre, blessé et parlant d’une "ombre dans la forêt". Il panique à la vue de tout symbole magique.|
+|**10**|Un soldat désorienté erre, blessé et parlant d’une "ombre dans la grotte". Il semblerait qu'il est le seul survivant d'une escouade envoyée nettoyer une caverne de zombies.|
 |**11**|**🎲 Tirer sur la table "rencontre avec des cultistes morts-vivants"** : Un cadavre militaire se relève au crépuscule. Il appelle un nom elfe oublié.|
 |**12**|**🎲 Tirer sur la table "rencontre avec des cultistes démoniaques"** : Une escouade a disparu dans les collines. Les PJ trouvent un camp… et une spirale gravée dans la roche, encore tiède.|
 

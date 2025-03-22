@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df94ef4445d927d7",
+            "id": "00f7a2d2b1af0ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Session 33- 15-03-2025"
+            }
+          },
+          {
+            "id": "df94ef4445d927d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Ogre Quantique.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ogre Quantique"
             }
           },
           {
@@ -101,30 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "Viscomté de Dornbruck"
-            }
-          },
-          {
-            "id": "00f7a2d2b1af0ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Baronnie de Schattenwald"
             }
           }
         ]
@@ -351,26 +351,28 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "00f7a2d2b1af0ac7",
   "lastOpenFiles": [
-    "Benoit le Ventru.webp",
-    "Liora la Fée.webp",
-    "Gavro Tourbillon.webp",
-    "Tilio Lestaud.webp",
-    "Maelys du Ruisseau.webp",
-    "Campagne/Lieux à visiter/Duché Anderson.md",
-    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
+    "Assets/Benoit le Ventru.webp",
+    "Assets/Jasmin le Bravache.webp",
     "Session Notes/Session 33- 15-03-2025.md",
-    "Odo le Muet.webp",
-    "Jasmin le Bravache.webp",
-    "Thalia Petitvent.webp",
-    "Milo Trente sous.webp",
-    "Gaspard la Patte.webp",
-    "Rika Valen.webp",
+    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
+    "NPCs/Monsters/Ogre Quantique.md",
+    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
+    "NPCs/Monsters/Cultiste de la lune noire.md",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "Assets/Liora la Fée.webp",
+    "Assets/Gavro Tourbillon.webp",
+    "Assets/Tilio Lestaud.webp",
+    "Assets/Maelys du Ruisseau.webp",
+    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
+    "Assets/Odo le Muet.webp",
+    "Assets/Thalia Petitvent.webp",
+    "Assets/Milo Trente sous.webp",
+    "Assets/Gaspard la Patte.webp",
     "NPCs/Patrons et alliés/Akaryu.md",
     "Campagne/tables/Météo.md",
     "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Session Notes/Session 30- 21-12-2024.md",
@@ -387,9 +389,6 @@
     "NPCs/Patrons et alliés/Tania Almeria.md",
     "Timo.md",
     "NPCs/Monsters/Aberration - masque.md",
-    "NPCs/Monsters/Mort-Vivant - Golem de Chair.md",
-    "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
-    "NPCs/Monsters/Mort-Vivant - Zombie Runique.md",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",
     "NPCs/Habitants/Almeria",
