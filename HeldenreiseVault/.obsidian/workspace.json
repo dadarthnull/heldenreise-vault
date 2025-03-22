@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/tables/Factions.md",
+                "file": "Campagne/tables/Météo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Météo"
             }
           }
         ]
@@ -258,9 +258,11 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
-    "Gazette/Continent Est/Royaume de Eisendom.md",
-    "Campagne/tables/Factions.md",
+    "Campagne/tables/Effets magiques en donjon.md",
     "Campagne/tables/Météo.md",
+    "Campagne/tables/Voyage Eisendom.md",
+    "Campagne/tables/Factions.md",
+    "Gazette/Continent Est/Royaume de Eisendom.md",
     "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/tables",
     "Session Notes/Session 32- 11-01-2025.md",
@@ -284,8 +286,6 @@
     "Session Notes/Session 26 - 16-11-2024.md",
     "Session Notes/Session 27 - 23-11-2024.md",
     "Session Notes/Session 28 - 30-11-2024.md",
-    "Session Notes/Session 29 - 07-12-2024.md",
-    "Session Notes/Session 30- 21-12-2024.md",
     "Campagne/Empereur liche.canvas",
     "token_36.png",
     "token_38.png",
