@@ -180,3 +180,48 @@ Possibilité de:
 - ceinture de sustenance (utilise pierre de mana mineure)
 - bourse d'herboriste (50po), sac sans fond (10kg matériel ou 50 litres)
 
+### 🧪 **Le Flacon Flottant** _(Boutique de potions variées, ambiance apaisante)_
+
+**Description :**  
+Une boutique lumineuse aux étagères en verre suspendues dans l’air, où les fioles flottent lentement autour des visiteurs. L’atmosphère sent les herbes fraîches et les eaux florales. Tout est calme, organisé, et musical (une douce harpe en fond, enchantée bien sûr).
+
+**Spécialité :**  
+Potions de soins, de résistance, de détection et de soutien. Beaucoup de potions personnalisables (ajouts de parfums, dosages sur mesure). On y trouve aussi des encens magiques, des tisanes en sachets magiques, et des fioles de mana condensée.
+
+**Employés notables :**
+
+- **Maelis d’Argèthe** (propriétaire) : demi-elfe herboriste, calme et douce. Elle parle toujours d’une voix posée, croit en l’harmonie des flux magiques.
+- **Blimm** : jeune assistant gobelin au tablier propre, passionné de flacons, connaît les stocks par cœur. Il est très poli (rare pour un gobelin).
+- **“Papillonne”** : fée qui fait le service client et oriente les gens dans les rayons en voletant d’un air affairé.
+
+---
+
+### 🔮 **Torsades et Talismans** _(Objets magiques étranges, souvent alchimiques ou ésotériques)_
+
+**Description :**  
+Un bric-à-brac organisé, comme un laboratoire de sorcier qui aurait épousé une boutique de curiosités. Les murs sont couverts de crochets, cages, talismans, crânes enchantés, cartes astrologiques. Des engrenages enchantés tournent lentement au plafond. Une odeur d’huile et d’encens flotte dans l’air.
+
+**Spécialité :**  
+Objets magiques “conceptuels” : sabliers ralentisseurs de temps, talismans protecteurs contextuels, fioles d’ambiance, objets de localisation, de camouflage, ou de distorsion. Beaucoup d’objets à déclenchement unique. Quelques objets maudits identifiés et vendus avec précaution.
+
+**Employés notables :**
+
+- **Maître Jorvan Telvass** : vieil alchimiste humain au regard de chouette, ancien membre de la Guilde des Inventions Magiques, parle souvent tout seul… mais très honnête.
+- **Senka** : apprentie tieffeline, discrète et vive, spécialisée en purification d’objets magiques. A une obsession pour les spirales.
+- **“Pipo”** : automate assistant enchanté (forme humanoïde, bras articulés), parle avec une voix mécanique adorable et donne toujours les prix exacts à la virgule.
+
+---
+
+### 🧬 **L’Éprouvette Bleue** _(Pharmacie magique moderne, soutenue par l’université locale)_
+
+**Description :**  
+Une boutique presque clinique : murs blancs, étagères parfaitement droites, lumière douce bleutée. Des cristaux d’identification flottent au-dessus des fioles. Chaque article est étiqueté, daté, analysé, noté. Des bornes magiques permettent de consulter les effets secondaires. L’université de magie d’Armélia la finance partiellement.
+
+**Spécialité :**  
+Potions modernes et efficaces, avec contrôles qualité rigoureux. Potions de soins, boost magique, remèdes, potions temporaires de compétence. Étiquetage précis des durées, intensité, interactions. Peut créer des potions personnalisées (avec diagnostic magique préalable).
+
+**Employés notables :**
+
+- **Dr. Velena Trask** : humaine d’âge moyen, ancienne chercheuse reconvertie en pharmacienne, très logique et sceptique vis-à-vis de la "magie chaotique".
+- **Uroxx** : orc musclé et doux, chargé du service clientèle et des pesées précises. Sait tout sur les contre-indications.
+- **“Sève”** : dryade connectée magiquement au jardin médicinal en arrière-boutique. Ne parle pas, mais communique par projection d’émotions.
