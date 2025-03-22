@@ -9,11 +9,11 @@ Cette ville est a connu un accroissement de son activité très récemment. Situ
 ## Lieux spéciaux
 
 ### L'arène
-![[token-arène.png]]
+![[token-arène.png\80]]
 - actuellement fermé pour travaux, la saison des tournois n'a pas encore commencée
 
 ### L'autorité commerciale
-![[token-authorité-commerciale.png]]
+![[token-authorité-commerciale.png\80]]
 Possibilité de:
 - échanger bons contre de l'argent (attention: billets d'Armélia et pièces bizarre privilégiés et formulaires pour retirer en po)
 - fonder sa compagnie commerciale
@@ -22,33 +22,33 @@ Possibilité de:
 - cartes de la ville, du duché et du royaume, à jour avec les routes et villes
 
 ###  La ville noble
-![[token-quartier-noble.png]]
+![[token-quartier-noble.png\80]]
 - quartier ou se trouvent la plupart des résidences des nobles et très riches marchands
 - nombreuses patrouilles de la garde et de milices privées
 
 ### Le manoir de Titia Andromico
-![[token-manoir-titia.png]]
+![[token-manoir-titia.png\80]]
 
 ### L'ancienne citadelle
-![[token-citadelle.png]]
+![[token-citadelle.png\80]]
 - centre de l'administration relative à la duchesse et à la ville
 - permet d'obtenir un rendz-vous avec la duchesse
 	- base: dans 1 semaine
 	- si insistent: 3 jours
 
 ### Le palais de la duchesse
-![[token-palais-duchesse.png]]
+![[token-palais-duchesse.png\80]]
 - résidence de la duchesse
 	- appartements
 	- bals et réceptions privés (les réceptions publiques sont à l'ancienne citadelle)
 
 ### L'hôtel de la garde
-![[token-garde.png]]
+![[token-garde.png\80]]
 - caserne principale de la garde de la ville, sous les ordre du prévôt
 - multiples petits postes de garde partout dans la ville
 
 ### L'imprimerie d'Armélia
-![[token-imprimerie-armelia.png]]
+![[token-imprimerie-armelia.png\80]]
 - ancien entrepôt transformé en imprimerie
 	- très bruyant (plaintes des voisins)
 	- refus de fournir des informations sur les ayant droits
@@ -58,31 +58,31 @@ Possibilité de:
 	- l'adresse du cousin se trouve dans un bureau fermé à clefs (adresse dans l'empire)
 
 ### Le quartier des affaires
-![[token-quartier-marchand.png]]
+![[token-quartier-marchand.png\80]]
 - nombreuses boutiques et compagnies commerciales
 - 
 
 ### Le grand marché
-![[token-grand-marché.png]]
+![[token-grand-marché.png\80]]
 - grand marche ouvert sur une place
 - tous types de vendeurs melanges
 - 
 
 ### La taverne de l'eau bleue
-![[token-taverne-eau-bleue.png]]
+![[token-taverne-eau-bleue.png\80]]
 - idées des joueurs
 
 ### Le temple des dragons
 
 
 ### L'administratum
-![[token-administratum.png]]
+![[token-administratum.png\80]]
 - 2 sections
 	- l'administratum lui-même qui est une série de batiments connectés remplis de bureaux
 	- les services publiques (récéptions pour aider les gens pour leurs différentes procédures administratives)
 
 ### La guilde des aventuriers
-![[token-guilde-aventuriers.png]]
+![[token-guilde-aventuriers.png\80]]
 - ancienne auberge de luxe
 - zone de reception / rencontre / bar au rez de chaussé avec guichets
 - bureaux et salles d'enseignement étages
@@ -118,15 +118,15 @@ Possibilité de:
 	- divers
 
 ### L'arsenal
-![[token-arsenal.png]]
+![[token-arsenal.png\80]]
 - chateau et garnison pour les chevaliers ducaux
 
 ### Le théâtre de l'icosaèdre
-![[token-theatre-isocaèdre.png]]
+![[token-theatre-isocaèdre.png\80]]
 - célèbre théatre, réputé pour l'utilisation de la magie dans les production
 
 ### La scholaria
-![[token-scholaria.png]]
+![[token-scholaria.png\80]]
 - série de bâtiments servant d'école, lycée et université
 - beaucoup de monde
 - établi depuis à peine 5 ans, est toujours une nouveauté
@@ -148,11 +148,11 @@ Possibilité de:
 	- 
 
 ### La taverne de l'horloge
-![[token-taverne-horloge.png]]
+![[token-taverne-horloge.png\80]]
 - idées des joueurs
 
 ### La taverne de la chope qui vole
-![[token-taverne-chope-qui-vole.png]]
+![[token-taverne-chope-qui-vole.png\80]]
 - taverne avec une section salle de spectacle, qui a souvent des spectacles de magie, y compris un très célèbre numéro de magie qui fait voler les chopes, d'où le nom de l'auberge
 
 ![[taverne-3.jpg]]

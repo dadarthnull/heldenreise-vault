@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 24 - 12-10-2024.md",
+                "file": "Campagne/tables/Météo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 24 - 12-10-2024"
+              "title": "Météo"
+            }
+          },
+          {
+            "id": "cf1def6469ccf88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/tables/Voyage Eisendom.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Voyage Eisendom"
+            }
+          },
+          {
+            "id": "ad6ae7cc6cefba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/tables/Factions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Factions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -305,19 +353,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "cf1def6469ccf88f",
   "lastOpenFiles": [
+    "Campagne/tables/Météo.md",
+    "Campagne/tables/Factions.md",
+    "Campagne/tables/Voyage Eisendom.md",
+    "Session Notes/Session 30- 21-12-2024.md",
+    "Session Notes/Session 31- 04-01-2025.md",
+    "Session Notes/Session 32- 11-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Session Notes/Session 33- 15-03-2025.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Session Notes/Session 25 - 02-11-2024.md",
     "Session Notes/Session 26 - 16-11-2024.md",
     "Session Notes/Session 27 - 23-11-2024.md",
     "Session Notes/Session 28 - 30-11-2024.md",
     "Session Notes/Session 29 - 07-12-2024.md",
-    "Session Notes/Session 30- 21-12-2024.md",
-    "Session Notes/Session 31- 04-01-2025.md",
-    "Session Notes/Session 32- 11-01-2025.md",
     "NPCs/Monsters/Ours Hibou Majestueux.md",
     "NPCs/Monsters/Ogre Quantique.md",
     "ocine ogre quantique.png",
@@ -337,12 +388,9 @@
     "Assets/Odo le Muet.webp",
     "Assets/Thalia Petitvent.webp",
     "NPCs/Patrons et alliés/Akaryu.md",
-    "Campagne/tables/Météo.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Campagne/Lieux à visiter/campement du laboratoire.md",
-    "Campagne/Lieux à visiter/AbreissDorf.md",
-    "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
     "Campagne/tables",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",
