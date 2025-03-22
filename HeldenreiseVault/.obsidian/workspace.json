@@ -151,8 +151,7 @@
               "title": "Factions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,14 +376,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "00f7a2d2b1af0ac7",
   "lastOpenFiles": [
-    "Session Notes/Session 33- 15-03-2025.md",
     "NPCs/Patrons et alliés/Sylvaine.md",
+    "Session Notes/Session 33- 15-03-2025.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Homebrew/Arcanums/Arcanums.md",
     "Session Notes/Session 32- 11-01-2025.md",
     "Campagne/tables/Météo.md",
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
     "Campagne/tables/Factions.md",
