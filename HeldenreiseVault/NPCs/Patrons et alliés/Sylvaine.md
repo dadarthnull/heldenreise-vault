@@ -53,7 +53,7 @@ niveau: 4
 - [ ] 
 
 # Notes
-- 
+- 1potion of gretaer healing (4d4 + 4)
 
 # class progression
 
