@@ -161,4 +161,22 @@ Possibilité de:
 ![[token-cottage-lumineux.png]]
 - pour plus tard
 
-### 
+### **L'Enclume Enchantée** _(Boutique martiale)_
+- nain alcolo et sa nièce
+- shortsword of warning: 500po, 425 en gemmes
+- bracers of defence: 500po main d'oeuvre + 1500 acier enchanté
+
+###  **Les Bricoles Magiques de Tonton Bert** _(Boutique généraliste)_
+- bonbons surpises de Tonton Bert (10 Myrlou)
+- potions surprises (50po)
+- potions normales (70po)
+- robes du moine éclatant (+5mvmt, adv jet contre peur, +1CA, cantrip sword nurst 5/j, 1d4 recharge par nuit)
+
+###  **L'Éclat des Étoiles** _(Boutique de bijoux et accessoires magiques)_
+- anneau cube de force 600po (4/jour, 1 recup/nuit, globe 5ft radius, immunity phy ou magique 1 round, action bonus)
+- anneau de protection (+1AC, +1 svg), 200-250 selon métal, +10po grvure, +100po pour Nystul)
+- capes anti-pluie
+- bottes auto-nettoyantes
+- ceinture de sustenance (utilise pierre de mana mineure)
+- bourse d'herboriste (50po), sac sans fond (10kg matériel ou 50 litres)
+

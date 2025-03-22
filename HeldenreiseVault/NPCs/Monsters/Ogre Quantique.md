@@ -3,13 +3,15 @@
 nom: Ogre Quantique
 image: __image__
 taille: L
-mouvement: 20
-challenge: 1
+mouvement: 40
+challenge: 9
 theme: __
 ---
 
-# Icône
+![[ogre quantique.webp]]
 
+# Icône
+![[ocine ogre quantique.png|150]]
 
 # Fiche
 
