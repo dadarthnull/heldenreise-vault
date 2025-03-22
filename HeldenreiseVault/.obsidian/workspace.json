@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Arcanums/Arcanums.md",
+                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arcanums"
+              "title": "Ville d'Armélia"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 24 - 12-10-2024.md",
+                "file": "Session Notes/Session 32- 11-01-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 24 - 12-10-2024"
+              "title": "Session 32- 11-01-2025"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -353,11 +353,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "df94ef4445d927d7",
+  "active": "cf1def6469ccf88f",
   "lastOpenFiles": [
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
-    "Session Notes/Session 33- 15-03-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
+    "Session Notes/Session 33- 15-03-2025.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
+    "Homebrew/Arcanums/Arcanums.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
     "Campagne/tables/Factions.md",
     "Campagne/tables/Voyage Eisendom.md",
@@ -390,7 +391,6 @@
     "NPCs/Patrons et alliés/Akaryu.md",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
-    "Campagne/Lieux à visiter/campement du laboratoire.md",
     "Campagne/tables",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",
