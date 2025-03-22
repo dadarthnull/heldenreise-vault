@@ -329,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,6 +353,8 @@
   },
   "active": "df94ef4445d927d7",
   "lastOpenFiles": [
+    "NPCs/Patrons et alliés/Akaryu.md",
+    "Session Notes/Session 33- 15-03-2025.md",
     "Assets/timo-npc.png",
     "Assets/Intendante Alra.webp",
     "Assets/Barnik Dornbruck.webp",
@@ -369,7 +370,6 @@
     "Assets/Baronesse Hild Schattenwald.webp",
     "Assets/Darek Schattenwald.webp",
     "Campagne/Lieux à visiter/Duché Anderson.md",
-    "Assets/Garde-chef Guerin.webp",
     "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/Donjons/Grotte Morts-vivants du Nord.md",
     "Session Notes/Session 30- 21-12-2024.md",
@@ -377,7 +377,6 @@
     "Campagne/Lieux à visiter/campement du laboratoire.md",
     "Campagne/Lieux à visiter/AbreissDorf.md",
     "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
-    "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/tables/Effets magiques en donjon.md",
     "Campagne/tables/Voyage Eisendom.md",
     "Campagne/tables/Factions.md",
