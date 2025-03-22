@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Monsters/Ogre Quantique.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "53d0bdae1c511089",
+            "id": "37e4cf3202a5062a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/Duché Anderson.md",
+                "file": "NPCs/Monsters/Ours Hibou Majestueux.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,58 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Duché Anderson"
-            }
-          },
-          {
-            "id": "124e16094896357b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Baronnie de Baërfeld"
-            }
-          },
-          {
-            "id": "385a15b280cd69a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Viscomté de Dornbruck"
+              "title": "Ours Hibou Majestueux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,16 +304,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00f7a2d2b1af0ac7",
+  "active": "df94ef4445d927d7",
   "lastOpenFiles": [
+    "NPCs/Monsters/Ours Hibou Majestueux.md",
+    "NPCs/Monsters/Ogre Quantique.md",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "Session Notes/Session 33- 15-03-2025.md",
     "Assets/Benoit le Ventru.webp",
     "Assets/Jasmin le Bravache.webp",
-    "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
-    "NPCs/Monsters/Ogre Quantique.md",
     "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
     "NPCs/Monsters/Cultiste de la lune noire.md",
-    "Campagne/Lieux à visiter/Duché Anderson.md",
     "Assets/Liora la Fée.webp",
     "Assets/Gavro Tourbillon.webp",
     "Assets/Tilio Lestaud.webp",
