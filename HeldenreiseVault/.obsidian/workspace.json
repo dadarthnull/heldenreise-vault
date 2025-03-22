@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 33- 15-03-2025.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/Duché Anderson.md",
+                "file": "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Duché Anderson"
+              "title": "Viscomté de Dornbruck"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "Factions"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,14 +376,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ad6ae7cc6cefba97",
+  "active": "00f7a2d2b1af0ac7",
   "lastOpenFiles": [
-    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
     "Campagne/tables/Météo.md",
-    "Campagne/tables/Factions.md",
-    "Homebrew/Arcanums/Arcanums.md",
-    "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Session Notes/Session 33- 15-03-2025.md",
+    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
+    "Campagne/Lieux à visiter/Ville d'Armélia.md",
+    "Campagne/tables/Factions.md",
+    "Campagne/Lieux à visiter/Duché Anderson.md",
+    "Homebrew/Arcanums/Arcanums.md",
     "NPCs/Patrons et alliés/Sylvaine.md",
     "Session Notes/Session 32- 11-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
@@ -401,8 +402,6 @@
     "NPCs/Monsters/Ogre Quantique.md",
     "ocine ogre quantique.png",
     "ogre quantique.webp",
-    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
     "Assets/Benoit le Ventru.webp",
     "Assets/Jasmin le Bravache.webp",
     "NPCs/Monsters/Mort-Vivant - Chevalier de la mort.md",
