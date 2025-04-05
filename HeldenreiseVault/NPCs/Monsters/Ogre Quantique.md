@@ -8,213 +8,196 @@ challenge: 9
 theme: __
 ---
 
-![[ogre quantique.webp]]
+![[ogre quantique.webp|300]]
 
 # Icône
 ![[ocine ogre quantique.png|150]]
 
 # Fiche
+## 🧠 **OGRE QUANTIQUE – RÉSUMÉ MJ (CR 9)**
 
+### 📊 Stats clés
+
+- **CA** 17 | **PV** 153 | **Vitesse** 12 m
+    
+- **Jets** CON +9, SAG +4
+    
+- **Résistances** : force, psychique, B/P/T non-magiques (si en onde)
+    
+- **Immunités** : charmé, effrayé
+    
+- **Vision nocturne** 18 m
+    
+
+---
+
+### ⚔️ Attaque – _Massue de Phase_ (illimitée)
+
+- +9 pour toucher, portée 3 m
+    
+- 2d10+7 contondants + 2d6 force
+    
+- CON DD 16 ou : pas de réaction + TP aléatoire 1 case
+    
+
+---
+
+### 🌌 Pouvoir (1/​tour) – _Effondrement d’Incertitude_
+
+**Au début de son tour, choisir :**
+
+- 🧍 **Position observée** : devient visible ➤ **2 attaques**
+    
+- 🎯 **Intention observée** : seule la cible le perçoit ➤ +2 CA opp + avantage JS DEX
+    
+
+---
+
+### 🔁 Réaction – _Paradoxe Temporel_ (1/​round)
+
+**Quand il subit des dégâts :**
+
+- Annule tous les dégâts
+    
+- Prochain tour ➤ 1d4 :
+    
+
+|d4|Effet|
+|---|---|
+|1|❌ Pas d’Effondrement|
+|2|🐢 Vitesse /2, pas de Dash ni actions lég.|
+|3|🤢 Attaques à désavantage|
+|4|🕗 Joue en dernier|
+
+---
+
+### ☢️ Boss Moves (1er tour de chaque round)
+
+**🌀 T1 – Clonage Schrödinger**  
+→ 2 doubles : désavantage sauf INT DD 16 pour viser le vrai
+
+**🧿 T2 – Boucle Paradoxale (1 PJ)**  
+SAG DD 16 ou effet 1d4 : répète, lenteur, s’attaque, délai
+
+**💥 T3 – Effondrement de Fonction**  
+CON DD 17 / 6d8 force, repoussé, aveuglé (1 tour)  
+→ Perte de _Paradoxe Temporel_
+
+---
+
+### 🐱 Chat de Schrödinger _(Init 20, allié des PJ)_
+
+|d3|Effet|
+|---|---|
+|1|Un PJ devient **intangible**|
+|2|Un PJ joue un **2e tour** (move+action)|
+|3|Le chat **observe l’ogre** ➤ illusions chutent, les PJ peuvent l’imiter|
+
+# Description
 *Grande créature, chaotique indéfini*
-
 ## Statistiques
+# 🧠 Ogre Quantique (CR 9)
 
-# 🧠 Quantum Ogre (CR 9)
-
-*Large aberration, chaotic neutral*
-
----
-
-## 🧾 Basic Stats
-
-- **Armor Class**: 17 (fractal skin)
-- **Hit Points**: 153 (18d10 + 54)
-- **Speed**: 40 ft
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 21 (+5) | 12 (+1) | 22 (+6) | 9 (-1) | 13 (+1) | 10 (+0) |
-
-- **Saving Throws**: CON +9, WIS +4
-- **Damage Resistances**: force, psychic; bludgeoning, piercing, slashing from nonmagical attacks (while in waveform)
-- **Condition Immunities**: charmed, frightened
-- **Senses**: darkvision 60 ft, passive Perception 11
-- **Languages**: understands Common and Deep Speech, but doesn't speak
-- **Challenge**: 9 (5,000 XP)
+*Grande aberration, chaotique neutre*
 
 ---
 
-## 🛠 Traits & Abilities
+## 🧾 Statistiques
 
-### ⚔️ Phase Club *(Unlimited Attack)*
-*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target  
-**Hit**: 18 (2d10 + 7) bludgeoning + 7 (2d6) force damage  
-**Effect**: Target must succeed on a **DC 16 CON save** or:
-- Can’t take reactions until the end of its next turn
-- Teleports 5 ft in a random direction (roll 1d8)
-
----
-
-### 🌌 Uncertainty Collapse *(1/turn, Start of Turn)*
-Choose **one** effect:
-
-- **Observe Position**: The ogre becomes fully visible. It can make **4 Phase Club attacks** this turn to any target.
-- **Observe Intention**: Only the target of its next attack perceives it. Until end of turn, the ogre gains:
-  - **+2 AC** vs opportunity attacks
-  - **Advantage on DEX saving throws**
-
----
-
-### 🛡️ Waveform Rebound *(Reaction, 1/round)*
-**Trigger**: When the ogre is hit or fails a saving throw  
-**Effect**: Teleports 10 ft to an unoccupied space it can see  
-Gains **resistance to all damage** until the start of its next turn
-
-### 🕰️ **Reaction: Temporal Undoing**
-
-**Trigger**: When the Quantum Ogre takes damage from an attack.
-**Effect**: The ogre momentarily rewinds its local timeline, **negating all damage** from that attack.
-
-However, time reasserts itself imperfectly. On its **next turn**, the ogre suffers **one of the following drawbacks** (roll 1d4):
-1. **Energy Debt** – It cannot use **Uncertainty Collapse** this turn.
-2. **Momentum Loss** – Its **speed is halved**, and it cannot take the **Dash** or **Legendary Actions** this turn.
-3. **Chrono Sickness** – It makes attacks **at disadvantage** until the end of the turn.
-4. **Loop Lag** – It **acts last in initiative order** this round, regardless of original initiative.
-
----
-
-## ☢️ Boss Moves *(Used once, Turn 1-3)*
-
-### 🌀 Turn 1 — Schrödinger’s Split
-The ogre creates **two quantum duplicates** in empty spaces within 15 ft.
-
-- All attacks against the ogre have **disadvantage**, unless the attacker passes a **DC 16 Intelligence check** to locate the real one.
-- Duplicates vanish when hit.
-- Effect ends at the start of the ogre’s next turn.
-
----
-
-### 🧿 Turn 2 — Paradox Loop
-Choose a creature. It must make a **DC 16 WIS save** or suffer:
-
-1d4:
-1. **Repeat** – Must repeat last action this turn  
-2. **Stutter** – Movement halved; no bonus actions  
-3. **Inverse** – Melee attack hits self; ranged attack misses  
-4. **Echo** – Action is delayed until the start of ogre’s next turn
-
----
-
-### 💥 Turn 3 — Collapse the Function
-**Each creature within 30 ft** must make a **DC 17 CON save**.
-
-- **On fail**: 6d8 force damage, pushed 15 ft, **blinded** until end of their next turn  
-- **On success**: Half damage, no other effects
-
-After this move:
-- The ogre **loses Waveform Rebound**
-- It appears **unstable**, shimmers violently
-
----
-
-## 🐱 Schrödinger’s Cat (Optional Ally)
-
-At initiative 20 (losing ties), the spectral cat intervenes (roll 1d3):
-
-1. **Tunneling** – One player becomes **intangible** until end of their next turn  
-2. **Paradox** – One random player may take a second turn at end of round (move + action only)  
-3. **Measurement** – The cat observes the ogre. Until start of next turn, its illusions drop, and the ogre **loses resistance and bonus AC**
-
----
-
-*The Quantum Ogre is not meant to be defeated in a straightforward fight. It's a reflection of choice, causality, and probability. Prepare your dice, but they might not matter...*
-
-
-- **Classe d'armure (CA)** : 17 (peau fractale)
-- **Points de vie (PV)** : 150 (12d10 + 72)
-- **Vitesse** : 40 ft
+- **Classe d’Armure** : 17 (peau fractale)  
+- **Points de vie** : 153 (18d10 + 54)  
+- **Vitesse** : 12 m
 
 | FOR | DEX | CON | INT | SAG | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 21 (+5) | 12 (+1) | 22 (+6) | 8 (-1) | 12 (+1) | 9 (-1) |
+| 21 (+5) | 12 (+1) | 22 (+6) | 9 (-1) | 13 (+1) | 10 (+0) |
 
-- **Jets de sauvegarde** : CON +9, SAG +5
-- **Compétences** : Perception +5
-- **Résistances aux dégâts** : dégâts non-magiques contondants, perforants et tranchants *(forme ondulatoire)*
-- **Immunités aux états** : charmé, effrayé
-- **Sens** : vision dans le noir 60 ft, Perception passive 15
-- **Langues** : comprend le commun et le profond, ne parle pas
-- **Niveau de dangerosité (CR)** : **9** (5 000 PX)
+- **Jets de sauvegarde** : CON +9, SAG +4  
+- **Résistances** : dégâts de force, psychiques ; B/P/T non magiques (si en onde)  
+- **Immunités** : charmé, effrayé  
+- **Sens** : vision dans le noir 18 m, Perception passive 11  
+- **Langues** : comprend le commun et le profonds, ne parle pas  
+- **Niveau de défi (CR)** : 9 (5 000 XP)
 
-## Combat
+---
 
-1. Round 1  
-	- 🧭 **Chemin de Schrödinger** L'ogre surprend le joueurs en apparaissant au milieu du groupe. 
-	- ⚖️ **Principe d’Incertitude** l'ogre effectue 3 attaques normales sur 3 cibles aléatoires
-2. Round 2 
-	- Le Chat de Schrödinger 🐈‍⬛ - 👁️ **Mesure**
-	- ⚖️ **Principe d’Incertitude**
-	- ⚛️ **À la fois onde et particule**
-	- 💥 **Collision Quantique** 
-3. Round 3
-	- Le Chat de Schrödinger 🐈‍⬛- ⌛ **Paradoxe Temporel** 
-	- ⚖️ **Principe d’Incertitude**
-	- 🔨 **Massive Quantum Club**
-	- (L)🪞 **Superposition Quantique**
-4. Round 4
-	- Le Chat de Schrödinger 🐈‍⬛ - 🌀 **Tunneling Quantique**
-	- ⚖️ **Principe d’Incertitude**
-	- ⚛️ **À la fois onde et particule**
-	- 🔨 **Massive Quantum Club**
-	- (L) 🪞 **Superposition Quantique**
-5. Round 5 
-	- Le Chat de Schrödinger 🐈‍⬛ - 👁️ **Mesure**
-	- ⚖️ **Principe d’Incertitude**
-	- 💥 **Collision Quantique** 
-	- (L) 🪞 **Superposition Quantique**
+## 🪓 Attaque – *Massue de Phase* (illimitée)
 
-## Capacités Spéciales
+**Attaque de mêlée** : +9 pour toucher, portée 3 m, une cible  
+**Dégâts** : 18 (2d10 + 7) contondants + 7 (2d6) de force  
+**Effet** : la cible doit réussir un **jet de CON DD 16** ou :  
+- Ne peut pas faire de réactions jusqu’à son prochain tour  
+- Se **téléporte de 1 case (1d8)** dans une direction aléatoire
 
-- 🧭 **Chemin de Schrödinger** - Peu importe les choix des joueurs, l’Ogre Quantique les croise toujours. Il est à la fois partout et nulle part. Toute tentative de l’éviter échoue inexorablement.
-- ⚖️ **Principe d’Incertitude** - 
-Au début de son tour, les joueurs doivent choisir **une seule** des deux informations suivantes :
-  - **Connaître sa position exacte** : il devient visible, mais il attaque un nombre de cibles égal à la **moitié de son CR**, arrondi au supérieur (**5 cibles**).
-  - **Connaître sa cible** : il devient flou, ignore les attaques d’opportunité et peut traverser ennemis et obstacles non magiques.
-S’ils **ne choisissent pas**, il gagne **avantage à l’attaque** et **résistance à tous les dégâts** jusqu’à son prochain tour.
-- 🎲 **Dieu ne joue pas aux dés** - 
-Toute créature **adjacente** à l’ogre **ne jette aucun dé**. À la place, ses résultats sont déterminés par une **suite mathématique prédéfinie** tenue secrète par le MJ. Cela affecte attaques, dégâts, jets de sauvegarde, etc.
-- ⚛️ **À la fois onde et particule** *(Recharge 5–6, Bonus Action)* - L’ogre adopte une **forme quantique** jusqu'au début de son prochain tour:
-	- **Forme Ondulatoire** :  
-	  - Résistance aux dégâts non-magiques  
-	  - Ignore les terrains difficiles  
-	  - Crée **2 doubles illusoires** (1d3 pour toucher le vrai lors d'une attaque)
-	- **Forme Particulaire** :  
-	  - +2 CA  
-	  - +1d6 dégâts sur ses attaques  
-	  - Peut utiliser **Collision Quantique**
-- ☢️ **Effondrement de la fonction d’onde** - À 0 PV, l’ogre n’est pas détruit immédiatement. Il entre en **état de rémanence quantique** pendant **1d4 tours**. Durant cette période, il agit normalement. Ensuite :
-- Il explose (effet à discrétion du MJ) **ou**
-- Se téléporte hors du plan. Il **peut revenir plus tard** dans la campagne, n’importe quand, sans prévenir.
+---
 
-## Actions
-- 👊 **Poings Quantique** - *Attaque de mêlée* : +9 pour toucher, portée 5 ft, une cible  
-- 🔨 **Massive Quantum Club** - *Attaque de mêlée* : +9 pour toucher, portée 10 ft, une cible, 18 (2d10 + 7) dégâts contondants
-- 💥 **Collision Quantique** *(Recharge 5–6)* - L’ogre se désintègre puis se reconstruit dans une case visible à 60 ft. À l’arrivée, toutes les créatures dans un rayon de 10 ft doivent faire un **jet de CON DD 17**
-  - Échec : 4d8 dégâts de force + repoussées de 10 ft
-  - Réussite : moitié des dégâts, pas de repoussement
+## 🌌 Pouvoir (1/​tour) – *Effondrement d’Incertitude*  
+À chaque début de tour, choisir **1 effet** :
 
-## Actions Légendaires
+- **Observer la Position** : l’ogre devient totalement visible ➤ il fait **2 attaques** ce tour  
+- **Observer l’Intention** : seul sa cible le voit clairement ➤ l’ogre gagne **+2 CA contre attaques d’opportunité** et **avantage aux JS DEX** ce tour
 
-L’ogre peut effectuer **1 action légendaire** parmi les suivantes à la fin du tour d’une autre créature.
-- 🪞 **Superposition Quantique** - Crée un **écho quantique** dans une case jusqu’à 15 ft. Lorsqu'il est ciblé par une attaque, le joueur lance **1d2** (ou 1d3 si 2 échos) :  
-**1 = vrai ogre**, les autres = illusions (disparaissent si touchées).
+---
 
-## Initiative 20 – Le Chat de Schrödinger 🐈‍⬛ *(Entité alliée)*
-Le chat spectral apparaît à l’initiative 20 de chaque round (hors premier). Il effectue l’un des effets suivants :
-- 🌀 **Tunneling Quantique**  - Un joueur devient **intangible** jusqu’à la fin de son prochain tour. Il peut traverser créatures et obstacles non-magiques, sans provoquer d’attaque d’opportunité.
-- ⌛ **Paradoxe Temporel**  - Un joueur aléatoire peut effectuer un **second tour** à la fin du round (action + mouvement uniquement, pas de bonus d’action ni réaction récupérée).
-- 👁️ **Mesure**  - Le chat regarde l’ogre. Celui-ci perd ses duplications et résistances jusqu’à son prochain tour.  
-Il **suggère aux joueurs** de faire de même (ligne de vue dégagée + déclaration) pour **affaiblir davantage** l’ogre (désavantage, annulation de téléportation, etc.).
+## 🛡️ Réaction – *Paradoxe Temporel* (1/​round)  
+**Déclencheur** : lorsqu’il subit des dégâts  
+**Effet** : annule **tous les dégâts**  
+➡ Mais au **prochain tour**, lancer 1d4 :
+
+| 1d4 | Effet négatif |
+|:--:|:---------------|
+| 1 | ❌ Ne peut pas utiliser *Effondrement d’Incertitude*  
+| 2 | 🐢 Vitesse divisée par 2, pas de Dash ni actions légendaires  
+| 3 | 🤢 Attaques avec **désavantage**  
+| 4 | 🕗 Agit **en dernier** ce round  
+
+---
+
+## ☢️ Pouvoirs de Boss (1 par tour)
+
+### 🌀 Tour 1 – *Clonage de Schrödinger*  
+➤ L’ogre crée **2 doubles** dans un rayon de 4 cases  
+- Attaques contre lui = **désavantage** sauf si INT DD 16  
+- Un double disparaît s’il est touché  
+- Effet se termine au tour suivant
+
+---
+
+### 🧿 Tour 2 – *Boucle Paradoxale*  
+➤ Une créature fait un **jet de SAG DD 16**, sinon :
+
+| 1d4 | Effet |
+|:--:|:------|
+| 1 | Répète la même action  
+| 2 | Vitesse divisée par 2, pas d’action bonus  
+| 3 | Prochaine attaque touche **soi-même** ou rate  
+| 4 | Action se déclenche **au tour suivant de l’ogre**
+
+---
+
+### 💥 Tour 3 – *Effondrement de Fonction*  
+➤ Toutes créatures à 9 m font un **jet de CON DD 17** :
+
+- **Échec** : 6d8 dégâts de force, **repoussé de 3 cases**, **aveuglé** (1 tour)  
+- **Succès** : moitié des dégâts, pas d’autres effets
+
+➡ Après ça, l’ogre **perd sa réaction Paradoxe Temporel**
+
+---
+
+## 🐱 Chat de Schrödinger *(Initiative 20 – allié des PJ)*
+
+Chaque round, effet aléatoire (1d3) :
+
+| 1d3 | Effet |
+|:--:|:------|
+| 1 | Un PJ devient **intangible** (comme l’ogre) jusqu’à son prochain tour  
+| 2 | Un PJ aléatoire joue **un 2ᵉ tour** (mouvement + action seulement)  
+| 3 | Le chat **observe l’ogre** : il perd son camouflage + indique qu’un PJ peut le faire aussi pour **affaiblir encore plus l’ogre**
+
+---
+
+> *L’Ogre Quantique défie la logique, la chance, et le libre arbitre. Sa réalité se plie à l’observation. Peut-on battre un ennemi qu’on ne peut pas vraiment voir ?*
 
 ## But narratif
 Ce monstre joue avec les mécaniques de jeu, la narration, et les thèmes de la mécanique quantique : incertitude, dualité, superposition, et déterminisme. Il est aussi un clin d’œil méta sur l’illusion du choix dans les jeux de rôle.
