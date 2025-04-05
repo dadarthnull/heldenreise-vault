@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 33- 15-03-2025.md",
-                "mode": "source",
+                "file": "Session Notes/Session 34 - 05-04-2025.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 33- 15-03-2025"
+              "title": "Session 34 - 05-04-2025"
             }
           },
           {
@@ -56,13 +56,13 @@
             }
           },
           {
-            "id": "df94ef4445d927d7",
+            "id": "68b4dd71d083119a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
-                "mode": "preview",
+                "file": "Campagne/Lieux à visiter/Schmiedehafen.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,82 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ville d'Armélia"
-            }
-          },
-          {
-            "id": "37e4cf3202a5062a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/tables/Météo.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Météo"
-            }
-          },
-          {
-            "id": "cf1def6469ccf88f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Viscomté de Dornbruck"
-            }
-          },
-          {
-            "id": "ad6ae7cc6cefba97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/tables/Factions.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Schmiedehafen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -376,17 +305,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "00f7a2d2b1af0ac7",
+  "active": "68b4dd71d083119a",
   "lastOpenFiles": [
-    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
-    "Campagne/tables/Météo.md",
-    "Session Notes/Session 33- 15-03-2025.md",
-    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
+    "Campagne/Lieux à visiter/Schmiedehafen.md",
+    "NPCs/Patrons et alliés/Sylvaine.md",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
+    "Campagne/tables/Météo.md",
+    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
     "Campagne/tables/Factions.md",
+    "Session Notes/Session 33- 15-03-2025.md",
+    "Session Notes/Session 34 - 05-04-2025.md",
+    "Campagne/Lieux à visiter/Baronnie de Schattenwald.md",
     "Campagne/Lieux à visiter/Duché Anderson.md",
     "Homebrew/Arcanums/Arcanums.md",
-    "NPCs/Patrons et alliés/Sylvaine.md",
     "Session Notes/Session 32- 11-01-2025.md",
     "Session Notes/Session 24 - 12-10-2024.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
@@ -412,8 +343,6 @@
     "Assets/Maelys du Ruisseau.webp",
     "Assets/Odo le Muet.webp",
     "Assets/Thalia Petitvent.webp",
-    "NPCs/Patrons et alliés/Akaryu.md",
-    "NPCs/Monsters/Mort-Vivant - Archer squelette.md",
     "Campagne/tables",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",

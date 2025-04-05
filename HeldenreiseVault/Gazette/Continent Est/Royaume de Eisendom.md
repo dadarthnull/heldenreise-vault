@@ -11,7 +11,7 @@ name: eisendom
 
 Les forgerons de ce royaume sont réputés pour leur art, et leurs armes et armures sont considérées comme les meilleures du monde. Situé au Sud Est, les artisans du royaumes ont de bonnes relations avec les artisans nains et connaissent certains de leurs secrets.
 
-Capitale : [[Schmiedehafen]]
+Capitale : [[Gazette/Continent Est/Schmiedehafen]]
 
 Couleur associée : Bronze, la couleur du métal travaillé par les forgerons de ce royaume, ainsi que des couleurs chaudes et intenses du soleil couchant sur les quais du port.
 

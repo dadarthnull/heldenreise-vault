@@ -32,7 +32,7 @@ Bien sûr, ajoutons des personnages supplémentaires pour les trois premières f
 
 **3. Famille Langfahrtt - Fermiers itinérants**
 
-Les Langfahrtt n'ont pas de champs attitrés et aident aux autres champs. L'hiver, ils partent au sud pour aider les cultures d'hiver vers [[Schmiedehafen]]
+Les Langfahrtt n'ont pas de champs attitrés et aident aux autres champs. L'hiver, ils partent au sud pour aider les cultures d'hiver vers [[Gazette/Continent Est/Schmiedehafen]]
 
 - **Ysabelle Langfahrtt (matriarche)** : Une femme d'âge moyen au visage marqué par les éléments, avec des yeux pétillants reflétant sa curiosité. Elle porte des vêtements colorés, représentant les diverses cultures avec lesquelles la famille a interagi.
 
