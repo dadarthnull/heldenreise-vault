@@ -19,6 +19,117 @@ theme: __
 
 ## Statistiques
 
+# 🧠 Quantum Ogre (CR 9)
+
+*Large aberration, chaotic neutral*
+
+---
+
+## 🧾 Basic Stats
+
+- **Armor Class**: 17 (fractal skin)
+- **Hit Points**: 153 (18d10 + 54)
+- **Speed**: 40 ft
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| 21 (+5) | 12 (+1) | 22 (+6) | 9 (-1) | 13 (+1) | 10 (+0) |
+
+- **Saving Throws**: CON +9, WIS +4
+- **Damage Resistances**: force, psychic; bludgeoning, piercing, slashing from nonmagical attacks (while in waveform)
+- **Condition Immunities**: charmed, frightened
+- **Senses**: darkvision 60 ft, passive Perception 11
+- **Languages**: understands Common and Deep Speech, but doesn't speak
+- **Challenge**: 9 (5,000 XP)
+
+---
+
+## 🛠 Traits & Abilities
+
+### ⚔️ Phase Club *(Unlimited Attack)*
+*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target  
+**Hit**: 18 (2d10 + 7) bludgeoning + 7 (2d6) force damage  
+**Effect**: Target must succeed on a **DC 16 CON save** or:
+- Can’t take reactions until the end of its next turn
+- Teleports 5 ft in a random direction (roll 1d8)
+
+---
+
+### 🌌 Uncertainty Collapse *(1/turn, Start of Turn)*
+Choose **one** effect:
+
+- **Observe Position**: The ogre becomes fully visible. It can make **4 Phase Club attacks** this turn to any target.
+- **Observe Intention**: Only the target of its next attack perceives it. Until end of turn, the ogre gains:
+  - **+2 AC** vs opportunity attacks
+  - **Advantage on DEX saving throws**
+
+---
+
+### 🛡️ Waveform Rebound *(Reaction, 1/round)*
+**Trigger**: When the ogre is hit or fails a saving throw  
+**Effect**: Teleports 10 ft to an unoccupied space it can see  
+Gains **resistance to all damage** until the start of its next turn
+
+### 🕰️ **Reaction: Temporal Undoing**
+
+**Trigger**: When the Quantum Ogre takes damage from an attack.
+**Effect**: The ogre momentarily rewinds its local timeline, **negating all damage** from that attack.
+
+However, time reasserts itself imperfectly. On its **next turn**, the ogre suffers **one of the following drawbacks** (roll 1d4):
+1. **Energy Debt** – It cannot use **Uncertainty Collapse** this turn.
+2. **Momentum Loss** – Its **speed is halved**, and it cannot take the **Dash** or **Legendary Actions** this turn.
+3. **Chrono Sickness** – It makes attacks **at disadvantage** until the end of the turn.
+4. **Loop Lag** – It **acts last in initiative order** this round, regardless of original initiative.
+
+---
+
+## ☢️ Boss Moves *(Used once, Turn 1-3)*
+
+### 🌀 Turn 1 — Schrödinger’s Split
+The ogre creates **two quantum duplicates** in empty spaces within 15 ft.
+
+- All attacks against the ogre have **disadvantage**, unless the attacker passes a **DC 16 Intelligence check** to locate the real one.
+- Duplicates vanish when hit.
+- Effect ends at the start of the ogre’s next turn.
+
+---
+
+### 🧿 Turn 2 — Paradox Loop
+Choose a creature. It must make a **DC 16 WIS save** or suffer:
+
+1d4:
+1. **Repeat** – Must repeat last action this turn  
+2. **Stutter** – Movement halved; no bonus actions  
+3. **Inverse** – Melee attack hits self; ranged attack misses  
+4. **Echo** – Action is delayed until the start of ogre’s next turn
+
+---
+
+### 💥 Turn 3 — Collapse the Function
+**Each creature within 30 ft** must make a **DC 17 CON save**.
+
+- **On fail**: 6d8 force damage, pushed 15 ft, **blinded** until end of their next turn  
+- **On success**: Half damage, no other effects
+
+After this move:
+- The ogre **loses Waveform Rebound**
+- It appears **unstable**, shimmers violently
+
+---
+
+## 🐱 Schrödinger’s Cat (Optional Ally)
+
+At initiative 20 (losing ties), the spectral cat intervenes (roll 1d3):
+
+1. **Tunneling** – One player becomes **intangible** until end of their next turn  
+2. **Paradox** – One random player may take a second turn at end of round (move + action only)  
+3. **Measurement** – The cat observes the ogre. Until start of next turn, its illusions drop, and the ogre **loses resistance and bonus AC**
+
+---
+
+*The Quantum Ogre is not meant to be defeated in a straightforward fight. It's a reflection of choice, causality, and probability. Prepare your dice, but they might not matter...*
+
+
 - **Classe d'armure (CA)** : 17 (peau fractale)
 - **Points de vie (PV)** : 150 (12d10 + 72)
 - **Vitesse** : 40 ft
