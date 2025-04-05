@@ -5,6 +5,9 @@
 # Carte
 ![[schmiedehafen-carte-all.webp]]
 
+- île bleue: une petite ile sur laquelle on voit un unique batiment ressemblant un petit manoir. Impossible à atteindre, plus on s'en approche, plus elle semble s'éloigner
+- 
+
 # Factions
 ## Le culte de la lune noire
 ### objectif long terme:
