@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 34 - 05-04-2025.md",
-                "mode": "source",
+                "file": "Session Notes/Session 35 - 12-04-2025.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 34 - 05-04-2025"
+              "title": "Session 35 - 12-04-2025"
             }
           },
           {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Monsters/Ogre Quantique.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -127,8 +127,7 @@
               "title": "Factions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,11 +352,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bf3149598fd64606",
+  "active": "00f7a2d2b1af0ac7",
   "lastOpenFiles": [
     "Session Notes/Session 34 - 05-04-2025.md",
-    "Session Notes/Session 33- 15-03-2025.md",
+    "Session Notes/Session 35 - 12-04-2025.md",
     "NPCs/Monsters/Ogre Quantique.md",
+    "Session Notes/Session 33- 15-03-2025.md",
     "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
     "Campagne/tables/Factions.md",
