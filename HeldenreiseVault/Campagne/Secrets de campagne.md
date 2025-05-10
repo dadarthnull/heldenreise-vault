@@ -56,7 +56,7 @@
 	- [ ] [[Titia Andromico]] va faire un rituel nécromantique pour attaquer le village, le rituel prend beaucoup de temps
 ## La tribu de kobolds
 - [ ] les ruines de BBB sont occupées par des kobolds, en guerre contre les morts vivants de XXX
-- [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devnir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti
+- [ ] YYY, le shaman de la tribu de kobolds veut trahir sa tribu et devenir un nécromancien puissant, il a interdit à sa tribu de combattre XXX et il cherche a devenir son apprenti
 - [ ] ZZZ le chef de guerre veut just vivre en paix et protéger sa tribu, il veut se débarasser mais n'ose pas se dresser contre YYY
 - [ ] les kobolds ont peur des humains, mais peuvent attaquer des villageois si ils deviennent désespe2rés.
 ## Le chevalier démon
