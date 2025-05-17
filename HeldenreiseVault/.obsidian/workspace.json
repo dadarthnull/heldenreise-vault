@@ -30,78 +30,6 @@
               "icon": "lucide-file",
               "title": "Session 37 - 17-05-2025"
             }
-          },
-          {
-            "id": "92a54577dc6c5718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Yuaratoya.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Yuaratoya"
-            }
-          },
-          {
-            "id": "9013743bc54acd4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Baronnie de Baërfeld"
-            }
-          },
-          {
-            "id": "9bb5220e3a16f3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ennemis/Zakhan le noir.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zakhan le noir"
-            }
           }
         ]
       }
@@ -330,10 +258,10 @@
   },
   "active": "07945b1c136bc8d6",
   "lastOpenFiles": [
-    "Campagne/Lieux à visiter/Schmiedehafen.md",
-    "Session Notes/Session 37 - 17-05-2025.md",
-    "Session Notes/Session 36 - 10-05-2025.md",
     "NPCs/Ennemis/Yuaratoya.md",
+    "Session Notes/Session 37 - 17-05-2025.md",
+    "Campagne/Lieux à visiter/Schmiedehafen.md",
+    "Session Notes/Session 36 - 10-05-2025.md",
     "Campagne/Secrets de campagne.md",
     "Campagne/Culte de la lune noire.md",
     "Session Notes/Session 17 - 01-06-2024.md",
