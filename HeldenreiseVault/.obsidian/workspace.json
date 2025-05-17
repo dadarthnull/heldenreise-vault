@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
+                "file": "Session Notes/Session 37 - 17-05-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pavillon aux esclaves des Dornbruck"
+              "title": "Session 37 - 17-05-2025"
             }
           },
           {
@@ -330,10 +330,10 @@
   },
   "active": "07945b1c136bc8d6",
   "lastOpenFiles": [
+    "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
     "slavers-ground.webp",
     "slavers-basement.webp",
     "Session Notes/Session 37 - 17-05-2025.md",
-    "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
     "Campagne/Lieux à visiter/Schmiedehafen.md",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
     "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
@@ -365,7 +365,6 @@
     "Assets/Jasmin le Bravache.webp",
     "Assets/Liora la Fée.webp",
     "Assets/Gavro Tourbillon.webp",
-    "Assets/Tilio Lestaud.webp",
     "Campagne/tables",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",
