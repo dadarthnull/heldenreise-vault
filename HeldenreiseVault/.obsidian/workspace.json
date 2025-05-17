@@ -56,36 +56,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4b47464d34eaf594",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef73a97f2278d90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 36 - 10-05-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 36 - 10-05-2025"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
