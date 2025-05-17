@@ -7,216 +7,236 @@
 
 
 ## auberges et hôtels
-- **Chez Salvatore**
-	- **Ambiance** : Animée et artistique, avec des performances de musiciens et des artistes exposant leurs œuvres. Les murs sont décorés de peintures vibrantes et d'esquisses.
-	- **Style** : Eclectique, mélange de vieux meubles en bois et d'objets d'art. Les tables sont souvent encombrées de croquis et de matériaux artistiques.
-	- **Taille** : Moyenne, avec une capacité d'accueil d'environ 50 personnes.
-	- **Membres du personnel** :
-	    - **Salvatore, le propriétaire** : Un artiste charismatique, toujours en quête d'inspiration. Il accueille les clients avec des histoires de ses voyages.
-	    - **Felicia, la serveuse** : Une jeune femme pétillante, elle est elle-même artiste et échange des idées avec les clients.
-	- **Tarifs** :
-	    - **Couchage** : 6 pièces d'argent par nuit pour une chambre double, 6 pièces d'argent par nuit pour une chambre individuelle, 1 pièces d'argent par nuit pour une chambre commune.
-	    - **Plats** : 2 pièces d'argent pour un plat du jour inspiré de cuisines du monde, 5 argents pour un verre de vin local.
-- **Le Repos du Navigateur**
-	- **Ambiance** : Cozy et chaleureuse, évoquant les voyages en mer, avec des lanternes tamisées et des cartes maritimes accrochées aux murs.
-	- **Style** : Nautique, avec des tables en bois brut et des décorations maritimes. Les clients peuvent se détendre autour d'une grande cheminée.
-	- **Taille** : Petite à moyenne, pouvant accueillir environ 40 personnes.
-	- **Membres du personnel** :
-	    - **Capitaine Bartholomé, le gérant** : Un ancien navigateur, il partage des récits de ses aventures en mer avec les clients.
-	    - **Sophie, la cuisinière** : Prépare des plats réconfortants, souvent inspirés des ingrédients marins.
-	    - **Till, serveur**: ancien aventurier
-	- **Tarifs** :
-	    - **Couchage** : 5 pièces de cuivre par nuit pour une chambre commune, 1 pièces d'argent par nuit pour une chambre double.
-	    - **Plats** : 1 pièce d'argent pour un plat de poisson, 5 cuivres pour une chope de bière.
-- **Hôtel de la Larme Joyeuse**
-	- **Ambiance** : Élégante et animée, avec un hall d'entrée spacieux et des clients affairés. Des musiciens jouent des airs joyeux pour égayer l'atmosphère.
-	- **Style** : Moderne et soigné, avec des meubles de qualité et une décoration raffinée.
-	- **Taille** : Grande, avec une capacité d'accueil d'environ 120 personnes.
-	- **Membres du personnel** :
-	    - **Monsieur Alphonse, le propriétaire** : Un homme d'affaires avisé, il veille à ce que tout soit parfait pour ses clients.
-	    - **Clara, la réceptionniste** : Toujours souriante, elle est efficace et connaît tous les meilleurs endroits de la ville.
-	    - **Adeline, sa fille**: 6 ans
-	- **Tarifs** :
-	    - **Couchage** : 12 pièces d'argent par nuit pour une chambre standard.
-	    - **Plats** : 2 pièces d'argent pour un repas complet, 1 pièce d'or pour une boisson.
-- **Pension de Dame Adeline**
-	- **Ambiance** : Chaleureuse et familiale, avec un décor accueillant et des clients qui se sentent chez eux. Des fleurs fraîches décorent les tables.
-	- **Style** : Traditionnel, avec des meubles en bois confortables et des tapis colorés.
-	- **Taille** : Petite, avec une capacité d'accueil d'environ 30 personnes.
-	- **Membres du personnel** :
-	    - **Dame Adeline, la propriétaire** : Une femme chaleureuse qui s'assure que tout le monde se sente bien. Elle aime discuter avec ses clients.
-	    - **Marc, le cuisinier** : Prépare des plats faits maison avec des recettes familiales.
-	- **Tarifs** :
-	    - **Couchage** : 7 pièces d'argent par nuit pour une chambre simple.
-	    - **Plats** : 1 pièce d'argent pour un plat fait maison, 5 argents pour un café.
-- **Maison Tenna**
-	- **Ambiance** : Simple et sans prétention, avec un décor fonctionnel. Les clients sont souvent des travailleurs locaux ou des voyageurs de passage.
-	- **Style** : Pratique, avec des meubles basiques mais confortables. L'atmosphère est conviviale.
-	- **Taille** : Moyenne, pouvant accueillir environ 50 personnes.
-	- **Membres du personnel** :
-	    - **Tenna, la gérante** : Une femme pragmatique qui a ouvert l'auberge pour aider sa communauté. Elle est connue pour son sens de l'humour.
-	    - **Léo, le serveur** : Un jeune homme amical qui prend soin des clients et s'assure qu'ils soient satisfaits.
-	- **Tarifs** :
-	    - **Couchage** : 4 pièces d'argent par nuit pour un lit dans une chambre partagée.
-	    - **Plats** : 5 cuivres pour un plat simple, 2 argents pour une boisson.
-- **Auberge la Poutre**
-	- **Ambiance** : Animée et dynamique, avec des clients discutant joyeusement autour de grandes tables. Les murs portent des marques de l'histoire récente du quartier.
-	- **Style** : Rusticité, avec des poutres en bois apparentes et une décoration simple mais chaleureuse.
-	- **Taille** : Grande, avec une capacité d'accueil d'environ 80 personnes.
-	- **Membres du personnel** :
-	    - **Rolf, le propriétaire** : Un homme jovial qui aime raconter des histoires de reconstruction et d'espoir.
-	    - **Maya, la serveuse** : Rapide et efficace, elle connaît les préférences des clients réguliers.
-	- **Tarifs** :
-	    - **Couchage** : 3 pièces d'argent par nuit pour un lit dans un dortoir.
-	    - **Plats** : 1 pièce d'argent pour un plat de pâtes maisons, 5 argents pour une bière.
-- **Auberge des Quais Fleuris**
-	- **Ambiance** : Fraîche et vivante, avec des fleurs décorant les tables et une vue sur le port. Les marins et les marchands s'y retrouvent pour discuter affaires.
-	- **Style** : Coloré et accueillant, avec des éléments nautiques en décoration.
-	- **Taille** : Moyenne, pouvant accueillir environ 60 personnes.
-	- **Membres du personnel** :
-	    - **Mademoiselle Elise, la propriétaire** : Une femme énergique qui cultive des fleurs et s'assure que l'auberge reste accueillante.
-	    - **Gaston, le barman** : Connaisseur des boissons locales, il prépare des cocktails à base de fruits exotiques.
-	- **Tarifs** :
-	    - **Couchage** : 5 pièces d'argent par nuit pour une chambre avec vue sur le port.
-	    - **Plats** : 2 pièces d'argent pour un plat de fruits de mer, 1 pièce d'or pour un verre de punch.
-- **L'Épervier**
-	- **Ambiance** : Conviviale et conviviale, avec des marins partageant des histoires de leurs voyages. La décoration évoque la mer, avec des filets et des modèles de navires.
-	- **Style** : Nautique et rustique, avec des tables en bois et des chaises confortables.
-	- **Taille** : Grande, avec une capacité d'accueil d'environ 100 personnes.
-	- **Membres du personnel** :
-	    - **Capitaine Horace, le gérant** : Un ancien marin qui aime partager des récits de ses aventures en mer.
-	    - **Nina, la serveuse** : Gentille et rapide, elle connaît tous les marins et leurs habitudes.
-	- **Tarifs** :
-	    - **Couchage** : 4 pièces d'argent par nuit pour un lit dans un dortoir.
-	    - **Plats** : 1 pièce d'argent pour un ragout marin, 5 argents pour une chope de cidre.
-- **La Mousse qui Flotte**
-	- **Ambiance** : Décontractée et amicale, avec une atmosphère maritime authentique. Les clients sont souvent des pêcheurs et des amateurs de fruits de mer.
-	- **Style** : Simple et pratique, avec des tables en bois et des décorations maritimes.
-	- **Taille** : Petite, pouvant accueillir environ 30 personnes.
-	- **Membres du personnel** :
-	    - **Maître Pierre, le propriétaire** : Un pêcheur à la retraite qui aime partager ses conseils de pêche.
-	    - **Claudia, la serveuse** : Amusante et accueillante, elle sait préparer des boissons faites maison.
-	- **Tarifs** :
-	    - **Couchage** : 3 pièces d'argent par nuit pour un lit dans une chambre commune.
-	    - **Plats** : 5 cuivres pour un plat de poisson grillé, 2 argents pour une boisson.
+
+### **Chez Salvatore**
+- **Ambiance** : Animée et artistique, avec des performances de musiciens et des artistes exposant leurs œuvres. Les murs sont décorés de peintures vibrantes et d'esquisses.
+- **Style** : Eclectique, mélange de vieux meubles en bois et d'objets d'art. Les tables sont souvent encombrées de croquis et de matériaux artistiques.
+- **Taille** : Moyenne, avec une capacité d'accueil d'environ 50 personnes.
+- **Membres du personnel** :
+	- **Salvatore, le propriétaire** : Un artiste charismatique, toujours en quête d'inspiration. Il accueille les clients avec des histoires de ses voyages.
+	- **Felicia, la serveuse** : Une jeune femme pétillante, elle est elle-même artiste et échange des idées avec les clients.
+- **Tarifs** :
+	- **Couchage** : 6 pièces d'argent par nuit pour une chambre double, 6 pièces d'argent par nuit pour une chambre individuelle, 1 pièces d'argent par nuit pour une chambre commune.
+	- **Plats** : 2 pièces d'argent pour un plat du jour inspiré de cuisines du monde, 5 argents pour un verre de vin local.
+
+### **Le Repos du Navigateur**
+- **Ambiance** : Cozy et chaleureuse, évoquant les voyages en mer, avec des lanternes tamisées et des cartes maritimes accrochées aux murs.
+- **Style** : Nautique, avec des tables en bois brut et des décorations maritimes. Les clients peuvent se détendre autour d'une grande cheminée.
+- **Taille** : Petite à moyenne, pouvant accueillir environ 40 personnes.
+- **Membres du personnel** :
+	- **Capitaine Bartholomé, le gérant** : Un ancien navigateur, il partage des récits de ses aventures en mer avec les clients.
+	- **Sophie, la cuisinière** : Prépare des plats réconfortants, souvent inspirés des ingrédients marins.
+	- **Till, serveur**: ancien aventurier
+- **Tarifs** :
+	- **Couchage** : 5 pièces de cuivre par nuit pour une chambre commune, 1 pièces d'argent par nuit pour une chambre double.
+	- **Plats** : 1 pièce d'argent pour un plat de poisson, 5 cuivres pour une chope de bière.
+
+### **Hôtel de la Larme Joyeuse**
+- **Ambiance** : Élégante et animée, avec un hall d'entrée spacieux et des clients affairés. Des musiciens jouent des airs joyeux pour égayer l'atmosphère.
+- **Style** : Moderne et soigné, avec des meubles de qualité et une décoration raffinée.
+- **Taille** : Grande, avec une capacité d'accueil d'environ 120 personnes.
+- **Membres du personnel** :
+	- **Monsieur Alphonse, le propriétaire** : Un homme d'affaires avisé, il veille à ce que tout soit parfait pour ses clients.
+	- **Clara, la réceptionniste** : Toujours souriante, elle est efficace et connaît tous les meilleurs endroits de la ville.
+	- **Adeline, sa fille**: 6 ans
+- **Tarifs** :
+	- **Couchage** : 12 pièces d'argent par nuit pour une chambre standard.
+	- **Plats** : 2 pièces d'argent pour un repas complet, 1 pièce d'or pour une boisson.
+
+### **Pension de Dame Adeline**
+- **Ambiance** : Chaleureuse et familiale, avec un décor accueillant et des clients qui se sentent chez eux. Des fleurs fraîches décorent les tables.
+- **Style** : Traditionnel, avec des meubles en bois confortables et des tapis colorés.
+- **Taille** : Petite, avec une capacité d'accueil d'environ 30 personnes.
+- **Membres du personnel** :
+	- **Dame Adeline, la propriétaire** : Une femme chaleureuse qui s'assure que tout le monde se sente bien. Elle aime discuter avec ses clients.
+	- **Marc, le cuisinier** : Prépare des plats faits maison avec des recettes familiales.
+- **Tarifs** :
+	- **Couchage** : 7 pièces d'argent par nuit pour une chambre simple.
+	- **Plats** : 1 pièce d'argent pour un plat fait maison, 5 argents pour un café
+
+
+### **Maison Tenna**
+- **Ambiance** : Simple et sans prétention, avec un décor fonctionnel. Les clients sont souvent des travailleurs locaux ou des voyageurs de passage.
+- **Style** : Pratique, avec des meubles basiques mais confortables. L'atmosphère est conviviale.
+- **Taille** : Moyenne, pouvant accueillir environ 50 personnes.
+- **Membres du personnel** :
+	- **Tenna, la gérante** : Une femme pragmatique qui a ouvert l'auberge pour aider sa communauté. Elle est connue pour son sens de l'humour.
+	- **Léo, le serveur** : Un jeune homme amical qui prend soin des clients et s'assure qu'ils soient satisfaits.
+- **Tarifs** :
+	- **Couchage** : 4 pièces d'argent par nuit pour un lit dans une chambre partagée.
+	- **Plats** : 5 cuivres pour un plat simple, 2 argents pour une boisson.
+
+### **Auberge la Poutre**
+- **Ambiance** : Animée et dynamique, avec des clients discutant joyeusement autour de grandes tables. Les murs portent des marques de l'histoire récente du quartier.
+- **Style** : Rusticité, avec des poutres en bois apparentes et une décoration simple mais chaleureuse.
+- **Taille** : Grande, avec une capacité d'accueil d'environ 80 personnes.
+- **Membres du personnel** :
+	- **Rolf, le propriétaire** : Un homme jovial qui aime raconter des histoires de reconstruction et d'espoir.
+	- **Maya, la serveuse** : Rapide et efficace, elle connaît les préférences des clients réguliers.
+- **Tarifs** :
+	- **Couchage** : 3 pièces d'argent par nuit pour un lit dans un dortoir.
+	- **Plats** : 1 pièce d'argent pour un plat de pâtes maisons, 5 argents pour une bière.
+
+### **Auberge des Quais Fleuris**
+- **Ambiance** : Fraîche et vivante, avec des fleurs décorant les tables et une vue sur le port. Les marins et les marchands s'y retrouvent pour discuter affaires.
+- **Style** : Coloré et accueillant, avec des éléments nautiques en décoration.
+- **Taille** : Moyenne, pouvant accueillir environ 60 personnes.
+- **Membres du personnel** :
+	- **Mademoiselle Elise, la propriétaire** : Une femme énergique qui cultive des fleurs et s'assure que l'auberge reste accueillante.
+	- **Gaston, le barman** : Connaisseur des boissons locales, il prépare des cocktails à base de fruits exotiques.
+- **Tarifs** :
+	- **Couchage** : 5 pièces d'argent par nuit pour une chambre avec vue sur le port.
+	- **Plats** : 2 pièces d'argent pour un plat de fruits de mer, 1 pièce d'or pour un verre de punch.
+
+### **L'Épervier**
+- **Ambiance** : Conviviale et conviviale, avec des marins partageant des histoires de leurs voyages. La décoration évoque la mer, avec des filets et des modèles de navires.
+- **Style** : Nautique et rustique, avec des tables en bois et des chaises confortables.
+- **Taille** : Grande, avec une capacité d'accueil d'environ 100 personnes.
+- **Membres du personnel** :
+	- **Capitaine Horace, le gérant** : Un ancien marin qui aime partager des récits de ses aventures en mer.
+	- **Nina, la serveuse** : Gentille et rapide, elle connaît tous les marins et leurs habitudes.
+- **Tarifs** :
+	- **Couchage** : 4 pièces d'argent par nuit pour un lit dans un dortoir.
+	- **Plats** : 1 pièce d'argent pour un ragout marin, 5 argents pour une chope de cidre.
+
+### **La Mousse qui Flotte**
+- **Ambiance** : Décontractée et amicale, avec une atmosphère maritime authentique. Les clients sont souvent des pêcheurs et des amateurs de fruits de mer.
+- **Style** : Simple et pratique, avec des tables en bois et des décorations maritimes.
+- **Taille** : Petite, pouvant accueillir environ 30 personnes.
+- **Membres du personnel** :
+	- **Maître Pierre, le propriétaire** : Un pêcheur à la retraite qui aime partager ses conseils de pêche.
+	- **Claudia, la serveuse** : Amusante et accueillante, elle sait préparer des boissons faites maison.
+- **Tarifs** :
+	- **Couchage** : 3 pièces d'argent par nuit pour un lit dans une chambre commune.
+	- **Plats** : 5 cuivres pour un plat de poisson grillé, 2 argents pour une boisson.
 
 
 ## tavernes et restaurants
-- **La Sirène**
-	- **Ambiance** : Vibrante et musicale, avec des musiciens jouant des airs entraînants et des artistes exposant leurs œuvres.
-	- **Style** : Nautique et éclectique, avec des murs décorés de fresques maritimes et des tables en bois brut.
-	- **Taille** : Moyenne, pouvant accueillir environ 70 personnes.
-	- **Membres du personnel** :
-	    - **Lyra, la propriétaire** : Ancienne aventurière et bardesse, elle anime souvent des soirées musicales.
-	    - **Ronan, le barman** : Jovial, il concocte des cocktails exotiques.
-	- **Menu** :
-	    - **Plat** : Salade de fruits de mer (2 pièce d'argent)
-	    - **Boisson** : Chope de bière artisanale (5 cuivres)
-	    - **Spécialité** : Plat du jour inspiré de la mer (3 pièces d'argent)
--: **Le 51**
-	- **Ambiance** : Mystérieuse et intrigante, avec des lumières tamisées et des coins sombres propices aux rencontres.
-	- **Style** : Bohemien, avec des canapés usés et des œuvres d'art accrochées aux murs.
-	- **Taille** : Petite à moyenne, capacité d'environ 50 personnes.
-	- **Membres du personnel** :
-	    - **Elysia, la gérante** : Artiste passionnée qui organise des soirées de poésie.
-	    - **Tomas, le serveur** : Discret, mais attentif aux besoins des clients.
-	- **Menu** :
-	    - **Plat** : Assiette de tapas variés (1 pièce d'argent)
-	    - **Boisson** : Verre de vin local (1 pièce d'argent)
-	    - **Spécialité** : Soupe de légumes de saison (8 cuivres)
-- **L'Aventurier Débonnaire**
-	- **Ambiance** : Chaleureuse et accueillante, avec des histoires d'aventures discutées autour d'une cheminée.
-	- **Style** : Rustique, avec des tables en bois massif et des décorations d'armement.
-	- **Taille** : Grande, pouvant accueillir jusqu'à 100 personnes.
-	- **Membres du personnel** :
-	    - **Garrick, le propriétaire** : Ancien aventurier avec des récits fascinants.
-	    - **Maya, la serveuse** : Amusante et pleine d'énergie.
-	- **Menu** :
-	    - **Plat** : Ragoût de viande (1 pièce d'argent)
-	    - **Boisson** : Chope de bière (5 cuivres)
-	    - **Spécialité** : Assiette de viande grillée (2 pièces d'argent)
-- **Hard Rock Café**
-	- **Ambiance** : Festive et bruyante, avec des musiciens nains jouant des airs énergiques. L'atmosphère est exagérée et théâtrale.
-	- **Style** : Thématique de mine, avec des décorations de roches et des instruments de musique nains.
-	- **Taille** : Très grande, pouvant accueillir environ 200 personnes.
-	- **Membres du personnel** :
-	    - **Thrain, le gérant** : Nain jovial qui divertit les clients.
-	    - **Brom, le barman** : Prépare des boissons pétillantes.
-	- **Menu** :
-	    - **Plat** : Brochettes de viande (2 pièces d'argent)
-	    - **Boisson** : Chope de bière naine (5 à 9 cuivres)
-	    - **Spécialité** : Assiettes de viande grillée avec accompagnements (3 pièces d'or)
-	    - **Spécialité** : Plat de ragout au salpêtre (3 pièces d'or)
-- **La Plume et la Binouze**
-	- **Ambiance** : Érudite et animée, avec des étudiants discutant autour de livres et de pintes de bière.
-	- **Style** : Académique et décontracté, avec des étagères de livres et des affiches d'événements.
-	- **Taille** : Moyenne, pouvant accueillir environ 60 personnes.
-	- **Membres du personnel** :
-	    - **Professeur Eldrin, le gérant** : Érudit qui partage ses connaissances.
-	    - **Lina, la serveuse** : Étudiante dynamique.
-	- **Menu** :
-	    - **Plat** : Plat de pâtes (1 pièce d'argent)
-	    - **Boisson** : Chope de bière (5 cuivres)
-	    - **Spécialité** : Burger de viande avec frites (1 pièce d'argent)
-- **Le Faucon Vrai Bon**
-	- **Ambiance** : Élégante et raffinée, avec des clients discutant calmement.
-	- **Style** : Classique, avec des meubles en bois sculpté et des décorations florales.
-	- **Taille** : Petite à moyenne, pouvant accueillir environ 40 personnes.
-	- **Membres du personnel** :
-	    - **Monsieur Henri, le propriétaire** : Distingué et attentif.
-	    - **Cécile, la serveuse** : Élégante et discrète.
-	- **Menu** :
-	    - **Plat** : Quiche aux légumes (4 pièces d'argent)
-	    - **Boisson** : Verre de vin (3 pièce d'argent)
-	    - **Spécialité** : Poulet rôti avec légumes (1 pièces d'or)
-- **Le Bellevue**
-	- **Ambiance** : Romantique et sereine, avec des vues imprenables sur l'océan.
-	- **Style** : Élégant et aéré, avec de grandes fenêtres.
-	- **Taille** : Grande, pouvant accueillir environ 80 personnes.
-	- **Membres du personnel** :
-	    - **Madame Isabelle, la propriétaire** : Gracieuse et attentive.
-	    - **Pierre, le sommelier** : Expert en vins.
-	- **Menu** :
-	    - **Plat** : Plat de fruits de mer (9 pièces d'argent)
-	    - **Boisson** : Verre de vin blanc (4 pièces d'argent)
-	    - **Spécialité** : Filet de poisson grillé avec sauce aux agrumes (2 pièces d'or)
-- **Le Flic Tranquille**
-	- **Ambiance** : Décontractée et amicale, avec une atmosphère de camaraderie.
-	- **Style** : Simple et pratique, avec des tables en bois.
-	- **Taille** : Moyenne, pouvant accueillir environ 70 personnes.
-	- **Membres du personnel** :
-	    - **Frank, le propriétaire** : Jovial et amical.
-	    - **Nina, la serveuse** : Rapide et efficace.
-	- **Menu** :
-	    - **Plat** : Plat de curry de légumes (9 cuivres)
-	    - **Boisson** : Chope de bière (5 cuivres)
-	    - **Spécialité** : Assiette de nachos (8 cuivres)
-- **L'Entonnoir**
-	- **Ambiance** : Animée et bruyante, avec des marins partageant des récits de leurs aventures.
-	- **Style** : Nautique et rustique, avec des tables en bois usées.
-	- **Taille** : Très grande, pouvant accueillir jusqu'à 150 personnes.
-	- **Membres du personnel** :
-	    - **Capitaine Rusty, le gérant** : Ancien marin.
-	    - **Margo, la serveuse** : Rapide et efficace.
-	- **Menu** :
-	    - **Plat** : Poisson grillé (4 cuivres)
-	    - **Boisson** : Chope de bière (2 cuivres)
-	    - **Spécialité** : Ragoût de fruits de mer (7 cuivres)
-- **La Perle d'Or**
-	- **Ambiance** : Luxueuse et sophistiquée, avec des clients de la haute société.
-	- **Style** : Chic et élégant, avec des meubles raffinés.
-	- **Taille** : Petite à moyenne, pouvant accueillir environ 50 personnes.
-	- **Membres du personnel** :
-	    - **Lady Arabella, la propriétaire** : Distinguée et soucieuse des détails.
-	    - **Sebastian, le maître d'hôtel** : Toujours impeccable.
-	- **Menu** :
-	    - **Plat** : Canard rôti aux fruits (2 pièces d'or)
-	    - **Boisson** : Verre de vin de qualité (3 à 25 pièces d'or)
-	    - **Spécialité** : Homard à la crème (10 pièces d'or)
+### **La Sirène**
+- **Ambiance** : Vibrante et musicale, avec des musiciens jouant des airs entraînants et des artistes exposant leurs œuvres.
+- **Style** : Nautique et éclectique, avec des murs décorés de fresques maritimes et des tables en bois brut.
+- **Taille** : Moyenne, pouvant accueillir environ 70 personnes.
+- **Membres du personnel** :
+	- **Lyra, la propriétaire** : Ancienne aventurière et bardesse, elle anime souvent des soirées musicales.
+	- **Ronan, le barman** : Jovial, il concocte des cocktails exotiques.
+- **Menu** :
+	- **Plat** : Salade de fruits de mer (2 pièce d'argent)
+	- **Boisson** : Chope de bière artisanale (5 cuivres)
+	- **Spécialité** : Plat du jour inspiré de la mer (3 pièces d'argent)
+
+### **Le 51**
+- **Ambiance** : Mystérieuse et intrigante, avec des lumières tamisées et des coins sombres propices aux rencontres.
+- **Style** : Bohemien, avec des canapés usés et des œuvres d'art accrochées aux murs.
+- **Taille** : Petite à moyenne, capacité d'environ 50 personnes.
+- **Membres du personnel** :
+	- **Elysia, la gérante** : Artiste passionnée qui organise des soirées de poésie.
+	- **Tomas, le serveur** : Discret, mais attentif aux besoins des clients.
+- **Menu** :
+	- **Plat** : Assiette de tapas variés (1 pièce d'argent)
+	- **Boisson** : Verre de vin local (1 pièce d'argent)
+	- **Spécialité** : Soupe de légumes de saison (8 cuivres)
+
+### **L'Aventurier Débonnaire**
+- **Ambiance** : Chaleureuse et accueillante, avec des histoires d'aventures discutées autour d'une cheminée.
+- **Style** : Rustique, avec des tables en bois massif et des décorations d'armement.
+- **Taille** : Grande, pouvant accueillir jusqu'à 100 personnes.
+- **Membres du personnel** :
+	- **Garrick, le propriétaire** : Ancien aventurier avec des récits fascinants.
+	- **Maya, la serveuse** : Amusante et pleine d'énergie.
+- **Menu** :
+	- **Plat** : Ragoût de viande (1 pièce d'argent)
+	- **Boisson** : Chope de bière (5 cuivres)
+	- **Spécialité** : Assiette de viande grillée (2 pièces d'argent)
+
+### **Hard Rock Café**
+- **Ambiance** : Festive et bruyante, avec des musiciens nains jouant des airs énergiques. L'atmosphère est exagérée et théâtrale.
+- **Style** : Thématique de mine, avec des décorations de roches et des instruments de musique nains.
+- **Taille** : Très grande, pouvant accueillir environ 200 personnes.
+- **Membres du personnel** :
+	- **Thrain, le gérant** : Nain jovial qui divertit les clients.
+	- **Brom, le barman** : Prépare des boissons pétillantes.
+- **Menu** :
+	- **Plat** : Brochettes de viande (2 pièces d'argent)
+	- **Boisson** : Chope de bière naine (5 à 9 cuivres)
+	- **Spécialité** : Assiettes de viande grillée avec accompagnements (3 pièces d'or)
+	- **Spécialité** : Plat de ragout au salpêtre (3 pièces d'or)
+
+### **La Plume et la Binouze**
+- **Ambiance** : Érudite et animée, avec des étudiants discutant autour de livres et de pintes de bière.
+- **Style** : Académique et décontracté, avec des étagères de livres et des affiches d'événements.
+- **Taille** : Moyenne, pouvant accueillir environ 60 personnes.
+- **Membres du personnel** :
+	- **Professeur Eldrin, le gérant** : Érudit qui partage ses connaissances.
+	- **Lina, la serveuse** : Étudiante dynamique.
+- **Menu** :
+	- **Plat** : Plat de pâtes (1 pièce d'argent)
+	- **Boisson** : Chope de bière (5 cuivres)
+	- **Spécialité** : Burger de viande avec frites (1 pièce d'argent)
+
+ ### **Le Faucon Vrai Bon**
+- **Ambiance** : Élégante et raffinée, avec des clients discutant calmement.
+- **Style** : Classique, avec des meubles en bois sculpté et des décorations florales.
+- **Taille** : Petite à moyenne, pouvant accueillir environ 40 personnes.
+- **Membres du personnel** :
+	- **Monsieur Henri, le propriétaire** : Distingué et attentif.
+	- **Cécile, la serveuse** : Élégante et discrète.
+- **Menu** :
+	- **Plat** : Quiche aux légumes (4 pièces d'argent)
+	- **Boisson** : Verre de vin (3 pièce d'argent)
+	- **Spécialité** : Poulet rôti avec légumes (1 pièces d'or)
+
+ ### **Le Bellevue**
+- **Ambiance** : Romantique et sereine, avec des vues imprenables sur l'océan.
+- **Style** : Élégant et aéré, avec de grandes fenêtres.
+- **Taille** : Grande, pouvant accueillir environ 80 personnes.
+- **Membres du personnel** :
+	- **Madame Isabelle, la propriétaire** : Gracieuse et attentive.
+	- **Pierre, le sommelier** : Expert en vins.
+- **Menu** :
+	- **Plat** : Plat de fruits de mer (9 pièces d'argent)
+	- **Boisson** : Verre de vin blanc (4 pièces d'argent)
+	- **Spécialité** : Filet de poisson grillé avec sauce aux agrumes (2 pièces d'or)
+
+### **Le Flic Tranquille**
+- **Ambiance** : Décontractée et amicale, avec une atmosphère de camaraderie.
+- **Style** : Simple et pratique, avec des tables en bois.
+- **Taille** : Moyenne, pouvant accueillir environ 70 personnes.
+- **Membres du personnel** :
+	- **Frank, le propriétaire** : Jovial et amical.
+	- **Nina, la serveuse** : Rapide et efficace.
+- **Menu** :
+	- **Plat** : Plat de curry de légumes (9 cuivres)
+	- **Boisson** : Chope de bière (5 cuivres)
+	- **Spécialité** : Assiette de nachos (8 cuivres)
+
+### **L'Entonnoir**
+- **Ambiance** : Animée et bruyante, avec des marins partageant des récits de leurs aventures.
+- **Style** : Nautique et rustique, avec des tables en bois usées.
+- **Taille** : Très grande, pouvant accueillir jusqu'à 150 personnes.
+- **Membres du personnel** :
+	- **Capitaine Rusty, le gérant** : Ancien marin.
+	- **Margo, la serveuse** : Rapide et efficace.
+- **Menu** :
+	- **Plat** : Poisson grillé (4 cuivres)
+	- **Boisson** : Chope de bière (2 cuivres)
+	- **Spécialité** : Ragoût de fruits de mer (7 cuivres)
+
+### **La Perle d'Or**
+- **Ambiance** : Luxueuse et sophistiquée, avec des clients de la haute société.
+- **Style** : Chic et élégant, avec des meubles raffinés.
+- **Taille** : Petite à moyenne, pouvant accueillir environ 50 personnes.
+- **Membres du personnel** :
+	- **Lady Arabella, la propriétaire** : Distinguée et soucieuse des détails.
+	- **Sebastian, le maître d'hôtel** : Toujours impeccable.
+- **Menu** :
+	- **Plat** : Canard rôti aux fruits (2 pièces d'or)
+	- **Boisson** : Verre de vin de qualité (3 à 25 pièces d'or)
+	- **Spécialité** : Homard à la crème (10 pièces d'or)
 
 
 ## Guilde des aventuriers
-- Membres du Personnel de la Guilde
+
+ Membres du Personnel de la Guilde
 	1. **Dirigeant : Lord Cedric Ravenshade**
 	    - **Description** : Un homme charismatique d'une quarantaine d'années, il est connu pour son sourire charmant et son regard perçant. En réalité, il est corrompu et manipule la guilde pour soutenir le second prince.
 	    - **Rôle** : Dirige la guilde et prend des décisions cruciales. Il favorise les nobles et arnaque les aventuriers non-nobles.
@@ -346,21 +366,6 @@
 -trouver Wintrana au collège de l'université
 
 
-# Factions
-## Le culte de la lune noire
-### objectif long terme:
-### objectifs court terme
-### plans
-### agents
-## Les ailes de la liberté
-## La guilde des aventuriers (GDA)
-## L'autorité commerciale (AC)
-## Partisans du 1er prince
-## Partisans du 2nd prince
-## L'union pour l'aventure (UPA)
-## L'alliance des explorateurs (ADE)
-## La ligue hanséatique (LH)
-## L'empire
 
 # Personnalités
 - [[Duc Albert Armelia]]

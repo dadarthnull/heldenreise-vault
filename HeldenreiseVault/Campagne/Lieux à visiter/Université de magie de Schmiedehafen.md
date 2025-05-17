@@ -1,2 +1,0 @@
-- [[Gazette/Continent Est/Schmiedehafen]]
-- Doyen du département de nécromancie: 
