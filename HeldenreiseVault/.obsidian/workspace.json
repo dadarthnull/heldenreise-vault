@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 37 - 17-05-2025.md",
+                "file": "Session Notes/Session 38 - 30-05-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,103 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 37 - 17-05-2025"
-            }
-          },
-          {
-            "id": "4dd4fb8f3e34b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 36 - 10-05-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 36 - 10-05-2025"
-            }
-          },
-          {
-            "id": "2a723f9c9d7bef22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Schmiedehafen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schmiedehafen"
-            }
-          },
-          {
-            "id": "e78516f094fe0d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Baronnie de Baërfeld"
-            }
-          },
-          {
-            "id": "dcff0dbdc80590a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Lieux à visiter/Ville d'Armélia.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ville d'Armélia"
+              "title": "Session 38 - 30-05-2025"
             }
           }
         ]
@@ -354,8 +258,9 @@
   },
   "active": "07945b1c136bc8d6",
   "lastOpenFiles": [
-    "Session Notes/Session 36 - 10-05-2025.md",
     "Session Notes/Session 37 - 17-05-2025.md",
+    "Session Notes/Session 38 - 30-05-2025.md",
+    "Session Notes/Session 36 - 10-05-2025.md",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
     "Campagne/Lieux à visiter/Schmiedehafen.md",
     "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
