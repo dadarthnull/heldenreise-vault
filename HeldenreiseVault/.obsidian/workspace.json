@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Lieux à visiter/Schmiedehafen.md",
+                "file": "Session Notes/Session 39 - 14-06-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schmiedehafen"
+              "title": "Session 39 - 14-06-2025"
             }
           }
         ],
@@ -307,8 +307,9 @@
   },
   "active": "b2cfcffbcc3dd35b",
   "lastOpenFiles": [
-    "Session Notes/Session 37 - 17-05-2025.md",
     "Campagne/Lieux à visiter/Schmiedehafen.md",
+    "Session Notes/Session 39 - 14-06-2025.md",
+    "Session Notes/Session 37 - 17-05-2025.md",
     "Session Notes/Session 38 - 30-05-2025.md",
     "Session Notes/Session 36 - 10-05-2025.md",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
@@ -334,7 +335,6 @@
     "Session Notes/Session 35 - 12-04-2025.md",
     "Campagne/tables/Météo.md",
     "NPCs/Monsters/Ogre Quantique.md",
-    "Campagne/Lieux à visiter/Viscomté de Dornbruck.md",
     "schmiedehafen-carte-all.webp",
     "schmiedehafen-vue.webp",
     "ocine ogre quantique.png",
