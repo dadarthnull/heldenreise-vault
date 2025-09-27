@@ -3,6 +3,8 @@
 Personnel:
 Voici les personnages pour votre maison close démoniaque :
 
+
+
 ## Clients
 
 | Nom | Occupation | Description | Citation | Motivation |
