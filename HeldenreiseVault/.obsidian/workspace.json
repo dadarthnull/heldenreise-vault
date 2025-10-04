@@ -55,8 +55,7 @@
               "title": "La perle d'Or"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagne/Donjons/Tour de Liothek.md",
+                "file": "Session Notes/Session 41 - 17-09-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tour de Liothek"
+              "title": "Backlinks for Session 41 - 17-09-2025"
             }
           },
           {
@@ -150,7 +149,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -186,10 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagne/Donjons/Tour de Liothek.md"
+                "file": "Session Notes/Session 41 - 17-09-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tour de Liothek"
+              "title": "Outline of Session 41 - 17-09-2025"
             }
           },
           {
@@ -198,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 25 - 02-11-2024.md",
+                "file": "Session Notes/Session 41 - 17-09-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 25 - 02-11-2024"
+              "title": "Outgoing links from Session 41 - 17-09-2025"
             }
           },
           {
@@ -237,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "a6b5b4448e7df677",
@@ -282,10 +286,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "e5ee0ff267b05fc0",
+  "active": "3d990a349e9fd8b8",
   "lastOpenFiles": [
-    "Session Notes/Session 41 - 17-09-2025.md",
     "Campagne/Donjons/La perle d'Or.md",
+    "Session Notes/Session 41 - 17-09-2025.md",
     "Session Notes/Session 37 - 17-05-2025.md",
     "Session Notes/Session 38 - 30-05-2025.md",
     "Session Notes/Session 39 - 14-06-2025.md",
