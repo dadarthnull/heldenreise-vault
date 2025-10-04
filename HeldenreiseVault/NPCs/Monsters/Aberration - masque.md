@@ -16,18 +16,22 @@
 **Traits**:
 - **Sauvegarde** (*CON*, *WIS*)
 
-**Actions**:
-- **Rires dissonants** : Inflige des dégâts psychiques et force un jet de sauvegarde WIS ou inflige la condition Confus.
-- **Faux assaut** : Une attaque illusoire qui ne fait pas de dégâts directs, mais réduit la CA de la cible jusqu'à la fin de son prochain tour.
-- **Vol d'identité** : Copie capacité/attaque d’une créature ennemie pour 1 tours.
-- (3A) **Fragmentation chaotique** : Projette un éclat d'énergie qui rebondit entre tous les ennemis, ne peut sauter que de 3 cases.
-
 **Capacités**:
-- (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
-- (P) **Image fragmentée** : Projette des images illusoires, donnant un désavantage sur les jets d’attaque ennemis.
-- (A) **Réalité fluctuante** : Peut échanger sa position avec une autre créature dans un rayon de 60 pieds.
-- (R) **Reflet du chaos** : Répercute les sorts ciblés sur lui, les infligeant à l’attaquant à la place.
-- (R) **Dissimulation imprévisible** : Se téléporte de manière chaotique dans un rayon de 30 pieds lorsqu'il est attaqué.
+- **Passives**
+	- (P) **Chaos incarné** : Chaque tour, gagne immunité contre un type de dégâts aléatoire, résistance contre un type de dégâts aléatoire et vulnérable à un type de dégâts aléatoire et peut effectuer 1d6+2 actions par tour et 1d4 réactions par tour.
+	- (P) **Image fragmentée** : Projette des images illusoires, donnant un désavantage sur les jets d’attaque ennemis.
+- **Actions**
+	- (A) **Rires dissonants** : Inflige des dégâts psychiques et force un jet de sauvegarde WIS ou inflige la condition Confus.
+	- (A) **Faux assaut** : Une attaque illusoire qui ne fait pas de dégâts directs, mais réduit la CA de la cible jusqu'à la fin de son prochain tour.
+	- (A) **Vol d'identité** : Copie capacité/attaque d’une créature ennemie pour 1 tours.
+	- (3A) **Fragmentation chaotique** : Projette un éclat d'énergie qui rebondit entre tous les ennemis, ne peut sauter que de 3 cases.
+	- (A) **Réalité fluctuante** : Peut échanger sa position avec une autre créature dans un rayon de 60 pieds.
+- **Reactions**
+	- (R) **Reflet du chaos** : Répercute les sorts ciblés sur lui, les infligeant à l’attaquant à la place.
+	- (R) **Dissimulation imprévisible** : Se téléporte de manière chaotique dans un rayon de 30 pieds lorsqu'il est attaqué.
+
+# conseils de gameplay
+
 
 # Référence
 ![[NPC Progression Tables#Membre groupe]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1272d8ca68992ece",
+        "id": "52eb9540085f867b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d990a349e9fd8b8",
+            "id": "c9597b81729ab748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 41 - 17-09-2025.md",
+                "file": "templates/Monster Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 41 - 17-09-2025"
+              "title": "Monster Template"
             }
           },
           {
-            "id": "e5ee0ff267b05fc0",
+            "id": "3668212dd6717dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagne/Donjons/La perle d'Or.md",
-                "mode": "preview",
+                "file": "Encounters.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "La perle d'Or"
+              "title": "Encounters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 41 - 17-09-2025.md",
+                "file": "Encounters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 41 - 17-09-2025"
+              "title": "Outline of Encounters"
             }
           },
           {
@@ -202,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 41 - 17-09-2025.md",
+                "file": "Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 41 - 17-09-2025"
+              "title": "Outgoing links from Encounters"
             }
           },
           {
@@ -241,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "a6b5b4448e7df677",
@@ -262,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,8 +286,21 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3d990a349e9fd8b8",
+  "active": "3668212dd6717dc1",
   "lastOpenFiles": [
+    "templates/Monster Template.md",
+    "Encounters.md",
+    "NPCs/Monsters/Aberration - masque.md",
+    "NPCs/Monsters/Aberration - devoreur.md",
+    "NPCs/Monsters/Aberration - ailes.md",
+    "NPCs/Monsters/Aberration - oeil.md",
+    "NPCs/Untitled.md",
+    "NPCs/NPC Progression Tables.md",
+    "Campagne/Secrets de campagne.md",
+    "Campagne/Culte de la lune noire.md",
+    "Campagne/Les maîtres du savoir.md",
+    "Campagne/Enigmes - archive interdit.md",
+    "templates/NPC Template.md",
     "Campagne/Donjons/La perle d'Or.md",
     "Session Notes/Session 41 - 17-09-2025.md",
     "Session Notes/Session 37 - 17-05-2025.md",
@@ -303,19 +316,6 @@
     "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
     "Assets/slavers-basement.webp",
     "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
-    "Campagne/Lieux à visiter/Université de magie de Schmiedehafen.md",
-    "NPCs/Patrons et alliés/Iris Lana Almeria.md",
-    "NPCs/Ennemis/Yuaratoya.md",
-    "Campagne/Secrets de campagne.md",
-    "Campagne/Culte de la lune noire.md",
-    "Session Notes/Session 17 - 01-06-2024.md",
-    "Session Notes/Session 16 - 25-05-2024.md",
-    "Session Notes/Session 15 - 18-05-2024.md",
-    "Session Notes/Session 14 - 06-04-2024.md",
-    "Session Notes/Session 13 - 30-03-2024.md",
-    "Session Notes/Session 11 - 24-02-2024.md",
-    "Session Notes/Session 10 - 20-01-2024.md",
-    "NPCs/Ennemis/Zakhan le noir.md",
     "Assets/schmiedehafen-carte-all.webp",
     "Assets/schmiedehafen-vue.webp",
     "Assets/ocine ogre quantique.png",

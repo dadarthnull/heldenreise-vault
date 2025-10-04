@@ -1,6 +1,16 @@
 
-# Opus
-- [ ] Opus est en fait l'avaar d'un joueur
+# Opus, Mira et le Dragon d'argent
+- Opus (vrai nom Otto Philip Reise) est l'oncle de Mira (vrai nom Mirande Reise), il est le second fils du richissime propriétaire de la plus grande méga-corporation allemande (industrie pharmaceutique, transport maritime, voiture, electroménager, agro-alimentaire, militaro-industriel, petro-chimie, et plein d'autres secteurs )
+- après que Mira perde ses parents et devienne paraplégique dans un accident de voiture, il cherche désespérment à lui rendre sa sante
+- après avoir épuisé les limites de la médecine moderne, il se tourne vers l'occultisme et commence à avoir des résulats prometteur 
+- il entreprend un rituel pour invoque une entité qui pourrait sauver Mira, peu importe le prix à payer
+- le dragon d'argent, qui cherche dans le multivers une entité pour l'aider à sauver Heldenreise du retour du grand ennemi entend son appel, tue le démon qui allait répondre et contact Opus à sa place
+- Opus et le dragon d'argent passent un contrat: le dragon fournir un moyen à Mira pour marcher de nouveau, Opus envoie temporairement une armée sur Heldenreise pour combattre les serviteurs de grand ennemi
+- chacun sait que l'autre va utiliser la lettre du contrat pour ne pas complètement tenir sa promesse
+- Opus
+
+- [ ] De son vrai nom Otto Philip Reise
+- [ ] Opus est en fait l'avatar d'un joueur
 - [ ] Opus est responsable de l'arrivée des joueurs sur Heldenreise
 - [ ] Opus est l'oncle de Mira
 - [ ] Opus a créé une connection entre Heldenreise et la terre, qu'il maintient ouverte à travers les tours arcaniques

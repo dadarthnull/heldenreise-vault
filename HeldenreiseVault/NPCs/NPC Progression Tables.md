@@ -1,80 +1,29 @@
-# Minions
+
+These tables give standard armor class, hit points, Damage Per Round, number of attacks and avergae damage per attack
+for each Challenge Rating
 
 
-| CR  | AC/DC | HP  | Trait Bonus   | DPR | Multi Attack | Damage per attack |
-| --- | ----- | --- | ------------- | --- | ------------ | ----------------- |
-| 1   | 12    | 5   | +5 / 0 / -2   | 3   | 1            | 3 (1d4 + 1)       |
-| 2   | 12    | 5   | +5 / 0 / -2   | 4   | 1            | 4 (1d6 + 1)       |
-| 3   | 12    | 5   | +5 / 0 / -2   | 6   | 1            | 6 (2d6)           |
-| 4   | 13    | 5   | +6 / 0 / -1   | 7   | 1            | 7 (2d6 + 1)       |
-| 5   | 13    | 10  | +7 / 0 / -1   | 8   | 1            | 8 (2d8)           |
-| 6   | 13    | 10  | +7 / 0 / -1   | 8   | 2            | 4 (1d6 + 1)       |
-| 7   | 13    | 10  | +7 / 0 / -1   | 10  | 2            | 5 (1d8 + 1)       |
-| 8   | 13    | 15  | +7 / 0 / -1   | 12  | 2            | 6 (2d6)           |
-| 9   | 14    | 15  | +8 / +1 / +0  | 14  | 2            | 7 (2d6 + 1)       |
-| 10  | 14    | 15  | +9 / +1 / +0  | 16  | 2            | 8 (2d8)           |
-| 11  | 14    | 20  | +9 / +1 / +0  | 18  | 2            | 9 (2d8 + 1)       |
-| 12  | 14    | 20  | +9  / +1/ +0  | 21  | 3            | 7 (2d6 + 1)       |
-| 13  | 14    | 20  | +9 / +1 / +0  | 24  | 3            | 8 (2d8)           |
-| 14  | 15    | 25  | +10 / +2 / +1 | 27  | 3            | 9 (2d8 + 1)       |
-| 15  | 15    | 25  | +11 / +2 / +1 | 30  | 3            | 10 (2d10)         |
-| 16  | 15    | 25  | +11 / +2 / +1 | 33  | 3            | 11 (2d10 + 1)     |
-| 17  | 15    | 30  | +11 / +2 / +1 | 36  | 3            | 12 (2d12)         |
-| 18  | 15    | 30  | +12 / +3 / +2 | 40  | 4            | 10 (2d10)         |
-| 19  | 16    | 30  | +13 / +3 / +2 | 44  | 4            | 11 (2d10 + 1)     |
-| 20  | 16    | 40  | +13 / +4 / +3 | 48  | 4            | 12 (2d12)         |
-
-
-# Membre groupe
-
-
-| CR  | AC/DC | HP            | Trait Bonus   | DPR | Multi Attack | Damage per attack | example 5e monster                          |     |     |
-| --- | ----- | ------------- | ------------- | --- | ------------ | ----------------- | ------------------------------------------- | --- | --- |
-| 1   | 12    | 33 (25–41)    | +5 / 0 / -2   | 12  | 2            | 6 (1d8 + 2)       | Dire wolf, specter, spy                     |     |     |
-| 2   | 13    | 45 (34–56)    | +5 / 0 / -2   | 17  | 2            | 9 (2d6 + 2)       | Ghast, ogre, priest                         |     |     |
-| 3   | 13    | 65 (49–81)    | +5 / 0 / -2   | 23  | 2            | 12 (2d8 + 3)      | Knight, mummy, werewolf                     |     |     |
-| 4   | 14    | 84 (64–106)   | +6 / 0 / -1   | 28  | 2            | 14 (3d8 + 1)      | Ettin, ghost                                |     |     |
-| 5   | 15    | 95 (71–119)   | +7 / 0 / -1   | 35  | 3            | 12 (3d6 + 2)      | Elemental, gladiator, vampire spawn         |     |     |
-| 6   | 15    | 112 (84-140)  | +7 / 0 / -1   | 41  | 3            | 14 (3d6 + 4)      | Mage, medusa, wyvern                        |     |     |
-| 7   | 15    | 130 (98–162)  | +7 / 0 / -1   | 47  | 3            | 16 (3d8 + 3)      | Stone giant, young black dragon             |     |     |
-| 8   | 15    | 136 (102–170) | +7 / 0 / -1   | 53  | 3            | 18 (3d10 + 2)     | Assassin, frost giant                       |     |     |
-| 9   | 16    | 145 (109–181) | +8 / +1 / +0  | 59  | 3            | 22 (3d12 + 3)     | Bone devil, fire giant, young blue dragon   |     |     |
-| 10  | 17    | 155 (116–194) | +9 / +1 / +0  | 65  | 4            | 16 (3d8 + 3)      | Stone golem, young red dragon               |     |     |
-| 11  | 17    | 165 (124–206) | +9 / +1 / +0  | 71  | 4            | 18 (3d10 + 2)     | Djinni, efreeti, horned devil               |     |     |
-| 12  | 17    | 175 (131–219) | +9 / +1 / +0  | 77  | 4            | 19 (3d10 + 3)     | Archmage, erinyes                           |     |     |
-| 13  | 18    | 184 (138–230) | +9 / +1 / +0  | 83  | 4            | 21 (4d8 + 3)      | Adult white dragon, storm giant, vampire    |     |     |
-| 14  | 19    | 196 (147–245) | +10 / +2 / +1 | 89  | 4            | 22 (4d10)         | Adult black dragon, ice devil               |     |     |
-| 15  | 19    | 210 (158–263) | +11 / +2 / +1 | 95  | 5            | 19 (3d10 + 3)     | Adult green dragon, mummy lord, purple worm |     |     |
-| 16  | 19    | 229 (172–286) | +11 / +2 / +1 | 101 | 5            | 21 (4d8 + 3)      | Adult blue dragon, iron golem, marilith     |     |     |
-| 17  | 20    | 246 (185–308) | +11 / +2 / +1 | 107 | 5            | 22 (3d12 + 3)     | Adult red dragon                            |     |     |
-| 18  | 21    | 266 (200–333) | +12 / +3 / +2 | 113 | 5            | 23 (4d10 + 1)     | Demilich                                    |     |     |
-| 19  | 21    | 285 (214–356) | +13 / +3 / +2 | 119 | 5            | 24 (4d10 + 2)     | Balor                                       |     |     |
-| 20  | 21    | 300 (225–375) | +13 / +4 / +3 | 132 | 5            | 26 (4d12)         | Ancient white dragon, pit fiend             |     |     |
-
-
-# Solo / Elite (TODO)
-
-| CR  | AC/DC | HP            | Trait Bonus   | DPR | Multi Attack | Damage per attack | example 5e monster                          |     |     |
-| --- | ----- | ------------- | ------------- | --- | ------------ | ----------------- | ------------------------------------------- | --- | --- |
-| 1   | 13    | 43 (25–41)    | +5 / 0 / -2   | 15  | 2            |                   | Dire wolf, specter, spy                     |     |     |
-| 2   | 14    | 56 (34–56)    | +5 / 0 / -2   | 21  | 2            |                   | Ghast, ogre, priest                         |     |     |
-| 3   | 14    | 80 (49–81)    | +5 / 0 / -2   | 28  | 2            |                   | Knight, mummy, werewolf                     |     |     |
-| 4   | 15    | 104 (64–106)  | +6 / 0 / -1   | 35  | 2            |                   | Ettin, ghost                                |     |     |
-| 5   | 16    | 120 (71–119)  | +7 / 0 / -1   | 43  | 3            |                   | Elemental, gladiator, vampire spawn         |     |     |
-| 6   | 16    | 138 (84-140)  | +7 / 0 / -1   | 51  | 3            |                   | Mage, medusa, wyvern                        |     |     |
-| 7   | 16    | 160 (98–162)  | +7 / 0 / -1   | 56  | 3            |                   | Stone giant, young black dragon             |     |     |
-| 8   | 17    | 170 (102–170) | +7 / 0 / -1   | 66  | 3            |                   | Assassin, frost giant                       |     |     |
-| 9   | 17    | 181 (109–181) | +8 / +1 / +0  | 73  | 3            |                   | Bone devil, fire giant, young blue dragon   |     |     |
-| 10  | 18    | 195 (116–194) | +9 / +1 / +0  | 81  | 4            |                   | Stone golem, young red dragon               |     |     |
-| 11  | 18    | 206 (124–206) | +9 / +1 / +0  | 88  | 4            |                   | Djinni, efreeti, horned devil               |     |     |
-| 12  | 18    | 218 (131–219) | +9 / +1 / +0  | 96  | 4            |                   | Archmage, erinyes                           |     |     |
-| 13  | 19    | 230 (138–230) | +9 / +1 / +0  | 103 | 4            |                   | Adult white dragon, storm giant, vampire    |     |     |
-| 14  | 20    | 245 (147–245) | +10 / +2 / +1 | 111 | 4            |                   | Adult black dragon, ice devil               |     |     |
-| 15  | 20    | 262 (158–263) | +11 / +2 / +1 | 118 | 5            |                   | Adult green dragon, mummy lord, purple worm |     |     |
-| 16  | 20    | 286 (172–286) | +11 / +2 / +1 | 126 | 5            |                   | Adult blue dragon, iron golem, marilith     |     |     |
-| 17  | 21    | 307 (185–308) | +11 / +2 / +1 | 133 | 5            |                   | Adult red dragon                            |     |     |
-| 18  | 22    | 332 (200–333) | +12 / +3 / +2 | 141 | 5            |                   | Demilich                                    |     |     |
-| 19  | 22    | 356 (214–356) | +13 / +3 / +2 | 148 | 5            |                   | Balor                                       |     |     |
-| 20  | 22    | 375 (225–375) | +13 / +4 / +3 | 165 | 5            |                   | Ancient white dragon, pit fiend             |     |     |
+| CR  | AC/DC | HP            | DPR | Multi Attack | Damage per attack | example 5e monster                          |
+| --- | ----- | ------------- | --- | ------------ | ----------------- | ------------------------------------------- |
+| 1   | 12    | 33 (25–41)    | 12  | 2            | 6 (1d8 + 2)       | Dire wolf, specter, spy                     |
+| 2   | 13    | 45 (34–56)    | 17  | 2            | 9 (2d6 + 2)       | Ghast, ogre, priest                         |
+| 3   | 13    | 65 (49–81)    | 23  | 2            | 12 (2d8 + 3)      | Knight, mummy, werewolf                     |
+| 4   | 14    | 84 (64–106)   | 28  | 2            | 14 (3d8 + 1)      | Ettin, ghost                                |
+| 5   | 15    | 95 (71–119)   | 35  | 3            | 12 (3d6 + 2)      | Elemental, gladiator, vampire spawn         |
+| 6   | 15    | 112 (84-140)  | 41  | 3            | 14 (3d6 + 4)      | Mage, medusa, wyvern                        |
+| 7   | 15    | 130 (98–162)  | 47  | 3            | 16 (3d8 + 3)      | Stone giant, young black dragon             |
+| 8   | 15    | 136 (102–170) | 53  | 3            | 18 (3d10 + 2)     | Assassin, frost giant                       |
+| 9   | 16    | 145 (109–181) | 59  | 3            | 22 (3d12 + 3)     | Bone devil, fire giant, young blue dragon   |
+| 10  | 17    | 155 (116–194) | 65  | 4            | 16 (3d8 + 3)      | Stone golem, young red dragon               |
+| 11  | 17    | 165 (124–206) | 71  | 4            | 18 (3d10 + 2)     | Djinni, efreeti, horned devil               |
+| 12  | 17    | 175 (131–219) | 77  | 4            | 19 (3d10 + 3)     | Archmage, erinyes                           |
+| 13  | 18    | 184 (138–230) | 83  | 4            | 21 (4d8 + 3)      | Adult white dragon, storm giant, vampire    |
+| 14  | 19    | 196 (147–245) | 89  | 4            | 22 (4d10)         | Adult black dragon, ice devil               |
+| 15  | 19    | 210 (158–263) | 95  | 5            | 19 (3d10 + 3)     | Adult green dragon, mummy lord, purple worm |
+| 16  | 19    | 229 (172–286) | 101 | 5            | 21 (4d8 + 3)      | Adult blue dragon, iron golem, marilith     |
+| 17  | 20    | 246 (185–308) | 107 | 5            | 22 (3d12 + 3)     | Adult red dragon                            |
+| 18  | 21    | 266 (200–333) | 113 | 5            | 23 (4d10 + 1)     | Demilich                                    |
+| 19  | 21    | 285 (214–356) | 119 | 5            | 24 (4d10 + 2)     | Balor                                       |
+| 20  | 21    | 300 (225–375) | 132 | 5            | 26 (4d12)         | Ancient white dragon, pit fiend             |
 
 
