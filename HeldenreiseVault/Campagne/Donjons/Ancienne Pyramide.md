@@ -37,11 +37,11 @@ Patrouilles typiques:
 # Arcanorum (R)
 
 Patrouilles typiques:
-- **"Research Teams"** - 1 Lich + 2-3 Undead Mages + magical construct servants
-- **"Experiment Escorts"** - Arcanists shepherding magical abominations between labs
+- **"Research Teams"** - 1 [[Liche Archiviste]] + 2-3 [[Arcaniste Mort-Vivant]] + [[Élémentaire Majeur Asservi]]
+- **"Experiment Escorts"** - [[Arcaniste Mort-Vivant]] + 4-5 [[Élémentaire Majeur Asservi]] + [[Golem Arcanique Évolué]]
 - **"Arcane Sentries"** - Floating magical constructs + bound elementals on set routes
-- **"Study Groups"** - Multiple lesser liches examining artifacts, books, or specimens
-- **"Spell Weavers"** - Casters maintaining magical wards while slowly moving through corridors
+- **"Study Groups"** - 3-4 [[Arcaniste Mort-Vivant]] + [[Grand Prêtre Nécromant]]
+- **"Spell Weavers"** - [[Liche Archiviste]] + 2 [[Abomination de Guerre]]
 
 ## Section Arcane - Ambiance et Décoration
 
