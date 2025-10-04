@@ -19,10 +19,12 @@
 **Capacités**:
 - **Passives**
 	- (P) **Nom** : description de capacité passive
-- **Actions**
-	- (A) **Nom** : Description. Inclus distance, nombre d'actions à dépenser pour utiliser, dégâts (légers, normaux, importants) et d'éventuels effets secondaires
 - **Réactions**
 	- (R) **Nom** : Description
+- **Actions**
+	- (A) **Nom** : Description. Inclus distance, nombre d'actions à dépenser pour utiliser, dégâts (légers, normaux, importants) et d'éventuels effets secondaires
+Example:
+	- (1A) **Attaque brutale**: *Melée*, Dégâts **Importants**. *La prochaine attaque ciblant la créature a un avantage.* Attaque puissante qui sacrifie la finesse pour les dégâts.
 
 # conseils de gameplay
 *Conseils pour comment le jouer en combat. donne mouvements préférés et timings (action de premier tour, puis second tour, …) pour les boss et leurs capacités héroïques*

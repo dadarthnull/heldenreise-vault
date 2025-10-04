@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "52eb9540085f867b",
+        "id": "b089ae628f26e300",
         "type": "tabs",
         "children": [
           {
-            "id": "c9597b81729ab748",
+            "id": "4e36bbb76b371717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Donjons/Ancienne Pyramide.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ancienne Pyramide"
+            }
+          },
+          {
+            "id": "64be5eab05b01b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Monster Template"
-            }
-          },
-          {
-            "id": "3668212dd6717dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Encounters"
             }
           }
         ],
@@ -286,8 +286,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3668212dd6717dc1",
+  "active": "64be5eab05b01b07",
   "lastOpenFiles": [
+    "Campagne/Donjons/Ancienne Pyramide.md",
+    "NaxxramasTacticalMap.webp",
     "templates/Monster Template.md",
     "Encounters.md",
     "NPCs/Monsters/Aberration - masque.md",
@@ -313,9 +315,7 @@
     "Session Notes/Session 36 - 10-05-2025.md",
     "Campagne/Lieux à visiter/Schmiedehafen.md",
     "Campagne/Lieux à visiter/Ville d'Armélia.md",
-    "Campagne/Donjons/Pavillon aux esclaves des Dornbruck.md",
     "Assets/slavers-basement.webp",
-    "Campagne/Lieux à visiter/Baronnie de Baërfeld.md",
     "Assets/schmiedehafen-carte-all.webp",
     "Assets/schmiedehafen-vue.webp",
     "Assets/ocine ogre quantique.png",
@@ -323,7 +323,6 @@
     "Assets/Benoit le Ventru.webp",
     "Assets/Jasmin le Bravache.webp",
     "Assets/Liora la Fée.webp",
-    "Assets/Gavro Tourbillon.webp",
     "Campagne/tables",
     "Campagne/Empereur liche.canvas",
     "NPCs/Habitants/Campement du laboratoire",
