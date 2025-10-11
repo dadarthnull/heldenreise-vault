@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Aberration - masque.md",
+                "file": "Session Notes/Session 43 - 11-10-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aberration - masque"
+              "title": "Session 43 - 11-10-2025"
             }
           },
           {
@@ -336,9 +336,10 @@
   },
   "active": "d1554d962435efea",
   "lastOpenFiles": [
+    "NPCs/Monsters/Aberration - masque.md",
+    "Session Notes/Session 43 - 11-10-2025.md",
     "NPCs/Monsters/Aberration - devoreur.md",
     "NPCs/Monsters/Aberration - slime.md",
-    "NPCs/Monsters/Aberration - masque.md",
     "Session Notes/Session 42 - 02-10-2025.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
     "templates/Monster Template.md",
@@ -369,7 +370,6 @@
     "Campagne/Donjons/La perle d'Or.md",
     "Session Notes/Session 41 - 17-09-2025.md",
     "Session Notes/Session 37 - 17-05-2025.md",
-    "Session Notes/Session 38 - 30-05-2025.md",
     "Assets/slavers-ground.webp",
     "Assets/slavers-basement.webp",
     "Campagne/tables",
