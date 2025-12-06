@@ -79,7 +79,8 @@
               "title": "Ancienne Pyramide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,10 +311,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "d1554d962435efea",
+  "active": "26c8cd267402431d",
   "lastOpenFiles": [
-    "Session Notes/Session 42 - 02-10-2025.md",
     "Session Notes/Session 44 - 06-12-2025.md",
+    "Session Notes/Session 42 - 02-10-2025.md",
     "NPCs/Monsters/Aberration - oeil.md",
     "Campagne/Donjons/La perle d'Or.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
