@@ -25,7 +25,7 @@
 | Evaluation   | 3    | Quête évaluation (niveau 10)    | Augmente la portée à 10 pieds, perce voile                                                                                  | Artisanat: vision des défauts (avantage sur jet)                         |
 | Cartographie | 1    | Achat (75po)                    | mini-map simple                                                                                                             |                                                                          |
 | Cartographie | 2    | Quête reconnaissance (niveau 5) | mini-map avec notes                                                                                                         | Récole: récoltables sur la mini-map (avantage sur jet)                   |
-| Cartographie | 3    | Quête investigation (niveau 10) | mini-map indique des éléments cachés                                                                                        | Récole: récoltables sur la mini-map (avantage sur jet), +1 tranche de DC |
+| Cartographie | 3    | Quête investigation (niveau 10) | mini-map indique des éléments cachés                                                                                        | Récolte: récoltables sur la mini-map (avantage sur jet), +1 tranche de DC |
 |              |      |                                 |                                                                                                                             |                                                                          |
 
 
