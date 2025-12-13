@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 44 - 06-12-2025.md",
+                "file": "Session Notes/Session 45 - 13-12-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 44 - 06-12-2025"
+              "title": "Session 45 - 13-12-2025"
             }
           },
           {
@@ -312,8 +312,9 @@
   },
   "active": "d1554d962435efea",
   "lastOpenFiles": [
-    "NPCs/Monsters/Aberration - oeil.md",
     "Session Notes/Session 44 - 06-12-2025.md",
+    "Session Notes/Session 45 - 13-12-2025.md",
+    "NPCs/Monsters/Aberration - oeil.md",
     "Session Notes/Session 42 - 02-10-2025.md",
     "Campagne/Donjons/La perle d'Or.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
@@ -345,7 +346,6 @@
     "Campagne/Enigmes - archive interdit.md",
     "templates/NPC Template.md",
     "Session Notes/Session 41 - 17-09-2025.md",
-    "Session Notes/Session 37 - 17-05-2025.md",
     "Assets/slavers-ground.webp",
     "Assets/slavers-basement.webp",
     "Campagne/tables",
