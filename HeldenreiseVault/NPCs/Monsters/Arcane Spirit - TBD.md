@@ -7,6 +7,7 @@
 **Atk:** 2  
 **Dmg:** 14 per attack
 
+## Build 1
 **Base - Arcane Bite:** Melee weapon attack, reach 10ft, one target. Deals 2d8+4 force damage. If the target is concentrating on a spell, they have disadvantage on the concentration check caused by this damage.
 
 **Signature - Mana Drain (Recharge 5-6):** The Spirit latches onto a creature within 5ft and siphons magical energy. The target must make an Intelligence save. On a failure, they take 4d10 force damage, lose their lowest remaining spell slot (if any), and cannot cast spells of 3rd level or higher until the end of their next turn. On a success, half damage and no other effects. If a spell slot is consumed, the Arcane Spirit gains 2d10 temporary HP and advantage on all attacks until the end of its next turn.
@@ -20,3 +21,19 @@
 - _Arcane Feedback:_ When the Spirit succeeds on a saving throw against a spell, the caster takes 2d6 force damage as the spell energy rebounds.
     
 - _Frenzied by Magic:_ Whenever a spell of 3rd level or higher is cast within 30ft of the Spirit, it can make one Arcane Bite attack as a reaction (this replaces Spell Scent for that trigger).
+
+## Build 2
+**Base:** **Arc Lash.** Ranged spell-strike (60 ft). On hit, deal **18** force damage. If the target cast a spell-like effect since the end of its last turn, Arc Lash deals +**6** force damage.
+
+**Signature:** **Mana Siphon Coil.** One creature within 60 ft makes a DC 18 Con save. On a failure, it takes **32** force damage and becomes **Siphoned** for 2 rounds: the first time each round it uses a spell-like feature, it takes **12** force damage and the Arcane Spirit heals **12** HP. On a success, half damage and not Siphoned.
+
+**Reaction:** **Spellbite Reflex.** When the Arcane Spirit takes damage from a spell or magical effect, reduce that damage by **15** and the Spirit may immediately make one Base attack against the source (if within 60 ft).
+
+**Feat:** **Disrupting Wake.** Once per turn, after the Spirit hits with a Base attack, the target must succeed on a DC 18 Wis save or cannot take reactions until the start of its next turn.
+
+## Build 3
+
+- **Base:** _Mana Bite._ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 2d8+5 force damage.
+- **Signature:** _Feedback Loop._ The Spirit latches onto a target. The target must succeed on a DC 16 Intelligence saving throw. On a failure, the target loses a 1st or 2nd level spell slot (or 5 Ki points/Sorcery points), takes 6d8 force damage, and the Spirit heals for half the damage dealt.
+- **Reaction:** _Phase Shift._ When the Spirit is subjected to a spell saving throw, it can use its reaction to gain advantage on the save. If it succeeds, it takes no damage.
+- **Feat:** _Magic Scent._ (Passive) The Spirit has Advantage on attack rolls against any creature currently concentrating on a spell.

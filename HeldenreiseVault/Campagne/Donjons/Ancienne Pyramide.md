@@ -23,32 +23,123 @@ Mobs:
 - [[Death Knight - Squire]]
 - [[Death Knight - Death Mount]]
 
+## Ambiance et décorations
+### Mobilier Militaire
+
+- **Râteliers d'armes** en fer noir, encore garnis d'épées, hallebardes et masses. Certaines armes sont soudées par la rouille, d'autres luisent encore d'un éclat malsain, comme si elles avaient été huilées récemment.
+- **Lits de camp en pierre** alignés avec une précision obsessionnelle, draps de lin pourri figés comme pétrifiés. Certains contiennent encore des formes vaguement humanoïdes—armures vides ou corps desséchés, impossible à dire.
+- **Coffres de paquetage** au pied de chaque lit, cerclés de bronze verdi. Certains sont ouverts, révélant des effets personnels momifiés : lettres illisibles, médaillons ternis, mèches de cheveux dans des sachets de soie.
+- **Mannequins d'entraînement** en bois noirci et paille, criblés de coups anciens. Quelques-uns portent des traces fraîches.
+- **Tables de stratégie** couvertes de cartes jaunies représentant des territoires oubliés, les pions de métal encore disposés pour des batailles perdues depuis des millénaires.
+- **Forges portatives** éteintes depuis longtemps, mais l'odeur de métal chauffé persiste inexplicablement.
+
+### Équipement d'Écurie
+
+- **Stalles de pierre** assez grandes pour des destriers de guerre, les mangeoires remplies d'une avoine noirâtre qui ne pourrit plus.
+- **Selles et harnachements** suspendus à des crochets, le cuir craquelé mais intact, gravé de runes qui pulsent faiblement.
+- **Auges d'abreuvement** contenant un liquide noir et épais qui reflète la lumière de façon incorrecte—on y voit parfois bouger des formes.
+- **Brosses et étrilles** encore accrochées, les crins piégés dedans d'un blanc spectral.
+
+### Équipement Rituel
+
+- **Autels portatifs** dans les alcôves, pour les serments et bénédictions d'avant-bataille. Le sang séché sur la pierre ne s'effrite pas.
+- **Bénitiers renversés** dont le contenu s'est depuis longtemps évaporé, laissant des résidus cristallins qui brillent faiblement dans l'obscurité.
+- **Porte-étendards** vides ou soutenant des bannières en lambeaux aux couleurs indiscernables.
+
+### Fresques et Peintures
+
+- **Grandes fresques de batailles** représentant la gloire de l'Empire elfique. À mesure qu'on les observe, on remarque que les armées ennemies ne sont pas des monstres—ce sont des civils, des villages, des familles.
+- **Portraits des Grands Maîtres** de l'Ordre, leurs visages aristocratiques elfiques observant depuis des cadres dorés. Les yeux semblent suivre les intrus. Certains portraits plus récents montrent des visages squelettiques, peints avec la même révérence.
+- **Scènes d'adoubement** où de jeunes chevaliers prêtent serment à l'Empereur. Dans certaines, l'Empereur est représenté vivant; dans d'autres, son crâne couronné siège sur le même trône.
+- **Cartes murales** de l'ancien Empire à son apogée, s'étendant sur des terres aujourd'hui libres. Des punaises d'or marquent des villes conquises—certaines n'existent plus.
+
+### Gravures et Reliefs
+
+- **Frises en bas-relief** représentant les quatre Serments : le Sang, la Putrescence, le Givre, les Os. Chaque section du couloir est dédiée à un serment différent.
+- **Noms gravés** sur des plaques de bronze : listes infinies de chevaliers tombés. Les gravures les plus récentes datent d'après la chute—des noms ajoutés par des mains mortes.
+- **Écussons héraldiques** sculptés dans la pierre, répétés obsessivement. Certains ont été grattés, effacés par des chevaliers tombés en disgrâce même après la mort.
+- **Maximes de l'Ordre** gravées aux linteaux des portes en haut-elfique ancien.
+
+### Trophées
+
+- **Crânes montés** d'ennemis vaincus—dragons, géants, champions humains—chacun avec une plaque descriptive détaillant la victoire.
+- **Bannières capturées** de royaumes disparus, accrochées comme des trophées, tellement décolorées qu'on distingue à peine leurs emblèmes.
+- **Armes brisées** d'adversaires célèbres, montées dans des vitrines de verre poussiéreux.
+
+## Phrases d'Ambiance Générale
+
+### À l'Entrée de l'Aile
+
+> _"L'air change quand vous passez les grandes portes. Il devient sec, métallique, avec une odeur de fer et de vieux cuir. Le silence n'est pas total—il y a un bruit de fond, comme le murmure lointain de métal contre métal, le raclement d'une lame qu'on aiguise quelque part dans les ténèbres."_
+
+### Ambiance Sonore
+
+> _"Vos pas résonnent sur le dallage avec une netteté dérangeante, comme si le son était happé puis relâché par les murs. Parfois, vous entendez d'autres pas qui font écho aux vôtres—mais qui continuent une fraction de seconde après que vous vous soyez arrêtés."_
+
+> _"Un hennissement spectral traverse les couloirs, venant de partout et de nulle part. Il se termine par un son qui ressemble à un râle de mort."_
+
+> _"Le vent ne devrait pas pouvoir entrer ici, et pourtant quelque chose fait claquer les bannières. Un claquement lent, irrégulier, comme un cœur qui refuse de s'arrêter."_
+
+### Ambiance Visuelle
+
+> _"Les torchères le long des murs sont éteintes depuis des siècles, mais une lueur bleuâtre émane des runes gravées dans la pierre, suffisante pour distinguer les formes mais insuffisante pour effacer les ombres. Ces ombres bougent parfois quand vous ne les regardez pas directement."_
+
+> _"Du givre recouvre certaines sections des murs en motifs géométriques impossibles, comme si quelqu'un avait dessiné des schémas tactiques avec de la glace. Il ne fond pas à l'approche de vos torches."_
+
+> _"Une poussière fine flotte dans l'air, mais elle ne se dépose pas. Elle tourbillonne lentement, inlassablement, comme si elle attendait quelque chose."_
+
+### Ambiance Tactile
+
+> _"Le froid n'est pas naturel ici. Il ne vient pas de l'air—il semble émaner de la pierre elle-même, s'insinuant à travers vos semelles, remontant le long de vos jambes."_
+
+> _"Quand vous touchez les murs, vous sentez une vibration à peine perceptible, comme un pouls très lent. Beaucoup trop lent pour être vivant."_
+
 ## B1 Grand couloir
 
-## B2 Salle de match
+## B2 Dortoir, cantine et repos
+La ^partie gauche contient des rangées de lits superposés, avec un coffre au pied de chaque lit. Une épaisse couche de poussière recouvre tout
 
-## B3 Salle d'équitation
+La partie droite est divisé en 2 zones, une cantine avec tables, chaises et des tables de buffet le long du mur sud, mais aucun plat n'est présenté. Le nord est visiblement une samme de repos, des tapis au sol autour de canapés et fauteuills. Ici aussi, une épaisse couche de poussière recouvre tout.
 
-## B4 Plateforme du tourniquet
+Ambiance:
+- oppressant, silencieux
+- bannières à la gloire de l'empereur et l'empire aux murs
+- Les PNJs aventuriers sont stressés, quand le lieux était un donjon, il y avait un mini-boss, le cuistot ici. Son absence les rend nerveux.
 
-## B5 Salle des fantassins
+## B3 Grand hall
+
+Le couloir d'accès au grand hall a une patrouille:
+- [[Death Knight - Squire]] x 5
+- [[Death Knight - Oath of Bone]] x 1
+- [[Death Knight - Oath of Blood]] x 1
+- [[Death Knight - Oath of Decay]] x 1
+- [[Death Knight - Oath of Frost]] x 1
+- [[Penitent]] x 1
+
+PNJs surpris. Le pénitent ne devrait pas çetre dans cette section de la pyramide. Quelque chose ne va pas.
+
+
+
+## B4 Plateforme d'équitation
+
+## B5 Salle d'entrainment
 
 ## B6 Salle des archers
 
-## B7 Quartiers des élites
+## B7 Quartiers du maître de guerre
 
-## B8 Salle de graduation
+## B8 Salle de graduation - les cavaliers de l'apocalypse
 
 
 # Arcanorum (R)
 
 Mobs:
-- [[Sprite]]
-- [[Arcane Spirit]]
-- [[Arcane Golem]]
-- [[Arcane Student]]
-- [[Undead Archivist]]
-- [[Undead Warmage]]
+- [[Sprite - TBD]]
+- [[Arcane Spirit - TBD]]
+- [[Arcane Golem - TBD]]
+- [[Arcane Student - TBD]]
+- [[Undead Archivist - TBD]]
+- [[Undead Warmage - TBD]]
 
 ## Section Arcane - Ambiance et Décoration
 

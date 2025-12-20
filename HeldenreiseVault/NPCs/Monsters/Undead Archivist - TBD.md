@@ -7,6 +7,7 @@
 **Atk:** 2  
 **Dmg:** 19 per attack
 
+## Build 1
 **Base - Arcane Thesis:** Ranged spell attack, range 120ft, one target. Deals 2d10+5 force damage. On a hit, the Archivist learns the target's lowest saving throw; until the end of the Archivist's next turn, the next spell targeting that creature has advantage on any spell attack roll or the creature has disadvantage on its save.
 
 **Signature - Rewrite Reality (Recharge 5-6):** The Archivist speaks words of fundamental arcane law, altering the battlefield. Choose one:
@@ -28,3 +29,26 @@
 - _Floating Grimoire:_ As a bonus action, the Archivist sends one of its orbiting tomes to a space within 30ft. Until the end of combat, the Archivist can cast spells as if it were in the tome's space. The tome has AC 15 and 30 HP; if destroyed, the Archivist takes 4d6 psychic damage.
     
 - _Theorize Weakness:_ As a bonus action, the Archivist analyzes a creature within 60ft. Until the end of combat, the Archivist knows that creature's damage vulnerabilities, resistances, and immunities, and attacks against that creature by the Archivist score a critical hit on a 19-20.
+
+## Build 2
+**Base:** **Force Index.** Ranged spell-strike (120 ft). On hit, deal **30** force damage. The Archivist may instead target an ally within 90 ft to grant it a **15**-HP ward until the start of the Archivist’s next turn.
+
+**Signature:** **Rewrite the Shelf.** Choose up to 3 creatures the Archivist can see within 90 ft. Each must make a DC 20 Wis save. On a failure, the Archivist chooses one effect per creature:
+
+- **Refile:** teleport the creature up to 20 ft to a space the Archivist can see.
+- **Redact:** the creature’s next attack before the end of its next turn has disadvantage and deals half damage.
+- **Footnote:** the creature is **Slowed** (speed halved, cannot take reactions) until the end of its next turn.
+
+**Reaction:** **Counter-Annotation.** When a creature the Archivist can see within 60 ft uses a spell-like feature, the Archivist forces a DC 20 Int save. On a failure, that feature is negated (no effect), and the caster takes **12** psychic damage.
+
+**Feat (once per combat):** **Null Margin.** Create a 10-ft-radius zone within 90 ft for 2 rounds. Enemies in the zone cannot benefit from invisibility and take **10** force damage the first time each round they use a spell-like feature.  
+**Feat (once per combat):** **Borrowed Page.** The Archivist copies momentum: when an enemy within 60 ft moves, the Archivist immediately moves up to the same distance (max 30 ft) without provoking opportunity attacks.  
+**Feat (once per combat):** **Index of Weakness.** Mark one creature within 120 ft for 2 rounds. The first time each round it takes damage, it takes an extra **10** force damage.
+
+
+## Build 3
+
+- **Base:** _Silence._ Melee Spell Attack: +10 to hit, reach 5 ft., one target. Hit: 3d10+5 psychic damage, and the target cannot speak or cast spells with verbal components until the start of the Archivist's next turn.
+- **Signature:** _Gravity Well._ The Archivist targets a point within 60 feet. A singularity forms. All creatures within 20 feet are pulled 10 feet toward the center and must make a DC 17 Strength save. On a failure, they take 8d10 bludgeoning damage and are _Restrained_. On a success, half damage and not restrained. (Recharge 5-6).
+- **Reaction:** _Arcane Counter._ When a creature within 60 feet casts a spell, the Archivist attempts to interrupt it (as per _Counterspell_ at 5th level). If the spell is successfully countered, the caster takes 3d10 psychic damage.
+- **Feat:** _Blink Step._ Once per turn, immediately after taking damage, the Archivist can teleport 30 feet to an unoccupied space it can see.

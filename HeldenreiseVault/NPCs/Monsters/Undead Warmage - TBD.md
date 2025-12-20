@@ -7,6 +7,7 @@
 **Atk:** 2  
 **Dmg:** 21 per attack
 
+## Build 1
 **Base - Elemental Strike:** Ranged spell attack, range 90ft, one target. Deals 2d8+6 damage of a chosen type (fire, cold, or lightning). The Warmage can change the type with each attack. On a hit, the target suffers an additional effect based on damage type:
 
 - _Fire:_ Burns for 1d6 fire damage at the start of their next turn.
@@ -34,3 +35,21 @@ Creatures in overlapping areas suffer both effects.
 - _Mass Shield:_ As a bonus action, the Warmage projects arcane barriers onto up to four allies within 60ft. Each gains 2d8+5 temporary HP and resistance to elemental damage (fire, cold, lightning) until the start of the Warmage's next turn.
     
 - _Elemental Infusion:_ As a bonus action, the Warmage touches an ally's weapon or an undead ally's natural attacks. For 1 minute, that weapon deals an additional 2d6 damage of a chosen elemental type (fire, cold, or lightning) on each hit.
+
+## Build 2
+**Base:** **Elemental Lance.** Ranged spell-strike (120 ft). On hit, deal **33** damage; the Warmage chooses fire, cold, or lightning each attack.
+
+**Signature:** **War Triad Volley.** The Warmage targets three points it can see within 120 ft (each point can be the same). Each creature within 10 ft of a point makes a DC 19 Dex save, taking **36** elemental damage (Warmage chooses fire/cold/lightning per point) on a failure, or half on a success.
+
+**Reaction:** **Battle Ward.** When the Warmage or an ally within 30 ft is hit, reduce the damage by **18** and the Warmage chooses: the attacker takes **10** elemental damage (fire/cold/lightning), or the protected creature can immediately move 10 ft without provoking opportunity attacks.
+
+**Feat (once per combat):** **Haste Protocol.** One ally within 60 ft gains: +10 ft speed, advantage on Dex saves, and +1 extra attack (or equivalent extra strike) on its next turn.  
+**Feat (once per combat):** **Elemental Screen.** For 2 rounds, the Warmage and undead allies within 20 ft gain resistance to one chosen element (fire/cold/lightning). The first time each round an ally benefits, an enemy within 20 ft takes **8** force damage (ward backlash).  
+**Feat (once per combat):** **Sapping Chill.** One creature within 90 ft makes a DC 19 Con save or its speed becomes 0 until the end of its next turn, and it takes **18** cold damage.
+
+## Build 3
+
+- **Base:** _Tri-Element Volley._ Ranged Spell Attack: +10 to hit, range 120 ft., three different targets possible. The Warmage fires one Fire, one Cold, and one Lightning bolt. Hit: 4d8+6 damage of the respective type.
+- **Signature:** _Overload Core._ The Warmage channels energy until it effectively becomes a bomb. It selects a 20-foot radius area. At the start of its _next_ turn, that area explodes for 12d10 fire damage (DC 17 Dex save for half). This forces players to move. (Recharge 5-6).
+- **Reaction:** _Ice Block._ When hit by a critical hit or an attack that deals more than 40 damage, the Warmage encases itself in ice. It becomes immune to all damage until the start of its next turn, but it cannot take any actions or move during the immunity.
+- **Feat:** _Conduction._ (Passive) If the Warmage takes Lightning damage, it does not take damage. Instead, its next attack deals an additional 20 Lightning damage.
