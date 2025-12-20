@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Prêtre Nécromant.md",
+                "file": "NPCs/Monsters/Death Knight - Death Mount.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grand Prêtre Nécromant"
+              "title": "Death Knight - Death Mount"
             }
           }
         ],
@@ -289,6 +289,15 @@
   },
   "active": "f855d69eb01f2d39",
   "lastOpenFiles": [
+    "NPCs/Monsters/Death Knight - Oath of Blood.md",
+    "NPCs/Monsters/Death Knight - Oath of Bone.md",
+    "NPCs/Monsters/Death Knight - Oath of Decay.md",
+    "NPCs/Monsters/Death Knight - Oath of Frost.md",
+    "NPCs/Monsters/Death Knight - Squire.md",
+    "NPCs/Monsters/Death Knight - Death Mount.md",
+    "NPCs/Monsters/Dryder.md",
+    "Campagne/Donjons/Ancienne Pyramide.md",
+    "Grand Prêtre Nécromant.md",
     "Golem Arcanique Évolué.md",
     "Élémentaire Majeur Asservi.md",
     "Bonecaller_HS.webp",
@@ -307,15 +316,6 @@
     "Session Notes/Session 23 - 05-10-2024.md",
     "Session Notes/Session 22 - 28-09-2024.md",
     "Session Notes/Session 21 - 21-09-2024.md",
-    "Session Notes/Session 20 - 29-06-2024.md",
-    "Session Notes/Session 19 - 22-06-2024.md",
-    "Session Notes/Session 18 - 15-06-2024.md",
-    "Session Notes/Session 15 - 18-05-2024.md",
-    "Session Notes/Session 16 - 25-05-2024.md",
-    "Session Notes/Session 17 - 01-06-2024.md",
-    "NPCs/Monsters/Mort-Vivant - Vampire.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette fragile.md",
-    "NPCs/Monsters/Mort-Vivant - Squelette.md",
     "token_13 (2).png",
     "token_26 (1).png",
     "token_24 (2) 1.png",
