@@ -6,16 +6,22 @@
 - Donne sur l'arcanorum
 
 # Appartements centraux
+- Teleporteur vers le Sanctum
+
+## Sanctum
+- Appartmeents de [[Zenayoloya]]
+- Salle de rituel et ses antichambres
 
 
 # Baraquements (B)
 
-Patrouilles typiques:
-- **"Honor Guard"** - 3-4 Death Knights in tight formation, moving in synchronized patrol routes
-- **"Drill Sergeants"** - 1 Death Knight Captain + 6-8 Skeleton Warriors in military ranks
-- **"Night Watch"** - 2 Death Knights + 4 Wights with darkvision, patrolling in darkness
-- **"Cavalry Unit"** - Death Knights mounted on skeletal warhorses, faster moving patrols
-- **"Weapon Masters"** - Death Knights sparring/training, can be caught mid-combat practice
+Mobs:
+- [[Death Knight - Oath of Bone]]
+- [[Death Knight - Oath of Blood]]
+- [[Death Knight - Oath of Decay]]
+- [[Death Knight - Oath of Frost]]
+- [[Death Knight - Squire]]
+- [[Death Knight - Death Mount]]
 
 ## B1 Grand couloir
 
@@ -36,12 +42,13 @@ Patrouilles typiques:
 
 # Arcanorum (R)
 
-Patrouilles typiques:
-- **"Research Teams"** - 1 [[Liche Archiviste]] + 2-3 [[Arcaniste Mort-Vivant]] + [[Élémentaire Majeur Asservi]]
-- **"Experiment Escorts"** - [[Arcaniste Mort-Vivant]] + 4-5 [[Élémentaire Majeur Asservi]] + [[Golem Arcanique Évolué]]
-- **"Arcane Sentries"** - Floating magical constructs + bound elementals on set routes
-- **"Study Groups"** - 3-4 [[Arcaniste Mort-Vivant]] + [[Grand Prêtre Nécromant]]
-- **"Spell Weavers"** - [[Liche Archiviste]] + 2 [[Abomination de Guerre]]
+Mobs:
+- [[Sprite]]
+- [[Arcane Spirit]]
+- [[Arcane Golem]]
+- [[Arcane Student]]
+- [[Undead Archivist]]
+- [[Undead Warmage]]
 
 ## Section Arcane - Ambiance et Décoration
 
@@ -125,12 +132,13 @@ Patrouilles typiques:
 
 # Temple Impérial (T)
 
-Patrouilles typiques:
-- **"Processional"** - Lich-priests chanting while leading chains of enslaved wraiths
-- **"Choir Eternal"** - Banshees and specters moving in formation, creating haunting harmonies
-- **"Ritual Guards"** - Temple sentinels (death clerics) + bound wraiths protecting sacred areas
-- **"Pilgrimage of Souls"** - Mixed group of various incorporeal undead following a high priest
-- **"Confession Circles"** - Lich-priests "absolving" captive souls, surrounded by protective specters
+Mobs:
+- [[Zombie Servant]]
+- [[Undead Initiate]]
+- [[Priest of the Emperor]]
+- [[Priest of Undeath]]
+- [[Corrupted Spirit of Light]]
+- [[Penitent]]
 
 ## T1 Grand couloir
 
