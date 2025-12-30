@@ -130,6 +130,30 @@ PNJs surpris. Le pénitent ne devrait pas çetre dans cette section de la pyrami
 
 ## B8 Salle de graduation - les cavaliers de l'apocalypse
 
+Mécanique Centrale : Les Marques du Serment
+- Chaque Seigneur applique une **Marque** unique aux créatures dans son quadrant. Ces marques s'accumulent au début du round dans 3 quadrants sur les 4. Un personnage ne peut pas cumuler plus de 5 marques au total. Le quadrant qui ne donne pas de marques a un seigneur enragé qui utilise une capacité spéciale dédiée, qui est bénigne pour cetrtains, mortelle pour d'autres (ex: dégâts quand lance un sort, ou dégâts sur attaque de mêlée, ou incapacité de lancer une attaque à distance).
+- **Marque du Sang** : Chaque marque réduit les soins reçus de 20%. À 5 marques, mort instantanée par hémorragie.
+- **Marque du Givre** : Chaque marque réduit la vitesse de 3m. À 5 marques, congélation totale (paralysé et vulnérable).
+- **Marque des Os** : Chaque marque invoque un squelette servant près du personnage. À 5 marques, le personnage est submergé et incapacité.
+- **Marque de Putrescence** : Chaque marque inflige 1d8 dégâts de poison au début du tour. À 5 marques, transformation en zombie hostile.
+- **Solution** : Les joueurs doivent tourner dans le sens horaire (ou antihoraire) tous les2 rounds, passant d'un Seigneur à l'autre. Passer dans un quadrant  fait gagner des marques du nouveau quadrant qui remplacent celles de l'ancien quadrant.
+- un seigneur qui n'est pas occupé au corps à corps pose 2 marques dans son quadrant
+- le podium central inflige toutes les marques et ne suit pas la limite de 5 marques maximum
+- 
+
+Mécanique secondaire  : L'Équilibre des Serments
+- les seigneurs partagent un pool de points de vie commun
+
+Mécanique de Phase:
+- quand le pool de points de vie des seigneurs tombe à 50%, leurs montures s'éveillent et attaquent.
+	- les montures ne peuvent pas quitter leur quadrant
+	- les tant que les montures sont en vie, les seigneurs ne peuvent pas descendre en dessous de 25% de points de vie
+	- les montures font une attaque de charge qui projette un ou plusieurs combattants dans un autre quadrant, ce qui ajoute du chaos
+	- il est possible de prédire/provoquer l'attaque d'une monture (controler le chaos)
+- quand le pool de points de vie des seigneurs tombe à 25%, ils se téléportent sur le piédestal central. Les marques sont remises à 0 mais au début but de chaque tour les joueurs recoivent chaque marque et la limite à 5 est levée (DPS check, il faut tuer les seigneurs en 4 rounds)
+
+
+
 
 # Arcanorum (R)
 

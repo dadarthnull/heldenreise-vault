@@ -2,7 +2,7 @@
 
 **Difficulty:** 17  
 **Speed**: 30ft
-**HP:** 260  
+**HP:** 180  
 **DPR:** 66  
 **Atk:** 3
 **Dmg:** 22 per attack
