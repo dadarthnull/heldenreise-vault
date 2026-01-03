@@ -10,7 +10,7 @@
 - 50%-26% : Phase 2 - Éveil des Montures (400 PV chacune)
 - 25%-0% : Phase 3 - Convergence Centrale (4 rounds pour finir)
 
-**Difficulté Générale :** 16 (CA, DD des sauvegardes)
+**Difficulté Générale :** 18 (CA, DD des sauvegardes)
 
 ---
 
