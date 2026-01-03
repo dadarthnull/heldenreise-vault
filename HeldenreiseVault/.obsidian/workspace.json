@@ -4,110 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6781c20a015a11d7",
+        "id": "c09d06411a4cdc47",
         "type": "tabs",
         "children": [
           {
-            "id": "f855d69eb01f2d39",
+            "id": "604ed1f984b8f126",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 46 - 20-12-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 46 - 20-12-2025"
-            }
-          },
-          {
-            "id": "214a608d002c5723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Ancienne Pyramide.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ancienne Pyramide"
-            }
-          },
-          {
-            "id": "5859ebb346ffb408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ancienne Pyramide - 4 cavaliers"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b673a6724f09bf29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4da5f4945025e1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ancienne Pyramide - 4 cavaliers"
+              "title": "New tab"
             }
           }
         ]
@@ -167,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -342,16 +248,16 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4da5f4945025e1ef",
+  "active": "604ed1f984b8f126",
   "lastOpenFiles": [
+    "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
+    "Session Notes/Session 46 - 20-12-2025.md",
     "NPCs/Monsters/Death Knight - Oath of Frost.md",
     "NPCs/Monsters/Death Knight - Squire.md",
     "NPCs/Monsters/Death Knight - Oath of Blood.md",
     "NPCs/Monsters/Death Knight - Oath of Decay.md",
     "NPCs/Monsters/Death Knight - Oath of Bone.md",
-    "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-    "Session Notes/Session 46 - 20-12-2025.md",
     "NPCs/Monsters/Arcane Spirit - TBD.md",
     "NPCs/Monsters/Arcane Student - TBD.md",
     "NPCs/Monsters/Undead Archivist - TBD.md",
