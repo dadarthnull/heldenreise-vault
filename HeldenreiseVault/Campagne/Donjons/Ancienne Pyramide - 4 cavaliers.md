@@ -3,14 +3,14 @@
 
 ## Informations Générales du Raid
 
-**Pool de Points de Vie Partagé :** 1200 PV
+**Pool de Points de Vie Partagé :** 1500 PV
 
 **Seuils de Phase :**
 - 100%-51% : Phase 1 - Les Seigneurs seuls
 - 50%-26% : Phase 2 - Éveil des Montures (400 PV chacune)
 - 25%-0% : Phase 3 - Convergence Centrale (4 rounds pour finir)
 
-**Difficulté Générale :** 13 (CA, DD des sauvegardes)
+**Difficulté Générale :** 16 (CA, DD des sauvegardes)
 
 ---
 
