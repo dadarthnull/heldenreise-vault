@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c09d06411a4cdc47",
+        "id": "61adb8e2114dd850",
         "type": "tabs",
         "children": [
           {
-            "id": "604ed1f984b8f126",
+            "id": "bc914e7981a27958",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Patrons et alliés/Rehme Almeria.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rehme Almeria"
             }
           }
         ]
@@ -248,35 +262,35 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "604ed1f984b8f126",
+  "active": "bc914e7981a27958",
   "lastOpenFiles": [
+    "NPCs/Patrons et alliés/Moneda Almeria.md",
+    "NPCs/Patrons et alliés/Rehme Almeria.md",
+    "NPCs/Patrons et alliés/Sohei Almeria.md",
+    "NPCs/Patrons et alliés/Tania Almeria.md",
+    "NPCs/Patrons et alliés/Iris Lana Almeria.md",
+    "NPCs/Patrons et alliés/Dida Almeria.md",
+    "NPCs/Patrons et alliés/Lyle Hahnes Almeria.md",
+    "templates/Template Monster with Variants - Boss.md",
+    "templates/Template Monster.md",
+    "NPCs/Monsters/Death Knight - Death Mount.md",
+    "NPCs/Monsters/Undead Initiate.md",
+    "NPCs/Monsters/Undead Archivist - TBD.md",
+    "NPCs/Monsters/Death Knight - Oath of Frost.md",
+    "NPCs/Monsters/Death Knight - Squire.md",
+    "NPCs/Monsters/Death Knight - Oath of Decay.md",
     "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
     "Session Notes/Session 46 - 20-12-2025.md",
-    "NPCs/Monsters/Death Knight - Oath of Frost.md",
-    "NPCs/Monsters/Death Knight - Squire.md",
     "NPCs/Monsters/Death Knight - Oath of Blood.md",
-    "NPCs/Monsters/Death Knight - Oath of Decay.md",
     "NPCs/Monsters/Death Knight - Oath of Bone.md",
     "NPCs/Monsters/Arcane Spirit - TBD.md",
     "NPCs/Monsters/Arcane Student - TBD.md",
-    "NPCs/Monsters/Undead Archivist - TBD.md",
     "NPCs/Monsters/Undead Warmage - TBD.md",
     "NPCs/Monsters/Arcane Golem - TBD.md",
     "NPCs/Monsters/Sprite - TBD.md",
     "NPCs/Monsters/Penitent.md",
-    "NPCs/Monsters/Corrupted Spirit of Light.md",
-    "NPCs/Monsters/Priest of Undeath.md",
-    "NPCs/Monsters/Priest of the Emperor.md",
-    "NPCs/Monsters/Undead Initiate.md",
-    "NPCs/Monsters/Zombie Servant.md",
-    "NPCs/Monsters/Death Knight - Death Mount.md",
-    "NPCs/Monsters/Dryder.md",
-    "Grand Prêtre Nécromant.md",
-    "Golem Arcanique Évolué.md",
-    "Élémentaire Majeur Asservi.md",
     "Bonecaller_HS.webp",
-    "Arcaniste Mort-Vivant.md",
     "token_13 (2).png",
     "token_26 (1).png",
     "token_24 (2) 1.png",

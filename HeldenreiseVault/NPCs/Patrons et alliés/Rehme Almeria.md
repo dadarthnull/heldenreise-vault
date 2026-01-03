@@ -2,3 +2,4 @@
 
 ## Secrets et indices
 - Vera, magicienne, Chef DPS magiques de la guilde ronchons et Dragons
+
