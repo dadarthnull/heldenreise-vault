@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "2e6e748571ee81a8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "b2cfae6edb6a2f77",
+            "id": "65ac656493372acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Patrons et alliés/Archibald.md",
+                "file": "NPCs/Monsters/Malachar & Verathrax.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -64,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archibald"
-            }
-          },
-          {
-            "id": "65ac656493372acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ancienne Pyramide - 4 cavaliers"
+              "title": "Malachar & Verathrax"
             }
           }
         ],
@@ -149,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 292.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -323,9 +287,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "2e6e748571ee81a8",
+  "active": "65ac656493372acc",
   "lastOpenFiles": [
     "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
+    "NPCs/Monsters/Malachar & Verathrax.md",
+    "NPCs/Patrons et alliés/Archibald.md",
     "Session Notes/Session 47 - 03-01-2026.md",
     "NPCs/Patrons et alliés/Moneda Almeria.md",
     "NPCs/Patrons et alliés/Madelyn.md",
@@ -334,7 +300,6 @@
     "NPCs/Patrons et alliés/Tama.md",
     "NPCs/Patrons et alliés/Rehme Almeria.md",
     "NPCs/Patrons et alliés/Sohei Almeria.md",
-    "NPCs/Patrons et alliés/Archibald.md",
     "NPCs/Patrons et alliés/Gilbert.md",
     "NPCs/Patrons et alliés/Eloise.md",
     "NPCs/Patrons et alliés/Lyle Hahnes Almeria.md",
@@ -350,7 +315,6 @@
     "NPCs/Monsters/Death Knight - Squire.md",
     "NPCs/Monsters/Death Knight - Oath of Decay.md",
     "Campagne/Donjons/Ancienne Pyramide.md",
-    "Session Notes/Session 46 - 20-12-2025.md",
     "Bonecaller_HS.webp",
     "token_13 (2).png",
     "token_26 (1).png",
