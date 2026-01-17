@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 47 - 03-01-2026.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 48 - 17-01-2026.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,17 +28,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 47 - 03-01-2026"
+              "title": "Session 48 - 17-01-2026"
             }
           },
           {
-            "id": "65ac656493372acc",
+            "id": "65e409a95a4f7c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Patrons et alliés/Archibald.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archibald"
+            }
+          },
+          {
+            "id": "748b8b4bb7411ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NPCs/Monsters/Malachar & Verathrax.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,12 +311,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "65ac656493372acc",
+  "active": "748b8b4bb7411ea3",
   "lastOpenFiles": [
-    "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-    "NPCs/Monsters/Malachar & Verathrax.md",
     "NPCs/Patrons et alliés/Archibald.md",
+    "NPCs/Monsters/Death Knight - Oath of Blood.md",
+    "NPCs/Monsters/Garmr.md",
+    "NPCs/Monsters/Malachar & Verathrax.md",
+    "Session Notes/Session 48 - 17-01-2026.md",
     "Session Notes/Session 47 - 03-01-2026.md",
+    "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
     "NPCs/Patrons et alliés/Moneda Almeria.md",
     "NPCs/Patrons et alliés/Madelyn.md",
     "NPCs/Patrons et alliés/Sedai.md",
@@ -312,9 +339,6 @@
     "NPCs/Monsters/Undead Initiate.md",
     "NPCs/Monsters/Undead Archivist - TBD.md",
     "NPCs/Monsters/Death Knight - Oath of Frost.md",
-    "NPCs/Monsters/Death Knight - Squire.md",
-    "NPCs/Monsters/Death Knight - Oath of Decay.md",
-    "Campagne/Donjons/Ancienne Pyramide.md",
     "Bonecaller_HS.webp",
     "token_13 (2).png",
     "token_26 (1).png",
