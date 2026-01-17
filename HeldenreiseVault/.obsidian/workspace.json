@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2e6e748571ee81a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "b2cfae6edb6a2f77",
             "type": "leaf",
             "state": {
@@ -79,7 +91,8 @@
               "title": "Ancienne Pyramide - 4 cavaliers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "e618163c7cb583a7",
@@ -311,7 +323,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bc914e7981a27958",
+  "active": "2e6e748571ee81a8",
   "lastOpenFiles": [
     "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
     "Session Notes/Session 47 - 03-01-2026.md",
