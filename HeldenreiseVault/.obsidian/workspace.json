@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 48 - 17-01-2026.md",
+                "file": "Encounters.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 48 - 17-01-2026"
+              "title": "Encounters"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Malachar & Verathrax"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,13 +310,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "748b8b4bb7411ea3",
+  "active": "bc914e7981a27958",
   "lastOpenFiles": [
+    "NPCs/Ennemis/Zenayoloya.md",
+    "Encounters.md",
+    "NPCs/Monsters/Abomination de Guerre.md",
+    "Assets/token_26 (1).png",
+    "Session Notes/Session 49 - 24-01-2026.md",
+    "Session Notes/Session 48 - 17-01-2026.md",
     "NPCs/Patrons et alliés/Archibald.md",
+    "NPCs/Monsters/Malachar & Verathrax.md",
     "NPCs/Monsters/Death Knight - Oath of Blood.md",
     "NPCs/Monsters/Garmr.md",
-    "NPCs/Monsters/Malachar & Verathrax.md",
-    "Session Notes/Session 48 - 17-01-2026.md",
     "Session Notes/Session 47 - 03-01-2026.md",
     "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
     "NPCs/Patrons et alliés/Moneda Almeria.md",
@@ -335,18 +339,13 @@
     "NPCs/Patrons et alliés/Dida Almeria.md",
     "templates/Template Monster with Variants - Boss.md",
     "templates/Template Monster.md",
-    "NPCs/Monsters/Death Knight - Death Mount.md",
-    "NPCs/Monsters/Undead Initiate.md",
-    "NPCs/Monsters/Undead Archivist - TBD.md",
-    "NPCs/Monsters/Death Knight - Oath of Frost.md",
-    "Bonecaller_HS.webp",
-    "token_13 (2).png",
-    "token_26 (1).png",
-    "token_24 (2) 1.png",
-    "token_24 (2).png",
-    "token_10 (5).png",
-    "token_1 (8).png",
-    "NaxxramasTacticalMap.webp",
+    "Assets/Bonecaller_HS.webp",
+    "Assets/token_13 (2).png",
+    "Assets/token_24 (2) 1.png",
+    "Assets/token_24 (2).png",
+    "Assets/token_10 (5).png",
+    "Assets/token_1 (8).png",
+    "Assets/NaxxramasTacticalMap.webp",
     "Assets/slavers-ground.webp",
     "Assets/slavers-basement.webp",
     "Campagne/tables",
