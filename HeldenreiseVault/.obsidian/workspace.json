@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Monsters/Malachar & Verathrax.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 50- 20-02-2026.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malachar & Verathrax"
+              "title": "Session 50- 20-02-2026"
             }
           }
         ],
@@ -289,9 +289,10 @@
   },
   "active": "748b8b4bb7411ea3",
   "lastOpenFiles": [
+    "NPCs/Monsters/Malachar & Verathrax.md",
+    "Session Notes/Session 50- 20-02-2026.md",
     "Session Notes/Session 49 - 24-01-2026.md",
     "Encounters.md",
-    "NPCs/Monsters/Malachar & Verathrax.md",
     "NPCs/Patrons et alliés/Archibald.md",
     "NPCs/Ennemis/Zenayoloya.md",
     "NPCs/Monsters/Abomination de Guerre.md",
@@ -315,7 +316,6 @@
     "NPCs/Patrons et alliés/Iris Lana Almeria.md",
     "NPCs/Patrons et alliés/Dida Almeria.md",
     "templates/Template Monster with Variants - Boss.md",
-    "templates/Template Monster.md",
     "Assets/Bonecaller_HS.webp",
     "Assets/token_13 (2).png",
     "Assets/token_24 (2) 1.png",
