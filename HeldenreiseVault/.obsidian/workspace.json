@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 50- 20-02-2026.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 19 - 22-06-2024.md",
+                "file": "NPCs/Monsters/Cultistes Canalisateurs.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 19 - 22-06-2024"
+              "title": "Cultistes Canalisateurs"
+            }
+          },
+          {
+            "id": "e1bfc4f6ec75fda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Zombies Rituels Entravants.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zombies Rituels Entravants"
             }
           }
         ]
@@ -288,33 +312,33 @@
   },
   "active": "748b8b4bb7411ea3",
   "lastOpenFiles": [
-    "Session Notes/Session 19 - 22-06-2024.md",
-    "Session Notes/Session 37 - 17-05-2025.md",
+    "Session Notes/Session 49 - 24-01-2026.md",
+    "Session Notes/Session 48 - 17-01-2026.md",
+    "Session Notes/Session 47 - 03-01-2026.md",
     "Session Notes/Session 50- 20-02-2026.md",
+    "NPCs/Monsters/Cultistes Canalisateurs.md",
+    "NPCs/Monsters/Zombies Rituels Entravants.md",
+    "Session Notes/Session 19 - 22-06-2024.md",
+    "templates/NPC Template.md",
+    "templates/NPC-Template-2.md",
+    "templates/PC Template.md",
+    "templates/Monster Template.md",
+    "NPCs/Monsters/Death Knight - Oath of Bone.md",
+    "NPCs/Monsters/Cultiste de la lune noire.md",
+    "NPCs/Monsters/Corrupted Spirit of Light.md",
+    "NPCs/Monsters/Death Knight - Squire.md",
+    "NPCs/Monsters/Death Knight - Death Mount.md",
+    "templates/Template Monster.md",
+    "Session Notes/Session 12 - 16-03-2024.md",
+    "Session Notes/Session 37 - 17-05-2025.md",
     "Session Notes/Session 39 - 14-06-2025.md",
     "Session Notes/Session 38 - 30-05-2025.md",
     "Session Notes/Session 31- 04-01-2025.md",
     "NPCs/Monsters/Malachar & Verathrax.md",
-    "Session Notes/Session 49 - 24-01-2026.md",
     "Encounters.md",
     "NPCs/Patrons et alliés/Archibald.md",
     "NPCs/Ennemis/Zenayoloya.md",
-    "NPCs/Monsters/Abomination de Guerre.md",
     "Assets/token_26 (1).png",
-    "Session Notes/Session 48 - 17-01-2026.md",
-    "NPCs/Monsters/Death Knight - Oath of Blood.md",
-    "NPCs/Monsters/Garmr.md",
-    "Session Notes/Session 47 - 03-01-2026.md",
-    "Campagne/Donjons/Ancienne Pyramide - 4 cavaliers.md",
-    "NPCs/Patrons et alliés/Moneda Almeria.md",
-    "NPCs/Patrons et alliés/Madelyn.md",
-    "NPCs/Patrons et alliés/Sedai.md",
-    "NPCs/Patrons et alliés/Lelianna.md",
-    "NPCs/Patrons et alliés/Tama.md",
-    "NPCs/Patrons et alliés/Rehme Almeria.md",
-    "NPCs/Patrons et alliés/Sohei Almeria.md",
-    "NPCs/Patrons et alliés/Gilbert.md",
-    "NPCs/Patrons et alliés/Eloise.md",
     "Assets/Bonecaller_HS.webp",
     "Assets/token_13 (2).png",
     "Assets/token_24 (2) 1.png",
