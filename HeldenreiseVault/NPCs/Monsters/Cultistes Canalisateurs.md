@@ -4,7 +4,7 @@
 **Difficulty:** 11  
 **Bonus:** +3  
 **Speed**: 25ft  
-**HP:** 18  
+**HP:** 9  
 **DPR:** 3  
 **Atk:** 1  
 **Dmg:** 3 per attack

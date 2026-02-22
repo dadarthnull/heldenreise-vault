@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7a954e082daebb43",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "92936548b8de6cd5",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Monsters/Zombies Rituels Entravants.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,7 +91,8 @@
               "title": "Zombies Rituels Entravants"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,14 +323,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "748b8b4bb7411ea3",
+  "active": "7a954e082daebb43",
   "lastOpenFiles": [
+    "NPCs/Monsters/Zombies Rituels Entravants.md",
+    "Session Notes/Session 50- 20-02-2026.md",
+    "NPCs/Monsters/Cultistes Canalisateurs.md",
     "Session Notes/Session 49 - 24-01-2026.md",
     "Session Notes/Session 48 - 17-01-2026.md",
     "Session Notes/Session 47 - 03-01-2026.md",
-    "Session Notes/Session 50- 20-02-2026.md",
-    "NPCs/Monsters/Cultistes Canalisateurs.md",
-    "NPCs/Monsters/Zombies Rituels Entravants.md",
     "Session Notes/Session 19 - 22-06-2024.md",
     "templates/NPC Template.md",
     "templates/NPC-Template-2.md",

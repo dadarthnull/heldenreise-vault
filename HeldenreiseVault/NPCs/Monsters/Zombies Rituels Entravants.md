@@ -1,10 +1,10 @@
 **Description:** Ces cadavres gonflés et grotesques ont été animés spécifiquement pour ce rituel, leurs corps saturés d'énergie nécromantique violette qui pulse sous leur peau translucide. Contrairement aux zombies ordinaires qui cherchent à dévorer, ceux-ci ont un seul but : entraver, agripper, ralentir. Leurs mains sont anormalement larges et fortes, leurs doigts semblent se multiplier quand ils attrapent quelque chose. Ils ne grognent pas—ils murmurent en haut-elfique ancien, répétant sans fin des fragments du rituel de la liche. Quand ils agrippent une victime, l'énergie rituelle s'écoule d'eux vers elle, alourdissant les membres et ralentissant la pensée.
 
 **Type**: Undead  
-**Difficulty:** 11  
+**Difficulty:** 10
 **Bonus:** +3  
 **Speed**: 20ft  
-**HP:** 22  
+**HP:** 5  
 **DPR:** 5  
 **Atk:** 1  
 **Dmg:** 5 per attack
