@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 50- 20-02-2026.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 50- 20-02-2026"
-            }
-          },
-          {
-            "id": "7a954e082daebb43",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "92936548b8de6cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Cultistes Canalisateurs.md",
+                "file": "Session Notes/Session 51 - 28-02-2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -64,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cultistes Canalisateurs"
-            }
-          },
-          {
-            "id": "e1bfc4f6ec75fda1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Monsters/Zombies Rituels Entravants.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zombies Rituels Entravants"
+              "title": "Session 51 - 28-02-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,12 +262,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "7a954e082daebb43",
+  "active": "748b8b4bb7411ea3",
   "lastOpenFiles": [
-    "NPCs/Monsters/Zombies Rituels Entravants.md",
-    "Session Notes/Session 50- 20-02-2026.md",
-    "NPCs/Monsters/Cultistes Canalisateurs.md",
     "Session Notes/Session 49 - 24-01-2026.md",
+    "Session Notes/Session 50 - 21-02-2026.md",
+    "Session Notes/Session 51 - 28-02-2026.md",
+    "NPCs/Monsters/Zombies Rituels Entravants.md",
+    "NPCs/Monsters/Cultistes Canalisateurs.md",
     "Session Notes/Session 48 - 17-01-2026.md",
     "Session Notes/Session 47 - 03-01-2026.md",
     "Session Notes/Session 19 - 22-06-2024.md",
@@ -350,7 +290,6 @@
     "NPCs/Monsters/Malachar & Verathrax.md",
     "Encounters.md",
     "NPCs/Patrons et alliés/Archibald.md",
-    "NPCs/Ennemis/Zenayoloya.md",
     "Assets/token_26 (1).png",
     "Assets/Bonecaller_HS.webp",
     "Assets/token_13 (2).png",
