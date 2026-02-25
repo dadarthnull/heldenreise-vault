@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 51 - 28-02-2026"
             }
+          },
+          {
+            "id": "8d995f8b0009c4b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 50 - 21-02-2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 50 - 21-02-2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,11 +287,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "748b8b4bb7411ea3",
+  "active": "8d995f8b0009c4b2",
   "lastOpenFiles": [
+    "Session Notes/Session 51 - 28-02-2026.md",
     "templates/Template Monster.md",
     "templates/Monster Template.md",
-    "Session Notes/Session 51 - 28-02-2026.md",
     "Session Notes/Session 49 - 24-01-2026.md",
     "Session Notes/Session 50 - 21-02-2026.md",
     "NPCs/Monsters/Zombies Rituels Entravants.md",
