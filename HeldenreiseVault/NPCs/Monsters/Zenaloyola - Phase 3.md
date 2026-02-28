@@ -3,8 +3,8 @@
 **Description:** Zenayoloya a cessé de jouer. Son armure est fissurée par endroits, révélant de la chair nécrotique en dessous. Ses yeux de flamme bleue brûlent maintenant d'une intensité rouge-orangée, mélange de rage et de respect pour des adversaires dignes. Elle manie Lamentgivre à deux mains, sa posture plus agressive, presque bestiale. Des volutes de brume glacée et de miasme verdâtre s'échappent de son armure. Le sol autour d'elle est jonché de glace noire et de flaques de sang coagulé. Elle alterne entre discipline martiale et férocité sauvage.
 
 **Type**: Undead  
-**Difficulty:** 15  
-**Bonus:** +8  
+**Difficulty:** 19 
+**Bonus:** +11  
 **Speed:** 35ft  
 **HP:** 400  
 **AC:** 17  

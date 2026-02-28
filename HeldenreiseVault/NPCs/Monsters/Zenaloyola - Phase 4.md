@@ -3,8 +3,8 @@
 **Description:** Zenayoloya est maintenant connectée à trois Ancres Nécromantiques qui pulsent d'énergie violette. Des filaments de magie noire relient les ancres à son armure. Mais ce n'est pas tout—les trois artefacts restants du rituel (Reliquaire, Couronne, Calice) lévitent autour d'elle, corrompus et pulsants. Chacun émet une aura distincte qui déforme la réalité locale. Ses yeux brillent d'un rouge incandescent, et son corps est enveloppé d'une aura de corruption visible. Elle combat avec une férocité désespérée, sachant que c'est sa dernière chance.
 
 **Type**: Undead  
-**Difficulty:** 15  
-**Bonus:** +8  
+**Difficulty:** 19  
+**Bonus:** +12  
 **Speed:** 35ft  
 **HP:** 250  
 **AC:** 19 (si Ancre Ouest active, +2 AC du Bouclier de Sang)  

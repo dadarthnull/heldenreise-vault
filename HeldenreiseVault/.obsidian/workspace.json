@@ -54,8 +54,81 @@
               "icon": "lucide-file",
               "title": "Zenaloyola - Phase 1"
             }
+          },
+          {
+            "id": "4f5f487217e68969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Zenaloyola - Phase 2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zenaloyola - Phase 2"
+            }
+          },
+          {
+            "id": "c3888e8f627ed599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Zenaloyola - Phase 3.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zenaloyola - Phase 3"
+            }
+          },
+          {
+            "id": "affe5aab9f6f6149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Monsters/Zenaloyola - Phase 4.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zenaloyola - Phase 4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,14 +359,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "748b8b4bb7411ea3",
+  "active": "8d995f8b0009c4b2",
   "lastOpenFiles": [
-    "NPCs/Monsters/Zenaloyola - Phase 1.md",
     "NPCs/Monsters/Zenaloyola - Phase 4.md",
     "NPCs/Monsters/Zenaloyola - Phase 3.md",
     "NPCs/Monsters/Zenaloyola - Phase 2.md",
-    "Session Notes/Session 50 - 21-02-2026.md",
+    "NPCs/Monsters/Zenaloyola - Phase 1.md",
     "Session Notes/Session 51 - 28-02-2026.md",
+    "Session Notes/Session 50 - 21-02-2026.md",
     "templates/Template Monster.md",
     "templates/Monster Template.md",
     "Session Notes/Session 49 - 24-01-2026.md",

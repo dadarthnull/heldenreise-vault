@@ -3,8 +3,8 @@
 **Description:** Zenayoloya se tient au centre du cercle rituel brisé, une silhouette imposante de 6 pieds et demi drapée dans une armure de plaques elfique ancienne, noire comme l'obsidienne et gravée de runes d'argent terni. Son heaume à cornes de cerf cache un visage cadavérique dont seuls les yeux brillent—deux flammes bleues glaciales. Dans sa main droite, elle tient Lamentgivre, une épée longue à deux mains dont la lame pulse d'un froid surnaturel. Sa main gauche est gantée de plaques hérissées de pointes. Malgré sa nature morte-vivante, elle se tient avec une posture martiale parfaite, disciplinée, presque noble. À ce stade, elle vous évalue, testant vos capacités avec la précision clinique d'un maître d'armes observant des recrues.
 
 **Type**: Undead  
-**Difficulty:** 14  
-**Bonus:** +7  
+**Difficulty:** 19  
+**Bonus:** +9  
 **Speed**: 30ft  
 **HP:** 500  
 **AC:** 18 (armure de plaques elfique + bouclier spectral)  
@@ -20,7 +20,7 @@
 
 **2. Parade Glacée :** (Utilisée après qu'un PJ en mêlée l'ait touchée) Zenayoloya pare le coup avec son avant-bras. L'attaquant doit réussir un jet de sauvegarde de **Force DD 14** ou être repoussé de 10ft et voir sa prochaine attaque avoir **désavantage** (déséquilibre glacial).
 
-**3. Pas de l'Hiver :** Zenayoloya se téléporte jusqu'à 30ft vers une zone dans son champ de vision. Si elle se téléporte adjacent à un PJ, ce PJ doit réussir un jet de sauvegarde de **Dextérité DD 14** ou subir **9 [2d8]** cold damage (explosion de givre à l'arrivée).
+**3. Pas de l'Hiver :** Zenayoloya se téléporte jusqu'à 60ft vers une zone dans son champ de vision. Si elle se téléporte adjacent à un PJ, ce PJ doit réussir un jet de sauvegarde de **Dextérité DD 14** ou subir **9 [2d8]** cold damage (explosion de givre à l'arrivée).
 
 **4. Regard de la Mort :** Zenayoloya fixe une créature dans un rayon de 60ft. La cible doit réussir un jet de sauvegarde de **Sagesse DD 14** ou être **effrayée** jusqu'à la fin de son prochain tour. Si la cible est déjà blessée (moins de 50% HP), elle a **désavantage** au jet de sauvegarde.
 
@@ -28,7 +28,7 @@
 
 **6. Frappe Disciplinée :** Zenayoloya fait une attaque de mêlée avec Lamentgivre contre une cible à portée. Si l'attaque touche, elle inflige les dégâts normaux et Zenayoloya peut immédiatement se déplacer de 15ft sans provoquer d'attaques d'opportunité (mobilité martiale).
 
-**Feat - Maîtrise Martiale :** (Passif) Zenayoloya a **avantage aux jets de sauvegarde contre être renversée, agrippée ou déplacée de force**. De plus, les attaques d'opportunité contre elle ont **désavantage** (discipline de combat supérieure).
+**Feat - Maîtrise Martiale :** (Passif) Zenayoloya a **avantage aux jets de sauvegarde** et est immunisée contre être renversée, agrippée ou déplacée de force**. De plus, les attaques d'opportunité contre elle ont **désavantage** (discipline de combat supérieure).
 
 **Feat - Aura de Givre :** (Passif) Toutes les créatures qui **commencent leur tour** dans un rayon de 10ft de Zenayoloya subissent **4 [1d8]** cold damage. De plus, le sol dans ce rayon est **terrain difficile** (couche de glace permanente).
 
