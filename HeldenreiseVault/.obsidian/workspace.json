@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 51 - 28-02-2026.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 50 - 21-02-2026.md",
-                "mode": "source",
+                "file": "NPCs/Monsters/Zenaloyola - Phase 1.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 50 - 21-02-2026"
+              "title": "Zenaloyola - Phase 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,13 +286,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "8d995f8b0009c4b2",
+  "active": "748b8b4bb7411ea3",
   "lastOpenFiles": [
+    "NPCs/Monsters/Zenaloyola - Phase 1.md",
+    "NPCs/Monsters/Zenaloyola - Phase 4.md",
+    "NPCs/Monsters/Zenaloyola - Phase 3.md",
+    "NPCs/Monsters/Zenaloyola - Phase 2.md",
+    "Session Notes/Session 50 - 21-02-2026.md",
     "Session Notes/Session 51 - 28-02-2026.md",
     "templates/Template Monster.md",
     "templates/Monster Template.md",
     "Session Notes/Session 49 - 24-01-2026.md",
-    "Session Notes/Session 50 - 21-02-2026.md",
     "NPCs/Monsters/Zombies Rituels Entravants.md",
     "NPCs/Monsters/Cultistes Canalisateurs.md",
     "Session Notes/Session 48 - 17-01-2026.md",
@@ -311,10 +314,6 @@
     "Session Notes/Session 37 - 17-05-2025.md",
     "Session Notes/Session 39 - 14-06-2025.md",
     "Session Notes/Session 38 - 30-05-2025.md",
-    "Session Notes/Session 31- 04-01-2025.md",
-    "NPCs/Monsters/Malachar & Verathrax.md",
-    "Encounters.md",
-    "NPCs/Patrons et alliés/Archibald.md",
     "Assets/token_26 (1).png",
     "Assets/Bonecaller_HS.webp",
     "Assets/token_13 (2).png",
