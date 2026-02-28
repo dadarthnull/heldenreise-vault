@@ -6,7 +6,7 @@
 **Difficulty:** 19  
 **Bonus:** +12  
 **Speed:** 35ft  
-**HP:** 250  
+**HP:** 150  
 **AC:** 19 (si Ancre Ouest active, +2 AC du Bouclier de Sang)  
 **DPR:** 55  
 **Atk:** 3  

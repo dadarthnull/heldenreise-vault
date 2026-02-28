@@ -6,7 +6,7 @@
 **Difficulty:** 19 
 **Bonus:** +11  
 **Speed:** 35ft  
-**HP:** 400  
+**HP:** 250  
 **AC:** 17  
 **DPR:** 50  
 **Atk:** 3  

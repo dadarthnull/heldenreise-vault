@@ -3,10 +3,10 @@
 **Description:** Cette création est une effigie sanglante et grotesque de Zenayoloya. Son armure est formée de sang coagulé noir et brillant, constamment suintante. Son visage est un masque lisse de sang durci, sans traits, juste deux fentes pour les yeux qui brillent d'une lueur rouge maladive. Elle manie une réplique de Lamentgivre faite entièrement de sang cristallisé, tranchante comme du verre. Chaque mouvement laisse des traînées de sang dans l'air qui s'évaporent en vapeur carmin. Elle ne parle pas, n'émet aucun son—juste un silence oppressant ponctué par le bruit humide de ses pas. Chaque clone est adapté pour exploiter les faiblesses spécifiques du PJ qu'il affronte.
 
 **Type**: Undead (construct de sang)  
-**Difficulty:** 13  
+**Difficulty:** 16
 **Bonus:** +6  
 **Speed:** 30ft  
-**HP:** 60 (chaque clone)  
+**HP:** 40 (chaque clone)  
 **AC:** 16  
 **DPR:** 20  
 **Atk:** 2  

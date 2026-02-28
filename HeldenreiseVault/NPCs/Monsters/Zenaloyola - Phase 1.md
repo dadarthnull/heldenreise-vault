@@ -6,7 +6,7 @@
 **Difficulty:** 19  
 **Bonus:** +9  
 **Speed**: 30ft  
-**HP:** 500  
+**HP:** 350  
 **AC:** 18 (armure de plaques elfique + bouclier spectral)  
 **DPR:** 35  
 **Atk:** 2  
