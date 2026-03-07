@@ -59,12 +59,24 @@
             "id": "7b9ce2e8b59e3ed2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Session Notes/Session 52 - 07-03-2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.12.4"
+              "icon": "lucide-file",
+              "title": "Session 52 - 07-03-2026"
             }
           }
         ],
@@ -301,6 +313,7 @@
   },
   "active": "7b9ce2e8b59e3ed2",
   "lastOpenFiles": [
+    "Session Notes/Session 52 - 07-03-2026.md",
     "NPCs/Monsters/Zenaloyola - Phase 3.md",
     "NPCs/Monsters/Zenaloyola - Phase 2.md",
     "NPCs/Monsters/Zenaloyola - Phase 4.md",
@@ -326,7 +339,6 @@
     "Session Notes/Session 12 - 16-03-2024.md",
     "Session Notes/Session 37 - 17-05-2025.md",
     "Session Notes/Session 39 - 14-06-2025.md",
-    "Session Notes/Session 38 - 30-05-2025.md",
     "Assets/token_26 (1).png",
     "Assets/Bonecaller_HS.webp",
     "Assets/token_13 (2).png",
