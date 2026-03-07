@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 52 - 07-03-2026.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "e618163c7cb583a7",
